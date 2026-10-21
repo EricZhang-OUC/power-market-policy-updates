@@ -1,0 +1,28 @@
+name: Bootstrap source
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".bootstrap/source.zip"
+permissions:
+  contents: write
+jobs:
+  bootstrap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Expand source archive
+        shell: bash
+        run: |
+          mkdir -p /tmp/policy-source
+          unzip -q .bootstrap/source.zip -d /tmp/policy-source
+          cp -a /tmp/policy-source/. .
+          rm -rf .bootstrap .github/workflows/bootstrap.yml
+      - name: Commit source
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Initial release of power market policy updates"
+          git push
