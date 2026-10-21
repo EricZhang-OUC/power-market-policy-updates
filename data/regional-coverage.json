@@ -1,8 +1,1155 @@
 {
-  "checkedAt": "2026-10-21T03:21:30.985Z",
+  "checkedAt": "2026-10-21T05:34:18.124Z",
   "since": "2026-01-01",
   "note": "已配置官方栏目采集记录，不代表覆盖所有省区及每个部门",
   "sources": [
+    {
+      "sourceId": "dbj-0",
+      "pages": [
+        {
+          "url": "https://dbj.nea.gov.cn/dtyw/jgdt/",
+          "bytes": 18962
+        },
+        {
+          "url": "https://dbj.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 19009
+        },
+        {
+          "url": "https://dbj.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 18992
+        }
+      ],
+      "listed": 39,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "dbj-1",
+      "pages": [
+        {
+          "url": "https://dbj.nea.gov.cn/dtyw/tzgg/",
+          "bytes": 18743
+        },
+        {
+          "url": "https://dbj.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "bytes": 18448
+        },
+        {
+          "url": "https://dbj.nea.gov.cn/dtyw/tzgg/index_2.html",
+          "bytes": 18543
+        }
+      ],
+      "listed": 39,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "dbj-2",
+      "pages": [
+        {
+          "url": "https://dbj.nea.gov.cn/xxgk/zcfg/",
+          "bytes": 23042
+        }
+      ],
+      "listed": 14,
+      "selected": 5,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "dbj-3",
+      "pages": [
+        {
+          "url": "https://dbj.nea.gov.cn/xxgk/zcjd/",
+          "bytes": 22956
+        }
+      ],
+      "listed": 15,
+      "selected": 5,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "dbj-4",
+      "pages": [
+        {
+          "url": "https://dbj.nea.gov.cn/hdhy/dczj/",
+          "bytes": 19681
+        }
+      ],
+      "listed": 13,
+      "selected": 7,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "fjb-0",
+      "pages": [
+        {
+          "url": "https://fjb.nea.gov.cn/dtyw/jgdt/",
+          "bytes": 19988
+        },
+        {
+          "url": "https://fjb.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 20068
+        },
+        {
+          "url": "https://fjb.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 20100
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "fjb-1",
+      "pages": [
+        {
+          "url": "https://fjb.nea.gov.cn/dtyw/tzgg/",
+          "bytes": 20302
+        },
+        {
+          "url": "https://fjb.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "bytes": 20110
+        },
+        {
+          "url": "https://fjb.nea.gov.cn/dtyw/tzgg/index_2.html",
+          "bytes": 20514
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "fjb-2",
+      "pages": [
+        {
+          "url": "https://fjb.nea.gov.cn/xxgk/zcfg/",
+          "bytes": 26726
+        },
+        {
+          "url": "https://fjb.nea.gov.cn/xxgk/zcfg/index_1.html",
+          "bytes": 26756
+        }
+      ],
+      "listed": 30,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "fjb-3",
+      "pages": [
+        {
+          "url": "https://fjb.nea.gov.cn/xxgk/zcjd/",
+          "bytes": 26563
+        },
+        {
+          "url": "https://fjb.nea.gov.cn/xxgk/zcjd/index_1.html",
+          "bytes": 26842
+        }
+      ],
+      "listed": 30,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "fjb-4",
+      "pages": [
+        {
+          "url": "https://fjb.nea.gov.cn/hdhy/dczj/",
+          "bytes": 20409
+        }
+      ],
+      "listed": 12,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "gsb-0",
+      "pages": [
+        {
+          "url": "https://gsb.nea.gov.cn/dtyw/jgdt/",
+          "bytes": 19005
+        },
+        {
+          "url": "https://gsb.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 19134
+        },
+        {
+          "url": "https://gsb.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 19061
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "gsb-1",
+      "pages": [
+        {
+          "url": "https://gsb.nea.gov.cn/dtyw/tzgg/",
+          "bytes": 18974
+        },
+        {
+          "url": "https://gsb.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "bytes": 19163
+        },
+        {
+          "url": "https://gsb.nea.gov.cn/dtyw/tzgg/index_2.html",
+          "bytes": 19277
+        }
+      ],
+      "listed": 45,
+      "selected": 2,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "gsb-2",
+      "pages": [
+        {
+          "url": "https://gsb.nea.gov.cn/xxgk/zcjd/",
+          "bytes": 23715
+        },
+        {
+          "url": "https://gsb.nea.gov.cn/xxgk/zcjd/index_1.html",
+          "bytes": 23683
+        }
+      ],
+      "listed": 25,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "gzb-0",
+      "pages": [
+        {
+          "url": "https://gzb.nea.gov.cn/dtyw/jgdt/",
+          "bytes": 18938
+        },
+        {
+          "url": "https://gzb.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 19074
+        },
+        {
+          "url": "https://gzb.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 19137
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "gzb-1",
+      "pages": [
+        {
+          "url": "https://gzb.nea.gov.cn/dtyw/tzgg/",
+          "bytes": 18820
+        },
+        {
+          "url": "https://gzb.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "bytes": 18716
+        },
+        {
+          "url": "https://gzb.nea.gov.cn/dtyw/tzgg/index_2.html",
+          "bytes": 18698
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "gzb-2",
+      "error": "页面可读，但未解析到任何文件链接"
+    },
+    {
+      "sourceId": "hbj-0",
+      "error": "fetch failed"
+    },
+    {
+      "sourceId": "hbj-1",
+      "error": "fetch failed"
+    },
+    {
+      "sourceId": "hbj-2",
+      "error": "fetch failed"
+    },
+    {
+      "sourceId": "hbj-3",
+      "error": "fetch failed"
+    },
+    {
+      "sourceId": "hbj-4",
+      "error": "fetch failed"
+    },
+    {
+      "sourceId": "hdj-0",
+      "pages": [
+        {
+          "url": "https://hdj.nea.gov.cn/dtyw/jgdt/",
+          "bytes": 19165
+        },
+        {
+          "url": "https://hdj.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 19214
+        },
+        {
+          "url": "https://hdj.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 19203
+        }
+      ],
+      "listed": 39,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "hdj-1",
+      "pages": [
+        {
+          "url": "https://hdj.nea.gov.cn/dtyw/tzgg/",
+          "bytes": 19229
+        },
+        {
+          "url": "https://hdj.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "bytes": 19143
+        },
+        {
+          "url": "https://hdj.nea.gov.cn/dtyw/tzgg/index_2.html",
+          "bytes": 19124
+        }
+      ],
+      "listed": 39,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "hdj-2",
+      "pages": [
+        {
+          "url": "https://hdj.nea.gov.cn/hdhy/dczj/",
+          "bytes": 19573
+        }
+      ],
+      "listed": 12,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "henb-0",
+      "pages": [
+        {
+          "url": "https://henb.nea.gov.cn/dtyw/jgdt/",
+          "bytes": 20645
+        },
+        {
+          "url": "https://henb.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 20509
+        },
+        {
+          "url": "https://henb.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 20531
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "henb-1",
+      "pages": [
+        {
+          "url": "https://henb.nea.gov.cn/dtyw/tzgg/",
+          "bytes": 20901
+        },
+        {
+          "url": "https://henb.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "bytes": 20862
+        }
+      ],
+      "listed": 30,
+      "selected": 2,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "henb-2",
+      "pages": [
+        {
+          "url": "https://henb.nea.gov.cn/dtyw/jggg/",
+          "bytes": 20330
+        },
+        {
+          "url": "https://henb.nea.gov.cn/dtyw/jggg/index_1.html",
+          "bytes": 20296
+        },
+        {
+          "url": "https://henb.nea.gov.cn/dtyw/jggg/index_2.html",
+          "bytes": 20488
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "henb-3",
+      "pages": [
+        {
+          "url": "https://henb.nea.gov.cn/xxgk/zcfg/",
+          "bytes": 23846
+        }
+      ],
+      "listed": 15,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "henb-4",
+      "pages": [
+        {
+          "url": "https://henb.nea.gov.cn/xxgk/zcjd/",
+          "bytes": 23894
+        },
+        {
+          "url": "https://henb.nea.gov.cn/xxgk/zcjd/index_1.html",
+          "bytes": 23824
+        }
+      ],
+      "listed": 30,
+      "selected": 2,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "henb-5",
+      "pages": [
+        {
+          "url": "https://henb.nea.gov.cn/hdhy/dczj/",
+          "bytes": 20338
+        }
+      ],
+      "listed": 15,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "hunb-0",
+      "pages": [
+        {
+          "url": "https://hunb.nea.gov.cn/dtyw/jgdt/",
+          "bytes": 20417
+        },
+        {
+          "url": "https://hunb.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 20408
+        },
+        {
+          "url": "https://hunb.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 20437
+        }
+      ],
+      "listed": 45,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "hunb-1",
+      "error": "页面可读，但未解析到任何文件链接"
+    },
+    {
+      "sourceId": "hunb-2",
+      "pages": [
+        {
+          "url": "https://hunb.nea.gov.cn/dtyw/tzgg/tz/",
+          "bytes": 20239
+        },
+        {
+          "url": "https://hunb.nea.gov.cn/dtyw/tzgg/tz/index_1.html",
+          "bytes": 19877
+        }
+      ],
+      "listed": 30,
+      "selected": 4,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "hunb-3",
+      "pages": [
+        {
+          "url": "https://hunb.nea.gov.cn/dtyw/tzgg/gsgg/",
+          "bytes": 20044
+        },
+        {
+          "url": "https://hunb.nea.gov.cn/dtyw/tzgg/gsgg/index_1.html",
+          "bytes": 20021
+        },
+        {
+          "url": "https://hunb.nea.gov.cn/dtyw/tzgg/gsgg/index_2.html",
+          "bytes": 19823
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "hunb-4",
+      "pages": [
+        {
+          "url": "https://hunb.nea.gov.cn/xxgk/zcfg/",
+          "bytes": 26405
+        }
+      ],
+      "listed": 15,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "hunb-5",
+      "pages": [
+        {
+          "url": "https://hunb.nea.gov.cn/xxgk/zcjd/",
+          "bytes": 26191
+        }
+      ],
+      "listed": 14,
+      "selected": 2,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "hunb-6",
+      "pages": [
+        {
+          "url": "https://hunb.nea.gov.cn/hdhy/dczj/",
+          "bytes": 21390
+        }
+      ],
+      "listed": 12,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "hzj-0",
+      "error": "fetch failed"
+    },
+    {
+      "sourceId": "hzj-1",
+      "error": "fetch failed"
+    },
+    {
+      "sourceId": "hzj-2",
+      "error": "fetch failed"
+    },
+    {
+      "sourceId": "jsb-0",
+      "pages": [
+        {
+          "url": "https://jsb.nea.gov.cn/dtyw/jgdt/",
+          "bytes": 19206
+        },
+        {
+          "url": "https://jsb.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 19154
+        },
+        {
+          "url": "https://jsb.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 19473
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "jsb-1",
+      "pages": [
+        {
+          "url": "https://jsb.nea.gov.cn/dtyw/tz/",
+          "bytes": 19614
+        }
+      ],
+      "listed": 14,
+      "selected": 2,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "jsb-2",
+      "pages": [
+        {
+          "url": "https://jsb.nea.gov.cn/dtyw/gg/",
+          "bytes": 19276
+        },
+        {
+          "url": "https://jsb.nea.gov.cn/dtyw/gg/index_1.html",
+          "bytes": 19211
+        },
+        {
+          "url": "https://jsb.nea.gov.cn/dtyw/gg/index_2.html",
+          "bytes": 19464
+        }
+      ],
+      "listed": 45,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "jsb-3",
+      "pages": [
+        {
+          "url": "https://jsb.nea.gov.cn/xxgk/zcfg/",
+          "bytes": 23241
+        }
+      ],
+      "listed": 15,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "jsb-4",
+      "pages": [
+        {
+          "url": "https://jsb.nea.gov.cn/xxgk/zcjd/",
+          "bytes": 23369
+        }
+      ],
+      "listed": 14,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "nfj-0",
+      "pages": [
+        {
+          "url": "https://nfj.nea.gov.cn/xwzx/jgdt/",
+          "bytes": 21351
+        },
+        {
+          "url": "https://nfj.nea.gov.cn/xwzx/jgdt/index_1.html",
+          "bytes": 21336
+        },
+        {
+          "url": "https://nfj.nea.gov.cn/xwzx/jgdt/index_2.html",
+          "bytes": 21239
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "nfj-1",
+      "pages": [
+        {
+          "url": "https://nfj.nea.gov.cn/xwzx/tzgg/",
+          "bytes": 21295
+        },
+        {
+          "url": "https://nfj.nea.gov.cn/xwzx/tzgg/index_1.html",
+          "bytes": 21195
+        },
+        {
+          "url": "https://nfj.nea.gov.cn/xwzx/tzgg/index_2.html",
+          "bytes": 21047
+        }
+      ],
+      "listed": 45,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "nfj-2",
+      "pages": [
+        {
+          "url": "https://nfj.nea.gov.cn/xxgk/zcfg/",
+          "bytes": 30039
+        },
+        {
+          "url": "https://nfj.nea.gov.cn/xxgk/zcfg/index_1.html",
+          "bytes": 29926
+        }
+      ],
+      "listed": 30,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "nfj-3",
+      "pages": [
+        {
+          "url": "https://nfj.nea.gov.cn/xxgk/zcjd/",
+          "bytes": 29903
+        }
+      ],
+      "listed": 15,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "scb-0",
+      "pages": [
+        {
+          "url": "https://scb.nea.gov.cn/dtyw/jgdt/",
+          "bytes": 20105
+        },
+        {
+          "url": "https://scb.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 20323
+        },
+        {
+          "url": "https://scb.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 20313
+        }
+      ],
+      "listed": 45,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "scb-1",
+      "pages": [
+        {
+          "url": "https://scb.nea.gov.cn/dtyw/tzgg/",
+          "bytes": 20369
+        },
+        {
+          "url": "https://scb.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "bytes": 20354
+        },
+        {
+          "url": "https://scb.nea.gov.cn/dtyw/tzgg/index_2.html",
+          "bytes": 20498
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "scb-2",
+      "pages": [
+        {
+          "url": "https://scb.nea.gov.cn/xxgk/flfg/",
+          "bytes": 24950
+        },
+        {
+          "url": "https://scb.nea.gov.cn/xxgk/flfg/index_1.html",
+          "bytes": 24459
+        }
+      ],
+      "listed": 9,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "scb-3",
+      "pages": [
+        {
+          "url": "https://scb.nea.gov.cn/xxgk/zcjd/",
+          "bytes": 24957
+        }
+      ],
+      "listed": 7,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "sxb-0",
+      "pages": [
+        {
+          "url": "https://sxb.nea.gov.cn/dtyw/jgdt/",
+          "bytes": 20590
+        },
+        {
+          "url": "https://sxb.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 20633
+        },
+        {
+          "url": "https://sxb.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 20530
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "sxb-1",
+      "pages": [
+        {
+          "url": "https://sxb.nea.gov.cn/dtyw/tzgg/",
+          "bytes": 21154
+        },
+        {
+          "url": "https://sxb.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "bytes": 21121
+        },
+        {
+          "url": "https://sxb.nea.gov.cn/dtyw/tzgg/index_2.html",
+          "bytes": 21165
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "sxb-2",
+      "pages": [
+        {
+          "url": "https://sxb.nea.gov.cn/xxgk/zcfb/",
+          "bytes": 24186
+        },
+        {
+          "url": "https://sxb.nea.gov.cn/xxgk/zcfb/index_1.html",
+          "bytes": 24260
+        }
+      ],
+      "listed": 30,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "sxb-3",
+      "pages": [
+        {
+          "url": "https://sxb.nea.gov.cn/xxgk/zcjd/",
+          "bytes": 24117
+        },
+        {
+          "url": "https://sxb.nea.gov.cn/xxgk/zcjd/index_1.html",
+          "bytes": 24348
+        }
+      ],
+      "listed": 29,
+      "selected": 2,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "sxb-4",
+      "pages": [
+        {
+          "url": "https://sxb.nea.gov.cn/hdhy/dczj/",
+          "bytes": 18856
+        }
+      ],
+      "listed": 9,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "xbj-0",
+      "pages": [
+        {
+          "url": "https://xbj.nea.gov.cn/dtyw/jgdt/",
+          "bytes": 20099
+        },
+        {
+          "url": "https://xbj.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 20148
+        },
+        {
+          "url": "https://xbj.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 20174
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "xbj-1",
+      "pages": [
+        {
+          "url": "https://xbj.nea.gov.cn/dtyw/tzgg/",
+          "bytes": 20415
+        },
+        {
+          "url": "https://xbj.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "bytes": 20370
+        },
+        {
+          "url": "https://xbj.nea.gov.cn/dtyw/tzgg/index_2.html",
+          "bytes": 20506
+        }
+      ],
+      "listed": 45,
+      "selected": 4,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "xbj-2",
+      "error": "页面可读，但未解析到任何文件链接"
+    },
+    {
+      "sourceId": "xbj-3",
+      "pages": [
+        {
+          "url": "https://xbj.nea.gov.cn/xxgk/zcjd/",
+          "bytes": 26549
+        },
+        {
+          "url": "https://xbj.nea.gov.cn/xxgk/zcjd/index_1.html",
+          "bytes": 26546
+        }
+      ],
+      "listed": 29,
+      "selected": 5,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "xbj-4",
+      "pages": [
+        {
+          "url": "https://xbj.nea.gov.cn/hdhy/dczj/",
+          "bytes": 21727
+        }
+      ],
+      "listed": 15,
+      "selected": 4,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "xjb-0",
+      "pages": [
+        {
+          "url": "https://xjb.nea.gov.cn/dtyw/jgdt/",
+          "bytes": 18447
+        },
+        {
+          "url": "https://xjb.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 18456
+        },
+        {
+          "url": "https://xjb.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 18640
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "xjb-1",
+      "pages": [
+        {
+          "url": "https://xjb.nea.gov.cn/dtyw/tzgg/",
+          "bytes": 18484
+        },
+        {
+          "url": "https://xjb.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "bytes": 18325
+        }
+      ],
+      "listed": 30,
+      "selected": 2,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "xjb-2",
+      "pages": [
+        {
+          "url": "https://xjb.nea.gov.cn/xxgk/zcfg/",
+          "bytes": 22961
+        }
+      ],
+      "listed": 10,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "xjb-3",
+      "pages": [
+        {
+          "url": "https://xjb.nea.gov.cn/xxgk/zcjd/",
+          "bytes": 22892
+        },
+        {
+          "url": "https://xjb.nea.gov.cn/xxgk/zcjd/index_1.html",
+          "bytes": 21262
+        }
+      ],
+      "listed": 7,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "ynb-0",
+      "pages": [
+        {
+          "url": "https://ynb.nea.gov.cn/dtyw/gsgg/",
+          "bytes": 19431
+        },
+        {
+          "url": "https://ynb.nea.gov.cn/dtyw/gsgg/index_1.html",
+          "bytes": 19576
+        },
+        {
+          "url": "https://ynb.nea.gov.cn/dtyw/gsgg/index_2.html",
+          "bytes": 18978
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "ynb-1",
+      "pages": [
+        {
+          "url": "https://ynb.nea.gov.cn/xxgk/zcfg/",
+          "bytes": 23659
+        },
+        {
+          "url": "https://ynb.nea.gov.cn/xxgk/zcfg/index_1.html",
+          "bytes": 23638
+        },
+        {
+          "url": "https://ynb.nea.gov.cn/xxgk/zcfg/index_2.html",
+          "bytes": 23675
+        }
+      ],
+      "listed": 44,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "ynb-2",
+      "pages": [
+        {
+          "url": "https://ynb.nea.gov.cn/xxgk/zcjd/",
+          "bytes": 23260
+        },
+        {
+          "url": "https://ynb.nea.gov.cn/xxgk/zcjd/index_1.html",
+          "bytes": 23716
+        }
+      ],
+      "listed": 30,
+      "selected": 2,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "ynb-3",
+      "pages": [
+        {
+          "url": "https://ynb.nea.gov.cn/hdhy/dczj/",
+          "bytes": 20176
+        }
+      ],
+      "listed": 15,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "zjb-0",
+      "pages": [
+        {
+          "url": "https://zjb.nea.gov.cn/dtyw/jgdt/index.html",
+          "bytes": 19751
+        },
+        {
+          "url": "https://zjb.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "bytes": 19724
+        },
+        {
+          "url": "https://zjb.nea.gov.cn/dtyw/jgdt/index_2.html",
+          "bytes": 19852
+        }
+      ],
+      "listed": 45,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "zjb-1",
+      "pages": [
+        {
+          "url": "https://zjb.nea.gov.cn/dtyw/tzgg/",
+          "bytes": 19780
+        },
+        {
+          "url": "https://zjb.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "bytes": 19864
+        }
+      ],
+      "listed": 30,
+      "selected": 5,
+      "failures": [],
+      "listErrors": []
+    },
+    {
+      "sourceId": "zjb-2",
+      "pages": [
+        {
+          "url": "https://zjb.nea.gov.cn/xxgk/zcfg/",
+          "bytes": 23515
+        }
+      ],
+      "listed": 15,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
+    },
     {
       "sourceId": "nmg-nyj-notices",
       "pages": [
@@ -17,906 +1164,72 @@
       "listErrors": []
     },
     {
-      "sourceId": "dbj-0",
-      "configuredUrl": "https://dbj.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 12,
-      "stopReason": "passed-history-start",
-      "recordCount": 13,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "dbj-1",
-      "configuredUrl": "https://dbj.nea.gov.cn/dtyw/tzgg/",
-      "status": "ok",
-      "scannedPages": 7,
-      "stopReason": "passed-history-start",
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "dbj-2",
-      "configuredUrl": "https://dbj.nea.gov.cn/xxgk/zcfg/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 5,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "dbj-3",
-      "configuredUrl": "https://dbj.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 5,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "dbj-4",
-      "configuredUrl": "https://dbj.nea.gov.cn/hdhy/dczj/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 7,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "fjb-0",
-      "configuredUrl": "https://fjb.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 6,
-      "stopReason": "passed-history-start",
-      "recordCount": 13,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "fjb-1",
-      "configuredUrl": "https://fjb.nea.gov.cn/dtyw/tzgg/",
-      "status": "ok",
-      "scannedPages": 4,
-      "stopReason": "passed-history-start",
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "fjb-2",
-      "configuredUrl": "https://fjb.nea.gov.cn/xxgk/zcfg/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "fjb-3",
-      "configuredUrl": "https://fjb.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 3,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "fjb-4",
-      "configuredUrl": "https://fjb.nea.gov.cn/hdhy/dczj/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "gsb-0",
-      "configuredUrl": "https://gsb.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 9,
-      "stopReason": "passed-history-start",
-      "recordCount": 14,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "gsb-1",
-      "configuredUrl": "https://gsb.nea.gov.cn/dtyw/tzgg/",
-      "status": "ok",
-      "scannedPages": 3,
-      "stopReason": "passed-history-start",
-      "recordCount": 2,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "gsb-2",
-      "configuredUrl": "https://gsb.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 2,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "gzb-0",
-      "configuredUrl": "https://gzb.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 6,
-      "stopReason": "passed-history-start",
-      "recordCount": 5,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "gzb-1",
-      "configuredUrl": "https://gzb.nea.gov.cn/dtyw/tzgg/",
-      "status": "ok",
-      "scannedPages": 7,
-      "stopReason": "passed-history-start",
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "gzb-2",
-      "configuredUrl": "https://gzb.nea.gov.cn/hdhy/dczj/",
-      "status": "error",
-      "scannedPages": 0,
-      "stopReason": null,
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": "页面可读，但未解析到任何文件链接",
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hbj-0",
-      "configuredUrl": "https://hbj.nea.gov.cn/dtyw/jgdt/",
-      "status": "partial",
-      "scannedPages": 7,
-      "stopReason": "passed-history-start",
-      "recordCount": 5,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hbj-1",
-      "configuredUrl": "https://hbj.nea.gov.cn/dtyw/tzgg/",
-      "status": "ok",
-      "scannedPages": 9,
-      "stopReason": "passed-history-start",
-      "recordCount": 4,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hbj-2",
-      "configuredUrl": "https://hbj.nea.gov.cn/xxgk/zcfg/",
-      "status": "ok",
-      "scannedPages": 5,
-      "stopReason": "passed-history-start",
-      "recordCount": 7,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hbj-3",
-      "configuredUrl": "https://hbj.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 3,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hbj-4",
-      "configuredUrl": "https://hbj.nea.gov.cn/hdhy/dczj/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 4,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hdj-0",
-      "configuredUrl": "https://hdj.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 13,
-      "stopReason": "passed-history-start",
-      "recordCount": 28,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hdj-1",
-      "configuredUrl": "https://hdj.nea.gov.cn/dtyw/tzgg/",
-      "status": "ok",
-      "scannedPages": 12,
-      "stopReason": "passed-history-start",
-      "recordCount": 5,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hdj-2",
-      "configuredUrl": "https://hdj.nea.gov.cn/hdhy/dczj/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 2,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "henb-0",
-      "configuredUrl": "https://henb.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 4,
-      "stopReason": "passed-history-start",
-      "recordCount": 5,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "henb-1",
-      "configuredUrl": "https://henb.nea.gov.cn/dtyw/tzgg/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 3,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "henb-2",
-      "configuredUrl": "https://henb.nea.gov.cn/dtyw/jggg/",
-      "status": "ok",
-      "scannedPages": 6,
-      "stopReason": "passed-history-start",
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "henb-3",
-      "configuredUrl": "https://henb.nea.gov.cn/xxgk/zcfg/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "henb-4",
-      "configuredUrl": "https://henb.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 3,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "henb-5",
-      "configuredUrl": "https://henb.nea.gov.cn/hdhy/dczj/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hunb-0",
-      "configuredUrl": "https://hunb.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 7,
-      "stopReason": "passed-history-start",
-      "recordCount": 17,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hunb-1",
-      "configuredUrl": "https://hunb.nea.gov.cn/dtyw/tzgg/",
-      "status": "error",
-      "scannedPages": 0,
-      "stopReason": null,
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": "页面可读，但未解析到任何文件链接",
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hunb-2",
-      "configuredUrl": "https://hunb.nea.gov.cn/dtyw/tzgg/tz/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 4,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hunb-3",
-      "configuredUrl": "https://hunb.nea.gov.cn/dtyw/tzgg/gsgg/",
-      "status": "ok",
-      "scannedPages": 3,
-      "stopReason": "passed-history-start",
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hunb-4",
-      "configuredUrl": "https://hunb.nea.gov.cn/xxgk/zcfg/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hunb-5",
-      "configuredUrl": "https://hunb.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 3,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hunb-6",
-      "configuredUrl": "https://hunb.nea.gov.cn/hdhy/dczj/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hzj-0",
-      "configuredUrl": "https://hzj.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 10,
-      "stopReason": "passed-history-start",
-      "recordCount": 17,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hzj-1",
-      "configuredUrl": "https://hzj.nea.gov.cn/dtyw/tzgg/",
-      "status": "ok",
-      "scannedPages": 4,
-      "stopReason": "passed-history-start",
-      "recordCount": 12,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "hzj-2",
-      "configuredUrl": "https://hzj.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 5,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "jsb-0",
-      "configuredUrl": "https://jsb.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 13,
-      "stopReason": "passed-history-start",
-      "recordCount": 21,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "jsb-1",
-      "configuredUrl": "https://jsb.nea.gov.cn/dtyw/tz/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 2,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "jsb-2",
-      "configuredUrl": "https://jsb.nea.gov.cn/dtyw/gg/",
-      "status": "ok",
-      "scannedPages": 7,
-      "stopReason": "passed-history-start",
-      "recordCount": 2,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "jsb-3",
-      "configuredUrl": "https://jsb.nea.gov.cn/xxgk/zcfg/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "jsb-4",
-      "configuredUrl": "https://jsb.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "nfj-0",
-      "configuredUrl": "https://nfj.nea.gov.cn/xwzx/jgdt/",
-      "status": "ok",
-      "scannedPages": 11,
-      "stopReason": "passed-history-start",
-      "recordCount": 18,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "nfj-1",
-      "configuredUrl": "https://nfj.nea.gov.cn/xwzx/tzgg/",
-      "status": "ok",
-      "scannedPages": 4,
-      "stopReason": "passed-history-start",
-      "recordCount": 2,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "nfj-2",
-      "configuredUrl": "https://nfj.nea.gov.cn/xxgk/zcfg/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "nfj-3",
-      "configuredUrl": "https://nfj.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "scb-0",
-      "configuredUrl": "https://scb.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 7,
-      "stopReason": "passed-history-start",
-      "recordCount": 11,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "scb-1",
-      "configuredUrl": "https://scb.nea.gov.cn/dtyw/tzgg/",
-      "status": "partial",
-      "scannedPages": 8,
-      "stopReason": "passed-history-start",
-      "recordCount": 3,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "scb-2",
-      "configuredUrl": "https://scb.nea.gov.cn/xxgk/flfg/",
-      "status": "partial",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "scb-3",
-      "configuredUrl": "https://scb.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "sxb-0",
-      "configuredUrl": "https://sxb.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 7,
-      "stopReason": "passed-history-start",
-      "recordCount": 19,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "sxb-1",
-      "configuredUrl": "https://sxb.nea.gov.cn/dtyw/tzgg/",
-      "status": "partial",
-      "scannedPages": 15,
-      "stopReason": "page-limit",
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "sxb-2",
-      "configuredUrl": "https://sxb.nea.gov.cn/xxgk/zcfb/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 3,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "sxb-3",
-      "configuredUrl": "https://sxb.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 4,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "sxb-4",
-      "configuredUrl": "https://sxb.nea.gov.cn/hdhy/dczj/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "declared-page-end",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "xbj-0",
-      "configuredUrl": "https://xbj.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 9,
-      "stopReason": "passed-history-start",
-      "recordCount": 14,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "xbj-1",
-      "configuredUrl": "https://xbj.nea.gov.cn/dtyw/tzgg/",
-      "status": "ok",
-      "scannedPages": 5,
-      "stopReason": "passed-history-start",
-      "recordCount": 8,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "xbj-2",
-      "configuredUrl": "https://xbj.nea.gov.cn/xxgk/zcfg/",
-      "status": "error",
-      "scannedPages": 0,
-      "stopReason": null,
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": "页面可读，但未解析到任何文件链接",
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "xbj-3",
-      "configuredUrl": "https://xbj.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 7,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "xbj-4",
-      "configuredUrl": "https://xbj.nea.gov.cn/hdhy/dczj/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 5,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "xjb-0",
-      "configuredUrl": "https://xjb.nea.gov.cn/dtyw/jgdt/",
-      "status": "ok",
-      "scannedPages": 8,
-      "stopReason": "passed-history-start",
-      "recordCount": 18,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "xjb-1",
-      "configuredUrl": "https://xjb.nea.gov.cn/dtyw/tzgg/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 2,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "xjb-2",
-      "configuredUrl": "https://xjb.nea.gov.cn/xxgk/zcfg/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "xjb-3",
-      "configuredUrl": "https://xjb.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "declared-page-end",
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "ynb-0",
-      "configuredUrl": "https://ynb.nea.gov.cn/dtyw/gsgg/",
-      "status": "ok",
-      "scannedPages": 13,
-      "stopReason": "passed-history-start",
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "ynb-1",
-      "configuredUrl": "https://ynb.nea.gov.cn/xxgk/zcfg/",
-      "status": "ok",
-      "scannedPages": 5,
-      "stopReason": "passed-history-start",
-      "recordCount": 7,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "ynb-2",
-      "configuredUrl": "https://ynb.nea.gov.cn/xxgk/zcjd/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 4,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "ynb-3",
-      "configuredUrl": "https://ynb.nea.gov.cn/hdhy/dczj/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "declared-page-end",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "zjb-0",
-      "configuredUrl": "https://zjb.nea.gov.cn/dtyw/jgdt/index.html",
-      "status": "ok",
-      "scannedPages": 6,
-      "stopReason": "passed-history-start",
-      "recordCount": 14,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "zjb-1",
-      "configuredUrl": "https://zjb.nea.gov.cn/dtyw/tzgg/",
-      "status": "ok",
-      "scannedPages": 2,
-      "stopReason": "passed-history-start",
-      "recordCount": 8,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
-      "sourceId": "zjb-2",
-      "configuredUrl": "https://zjb.nea.gov.cn/xxgk/zcfg/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "passed-history-start",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
-    },
-    {
       "sourceId": "nmg-nyj-home",
-      "configuredUrl": "https://nyj.nmg.gov.cn/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "single-page",
-      "recordCount": 5,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
+      "pages": [
+        {
+          "url": "https://nyj.nmg.gov.cn/",
+          "bytes": 95984
+        }
+      ],
+      "listed": 43,
+      "selected": 4,
+      "failures": [],
+      "listErrors": []
     },
     {
       "sourceId": "gd-drc-notices",
-      "configuredUrl": "https://drc.gd.gov.cn/ywtz/index.html",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "single-page",
-      "recordCount": 5,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
+      "pages": [
+        {
+          "url": "https://drc.gd.gov.cn/ywtz/index.html",
+          "bytes": 54517
+        }
+      ],
+      "listed": 25,
+      "selected": 3,
+      "failures": [],
+      "listErrors": []
     },
     {
       "sourceId": "gd-drc-public",
-      "configuredUrl": "https://drc.gd.gov.cn/gggs5623/index.html",
-      "status": "error",
-      "scannedPages": 0,
-      "stopReason": null,
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": "页面可读，但未解析到任何文件链接",
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
+      "error": "页面可读，但未解析到任何文件链接"
     },
     {
       "sourceId": "gd-drc-interpretation",
-      "configuredUrl": "https://drc.gd.gov.cn/zcjd5635/index.html",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "single-page",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
+      "pages": [
+        {
+          "url": "https://drc.gd.gov.cn/zcjd5635/index.html",
+          "bytes": 51910
+        }
+      ],
+      "listed": 25,
+      "selected": 0,
+      "failures": [],
+      "listErrors": []
     },
     {
       "sourceId": "gd-nyj",
-      "configuredUrl": "https://drc.gd.gov.cn/snyj/index.html",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "single-page",
-      "recordCount": 1,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
+      "pages": [
+        {
+          "url": "https://drc.gd.gov.cn/snyj/index.html",
+          "bytes": 48761
+        }
+      ],
+      "listed": 27,
+      "selected": 1,
+      "failures": [],
+      "listErrors": []
     },
     {
       "sourceId": "sx-nyj-notices",
-      "configuredUrl": "https://nyj.shanxi.gov.cn/zfxxgk/fdzdgknr/gg/fdzdgknr_11759.html",
-      "status": "error",
-      "scannedPages": 0,
-      "stopReason": null,
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": "页面可读，但未解析到任何文件链接",
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
+      "error": "Connect Timeout Error (attempted addresses: 183.201.253.167:443, 2409:8c0c:310:2500:1000::b:443, 1.71.182.103:443, timeout: 10000ms)"
     },
     {
       "sourceId": "sx-nyj-interpretation",
-      "configuredUrl": "https://nyj.shanxi.gov.cn/zfxxgk/fdzdgknr/jdhy/fdzdgknr_11759.html",
-      "status": "error",
-      "scannedPages": 0,
-      "stopReason": null,
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": "页面可读，但未解析到任何文件链接",
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
+      "error": "Connect Timeout Error (attempted addresses: 183.201.253.167:443, 2409:8c0c:310:2500:1000::b:443, 1.71.182.103:443, timeout: 10000ms)"
     },
     {
       "sourceId": "sx-nyj-consultation",
-      "configuredUrl": "https://nyj.shanxi.gov.cn/hdjl_0531/yjzj_new/",
-      "status": "ok",
-      "scannedPages": 1,
-      "stopReason": "declared-page-end",
-      "recordCount": 0,
-      "detailErrors": 0,
-      "error": null,
-      "note": "来自最近一次该栏目运行状态，未保留逐页URL"
+      "error": "Connect Timeout Error (attempted addresses: 1.71.182.103:443, 2409:8c0c:310:2500:1000::b:443, 183.201.253.167:443, timeout: 10000ms)"
     }
   ]
 }

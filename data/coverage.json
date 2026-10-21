@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-21T02:38:42.405Z",
+  "checkedAt": "2026-10-21T05:31:46.607Z",
   "historyStart": "2022-01-01",
-  "mode": "history",
+  "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
   "sources": [
     {
@@ -18,59 +18,11 @@
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_2.html",
           "bytes": 38103
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_3.html",
-          "bytes": 39559
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_4.html",
-          "bytes": 42343
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_5.html",
-          "bytes": 50337
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_6.html",
-          "bytes": 46101
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_7.html",
-          "bytes": 48799
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_8.html",
-          "bytes": 42801
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_9.html",
-          "bytes": 42347
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_10.html",
-          "bytes": 52604
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_11.html",
-          "bytes": 45824
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_12.html",
-          "bytes": 41734
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_13.html",
-          "bytes": 60924
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_14.html",
-          "bytes": 40362
         }
       ],
-      "stopReason": "passed-history-start",
-      "listed": 785,
-      "selected": 60,
+      "stopReason": "page-limit",
+      "listed": 156,
+      "selected": 21,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -178,201 +130,6 @@
           "title": "国家发展改革委有关负责同志就《关于跨电网经营区常态化电力交易机制方案的复函》答记者问",
           "date": "2025-07-14",
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202507/t20250714_1399176.html"
-        },
-        {
-          "title": "关于有序推动绿电直连发展有关事项的通知(发改能源〔2025〕650号)",
-          "date": "2025-05-30",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202505/t20250530_1398138.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《关于有序推动绿电直连发展有关事项的通知》答记者问",
-          "date": "2025-05-30",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202505/t20250530_1398141.html"
-        },
-        {
-          "title": "关于全面加快电力现货市场建设工作的通知(发改办体改〔2025〕394号)",
-          "date": "2025-04-29",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202504/t20250429_1397488.html"
-        },
-        {
-          "title": "关于加快推进虚拟电厂发展的指导意见(发改能源〔2025〕357号)",
-          "date": "2025-04-11",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202504/t20250411_1397162.html"
-        },
-        {
-          "title": "《关于加快推进虚拟电厂发展的指导意见》政策解读",
-          "date": "2025-04-11",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202504/t20250411_1397170.html"
-        },
-        {
-          "title": "关于促进可再生能源绿色电力证书市场高质量发展的意见(发改能源〔2025〕262号)",
-          "date": "2025-03-18",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202503/t20250318_1396627.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《关于促进可再生能源绿色电力证书市场高质量发展的意见》答记者问",
-          "date": "2025-03-18",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202503/t20250318_1396645.html"
-        },
-        {
-          "title": "一图读懂丨关于促进可再生能源绿色电力证书市场高质量发展的意见",
-          "date": "2025-03-20",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/zctj/202503/t20250320_1396726.html"
-        },
-        {
-          "title": "关于深化新能源上网电价市场化改革 促进新能源高质量发展的通知(发改价格〔2025〕136号)",
-          "date": "2025-02-09",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202502/t20250209_1396066.html"
-        },
-        {
-          "title": "国家发展改革委、国家能源局有关负责同志就深化新能源上网电价市场化改革答记者问",
-          "date": "2025-02-09",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202502/t20250209_1396069.html"
-        },
-        {
-          "title": "关于印发《加快构建新型电力系统行动方案(2024—2027年)》的通知(发改能源〔2024〕1128号)",
-          "date": "2024-08-06",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202408/t20240806_1392258.html"
-        },
-        {
-          "title": "国家能源局电力司主要负责同志就《加快构建新型电力系统行动方案（2024—2027年）》答记者问",
-          "date": "2024-08-06",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202408/t20240806_1392262.html"
-        },
-        {
-          "title": "关于加强电网调峰储能和智能化调度能力建设的指导意见",
-          "date": "2024-02-27",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202402/t20240227_1364257.html"
-        },
-        {
-          "title": "国家发展改革委有关负责同志就《关于加强电网调峰储能和智能化调度能力建设的指导意见》答记者问",
-          "date": "2024-02-27",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202402/t20240227_1364237.html"
-        },
-        {
-          "title": "一图读懂｜关于加强电网调峰储能和智能化调度能力建设的指导意见",
-          "date": "2024-02-27",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/zctj/202402/t20240227_1364238.html"
-        },
-        {
-          "title": "关于建立健全电力辅助服务市场价格机制的通知(发改价格〔2024〕196号)",
-          "date": "2024-02-08",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202402/t20240208_1364053.html"
-        },
-        {
-          "title": "国家建立健全电力辅助服务市场价格机制",
-          "date": "2024-02-08",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202402/t20240208_1364059.html"
-        },
-        {
-          "title": "国家发展改革委、国家能源局有关负责同志就建立健全电力辅助服务市场价格机制答记者问",
-          "date": "2024-02-08",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202402/t20240208_1364058.html"
-        },
-        {
-          "title": "关于加强绿色电力证书与节能降碳政策衔接大力促进非化石能源消费的通知(发改环资〔2024〕113号)",
-          "date": "2024-02-02",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202402/t20240202_1363856.html"
-        },
-        {
-          "title": "国家发展改革委、国家统计局、国家能源局联合印发《关于加强绿色电力证书与节能降碳政策衔接 大力促进非化石能源消费的通知》",
-          "date": "2024-02-02",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202402/t20240202_1363868.html"
-        },
-        {
-          "title": "国家发展改革委有关负责同志就《关于加强绿色电力证书与节能降碳政策衔接 大力促进非化石能源消费的通知》答记者问",
-          "date": "2024-02-02",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202402/t20240202_1363866.html"
-        },
-        {
-          "title": "关于建立煤电容量电价机制的通知(发改价格〔2023〕1501号)",
-          "date": "2023-11-10",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202311/t20231110_1361897.html"
-        },
-        {
-          "title": "国家建立煤电容量电价机制",
-          "date": "2023-11-10",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202311/t20231110_1361905.html"
-        },
-        {
-          "title": "国家发展改革委有关负责同志就建立煤电容量电价机制答记者问",
-          "date": "2023-11-10",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202311/t20231110_1361904.html"
-        },
-        {
-          "title": "关于进一步加快电力现货市场建设工作的通知(发改办体改〔2023〕813号)",
-          "date": "2023-11-01",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202311/t20231101_1361704.html"
-        },
-        {
-          "title": "关于做好可再生能源绿色电力证书全覆盖工作促进可再生能源电力消费的通知(发改能源〔2023〕1044号)",
-          "date": "2023-08-03",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202308/t20230803_1359092.html"
-        },
-        {
-          "title": "国家发展改革委、国家能源局有关负责同志就《关于做好可再生能源绿色电力证书全覆盖工作 促进可再生能源电力消费的通知》答记者问",
-          "date": "2023-08-03",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202308/t20230803_1359098.html"
-        },
-        {
-          "title": "一图读懂 | 《关于做好可再生能源绿色电力证书全覆盖工作 促进可再生能源电力消费的通知》",
-          "date": "2023-08-03",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/zctj/202308/t20230803_1359097.html"
-        },
-        {
-          "title": "关于白鹤滩～江苏、白鹤滩～浙江特高压直流工程和白鹤滩水电站配套送出工程临时输电价格的通知(发改价格〔2023〕404号)",
-          "date": "2023-05-15",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202305/t20230515_1355751.html"
-        },
-        {
-          "title": "关于第三监管周期省级电网输配电价及有关事项的通知(发改价格〔2023〕526号)",
-          "date": "2023-05-15",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202305/t20230515_1355747.html"
-        },
-        {
-          "title": "国家发展改革委推进第三监管周期输配电价改革",
-          "date": "2023-05-15",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202305/t20230515_1355769.html"
-        },
-        {
-          "title": "关于抽水蓄能电站容量电价及有关事项的通知(发改价格〔2023〕533号)",
-          "date": "2023-05-15",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202305/t20230515_1355744.html"
-        },
-        {
-          "title": "关于第三监管周期区域电网输电价格及有关事项的通知(发改价格〔2023〕532号)",
-          "date": "2023-05-15",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202305/t20230515_1355741.html"
-        },
-        {
-          "title": "关于做好2023年电力中长期合同签订履约工作的通知(发改运行〔2022〕1861号)",
-          "date": "2022-12-21",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202212/t20221222_1343756.html"
-        },
-        {
-          "title": "关于核定雁淮、扎青特高压直流工程输电价格的通知(发改价格〔2022〕1777号)",
-          "date": "2022-12-06",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202212/t20221206_1343327.html"
-        },
-        {
-          "title": "关于进一步推动新型储能参与电力市场和调度运用的通知(发改办运行〔2022〕475号)",
-          "date": "2022-06-07",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202206/t20220607_1326854.html"
-        },
-        {
-          "title": "关于核定宁绍、酒湖、锡泰特高压直流工程输电价格的通知(发改价格〔2022〕558号)",
-          "date": "2022-04-12",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202204/t20220412_1321938.html"
-        },
-        {
-          "title": "关于印发《“十四五”新型储能发展实施方案》的通知(发改能源〔2022〕209号)",
-          "date": "2022-03-21",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202203/t20220321_1319772.html"
-        },
-        {
-          "title": "关于加快建设全国统一电力市场体系的指导意见(发改体改〔2022〕118号)",
-          "date": "2022-01-28",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202201/t20220128_1313653.html"
         }
       ]
     },
@@ -390,14 +147,10 @@
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/index_2.html",
           "bytes": 56247
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/index_3.html",
-          "bytes": 43025
         }
       ],
-      "stopReason": "passed-history-start",
-      "listed": 198,
+      "stopReason": "page-limit",
+      "listed": 152,
       "selected": 13,
       "listErrors": [],
       "failures": [],
@@ -485,7 +238,7 @@
           "bytes": 40535
         }
       ],
-      "stopReason": "passed-history-start",
+      "stopReason": "page-limit",
       "listed": 145,
       "selected": 5,
       "listErrors": [],
@@ -551,79 +304,11 @@
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_2.html",
           "bytes": 96551
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_3.html",
-          "bytes": 85815
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_4.html",
-          "bytes": 77864
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_5.html",
-          "bytes": 238360
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_6.html",
-          "bytes": 84368
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_7.html",
-          "bytes": 79439
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_8.html",
-          "bytes": 78233
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_9.html",
-          "bytes": 86773
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_10.html",
-          "bytes": 121692
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_11.html",
-          "bytes": 93000
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_12.html",
-          "bytes": 60038
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_13.html",
-          "bytes": 75940
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_14.html",
-          "bytes": 61063
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_15.html",
-          "bytes": 52975
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_16.html",
-          "bytes": 53003
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_17.html",
-          "bytes": 53397
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_18.html",
-          "bytes": 53671
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_19.html",
-          "bytes": 49682
         }
       ],
-      "stopReason": "declared-page-end",
-      "listed": 760,
-      "selected": 63,
+      "stopReason": "page-limit",
+      "listed": 121,
+      "selected": 7,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -661,286 +346,6 @@
           "title": "国家发展改革委、国家能源局有关负责同志就完善发电侧容量电价机制答记者问",
           "date": "2026-01-30",
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202601/t20260130_1403520.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《关于印发〈电力中长期市场基本规则〉的通知》答记者问",
-          "date": "2025-12-26",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202512/t20251226_1402662.html"
-        },
-        {
-          "title": "关于印发《电力中长期市场基本规则》的通知(发改能源规〔2025〕1656号)",
-          "date": "2025-12-26",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202512/t20251226_1402666.html"
-        },
-        {
-          "title": "国家发展改革委修订输配电成本监审和定价办法",
-          "date": "2025-11-27",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202511/t20251127_1401965.html"
-        },
-        {
-          "title": "关于印发输配电定价成本监审办法、省级电网输配电价定价办法、区域电网输电价格定价办法和跨省跨区专项工程输电价格定价办法的通知(发改价格规〔2025〕1490号)",
-          "date": "2025-11-27",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202511/t20251127_1401964.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《关于促进新能源消纳和调控的指导意见》答记者问",
-          "date": "2025-11-10",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202511/t20251110_1401474.html"
-        },
-        {
-          "title": "关于促进新能源消纳和调控的指导意见(发改能源〔2025〕1360号)",
-          "date": "2025-11-10",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202511/t20251110_1401469.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《关于印发<电力现货连续运行地区市场建设指引>的通知》答记者问",
-          "date": "2025-09-16",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202509/t20250916_1400538.html"
-        },
-        {
-          "title": "关于印发《电力现货连续运行地区市场建设指引》的通知(发改能源〔2025〕1171号)",
-          "date": "2025-09-12",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202509/t20250912_1400454.html"
-        },
-        {
-          "title": "国家发展改革委、国家能源局有关负责同志就完善价格机制促进新能源发电就近消纳答记者问",
-          "date": "2025-09-12",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202509/t20250912_1400452.html"
-        },
-        {
-          "title": "关于完善价格机制促进新能源发电就近消纳的通知(发改价格〔2025〕1192号)",
-          "date": "2025-09-12",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202509/t20250912_1400444.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《新型储能规模化建设专项行动方案（2025—2027年）》答记者问",
-          "date": "2025-09-12",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202509/t20250912_1400432.html"
-        },
-        {
-          "title": "关于印发《新型储能规模化建设专项行动方案(2025—2027年)》的通知(发改能源〔2025〕1144号)",
-          "date": "2025-09-12",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202509/t20250912_1400425.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《电力市场计量结算基本规则》答记者问",
-          "date": "2025-08-06",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202508/t20250806_1399688.html"
-        },
-        {
-          "title": "关于印发《电力市场计量结算基本规则》的通知(发改能源规〔2025〕976号)",
-          "date": "2025-08-06",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202508/t20250806_1399686.html"
-        },
-        {
-          "title": "国家发展改革委有关负责同志就《关于跨电网经营区常态化电力交易机制方案的复函》答记者问",
-          "date": "2025-07-14",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202507/t20250714_1399176.html"
-        },
-        {
-          "title": "关于跨电网经营区常态化电力交易机制方案的复函(发改体改〔2025〕915号)",
-          "date": "2025-07-11",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202507/t20250711_1399134.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《关于有序推动绿电直连发展有关事项的通知》答记者问",
-          "date": "2025-05-30",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202505/t20250530_1398141.html"
-        },
-        {
-          "title": "关于有序推动绿电直连发展有关事项的通知(发改能源〔2025〕650号)",
-          "date": "2025-05-30",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202505/t20250530_1398138.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《关于印发〈电力辅助服务市场基本规则〉的通知》答记者问",
-          "date": "2025-04-28",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202504/t20250428_1397458.html"
-        },
-        {
-          "title": "关于印发《电力辅助服务市场基本规则》的通知(发改能源规〔2025〕411号)",
-          "date": "2025-04-29",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202504/t20250429_1397483.html"
-        },
-        {
-          "title": "《关于加快推进虚拟电厂发展的指导意见》政策解读",
-          "date": "2025-04-11",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202504/t20250411_1397170.html"
-        },
-        {
-          "title": "关于加快推进虚拟电厂发展的指导意见(发改能源〔2025〕357号)",
-          "date": "2025-04-11",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202504/t20250411_1397162.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《关于促进可再生能源绿色电力证书市场高质量发展的意见》答记者问",
-          "date": "2025-03-18",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202503/t20250318_1396645.html"
-        },
-        {
-          "title": "关于促进可再生能源绿色电力证书市场高质量发展的意见(发改能源〔2025〕262号)",
-          "date": "2025-03-18",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202503/t20250318_1396627.html"
-        },
-        {
-          "title": "一图读懂丨关于促进可再生能源绿色电力证书市场高质量发展的意见",
-          "date": "2025-03-20",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/zctj/202503/t20250320_1396726.html"
-        },
-        {
-          "title": "关于深化新能源上网电价市场化改革 促进新能源高质量发展的通知(发改价格〔2025〕136号)",
-          "date": "2025-02-09",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202502/t20250209_1396066.html"
-        },
-        {
-          "title": "国家发展改革委、国家能源局有关负责同志就深化新能源上网电价市场化改革答记者问",
-          "date": "2025-02-09",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202502/t20250209_1396069.html"
-        },
-        {
-          "title": "强化电力监控安全防护体系，支撑新型电力系统建设——《电力监控系统安全防护规定》专家解读",
-          "date": "2024-12-12",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202412/t20241212_1394978.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《关于印发〈电力中长期交易基本规则—绿色电力交易专章〉的通知》答记者问",
-          "date": "2024-08-23",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202408/t20240822_1392535.html"
-        },
-        {
-          "title": "关于印发《加快构建新型电力系统行动方案(2024—2027年)》的通知(发改能源〔2024〕1128号)",
-          "date": "2024-08-06",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202408/t20240806_1392258.html"
-        },
-        {
-          "title": "国家能源局电力司主要负责同志就《加快构建新型电力系统行动方案（2024—2027年）》答记者问",
-          "date": "2024-08-06",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202408/t20240806_1392262.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《电力市场运行基本规则》答记者问",
-          "date": "2024-05-13",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202405/t20240513_1382914.html"
-        },
-        {
-          "title": "《电力市场运行基本规则》 2024年第20号令",
-          "date": "2024-05-10",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202405/t20240510_1377245.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《电力市场监管办法》答记者问",
-          "date": "2024-05-08",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202405/t20240508_1370683.html"
-        },
-        {
-          "title": "《电力市场监管办法》 2024年第18号令",
-          "date": "2024-05-06",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202405/t20240506_1366319.html"
-        },
-        {
-          "title": "国家发展改革委有关负责同志就《关于加强电网调峰储能和智能化调度能力建设的指导意见》答记者问",
-          "date": "2024-02-27",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202402/t20240227_1364237.html"
-        },
-        {
-          "title": "关于加强电网调峰储能和智能化调度能力建设的指导意见",
-          "date": "2024-02-27",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202402/t20240227_1364257.html"
-        },
-        {
-          "title": "一图读懂｜关于加强电网调峰储能和智能化调度能力建设的指导意见",
-          "date": "2024-02-27",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/zctj/202402/t20240227_1364238.html"
-        },
-        {
-          "title": "国家建立健全电力辅助服务市场价格机制",
-          "date": "2024-02-08",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202402/t20240208_1364059.html"
-        },
-        {
-          "title": "关于建立健全电力辅助服务市场价格机制的通知(发改价格〔2024〕196号)",
-          "date": "2024-02-08",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202402/t20240208_1364053.html"
-        },
-        {
-          "title": "国家发展改革委、国家能源局有关负责同志就建立健全电力辅助服务市场价格机制答记者问",
-          "date": "2024-02-08",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202402/t20240208_1364058.html"
-        },
-        {
-          "title": "国家发展改革委、国家统计局、国家能源局联合印发《关于加强绿色电力证书与节能降碳政策衔接 大力促进非化石能源消费的通知》",
-          "date": "2024-02-02",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202402/t20240202_1363868.html"
-        },
-        {
-          "title": "关于加强绿色电力证书与节能降碳政策衔接大力促进非化石能源消费的通知(发改环资〔2024〕113号)",
-          "date": "2024-02-02",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202402/t20240202_1363856.html"
-        },
-        {
-          "title": "国家发展改革委有关负责同志就《关于加强绿色电力证书与节能降碳政策衔接 大力促进非化石能源消费的通知》答记者问",
-          "date": "2024-02-02",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202402/t20240202_1363866.html"
-        },
-        {
-          "title": "国家建立煤电容量电价机制",
-          "date": "2023-11-10",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202311/t20231110_1361905.html"
-        },
-        {
-          "title": "关于建立煤电容量电价机制的通知(发改价格〔2023〕1501号)",
-          "date": "2023-11-10",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202311/t20231110_1361897.html"
-        },
-        {
-          "title": "国家发展改革委有关负责同志就建立煤电容量电价机制答记者问",
-          "date": "2023-11-10",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202311/t20231110_1361904.html"
-        },
-        {
-          "title": "国家发展改革委有关负责同志就《电力负荷管理办法（2023年版）》答记者问",
-          "date": "2023-09-27",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202309/t20230927_1360907.html"
-        },
-        {
-          "title": "关于印发《电力负荷管理办法(2023年版)》的通知(发改运行规〔2023〕1261号)",
-          "date": "2023-09-27",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202309/t20230927_1360904.html"
-        },
-        {
-          "title": "国家发展改革委、国家能源局有关负责同志就《电力现货市场基本规则（试行）》答记者问",
-          "date": "2023-09-18",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202309/t20230918_1360663.html"
-        },
-        {
-          "title": "关于印发《电力现货市场基本规则（试行）》的通知(发改能源规〔2023〕1217号)",
-          "date": "2023-09-15",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202309/t20230915_1360625.html"
-        },
-        {
-          "title": "国家发展改革委、国家能源局有关负责同志就《关于做好可再生能源绿色电力证书全覆盖工作 促进可再生能源电力消费的通知》答记者问",
-          "date": "2023-08-03",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202308/t20230803_1359098.html"
-        },
-        {
-          "title": "关于做好可再生能源绿色电力证书全覆盖工作促进可再生能源电力消费的通知(发改能源〔2023〕1044号)",
-          "date": "2023-08-03",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202308/t20230803_1359092.html"
-        },
-        {
-          "title": "关于抽水蓄能电站容量电价及有关事项的通知(发改价格〔2023〕533号)",
-          "date": "2023-05-15",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202305/t20230515_1355744.html"
-        },
-        {
-          "title": "国家发展改革委推进第三监管周期输配电价改革",
-          "date": "2023-05-15",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202305/t20230515_1355769.html"
-        },
-        {
-          "title": "关于第三监管周期省级电网输配电价及有关事项的通知(发改价格〔2023〕526号)",
-          "date": "2023-05-15",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202305/t20230515_1355747.html"
         }
       ]
     },
@@ -958,23 +363,11 @@
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/index_2.html",
           "bytes": 14558
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/hdjl/yjzq/index_3.html",
-          "bytes": 13807
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/hdjl/yjzq/index_4.html",
-          "bytes": 15234
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/hdjl/yjzq/index_5.html",
-          "bytes": 14416
         }
       ],
-      "stopReason": "passed-history-start",
-      "listed": 128,
-      "selected": 8,
+      "stopReason": "page-limit",
+      "listed": 75,
+      "selected": 7,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -1012,11 +405,6 @@
           "title": "关于《电力市场计量结算基本规则（征求意见稿）》公开征求意见的通知",
           "date": "2025-04-08",
           "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/dlscjljsjbgz"
-        },
-        {
-          "title": "国家发展改革委关于向社会公开征求《电力需求侧管理办法（征求意见稿）》《电力负荷管理办法（征求意见稿）》意见的公告",
-          "date": "2023-05-19",
-          "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/dlxqcglbf"
         }
       ]
     },
@@ -1034,14 +422,10 @@
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/yjfk/index_2.html",
           "bytes": 13042
-        },
-        {
-          "url": "https://www.ndrc.gov.cn/hdjl/yjzq/yjfk/index_3.html",
-          "bytes": 13795
         }
       ],
-      "stopReason": "passed-history-start",
-      "listed": 100,
+      "stopReason": "page-limit",
+      "listed": 75,
       "selected": 5,
       "listErrors": [],
       "failures": [],
@@ -1078,7 +462,7 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108801
+          "bytes": 108945
         }
       ],
       "stopReason": "single-page",
@@ -1925,15 +1309,11 @@
         {
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/index_2.html",
           "bytes": 18287
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/tzgg/index_3.html",
-          "bytes": 18643
         }
       ],
-      "stopReason": "passed-history-start",
-      "listed": 59,
-      "selected": 22,
+      "stopReason": "page-limit",
+      "listed": 44,
+      "selected": 18,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -1941,11 +1321,6 @@
           "title": "关于印发《山东省电力并网运行管理实施细则》《山东省电力辅助服务管理实施细则》(2026年修订...",
           "date": "2026-10-10",
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202610/t20261010_310115.html"
-        },
-        {
-          "title": "关于开展电力市场秩序问题线索征集工作的通知",
-          "date": "2026-08-20",
-          "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202608/t20260820_307013.html"
         },
         {
           "title": "关于印发《山东省电力市场监管办法(试行)》《山东电力市场电力交易主体异常行为认定和处置监...",
@@ -2031,21 +1406,6 @@
           "title": "关于印发《山东省电力并网运行管理实施细则》、《山东省电力辅助服务管理实施细则》的通知",
           "date": "2023-07-24",
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202309/t20230919_110474.html"
-        },
-        {
-          "title": "山东能源监管办关于征求《山东省电力并网运行管理实施细则(2023年修订版)》《山东省电力辅助...",
-          "date": "2023-03-08",
-          "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202309/t20230919_110472.html"
-        },
-        {
-          "title": "山东能源监管办关于征求《山东省发电厂并网运行管理实施细则(2022年修订版)》等六个规范性文...",
-          "date": "2022-10-10",
-          "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202309/t20230919_110470.html"
-        },
-        {
-          "title": "关于征求《山东电网地方公用电厂并网运行管理实施细则》意见的通知",
-          "date": "2022-05-05",
-          "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202309/t20230919_110465.html"
         }
       ]
     },
@@ -2063,485 +1423,39 @@
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_2.html",
           "bytes": 18309
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_3.html",
-          "bytes": 18408
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_4.html",
-          "bytes": 18437
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_5.html",
-          "bytes": 18292
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_6.html",
-          "bytes": 18215
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_7.html",
-          "bytes": 18247
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_8.html",
-          "bytes": 18321
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_9.html",
-          "bytes": 18360
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_10.html",
-          "bytes": 18500
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_11.html",
-          "bytes": 18282
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_12.html",
-          "bytes": 18384
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_13.html",
-          "bytes": 18390
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_14.html",
-          "bytes": 18299
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_15.html",
-          "bytes": 18351
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_16.html",
-          "bytes": 18276
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_17.html",
-          "bytes": 18385
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_18.html",
-          "bytes": 18297
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_19.html",
-          "bytes": 18165
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_20.html",
-          "bytes": 18234
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_21.html",
-          "bytes": 18356
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_22.html",
-          "bytes": 18322
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_23.html",
-          "bytes": 18376
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_24.html",
-          "bytes": 18323
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_25.html",
-          "bytes": 18342
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_26.html",
-          "bytes": 18380
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_27.html",
-          "bytes": 18432
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_28.html",
-          "bytes": 18435
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_29.html",
-          "bytes": 18352
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_30.html",
-          "bytes": 18395
-        },
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_31.html",
-          "bytes": 18329
         }
       ],
-      "stopReason": "page-read-error",
-      "listed": 465,
-      "selected": 62,
-      "listErrors": [
-        {
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_32.html",
-          "error": "The operation was aborted due to timeout"
-        }
-      ],
-      "failures": [],
-      "entries": [
-        {
-          "title": "山东能源监管办规范电力系统并网运行管理 保障电力系统安全稳定运行",
-          "date": "2026-10-20",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202610/t20261020_310658.html"
-        },
-        {
-          "title": "山东能源监管办扎实开展电力市场秩序现场检查工作",
-          "date": "2026-10-10",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202610/t20261010_310107.html"
-        },
-        {
-          "title": "山东能源监管办全面排查整治新能源及储能电站涉网能力重大事故隐患",
-          "date": "2026-08-31",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202608/t20260831_307659.html"
-        },
-        {
-          "title": "山东能源监管办以市场化手段推动储能高质量规模化发展",
-          "date": "2026-08-13",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202608/t20260813_306666.html"
-        },
-        {
-          "title": "山东能源监管办多措并举推动新能源与配建储能协同高质量发展",
-          "date": "2026-07-30",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202607/t20260730_305682.html"
-        },
-        {
-          "title": "山东能源监管办以机制创新推动全国首例台区储能虚拟电厂调频交易落地",
-          "date": "2026-07-30",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202607/t20260730_305681.html"
-        },
-        {
-          "title": "山东能源监管办有序推进非公共电网项目绿证核发",
-          "date": "2026-07-30",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202607/t20260730_305680.html"
-        },
-        {
-          "title": "山东能源监管办修订《山东省电力并网运行管理实施细则》",
-          "date": "2026-06-29",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202606/t20260629_303765.html"
-        },
-        {
-          "title": "山东能源监管办强化工作协同机制 扎实推进绿证核发全覆盖",
-          "date": "2026-06-15",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202606/t20260615_302958.html"
-        },
-        {
-          "title": "山东能源监管办印发新版电力市场规则 实现省内规则与国家改革体系精确衔接",
-          "date": "2026-05-21",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202605/t20260521_301514.html"
-        },
-        {
-          "title": "山东能源监管办启动2026年山东省电网公平开放监管",
-          "date": "2026-05-21",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202605/t20260521_301512.html"
-        },
-        {
-          "title": "山东能源监管办聚焦关键环节 持续提升绿证核发工作质效",
-          "date": "2026-05-11",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202605/t20260511_300927.html"
-        },
-        {
-          "title": "山东能源监管办多措并举推动新能源配建储能高效利用",
-          "date": "2026-04-27",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202604/t20260427_300325.html"
-        },
-        {
-          "title": "山东能源监管办充分运用市场化手段助力新能源高水平消纳和可持续发展",
-          "date": "2026-04-27",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202604/t20260427_300324.html"
-        },
-        {
-          "title": "山东能源监管办以市场化手段保障新能源高水平消纳",
-          "date": "2026-04-04",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202604/t20260404_299213.html"
-        },
-        {
-          "title": "山东能源监管办修订电力市场监管办法及配套指引",
-          "date": "2026-04-04",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202604/t20260404_299212.html"
-        },
-        {
-          "title": "山东能源监管办加强和规范并网主体调度管理 服务新型电力系统建设",
-          "date": "2026-01-29",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202602/t20260202_295236.html"
-        },
-        {
-          "title": "山东能源监管办组织优化电力现货市场机制",
-          "date": "2025-12-26",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202512/t20251226_293195.html"
-        },
-        {
-          "title": "山东能源监管办召开绿证核发及异议处理工作座谈会",
-          "date": "2025-12-26",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202512/t20251226_293193.html"
-        },
-        {
-          "title": "山东印发新版电力市场规则 多维度完善市场运行机制",
-          "date": "2025-12-24",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202512/t20251224_292982.html"
-        },
-        {
-          "title": "山东能源监管办完善虚拟电厂市场机制",
-          "date": "2025-11-28",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202511/t20251128_291309.html"
-        },
-        {
-          "title": "山东能源监管办持续强化电力市场异常行为监测 严肃处置经营主体不当竞争行为",
-          "date": "2025-11-28",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202511/t20251128_291308.html"
-        },
-        {
-          "title": "山东能源监管办积极推动新型经营主体参与调频辅助服务市场",
-          "date": "2025-10-30",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202510/t20251030_289655.html"
-        },
-        {
-          "title": "山东能源监管办召开供电企业信息公开工作会商会议",
-          "date": "2025-10-14",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202510/t20251014_288662.html"
-        },
-        {
-          "title": "山东能源监管办开展绿电直连“关键小事”调研",
-          "date": "2025-09-28",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202509/t20250928_288125.html"
-        },
-        {
-          "title": "山东能源监管办组织开展电力市场秩序突出问题和电力系统调节能力规划建设调用现场监管工作",
-          "date": "2025-09-01",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202509/t20250901_286617.html"
-        },
-        {
-          "title": "山东能源监管办组织新版《山东电力市场规则(试行)》公开征求意见",
-          "date": "2025-07-30",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202507/t20250730_285113.html"
-        },
-        {
-          "title": "山东能源监管办扎实推进绿证数据校核和异议处理工作",
-          "date": "2025-07-29",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202507/t20250729_284974.html"
-        },
-        {
-          "title": "山东能源监管办深入开展电网公平开放现场监管",
-          "date": "2025-07-15",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202507/t20250715_284351.html"
-        },
-        {
-          "title": "山东能源监管办开展绿证调研工作",
-          "date": "2025-05-30",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202505/t20250530_281943.html"
-        },
-        {
-          "title": "山东能源监管办督导建立电力市场成员自律公约和经营主体不良行为监测处理制度机制",
-          "date": "2025-05-30",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202505/t20250530_281940.html"
-        },
-        {
-          "title": "山东能源监管办启动2025年电力市场秩序突出问题专项监管工作",
-          "date": "2025-05-30",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202505/t20250530_281939.html"
-        },
-        {
-          "title": "山东能源监管办启动2025年山东省电网公平开放专项监管工作",
-          "date": "2025-04-28",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202504/t20250428_280303.html"
-        },
-        {
-          "title": "山东能源监管办有序推进新能源上网电价市场化改革政策市场规则衔接落实",
-          "date": "2025-04-08",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202504/t20250408_279261.html"
-        },
-        {
-          "title": "山东能源监管办开展“服务民营经济 加强绿证宣传 推广绿证应用”许可开放日活动",
-          "date": "2025-03-31",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202503/t20250331_278804.html"
-        },
-        {
-          "title": "山东能源监管办组织研讨新能源市场化改革及电力市场规则优化重点工作",
-          "date": "2025-02-28",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202502/t20250228_277348.html"
-        },
-        {
-          "title": "山东能源监管办积极推动新型储能项目质量监督工作",
-          "date": "2025-01-23",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202501/t20250123_275741.html"
-        },
-        {
-          "title": "山东能源监管办开展新型主体参与电力市场机制调研",
-          "date": "2024-12-31",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202412/t20241231_274755.html"
-        },
-        {
-          "title": "山东能源监管办编制山东电力辅助服务市场实施方案",
-          "date": "2024-10-29",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202410/t20241029_271508.html"
-        },
-        {
-          "title": "山东能源监管办不断探索创新 深化电力市场建设运行数字化监管",
-          "date": "2024-10-29",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202410/t20241029_271507.html"
-        },
-        {
-          "title": "山东能源监管办开展绿证核发异议数据核实处理工作",
-          "date": "2024-10-10",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202410/t20241010_270486.html"
-        },
-        {
-          "title": "山东建设完善电力市场机制、服务支持民营经济和新质生产力发展",
-          "date": "2024-09-27",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202409/t20240927_270152.html"
-        },
-        {
-          "title": "山东能源监管办开展分布式光伏建设管理及绿证核发工作调研",
-          "date": "2024-08-27",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202408/t20240827_268480.html"
-        },
-        {
-          "title": "山东能源监管办召开“绿证”校核及 应用工作推进会",
-          "date": "2024-08-27",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202408/t20240827_268478.html"
-        },
-        {
-          "title": "山东组织编制电力市场结算细则及计算示例",
-          "date": "2024-06-05",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202406/t20240605_264096.html"
-        },
-        {
-          "title": "山东能源监管办组织召开电力市场参数研讨会",
-          "date": "2024-06-05",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202406/t20240605_264095.html"
-        },
-        {
-          "title": "山东能源监管办部署开展绿证申领交易情况调研工作",
-          "date": "2024-06-03",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202406/t20240603_263945.html"
-        },
-        {
-          "title": "山东印发新版电力市场规则",
-          "date": "2024-04-25",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202404/t20240425_261343.html"
-        },
-        {
-          "title": "山东能源监管办不断提升电力市场数字化监管及风险防控水平",
-          "date": "2024-04-01",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202404/t20240401_259954.html"
-        },
-        {
-          "title": "山东能源监管办召开“绿证”数据校核工作研讨会",
-          "date": "2024-02-27",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202402/t20240227_257191.html"
-        },
-        {
-          "title": "山东持续创新优化电力市场机制 支撑服务能源安全保障和绿色低碳转型",
-          "date": "2024-01-29",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202401/t20240129_230903.html"
-        },
-        {
-          "title": "山东能源监管办积极服务省内核电并网运行",
-          "date": "2023-11-27",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202401/t20240122_228414.html"
-        },
-        {
-          "title": "山东创新机制首次推动核电机组参与电力市场交易",
-          "date": "2023-10-30",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202401/t20240122_228403.html"
-        },
-        {
-          "title": "山东能源监管办组织开展电力市场交易规则修订工作",
-          "date": "2023-10-30",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202401/t20240122_228402.html"
-        },
-        {
-          "title": "山东爬坡辅助服务市场交易规则首次面向社会公开征求意见",
-          "date": "2023-08-24",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202309/t20230919_109879.html"
-        },
-        {
-          "title": "山东电力市场完成2023年市场规则修订第一次集中工作",
-          "date": "2023-07-04",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202309/t20230919_109867.html"
-        },
-        {
-          "title": "山东能源监管办积极推进电力市场监测系统建设工作",
-          "date": "2023-05-30",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202309/t20230919_109855.html"
-        },
-        {
-          "title": "山东能源监管办认真履职尽责，持续推动能源改革发展与电力市场建设",
-          "date": "2023-05-04",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202309/t20230919_109844.html"
-        },
-        {
-          "title": "山东能源监管办扎实做好电力并网运行管理和辅助服务管理细则修订工作",
-          "date": "2023-04-03",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202309/t20230919_109833.html"
-        },
-        {
-          "title": "山东能源监管办建立电力市场运行分析常态化工作机制",
-          "date": "2023-04-03",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202309/t20230919_109832.html"
-        },
-        {
-          "title": "山东电力市场探索建立新能源与配建储能联合参与市场机制",
-          "date": "2023-03-07",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202309/t20230919_109821.html"
-        },
-        {
-          "title": "山东能源监管办积极推进2023年度电力中长期交易",
-          "date": "2023-01-03",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202309/t20230919_109801.html"
-        }
-      ]
-    },
-    {
-      "sourceId": "sd-nyj-notices",
-      "error": "官网返回验证页，未读取政策正文",
-      "pages": []
-    },
-    {
-      "sourceId": "sd-nyj-consultation",
-      "pages": [
-        {
-          "url": "http://nyj.shandong.gov.cn/col/col59978/index.html",
-          "bytes": 18427
-        },
-        {
-          "url": "http://nyj.shandong.gov.cn/module/web/jpage/dataproxy.jsp?page=1&webid=355&path=http://nyj.shandong.gov.cn/&columnid=59978&unitid=745919&webname=%25E5%25B1%25B1%25E4%25B8%259C%25E7%259C%2581%25E8%2583%25BD%25E6%25BA%2590%25E5%25B1%2580&permissiontype=0",
-          "bytes": 49
-        }
-      ],
-      "stopReason": "unparsed-page",
-      "listed": 31,
+      "stopReason": "page-limit",
+      "listed": 40,
       "selected": 1,
       "listErrors": [],
       "failures": [],
       "entries": [
         {
-          "title": "关于公开征求《山东省能源行政处罚裁量基准（征求意见稿）》意见的通知",
-          "date": "2026-07-27",
-          "url": "http://nyj.shandong.gov.cn/art/2026/7/27/art_59978_10313655.html"
+          "title": "山东能源监管办修订《山东省电力并网运行管理实施细则》",
+          "date": "2026-06-29",
+          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202606/t20260629_303765.html"
         }
       ]
     },
     {
+      "sourceId": "sd-nyj-notices",
+      "error": "fetch failed",
+      "pages": []
+    },
+    {
+      "sourceId": "sd-nyj-consultation",
+      "error": "fetch failed",
+      "pages": []
+    },
+    {
       "sourceId": "sd-nyj-disclosure",
-      "error": "动态公开目录尚未解析",
+      "error": "fetch failed",
       "pages": []
     },
     {
       "sourceId": "sd-fgw",
-      "error": "Hostname/IP does not match certificate's altnames: Host: fgw.shandong.gov.cn. is not in the cert's altnames: DNS:*.sdgh.org.cn, DNS:sdgh.org.cn",
+      "error": "fetch failed",
       "pages": []
     }
   ]
