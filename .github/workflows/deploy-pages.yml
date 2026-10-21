@@ -4,8 +4,8 @@ on:
   push:
     branches: [main]
   schedule:
-    # GitHub cron uses UTC. Minute 17 avoids the busiest top-of-hour period.
-    - cron: "17 * * * *"
+    # GitHub cron uses UTC: 01:00 and 13:00 are 09:00 and 21:00 in China Standard Time.
+    - cron: "0 1,13 * * *"
   workflow_dispatch:
 
 permissions:
