@@ -9,6 +9,8 @@ node scripts/build-static.mjs
 
 将生成的 `dist/` 目录作为静态站点根目录发布。它包含首页、样式、前台脚本与数据，不需要发布采集脚本、审计记录或文档。托管目标为 GitHub Pages，仓库为 `EricZhang-OUC/power-market-policy-updates`。
 
+公开地址：<https://ericzhang-ouc.github.io/power-market-policy-updates/>
+
 ## 每小时更新
 
 统一采集命令：
@@ -23,7 +25,7 @@ node scripts/update-all.mjs
 
 `.github/workflows/deploy-pages.yml` 在 `main` 分支推送时发布网站，并在每小时第17分钟运行“采集 → 测试 → 打包 → 发布”。也可在 GitHub Actions 页面手动运行。定时任务使用 UTC 计时，但每小时一次不受时区影响。采集结果提交回仓库，以保留已发现的历史记录。
 
-某个来源失败时保留其历史记录和异常状态，后续来源仍继续采集。界面上的更新日期表示本次有来源成功，不代表每一个来源都已完整同步。自动调度启用前，不能将网站描述为已实现每小时在线同步。
+某个来源失败时保留其历史记录和异常状态，后续来源仍继续采集。界面上的更新日期表示本次有来源成功，不代表每一个来源都已完整同步。自动调度已启用；GitHub Actions 每小时执行一次，个别来源失败时会继续发布其余成功来源及既有记录。
 
 ## 媒体来源边界
 
