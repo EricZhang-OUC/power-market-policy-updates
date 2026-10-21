@@ -1,0 +1,751 @@
+{
+  "discoveredAt": "2026-10-21T03:14:16.980Z",
+  "registryUrl": "https://www.nea.gov.cn/",
+  "agencies": [
+    {
+      "id": "dbj",
+      "name": "东北能源监管局",
+      "area": "东北区域",
+      "homepage": "https://dbj.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "dbj-0",
+          "name": "东北能源监管局",
+          "region": "东北区域",
+          "channel": "监管动态",
+          "url": "https://dbj.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "dbj-1",
+          "name": "东北能源监管局",
+          "region": "东北区域",
+          "channel": "通知公告",
+          "url": "https://dbj.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "dbj-2",
+          "name": "东北能源监管局",
+          "region": "东北区域",
+          "channel": "政策法规",
+          "url": "https://dbj.nea.gov.cn/xxgk/zcfg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "dbj-3",
+          "name": "东北能源监管局",
+          "region": "东北区域",
+          "channel": "政策解读",
+          "url": "https://dbj.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        },
+        {
+          "id": "dbj-4",
+          "name": "东北能源监管局",
+          "region": "东北区域",
+          "channel": "调查征集",
+          "url": "https://dbj.nea.gov.cn/hdhy/dczj/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "fjb",
+      "name": "福建能源监管办",
+      "area": "福建",
+      "homepage": "https://fjb.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "fjb-0",
+          "name": "福建能源监管办",
+          "region": "福建",
+          "channel": "监管动态",
+          "url": "https://fjb.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "fjb-1",
+          "name": "福建能源监管办",
+          "region": "福建",
+          "channel": "通知公告",
+          "url": "https://fjb.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "fjb-2",
+          "name": "福建能源监管办",
+          "region": "福建",
+          "channel": "政策法规",
+          "url": "https://fjb.nea.gov.cn/xxgk/zcfg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "fjb-3",
+          "name": "福建能源监管办",
+          "region": "福建",
+          "channel": "政策解读",
+          "url": "https://fjb.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        },
+        {
+          "id": "fjb-4",
+          "name": "福建能源监管办",
+          "region": "福建",
+          "channel": "调查征集",
+          "url": "https://fjb.nea.gov.cn/hdhy/dczj/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "gsb",
+      "name": "甘肃能源监管办",
+      "area": "甘肃",
+      "homepage": "https://gsb.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "gsb-0",
+          "name": "甘肃能源监管办",
+          "region": "甘肃",
+          "channel": "监管动态",
+          "url": "https://gsb.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "gsb-1",
+          "name": "甘肃能源监管办",
+          "region": "甘肃",
+          "channel": "通知公告",
+          "url": "https://gsb.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "gsb-2",
+          "name": "甘肃能源监管办",
+          "region": "甘肃",
+          "channel": "政策解读",
+          "url": "https://gsb.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "gzb",
+      "name": "贵州能源监管办",
+      "area": "贵州",
+      "homepage": "https://gzb.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "gzb-0",
+          "name": "贵州能源监管办",
+          "region": "贵州",
+          "channel": "监管动态",
+          "url": "https://gzb.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "gzb-1",
+          "name": "贵州能源监管办",
+          "region": "贵州",
+          "channel": "通知公告",
+          "url": "https://gzb.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "gzb-2",
+          "name": "贵州能源监管办",
+          "region": "贵州",
+          "channel": "调查征集",
+          "url": "https://gzb.nea.gov.cn/hdhy/dczj/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "hbj",
+      "name": "华北能源监管局",
+      "area": "华北区域",
+      "homepage": "https://hbj.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "hbj-0",
+          "name": "华北能源监管局",
+          "region": "华北区域",
+          "channel": "监管动态",
+          "url": "https://hbj.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hbj-1",
+          "name": "华北能源监管局",
+          "region": "华北区域",
+          "channel": "通知公告",
+          "url": "https://hbj.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hbj-2",
+          "name": "华北能源监管局",
+          "region": "华北区域",
+          "channel": "政策法规",
+          "url": "https://hbj.nea.gov.cn/xxgk/zcfg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hbj-3",
+          "name": "华北能源监管局",
+          "region": "华北区域",
+          "channel": "政策解读",
+          "url": "https://hbj.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hbj-4",
+          "name": "华北能源监管局",
+          "region": "华北区域",
+          "channel": "调查征集",
+          "url": "https://hbj.nea.gov.cn/hdhy/dczj/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "hdj",
+      "name": "华东能源监管局",
+      "area": "华东区域",
+      "homepage": "https://hdj.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "hdj-0",
+          "name": "华东能源监管局",
+          "region": "华东区域",
+          "channel": "监管动态",
+          "url": "https://hdj.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hdj-1",
+          "name": "华东能源监管局",
+          "region": "华东区域",
+          "channel": "通知公告",
+          "url": "https://hdj.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hdj-2",
+          "name": "华东能源监管局",
+          "region": "华东区域",
+          "channel": "调查征集",
+          "url": "https://hdj.nea.gov.cn/hdhy/dczj/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "henb",
+      "name": "河南能源监管办",
+      "area": "河南",
+      "homepage": "https://henb.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "henb-0",
+          "name": "河南能源监管办",
+          "region": "河南",
+          "channel": "监管动态",
+          "url": "https://henb.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "henb-1",
+          "name": "河南能源监管办",
+          "region": "河南",
+          "channel": "通知",
+          "url": "https://henb.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "henb-2",
+          "name": "河南能源监管办",
+          "region": "河南",
+          "channel": "公告",
+          "url": "https://henb.nea.gov.cn/dtyw/jggg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "henb-3",
+          "name": "河南能源监管办",
+          "region": "河南",
+          "channel": "政策法规",
+          "url": "https://henb.nea.gov.cn/xxgk/zcfg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "henb-4",
+          "name": "河南能源监管办",
+          "region": "河南",
+          "channel": "政策解读",
+          "url": "https://henb.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        },
+        {
+          "id": "henb-5",
+          "name": "河南能源监管办",
+          "region": "河南",
+          "channel": "调查征集",
+          "url": "https://henb.nea.gov.cn/hdhy/dczj/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "hunb",
+      "name": "湖南能源监管办",
+      "area": "湖南",
+      "homepage": "https://hunb.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "hunb-0",
+          "name": "湖南能源监管办",
+          "region": "湖南",
+          "channel": "监管动态",
+          "url": "https://hunb.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hunb-1",
+          "name": "湖南能源监管办",
+          "region": "湖南",
+          "channel": "通知公告",
+          "url": "https://hunb.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hunb-2",
+          "name": "湖南能源监管办",
+          "region": "湖南",
+          "channel": "通知",
+          "url": "https://hunb.nea.gov.cn/dtyw/tzgg/tz/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hunb-3",
+          "name": "湖南能源监管办",
+          "region": "湖南",
+          "channel": "公示公告",
+          "url": "https://hunb.nea.gov.cn/dtyw/tzgg/gsgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hunb-4",
+          "name": "湖南能源监管办",
+          "region": "湖南",
+          "channel": "政策法规",
+          "url": "https://hunb.nea.gov.cn/xxgk/zcfg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hunb-5",
+          "name": "湖南能源监管办",
+          "region": "湖南",
+          "channel": "政策解读",
+          "url": "https://hunb.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hunb-6",
+          "name": "湖南能源监管办",
+          "region": "湖南",
+          "channel": "调查征集",
+          "url": "https://hunb.nea.gov.cn/hdhy/dczj/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "hzj",
+      "name": "华中能源监管局",
+      "area": "华中区域",
+      "homepage": "https://hzj.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "hzj-0",
+          "name": "华中能源监管局",
+          "region": "华中区域",
+          "channel": "监管动态",
+          "url": "https://hzj.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hzj-1",
+          "name": "华中能源监管局",
+          "region": "华中区域",
+          "channel": "通知公告",
+          "url": "https://hzj.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "hzj-2",
+          "name": "华中能源监管局",
+          "region": "华中区域",
+          "channel": "政策解读",
+          "url": "https://hzj.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "jsb",
+      "name": "江苏能源监管办",
+      "area": "江苏",
+      "homepage": "https://jsb.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "jsb-0",
+          "name": "江苏能源监管办",
+          "region": "江苏",
+          "channel": "监管动态",
+          "url": "https://jsb.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "jsb-1",
+          "name": "江苏能源监管办",
+          "region": "江苏",
+          "channel": "通知",
+          "url": "https://jsb.nea.gov.cn/dtyw/tz/",
+          "adapter": "trs"
+        },
+        {
+          "id": "jsb-2",
+          "name": "江苏能源监管办",
+          "region": "江苏",
+          "channel": "公告",
+          "url": "https://jsb.nea.gov.cn/dtyw/gg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "jsb-3",
+          "name": "江苏能源监管办",
+          "region": "江苏",
+          "channel": "政策法规",
+          "url": "https://jsb.nea.gov.cn/xxgk/zcfg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "jsb-4",
+          "name": "江苏能源监管办",
+          "region": "江苏",
+          "channel": "政策解读",
+          "url": "https://jsb.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "nfj",
+      "name": "南方能源监管局",
+      "area": "南方区域",
+      "homepage": "https://nfj.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "nfj-0",
+          "name": "南方能源监管局",
+          "region": "南方区域",
+          "channel": "监管动态",
+          "url": "https://nfj.nea.gov.cn/xwzx/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "nfj-1",
+          "name": "南方能源监管局",
+          "region": "南方区域",
+          "channel": "通知公示",
+          "url": "https://nfj.nea.gov.cn/xwzx/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "nfj-2",
+          "name": "南方能源监管局",
+          "region": "南方区域",
+          "channel": "政策法规",
+          "url": "https://nfj.nea.gov.cn/xxgk/zcfg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "nfj-3",
+          "name": "南方能源监管局",
+          "region": "南方区域",
+          "channel": "政策解读",
+          "url": "https://nfj.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "scb",
+      "name": "四川能源监管办",
+      "area": "四川",
+      "homepage": "https://scb.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "scb-0",
+          "name": "四川能源监管办",
+          "region": "四川",
+          "channel": "监管动态",
+          "url": "https://scb.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "scb-1",
+          "name": "四川能源监管办",
+          "region": "四川",
+          "channel": "通知公告",
+          "url": "https://scb.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "scb-2",
+          "name": "四川能源监管办",
+          "region": "四川",
+          "channel": "政策法规",
+          "url": "https://scb.nea.gov.cn/xxgk/flfg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "scb-3",
+          "name": "四川能源监管办",
+          "region": "四川",
+          "channel": "政策解读",
+          "url": "https://scb.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "sxb",
+      "name": "山西能源监管办",
+      "area": "山西",
+      "homepage": "https://sxb.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "sxb-0",
+          "name": "山西能源监管办",
+          "region": "山西",
+          "channel": "监管动态",
+          "url": "https://sxb.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "sxb-1",
+          "name": "山西能源监管办",
+          "region": "山西",
+          "channel": "公示公告",
+          "url": "https://sxb.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "sxb-2",
+          "name": "山西能源监管办",
+          "region": "山西",
+          "channel": "政策法规",
+          "url": "https://sxb.nea.gov.cn/xxgk/zcfb/",
+          "adapter": "trs"
+        },
+        {
+          "id": "sxb-3",
+          "name": "山西能源监管办",
+          "region": "山西",
+          "channel": "政策解读",
+          "url": "https://sxb.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        },
+        {
+          "id": "sxb-4",
+          "name": "山西能源监管办",
+          "region": "山西",
+          "channel": "调查征集",
+          "url": "https://sxb.nea.gov.cn/hdhy/dczj/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "xbj",
+      "name": "西北能源监管局",
+      "area": "西北区域",
+      "homepage": "https://xbj.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "xbj-0",
+          "name": "西北能源监管局",
+          "region": "西北区域",
+          "channel": "监管动态",
+          "url": "https://xbj.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "xbj-1",
+          "name": "西北能源监管局",
+          "region": "西北区域",
+          "channel": "通知公告",
+          "url": "https://xbj.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "xbj-2",
+          "name": "西北能源监管局",
+          "region": "西北区域",
+          "channel": "政策法规",
+          "url": "https://xbj.nea.gov.cn/xxgk/zcfg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "xbj-3",
+          "name": "西北能源监管局",
+          "region": "西北区域",
+          "channel": "政策解读",
+          "url": "https://xbj.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        },
+        {
+          "id": "xbj-4",
+          "name": "西北能源监管局",
+          "region": "西北区域",
+          "channel": "调查征集",
+          "url": "https://xbj.nea.gov.cn/hdhy/dczj/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "xjb",
+      "name": "新疆能源监管办",
+      "area": "新疆",
+      "homepage": "https://xjb.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "xjb-0",
+          "name": "新疆能源监管办",
+          "region": "新疆",
+          "channel": "监管动态",
+          "url": "https://xjb.nea.gov.cn/dtyw/jgdt/",
+          "adapter": "trs"
+        },
+        {
+          "id": "xjb-1",
+          "name": "新疆能源监管办",
+          "region": "新疆",
+          "channel": "通知公告",
+          "url": "https://xjb.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "xjb-2",
+          "name": "新疆能源监管办",
+          "region": "新疆",
+          "channel": "政策法规",
+          "url": "https://xjb.nea.gov.cn/xxgk/zcfg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "xjb-3",
+          "name": "新疆能源监管办",
+          "region": "新疆",
+          "channel": "政策解读",
+          "url": "https://xjb.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "ynb",
+      "name": "云南能源监管办",
+      "area": "云南",
+      "homepage": "https://ynb.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "ynb-0",
+          "name": "云南能源监管办",
+          "region": "云南",
+          "channel": "公示公告",
+          "url": "https://ynb.nea.gov.cn/dtyw/gsgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "ynb-1",
+          "name": "云南能源监管办",
+          "region": "云南",
+          "channel": "政策法规",
+          "url": "https://ynb.nea.gov.cn/xxgk/zcfg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "ynb-2",
+          "name": "云南能源监管办",
+          "region": "云南",
+          "channel": "政策解读",
+          "url": "https://ynb.nea.gov.cn/xxgk/zcjd/",
+          "adapter": "trs"
+        },
+        {
+          "id": "ynb-3",
+          "name": "云南能源监管办",
+          "region": "云南",
+          "channel": "调查征集",
+          "url": "https://ynb.nea.gov.cn/hdhy/dczj/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    },
+    {
+      "id": "zjb",
+      "name": "浙江能源监管办",
+      "area": "浙江",
+      "homepage": "https://zjb.nea.gov.cn/",
+      "channels": [
+        {
+          "id": "zjb-0",
+          "name": "浙江能源监管办",
+          "region": "浙江",
+          "channel": "监管动态",
+          "url": "https://zjb.nea.gov.cn/dtyw/jgdt/index.html",
+          "adapter": "trs"
+        },
+        {
+          "id": "zjb-1",
+          "name": "浙江能源监管办",
+          "region": "浙江",
+          "channel": "通知公告",
+          "url": "https://zjb.nea.gov.cn/dtyw/tzgg/",
+          "adapter": "trs"
+        },
+        {
+          "id": "zjb-2",
+          "name": "浙江能源监管办",
+          "region": "浙江",
+          "channel": "政策法规",
+          "url": "https://zjb.nea.gov.cn/xxgk/zcfg/",
+          "adapter": "trs"
+        }
+      ],
+      "status": "discovered"
+    }
+  ]
+}

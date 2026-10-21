@@ -1,0 +1,21 @@
+export const sources = [
+ ['ndrc','国家发展改革委','国家','通知','https://www.ndrc.gov.cn/xxgk/zcfb/tz/','trs'],
+ ['ndrc-normative','国家发展改革委','国家','规范性文件','https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/','trs'],
+ ['ndrc-orders','国家发展改革委','国家','发展改革委令','https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/','trs'],
+ ['ndrc-announcements','国家发展改革委','国家','公告','https://www.ndrc.gov.cn/xxgk/zcfb/gg/','trs'],
+ ['ndrc-interpretation','国家发展改革委','国家','政策解读','https://www.ndrc.gov.cn/xxgk/jd/jd/','trs'],
+ ['ndrc-consultation','国家发展改革委','国家','意见征求','https://www.ndrc.gov.cn/hdjl/yjzq/','trs'],
+ ['ndrc-feedback','国家发展改革委','国家','意见反馈','https://www.ndrc.gov.cn/hdjl/yjzq/yjfk/index.html','trs'],
+ ['nea','国家能源局','国家','首页补充','https://www.nea.gov.cn/','single'],
+ ['nea-documents','国家能源局','国家','最新文件','https://www.nea.gov.cn/policy/zxwj.htm','nea-json'],
+ ['nea-notices','国家能源局','国家','通知','https://www.nea.gov.cn/policy/tz.htm','nea-json'],
+ ['nea-announcements','国家能源局','国家','公告','https://www.nea.gov.cn/policy/gg.htm','nea-json'],
+ ['nea-interpretation','国家能源局','国家','解读','https://www.nea.gov.cn/policy/jd.htm','nea-json'],
+ ['nea-consultation','国家能源局','国家','网上公示及调查','https://www.nea.gov.cn/hudong/gongshi/index.htm','single'],
+ ['sdb','山东能源监管办','山东','通知公告','https://sdb.nea.gov.cn/dtyw/tzgg/','trs'],
+ ['sdb-interpretation','山东能源监管办','山东','监管动态','https://sdb.nea.gov.cn/dtyw/jgdt/','trs'],
+ ['sd-nyj-notices','山东省能源局','山东','通知公告','http://nyj.shandong.gov.cn/col/col59960/index.html','jpage'],
+ ['sd-nyj-consultation','山东省能源局','山东','调查征集','http://nyj.shandong.gov.cn/col/col59978/index.html','jpage'],
+ ['sd-nyj-disclosure','山东省能源局','山东','法规文件','http://nyj.shandong.gov.cn/col/col100377/index.html?vc_xxgkarea=11370000MB28526373&number=SD02','discovery'],
+ ['sd-fgw','山东省发展改革委','山东','官网入口（待恢复）','https://fgw.shandong.gov.cn/','discovery']
+].map(([id,name,region,channel,url,adapter])=>({id,name,region,channel,url,adapter}));

@@ -1,0 +1,3 @@
+import fs from 'node:fs/promises';
+import {cleanPolicies} from './policy-cleanup.mjs';
+const file=new URL('../data/policies.json',import.meta.url),d=JSON.parse(await fs.readFile(file,'utf8'));const records=d.records||d.rows;const cleaned=cleanPolicies(records);d.records=records;d.rows=cleaned.rows;d.cleanup=cleaned.report;await fs.writeFile(file,JSON.stringify(d,null,2));await fs.writeFile(new URL('../data/policies.js',import.meta.url),'window.POLICY_DATA = '+JSON.stringify(d).replaceAll('<','\\u003c')+';\n');console.log(JSON.stringify({input:records.length,displayed:d.rows.length,mergedGroups:cleaned.report.merged.length,excluded:cleaned.report.excluded.length}));

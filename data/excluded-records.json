@@ -1,0 +1,423 @@
+{
+  "reason": "标题筛选误匹配或官方原文无效，保留记录供排查",
+  "rows": [
+    {
+      "id": "a5bffc2f899308f4",
+      "region": "国家",
+      "date": "2026-08-25",
+      "title": "关于《能源保供中长期合同管理办法（试行）（公开征求意见稿）》公开征求意见情况的通告",
+      "agency": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/hdjl/yjzq/yjfk/nybgcqhtglbf/202608/t20260825_1407183.html",
+      "note": "",
+      "documentDate": "2026-08-25 14:45:31",
+      "sourceId": "ndrc-feedback",
+      "firstSeenAt": "2026-10-21T02:21:12.271Z",
+      "lastCheckedAt": "2026-10-21T02:22:04.481Z",
+      "contentHash": "c78f24766f743407d6d62278b9c9ae977a8736a80b49e9ec4785e0d2164f579a",
+      "attachments": []
+    },
+    {
+      "id": "73e354a61e1d9b65",
+      "region": "国家",
+      "date": "2026-07-15",
+      "title": "关于向社会公开征求《能源保供中长期合同管理办法（试行）（公开征求意见稿）》意见的公告",
+      "agency": "国家发展改革委",
+      "url": "https://yyglxxbsgw.ndrc.gov.cn/htmls/article/article.html?articleId=2c97d16c-9324f814-019f-5fd50f19-0135",
+      "note": "",
+      "documentDate": "2026-07-15",
+      "sourceId": "ndrc-consultation",
+      "firstSeenAt": "2026-10-21T02:21:10.693Z",
+      "lastCheckedAt": "2026-10-21T02:35:45.193Z",
+      "contentHash": "4b33d08de0fbb310dd5a0801b1b6feb720cee278084ed46260f78dbd1006b024",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "1.能源保供中长期合同管理办法（试行）（公开征求意见稿）",
+          "url": "https://yyglxxbs.ndrc.gov.cn/file-submission/20260714193515538904.doc"
+        },
+        {
+          "title": "2.起草说明",
+          "url": "https://yyglxxbs.ndrc.gov.cn/file-submission/20260714165332217261.doc"
+        }
+      ]
+    },
+    {
+      "id": "40cd969901d91ed4",
+      "region": "国家",
+      "date": "2025-09-16",
+      "title": "国家能源局有关负责同志就《关于印发",
+      "agency": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202509/t20250916_1400538.html",
+      "note": "",
+      "documentDate": "2025-09-16 16:32:36",
+      "sourceId": "ndrc",
+      "firstSeenAt": "2026-10-21T02:35:29.772Z",
+      "lastCheckedAt": "2026-10-21T02:35:29.772Z",
+      "contentHash": "fbaef9161cb1d572b885812cb7be1ab3fde96d3e08d78b8d504d044c10a2331b",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "200158eac7f447af",
+      "region": "国家",
+      "date": "2024-07-23",
+      "title": "关于支持优质企业借用中长期外债 促进实体经济高质量发展的通知(发改外资规〔2024〕1037号)",
+      "agency": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202407/t20240723_1391882.html",
+      "note": "",
+      "documentDate": "2024-07-23 16:36:08",
+      "sourceId": "ndrc-normative",
+      "firstSeenAt": "2026-10-21T02:35:38.577Z",
+      "lastCheckedAt": "2026-10-21T02:35:38.577Z",
+      "contentHash": "79a9ea078df9e5e92151a49284b37f098ae6aa0ec21ffc9f5c348e490094b0e7",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "1a3bf72ebfc69187",
+      "region": "国家",
+      "date": "2024-07-23",
+      "title": "国家发展改革委有关负责同志就《关于支持优质企业借用中长期外债 促进实体经济高质量发展的通知》答记者问",
+      "agency": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202407/t20240723_1391884.html",
+      "note": "",
+      "documentDate": "2024-07-23 16:42:41",
+      "sourceId": "ndrc-normative",
+      "firstSeenAt": "2026-10-21T02:35:38.577Z",
+      "lastCheckedAt": "2026-10-21T02:35:38.577Z",
+      "contentHash": "852ef9a2d0060fad642629cfa1dcb3c0d6544c0b3a4e14b6dba8189198bbb25e",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "c5362fb23057ba92",
+      "region": "国家",
+      "date": "2024-07-23",
+      "title": "专家解读：支持优质企业借用中长期外债 助力高水平开放和高质量发展",
+      "agency": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202407/t20240723_1391883.html",
+      "note": "",
+      "documentDate": "2024-07-23 16:39:25",
+      "sourceId": "ndrc-normative",
+      "firstSeenAt": "2026-10-21T02:35:38.577Z",
+      "lastCheckedAt": "2026-10-21T02:35:38.577Z",
+      "contentHash": "8986d64be8d352c50fe8e8247146dc18aa4e14257d0afd380ec8b36b58e21e37",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "393d47dcbe3cd64e",
+      "region": "国家",
+      "date": "2024-04-22",
+      "title": "关于《国家发展改革委关于支持优质企业借用中长期外债 促进实体经济高质量发展的通知（征求意见稿）公开征求意见情况的通告》",
+      "agency": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/hdjl/yjzq/yjfk/zcqwzcjstjjgzlfz/202404/t20240422_1365817.html",
+      "note": "",
+      "documentDate": "2024-04-22 16:57:57",
+      "sourceId": "ndrc-feedback",
+      "firstSeenAt": "2026-10-21T02:35:49.987Z",
+      "lastCheckedAt": "2026-10-21T02:35:49.987Z",
+      "contentHash": "5e14e319a7929da7b1d620f2efdbedec5b992720ba26aaa947e5d271e9909e38",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "cf6d9448c0b4eb11",
+      "region": "国家",
+      "date": "2024-03-14",
+      "title": "关于向社会公开征求《国家发展改革委关于支持优质企业借用中长期外债 促进实体经济高质量发展的通知（征求意见稿）》意见的公告",
+      "agency": "国家发展改革委",
+      "url": "https://yyglxxbsgw.ndrc.gov.cn/htmls/article/article.html?articleId=2c97d16b-8678801b-018e-3c414011-0098",
+      "note": "",
+      "documentDate": "2024-03-14",
+      "sourceId": "ndrc-consultation",
+      "firstSeenAt": "2026-10-21T02:35:45.193Z",
+      "lastCheckedAt": "2026-10-21T02:35:45.193Z",
+      "contentHash": "c8eaab32772f77580b48a1cfbaa9248393c499860d723727c167b1349600b495",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "《国家发展改革委关于支持优质企业借用中长期外债 促进实体经济高质量发展的通知（征求意见稿）》",
+          "url": "https://yyglxxbs.ndrc.gov.cn/file-submission/20240314172016279999.pdf"
+        },
+        {
+          "title": "附件",
+          "url": "https://www.ndrc.gov.cn/yjzxDownload/20220322fj2.xls"
+        },
+        {
+          "title": "附件",
+          "url": "https://www.ndrc.gov.cn/yjzxDownload/20220322fj2.xls"
+        },
+        {
+          "title": "起草说明",
+          "url": "https://yyglxxbs.ndrc.gov.cn/file-submission/20240314172133585525.pdf"
+        }
+      ]
+    },
+    {
+      "id": "786950ba9987ffce",
+      "region": "山东",
+      "date": "2024-02-02",
+      "title": "山东能源监管办建立电煤中长期合同签订履约情况双向监管机制",
+      "agency": "山东能源监管办",
+      "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202402/t20240202_238723.html",
+      "note": "",
+      "documentDate": "2024-02-02 15:56",
+      "sourceId": "sdb-interpretation",
+      "firstSeenAt": "2026-10-21T02:36:05.617Z",
+      "lastCheckedAt": "2026-10-21T02:36:05.617Z",
+      "contentHash": "43c33b9b7b6aaef8416a350c74e711d063ac959053f17f59ff6b592bbb7e2632",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "d1055a56be3666b1",
+      "region": "国家",
+      "date": "2023-11-22",
+      "title": "已删除或过期的稿件",
+      "agency": "国家能源局",
+      "url": "https://zfxxgk.nea.gov.cn/2023-11/20/c_1310751675.htm",
+      "note": "",
+      "documentDate": null,
+      "sourceId": "nea-documents",
+      "firstSeenAt": "2026-10-21T02:35:51.415Z",
+      "lastCheckedAt": "2026-10-21T02:35:51.415Z",
+      "contentHash": "764cb470e9c22a79439c23c112f73e5fb202d9c50fe8026d437a6f61e019f973",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "4b93f9dc642cc009",
+      "region": "山东",
+      "date": "2023-09-04",
+      "title": "山东能源监管办强化监管 提升电煤中长期合同履约率",
+      "agency": "山东能源监管办",
+      "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202309/t20230919_109884.html",
+      "note": "",
+      "documentDate": "2023-09-04 18:09",
+      "sourceId": "sdb-interpretation",
+      "firstSeenAt": "2026-10-21T02:36:05.617Z",
+      "lastCheckedAt": "2026-10-21T02:36:05.617Z",
+      "contentHash": "1a0c0e71915f5983e85fb84db2404e54a4eb450b086bdf2a18dc1c71c1e62e70",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "b41e2a33d5d3871b",
+      "region": "国家",
+      "date": "2023-07-19",
+      "title": "国家能源局综合司关于印发《申请纳入抽水蓄能中长期发展规划重点实施项目技术要求（暂行）》的通知 国能综通新能〔2023〕84号",
+      "agency": "国家能源局",
+      "url": "https://zfxxgk.nea.gov.cn/2023-07/07/c_1310733179.htm",
+      "note": "",
+      "documentDate": "2023-07-07 14:46:52",
+      "sourceId": "nea-documents",
+      "firstSeenAt": "2026-10-21T02:35:51.415Z",
+      "lastCheckedAt": "2026-10-21T02:35:51.415Z",
+      "contentHash": "699c9dbabf9d104b42e13a3c294c20820c7a1afe3d748c34ee0bbb334b211f60",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件： 申请纳入抽水蓄能中长期发展规划重点实施项目技术要求（暂行）",
+          "url": "https://zfxxgk.nea.gov.cn/1310733179_16897486328531n.docx"
+        }
+      ]
+    },
+    {
+      "id": "0c6b8fc6819848c4",
+      "region": "国家",
+      "date": "2023-01-10",
+      "title": "《企业中长期外债审核登记管理办法》 2023年第56号令",
+      "agency": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202301/t20230110_1346285.html",
+      "note": "",
+      "documentDate": "2023-01-10 14:41:43",
+      "sourceId": "ndrc-orders",
+      "firstSeenAt": "2026-10-21T02:35:40.810Z",
+      "lastCheckedAt": "2026-10-21T02:35:40.810Z",
+      "contentHash": "15f83dbea61b61f69ad803a24a976e673d1abf660ca3838addc3c8e19475c2fe",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "《企业中长期外债审核登记管理办法》.pdf",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202301/P020230110531279561605.pdf"
+        }
+      ]
+    },
+    {
+      "id": "33782d838a3295b9",
+      "region": "国家",
+      "date": "2023-01-10",
+      "title": "国家发展改革委有关负责同志就《企业中长期外债审核登记管理办法》答记者问",
+      "agency": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202301/t20230110_1346299.html",
+      "note": "",
+      "documentDate": "2023-01-10 16:22:56",
+      "sourceId": "ndrc-orders",
+      "firstSeenAt": "2026-10-21T02:35:40.810Z",
+      "lastCheckedAt": "2026-10-21T02:35:40.810Z",
+      "contentHash": "7fd659a5f6c597039e26d302b8b98161e2e61893fceae946df6776252df5b6f1",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "d45f7e61ff81622e",
+      "region": "国家",
+      "date": "2022-09-30",
+      "title": "关于《企业中长期外债审核登记管理办法（征求意见稿）》公开征求意见情况的通告",
+      "agency": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/hdjl/yjzq/yjfk/qyzcqwzshdjglbf/202209/t20220930_1337898.html",
+      "note": "",
+      "documentDate": "2022-09-30 10:01:58",
+      "sourceId": "ndrc-feedback",
+      "firstSeenAt": "2026-10-21T02:35:49.987Z",
+      "lastCheckedAt": "2026-10-21T02:35:49.987Z",
+      "contentHash": "e43ba33c9e4478ebc15edcddba250eb8b919784a9784f9fe915ff86f0c5346ff",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "34dd3c0e59c61d2e",
+      "region": "国家",
+      "date": "2022-08-26",
+      "title": "国家发展改革委关于《企业中长期外债审核登记管理办法（征求意见稿）》公开征求意见的通知",
+      "agency": "国家发展改革委",
+      "url": "https://yyglxxbsgw.ndrc.gov.cn/htmls/article/article.html?articleId=2c97d16b-82cf3be1-0182-d90804aa-0010",
+      "note": "",
+      "documentDate": "2022-08-26",
+      "sourceId": "ndrc-consultation",
+      "firstSeenAt": "2026-10-21T02:35:45.193Z",
+      "lastCheckedAt": "2026-10-21T02:35:45.193Z",
+      "contentHash": "75f838a599daeeb643d3db01b4b466e37f49e50fc5cae420e09f680ac9cdc019",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "《企业中长期外债审核登记管理办法（征求意见稿）》",
+          "url": "https://yyglxxbs.ndrc.gov.cn/file-submission/20220826152107696002.pdf"
+        },
+        {
+          "title": "起草说明",
+          "url": "https://yyglxxbs.ndrc.gov.cn/file-submission/20220826152156993912.pdf"
+        }
+      ]
+    },
+    {
+      "id": "df73567db8d4a423",
+      "region": "山东",
+      "date": "2022-06-01",
+      "title": "山东能源监管办开展电煤库存和2022年煤炭中长期合同签订履约专项核查",
+      "agency": "山东能源监管办",
+      "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202309/t20230919_109697.html",
+      "note": "",
+      "documentDate": "2022-06-01 14:13",
+      "sourceId": "sdb-interpretation",
+      "firstSeenAt": "2026-10-21T02:36:05.617Z",
+      "lastCheckedAt": "2026-10-21T02:36:05.617Z",
+      "contentHash": "79b475331176417b901390eae7010a4f61ff7486ea3829b4853cfdff9e131a3b",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "814bb9225bdb5b18",
+      "region": "国家",
+      "date": "2022-05-09",
+      "title": "国家能源局关于《抽水蓄能中长期发展规划（2021—2035年）》山西省调整项目有关事项的复函 国能函新能〔2022〕13号",
+      "agency": "国家能源局",
+      "url": "https://zfxxgk.nea.gov.cn/2022-04/26/c_1310587767.htm",
+      "note": "",
+      "documentDate": "2022-04-26 11:14:57",
+      "sourceId": "nea-documents",
+      "firstSeenAt": "2026-10-21T02:35:51.415Z",
+      "lastCheckedAt": "2026-10-21T02:35:51.415Z",
+      "contentHash": "5f25ed41fe810966ccb1de3a4ee6ec8443015c075d7028d16a25338f108a614c",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "b102ea8027bedcb6",
+      "region": "国家",
+      "date": "2022-03-23",
+      "title": "《氢能产业发展中长期规划（2021-2035年）》",
+      "agency": "国家能源局",
+      "url": "https://zfxxgk.nea.gov.cn/2022-03/23/c_1310525630.htm",
+      "note": "",
+      "documentDate": "2022-03-23 09:38:49",
+      "sourceId": "nea-documents",
+      "firstSeenAt": "2026-10-21T02:35:51.415Z",
+      "lastCheckedAt": "2026-10-21T02:35:51.415Z",
+      "contentHash": "f0677dec99df9d5a8ee15b378f9d3ab3c34382e2ab11f9c0495a5498baf04708",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "《氢能产业发展中长期规划（2021-2035 年 ）》",
+          "url": "https://zfxxgk.nea.gov.cn/1310525630_16479984022991n.pdf"
+        }
+      ]
+    },
+    {
+      "id": "f4c9595386175cc2",
+      "region": "国家",
+      "date": "2022-03-23",
+      "title": "国家发展改革委、国家能源局联合印发《氢能产业发展中长期规划（2021-2035年）》",
+      "agency": "国家能源局",
+      "url": "https://www.nea.gov.cn/2022-03/23/c_1310525755.htm",
+      "note": "",
+      "documentDate": "2022-03-23 11:01:58",
+      "sourceId": "nea-interpretation",
+      "firstSeenAt": "2026-10-21T02:35:58.827Z",
+      "lastCheckedAt": "2026-10-21T02:35:58.827Z",
+      "contentHash": "3cd3e2da2f514b4c1ea9f09715826240efddf4c7066710900b5d563a22b30616",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "b0bbff93a9711e1a",
+      "region": "国家",
+      "date": "2022-03-23",
+      "title": "一图读懂 | 氢能产业发展中长期规划（2021-2035年）",
+      "agency": "国家能源局",
+      "url": "https://www.nea.gov.cn/2022-03/23/c_1310525887.htm",
+      "note": "",
+      "documentDate": "2022-03-23 11:00:43",
+      "sourceId": "nea-interpretation",
+      "firstSeenAt": "2026-10-21T02:35:58.827Z",
+      "lastCheckedAt": "2026-10-21T02:35:58.827Z",
+      "contentHash": "9d294faa99b9677cd1f6f0198c72b8368008ca0db5ac0a6ce89a281e5c0a9d22",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "dc24eff5d6bb28e1",
+      "region": "国家",
+      "date": "2022-01-18",
+      "title": "关于境内外资银行申请2022年度中长期外债规模的通知(发改办外资〔2022〕17号)",
+      "agency": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202201/t20220118_1312192.html",
+      "note": "",
+      "documentDate": "2022-01-18 08:44:09",
+      "sourceId": "ndrc",
+      "firstSeenAt": "2026-10-21T02:35:29.772Z",
+      "lastCheckedAt": "2026-10-21T02:35:29.772Z",
+      "contentHash": "89231d272389430faeee46abe8dcae0bd74530422a42cb972cac23b2aa11bdcc",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "1.2022年度中长期外债规模申请汇总表",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202201/P020220118330036540456.xls"
+        },
+        {
+          "title": "2.2022年度中长期外债规模申请表",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202201/P020220118330036965171.xls"
+        },
+        {
+          "title": "3.2022年度中长期外债资金用向表",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202201/P020220118330037145344.xls"
+        },
+        {
+          "title": "4.2021年度中长期外债资金用向表",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202201/P020220118330037290294.xls"
+        }
+      ]
+    }
+  ]
+}
