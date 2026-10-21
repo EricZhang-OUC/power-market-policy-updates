@@ -11,7 +11,7 @@ node scripts/build-static.mjs
 
 公开地址：<https://ericzhang-ouc.github.io/power-market-policy-updates/>
 
-## 每小时更新
+## 定时更新
 
 统一采集命令：
 
@@ -23,9 +23,9 @@ node scripts/update-all.mjs
 
 `node scripts/sync-hourly.mjs` 会立即采集一次，再每60分钟采集一次，防止同一进程重叠运行。它只更新本机数据，不负责远程发布；必须保持电脑和进程运行。目前没有启用常驻进程、系统计划任务或云端调度。
 
-`.github/workflows/deploy-pages.yml` 在 `main` 分支推送时发布网站，并在每小时第17分钟运行“采集 → 测试 → 打包 → 发布”。也可在 GitHub Actions 页面手动运行。定时任务使用 UTC 计时，但每小时一次不受时区影响。采集结果提交回仓库，以保留已发现的历史记录。
+`.github/workflows/deploy-pages.yml` 在 `main` 分支推送时发布网站，并在每天北京时间09:00和21:00运行“采集 → 测试 → 打包 → 发布”。也可在 GitHub Actions 页面手动运行。GitHub cron 使用 UTC，对应01:00和13:00。采集结果提交回仓库，以保留已发现的历史记录。
 
-某个来源失败时保留其历史记录和异常状态，后续来源仍继续采集。界面上的更新日期表示本次有来源成功，不代表每一个来源都已完整同步。自动调度已启用；GitHub Actions 每小时执行一次，个别来源失败时会继续发布其余成功来源及既有记录。
+某个来源失败时保留其历史记录和异常状态，后续来源仍继续采集。界面上的更新日期表示本次有来源成功，不代表每一个来源都已完整同步。自动调度已启用；GitHub Actions 每天执行两次，个别来源失败时会继续发布其余成功来源及既有记录。
 
 ## 媒体来源边界
 

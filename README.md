@@ -10,10 +10,10 @@
 
 - 手动增量更新：node scripts/collect.mjs
 - 回溯历史：node scripts/collect.mjs --backfill
-- 每小时执行：node scripts/sync-hourly.mjs
+- 本地每小时执行：node scripts/sync-hourly.mjs
 - 验证：node --test tests/*.test.mjs
 
-采集属于独立的数据维护脚本，不是用户登录或审核后台。GitHub Actions 在每小时第17分钟自动采集、测试、打包并发布；电脑无需保持开机。生成的数据同时提交回仓库，以保留历史记录。
+采集属于独立的数据维护脚本，不是用户登录或审核后台。GitHub Actions 每天北京时间09:00和21:00自动采集、测试、打包并发布；电脑无需保持开机。生成的数据同时提交回仓库，以保留历史记录。
 
 ## 来源与范围
 
@@ -73,7 +73,7 @@ UI参考 emseek.com/all 的暖白底色、浅色侧栏、灰色胶囊切换、�
 
 已取消“其他”栏目，移除公众号关注名单、独立阅读版与零散署名转载补录，不再采集公众号文章。删除来源也会从历史展示数据中清除，采集失败时不会恢复已移除来源。当前北极星目录共收录84篇；新网站需先验证持续可读的文章列表，再加入配置。
 
-静态发布包：运行 node scripts/build-static.mjs 生成 dist/。GitHub Pages 公开发布及每小时自动调度均已启用，见 DEPLOYMENT.md。
+静态发布包：运行 node scripts/build-static.mjs 生成 dist/。GitHub Pages 公开发布及每日两次自动调度均已启用，见 DEPLOYMENT.md。
 
 山东栏目也已按其他省区的文件筛选逻辑精简，首轮从97条减至28条，国家栏目仍为151条。政策发布、修订、征求意见、编制说明及解读继续保留，排除会议、现场检查、调研及工作推进报道，即使工作报道引用《规则》也不保留。`node scripts/clean-policies.mjs` 可离线重建，正常采集同样应用筛选；原始 records 及排除原因仍保留。
 
