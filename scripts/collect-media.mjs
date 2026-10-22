@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
-import {accounts,mediaSources,activeMediaRows,listedArticles,validDate} from './media-helpers.mjs';
+import {accounts,mediaSources,activeMediaRows,listedArticles,validDate,rankingRelevant,mediaChallenge} from './media-helpers.mjs';
 
 const file=new URL('../data/media.json',import.meta.url);
 let old={rows:[],sources:[]};try{old=JSON.parse(await fs.readFile(file,'utf8'))}catch(e){if(e.code!=='ENOENT')throw e}
@@ -10,14 +10,14 @@ async function get(url){const r=await fetch(url,{signal:AbortSignal.timeout(1800
 for(const s of mediaSources){
  const checkedAt=new Date().toISOString();let count=0,errors=0;
  try{
-  const html=await get(s.url);const listed=listedArticles(html,s.url,s.id);
+  const html=await get(s.url);if(mediaChallenge(html))throw Error('网站返回访问验证页，未取得真实文章列表');const listed=listedArticles(html,s.url,s.kind);
   if(!listed.length)throw Error('未识别文章目录，不能视为零新增');
-  const candidates=listed;
+  const candidates=s.keywordFiltered?listed.filter(c=>rankingRelevant(c.title)):listed;
   for(const c of candidates){
    if(c.date&&!validDate(c.date))continue;
    const row={...c,agency:s.name,group:'行业观察',region:'北极星网站目录',linkLabel:'查看网站文章 ↗',detailStatus:'media-index-only',note:''};
    if(!validDate(row.date))continue;
-   const previous=rows.get(row.url);rows.set(row.url,{...row,id:previous?.id||crypto.createHash('sha256').update(row.url).digest('hex').slice(0,16),sourceId:s.id,firstSeenAt:previous?.firstSeenAt||checkedAt,lastCheckedAt:checkedAt});count++;
+   const previous=rows.get(row.url);rows.set(row.url,{...row,id:previous?.id||crypto.createHash('sha256').update(row.url).digest('hex').slice(0,16),sourceId:previous?.sourceId||s.id,firstSeenAt:previous?.firstSeenAt||checkedAt,lastCheckedAt:checkedAt});count++;
   }
   successes++;sources.push({...s,status:errors?'partial':'ok',checkedAt,lastSuccessAt:checkedAt,recordCount:count,detailErrors:errors});console.log(s.id+': '+count+' records, '+errors+' errors');
  }catch(e){sources.push({...s,status:'error',checkedAt,error:e.message,lastSuccessAt:old.sources.find(x=>x.id===s.id)?.lastSuccessAt||null});console.error(s.id+': '+e.message)}
