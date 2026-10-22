@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T07:54:50.313Z",
+  "checkedAt": "2026-10-22T17:59:42.959Z",
   "since": "2026-01-01",
   "note": "已配置官方栏目采集记录，不代表覆盖所有省区及每个部门",
   "sources": [
@@ -258,7 +258,7 @@
       "pages": [
         {
           "url": "https://gzb.nea.gov.cn/dtyw/tzgg/",
-          "bytes": 18820
+          "bytes": 18835
         },
         {
           "url": "https://gzb.nea.gov.cn/dtyw/tzgg/index_1.html",
@@ -283,15 +283,15 @@
       "pages": [
         {
           "url": "https://hbj.nea.gov.cn/dtyw/jgdt/",
-          "bytes": 23098
+          "bytes": 23058
         },
         {
           "url": "https://hbj.nea.gov.cn/dtyw/jgdt/index_1.html",
-          "bytes": 23063
+          "bytes": 23057
         },
         {
           "url": "https://hbj.nea.gov.cn/dtyw/jgdt/index_2.html",
-          "bytes": 23043
+          "bytes": 23062
         }
       ],
       "listed": 45,
@@ -312,7 +312,7 @@
         },
         {
           "url": "https://hbj.nea.gov.cn/dtyw/tzgg/index_2.html",
-          "bytes": 23063
+          "bytes": 23069
         }
       ],
       "listed": 45,
@@ -1341,11 +1341,11 @@
     },
     {
       "sourceId": "sx-nyj-notices",
-      "error": "Connect Timeout Error (attempted addresses: 183.201.253.167:443, 2409:8c0c:310:2500:1000::b:443, 1.71.182.103:443, timeout: 10000ms)"
+      "error": "Connect Timeout Error (attempted addresses: 1.71.182.103:443, 2409:8c0c:310:2500:1000::b:443, 183.201.253.167:443, timeout: 10000ms)"
     },
     {
       "sourceId": "sx-nyj-interpretation",
-      "error": "Connect Timeout Error (attempted addresses: 183.201.253.167:443, 2409:8c0c:310:2500:1000::b:443, 1.71.182.103:443, timeout: 10000ms)"
+      "error": "Connect Timeout Error (attempted addresses: 1.71.182.103:443, 2409:8c0c:310:2500:1000::b:443, 183.201.253.167:443, timeout: 10000ms)"
     },
     {
       "sourceId": "sx-nyj-consultation",

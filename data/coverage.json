@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T07:51:59.064Z",
+  "checkedAt": "2026-10-22T17:56:51.585Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 88233
+          "bytes": 87859
         }
       ],
       "stopReason": "single-page",
@@ -268,19 +268,19 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/",
-          "bytes": 42032
+          "bytes": 42019
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/index_1.html",
-          "bytes": 42954
+          "bytes": 42885
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/index_2.html",
-          "bytes": 40535
+          "bytes": 41043
         }
       ],
       "stopReason": "page-limit",
-      "listed": 145,
+      "listed": 146,
       "selected": 5,
       "listErrors": [],
       "failures": [],
@@ -336,19 +336,19 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/",
-          "bytes": 81489
+          "bytes": 77927
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_1.html",
-          "bytes": 73287
+          "bytes": 71547
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_2.html",
-          "bytes": 96551
+          "bytes": 97591
         }
       ],
       "stopReason": "page-limit",
-      "listed": 121,
+      "listed": 123,
       "selected": 7,
       "listErrors": [],
       "failures": [],
@@ -503,11 +503,11 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108976
+          "bytes": 108950
         }
       ],
       "stopReason": "single-page",
-      "listed": 85,
+      "listed": 84,
       "selected": 12,
       "listErrors": [],
       "failures": [],
