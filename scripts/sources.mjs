@@ -1,4 +1,5 @@
 export const sources = [
+ ['ndrc-home','国家发展改革委','国家','首页政策补充','https://www.ndrc.gov.cn/','single'],
  ['ndrc','国家发展改革委','国家','通知','https://www.ndrc.gov.cn/xxgk/zcfb/tz/','trs'],
  ['ndrc-normative','国家发展改革委','国家','规范性文件','https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/','trs'],
  ['ndrc-orders','国家发展改革委','国家','发展改革委令','https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/','trs'],
@@ -11,11 +12,15 @@ export const sources = [
  ['nea-notices','国家能源局','国家','通知','https://www.nea.gov.cn/policy/tz.htm','nea-json'],
  ['nea-announcements','国家能源局','国家','公告','https://www.nea.gov.cn/policy/gg.htm','nea-json'],
  ['nea-interpretation','国家能源局','国家','解读','https://www.nea.gov.cn/policy/jd.htm','nea-json'],
+ ['nea-other','国家能源局','国家','其他','https://www.nea.gov.cn/policy/qt.htm','nea-json'],
  ['nea-consultation','国家能源局','国家','网上公示及调查','https://www.nea.gov.cn/hudong/gongshi/index.htm','single'],
+ ['gov-latest','中国政府网','国家','最新政策','https://www.gov.cn/zhengce/zuixin/','gov-json',['gov.cn']],
  ['sdb','山东能源监管办','山东','通知公告','https://sdb.nea.gov.cn/dtyw/tzgg/','trs'],
  ['sdb-interpretation','山东能源监管办','山东','监管动态','https://sdb.nea.gov.cn/dtyw/jgdt/','trs'],
+ ['sdb-policy','山东能源监管办','山东','政策法规','https://sdb.nea.gov.cn/xxgk/zcfg/','trs',['sdb.nea.gov.cn']],
  ['sd-nyj-notices','山东省能源局','山东','通知公告','http://nyj.shandong.gov.cn/col/col59960/index.html','jpage'],
  ['sd-nyj-consultation','山东省能源局','山东','调查征集','http://nyj.shandong.gov.cn/col/col59978/index.html','jpage'],
  ['sd-nyj-disclosure','山东省能源局','山东','法规文件','http://nyj.shandong.gov.cn/col/col100377/index.html?vc_xxgkarea=11370000MB28526373&number=SD02','discovery'],
- ['sd-fgw','山东省发展改革委','山东','官网入口（待恢复）','https://fgw.shandong.gov.cn/','discovery']
-].map(([id,name,region,channel,url,adapter])=>({id,name,region,channel,url,adapter}));
+ ['sd-fgw','山东省发展改革委','山东','官网入口（待恢复）','http://fgw.shandong.gov.cn/','discovery'],
+ ['sd-fgw-price','山东省发展改革委价格处','山东','价格政策','http://fgw.shandong.gov.cn/col/col91687/index.html','jpage',['fgw.shandong.gov.cn']]
+].map(([id,name,region,channel,url,adapter,allowedHosts])=>({id,name,region,channel,url,adapter,...(allowedHosts?{allowedHosts}:{})}));

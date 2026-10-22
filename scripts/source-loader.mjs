@@ -5,7 +5,11 @@ export async function loadSource(source,get,{since='2022-01-01',maxPages=80}={})
  function record(url,h){if(isChallenge(h))throw Error('官网返回验证页，未读取政策正文');pages.push({url,bytes:Buffer.byteLength(h)});return h}
  const first=record(indexUrl,await get(indexUrl));
  if(source.adapter==='discovery')throw Error(source.id==='sd-fgw'?'官网入口尚不可读':'动态公开目录尚未解析');
- if(source.adapter==='nea-json'){
+ if(source.adapter==='gov-json'){
+  const url=new URL('./ZUIXINZHENGCE.json',indexUrl).href;const body=record(url,await get(url));const json=JSON.parse(body);if(!Array.isArray(json))throw Error('中国政府网最新政策数据格式改变');
+  for(const r of json){let u;try{u=canonical(r.URL,indexUrl)}catch{continue}if(!allowed(u,source))continue;const title=text(r.TITLE),rawDate=String(r.DOCRELPUBTIME||'').slice(0,10).replace(/[./]/g,'-');if(title&&/^\d{4}-\d{2}-\d{2}$/.test(rawDate))add([{url:u,title,date:rawDate}])}
+  stopReason='json-feed-end';
+ }else if(source.adapter==='nea-json'){
   const matches=[...first.matchAll(/data=["']datasource:([^"']+)["'][^>]*datatype=["']ds["'][^>]*preview=["']([^"']+)["']/gi)];
   if(!matches.length)throw Error('能源局栏目数据源标识未识别');
   for(const m of matches){const url=new URL('./'+m[2]+m[1]+'.json',indexUrl).href;const body=record(url,await get(url));const json=JSON.parse(body);if(!Array.isArray(json.datasource))throw Error('能源局列表数据格式改变');for(const r of json.datasource){let u;try{u=canonical(r.publishUrl,indexUrl)}catch{continue}if(!allowed(u,source))continue;const title=text(r.showTitle||r.title),date=String(r.publishTime||'').slice(0,10);if(title&&/^\d{4}-\d{2}-\d{2}$/.test(date))add([{url:u,title,date}])}}

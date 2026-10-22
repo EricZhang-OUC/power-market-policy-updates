@@ -1,6 +1,23 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {parseLinks,allowed,attachments,relevance,isChallenge} from '../scripts/parsers.mjs';
+import {parseLinks,allowed,attachments,relevance,genericOfficialTitle,detailRelevance,isChallenge} from '../scripts/parsers.mjs';
+
+test('coal power and renewable integration policy and interpretation titles are retained',()=>{
+ assert(relevance('国家能源局关于推动煤电与新能源融合发展的实施意见'));
+ assert(relevance('国家能源局关于煤电机组改造升级的实施方案'));
+ assert(relevance('国家能源局关于促进新能源高质量发展的指导意见'));
+ assert(relevance('国家能源局关于完善虚拟电厂管理机制的通知'));
+ assert(relevance('国家能源局关于促进新型储能高质量发展的实施方案'));
+ assert(relevance('构建煤电与新能源融合发展模式 持续提升系统调节能力与绿色低碳水平',{id:'nea-interpretation',channel:'解读'}));
+ assert(!relevance('国家能源局召开煤电与新能源融合发展工作座谈会'));
+});
+
+test('numbered announcements are inspected for relevant policy changes in their body',()=>{
+ assert(genericOfficialTitle('国家能源局公告 2026年第3号'));
+ assert(!relevance('国家能源局公告 2026年第3号'));
+ assert(detailRelevance('<p>决定废止《国家能源局综合司关于当前开展电力用户与发电企业直接交易有关事项的通知》。</p>'));
+ assert(!detailRelevance('<p>现公布能源行业一般统计信息。</p>'));
+});
 import {loadSource} from '../scripts/source-loader.mjs';
 const source={id:'sd-nyj-notices',url:'http://nyj.shandong.gov.cn/col/col59960/index.html',adapter:'jpage'};
 test('Shandong dated paths and list dates parse from XML-embedded records',()=>{
@@ -21,4 +38,13 @@ test('static pagination walks backwards past 2022 instead of first-page truncati
  const s={id:'ndrc',url:'https://www.ndrc.gov.cn/xxgk/zcfb/tz/',adapter:'trs'};let urls=[];
  const result=await loadSource(s,async u=>{urls.push(u);const page=u.includes('index_1')?'20220102':'20260102';return '<li><a href="./'+page.slice(0,6)+'/t'+page+'_123.html">电价通知</a><span>'+page.slice(0,4)+'/'+page.slice(4,6)+'/'+page.slice(6)+'</span></li><script>createPageHTML(2,0,"index","html")</script>'});
  assert.equal(urls.length,2);assert(result.entries.some(r=>r.date==='2022-01-02'));assert.equal(result.stopReason,'declared-page-end');
+});
+
+test('China government latest-policy JSON and Shandong price links are supported',async()=>{
+ const gov={id:'gov-latest',url:'https://www.gov.cn/zhengce/zuixin/',adapter:'gov-json',allowedHosts:['gov.cn']};
+ const result=await loadSource(gov,async url=>url.endsWith('ZUIXINZHENGCE.json')?JSON.stringify([{URL:'/zhengce/content/202610/content_1.htm',TITLE:'国务院关于促进新能源高质量发展的意见',DOCRELPUBTIME:'2026-10-21'}]):'<html></html>');
+ assert.equal(result.entries[0].date,'2026-10-21');assert.equal(result.entries[0].url,'https://www.gov.cn/zhengce/content/202610/content_1.htm');
+ const price={id:'sd-fgw-price',url:'http://fgw.shandong.gov.cn/col/col91687/index.html',allowedHosts:['fgw.shandong.gov.cn']};
+ const rows=parseLinks('<li><a href="/art/2026/9/21/art_91687_1.html">关于印发《山东省电力零售市场价格风险防控实施细则》的通知</a><span>2026-09-21</span></li>',price.url,price);
+ assert.equal(rows[0].url,'http://fgw.shandong.gov.cn/art/2026/9/21/art_91687_1.html');
 });
