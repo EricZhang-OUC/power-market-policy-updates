@@ -1,9 +1,40 @@
 {
-  "checkedAt": "2026-10-22T05:55:32.631Z",
+  "checkedAt": "2026-10-22T07:30:55.050Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
   "sources": [
+    {
+      "sourceId": "ndrc-home",
+      "pages": [
+        {
+          "url": "https://www.ndrc.gov.cn/",
+          "bytes": 88284
+        }
+      ],
+      "stopReason": "single-page",
+      "listed": 87,
+      "selected": 3,
+      "listErrors": [],
+      "failures": [],
+      "entries": [
+        {
+          "title": "国家发展改革委关于向社会公开征求《电力现货市场基本规则（公开征求意见稿）》意见的公告",
+          "date": "",
+          "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/dlxhsc"
+        },
+        {
+          "title": "国家发展改革委关于向社会公开征求《电力市场风险防控管理办法（公开征求意见稿）》意见的公告",
+          "date": "",
+          "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/dlscfxfkglbf"
+        },
+        {
+          "title": "国家发展改革委关于向社会公开征求《售电公司管理办法（公开征求意见稿）》意见的公告",
+          "date": "",
+          "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/sdgsglbf"
+        }
+      ]
+    },
     {
       "sourceId": "ndrc",
       "pages": [
@@ -22,7 +53,7 @@
       ],
       "stopReason": "page-limit",
       "listed": 156,
-      "selected": 21,
+      "selected": 23,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -80,6 +111,16 @@
           "title": "关于建立全国统一电力市场评价制度的通知(发改办体改〔2025〕1032号)",
           "date": "2025-12-17",
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202512/t20251217_1402475.html"
+        },
+        {
+          "title": "关于优化集中式新能源发电企业市场报价的通知(试行)(发改能源〔2025〕1476号)",
+          "date": "2025-12-11",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202512/t20251211_1402340.html"
+        },
+        {
+          "title": "国家能源局有关负责同志就《关于优化集中式新能源发电企业市场报价的通知（试行）》答记者问",
+          "date": "2025-12-12",
+          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202512/t20251212_1402361.html"
         },
         {
           "title": "关于促进新能源消纳和调控的指导意见(发改能源〔2025〕1360号)",
@@ -462,12 +503,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108957
+          "bytes": 108976
         }
       ],
       "stopReason": "single-page",
       "listed": 85,
-      "selected": 5,
+      "selected": 12,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -482,14 +523,49 @@
           "url": "https://www.nea.gov.cn/20260930/43fede537ca048b1a6a51fe0970fb205/c.html"
         },
         {
+          "title": "关于2026年8月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-09-23",
+          "url": "https://www.nea.gov.cn/20260923/aaadb598d4cc4c0a92585bfd26c8728e/c.html"
+        },
+        {
+          "title": "国家能源局公告 2026年第3号",
+          "date": "2026-09-14",
+          "url": "https://www.nea.gov.cn/20260914/cf012a88d0fa4297b6219b506bc72ed0/c.html"
+        },
+        {
+          "title": "国家能源局关于推动煤电与新能源融合发展的实施意见",
+          "date": "2026-10-21",
+          "url": "https://www.nea.gov.cn/20261021/fbd5cb3be4584be88f63046ffb0155fc/c.html"
+        },
+        {
           "title": "关于公开征求《供电企业信息公开实施办法》（修订稿）意见的通知",
           "date": "2026-08-31",
           "url": "https://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html"
         },
         {
+          "title": "国家能源局公告 2026年第4号",
+          "date": "2026-10-21",
+          "url": "https://www.nea.gov.cn/20261021/35115ff2391547fc9d2cf3e4af2c669c/c.html"
+        },
+        {
+          "title": "关于2026年7月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-09-04",
+          "url": "https://www.nea.gov.cn/20260904/324fdc3e4908431392b82d19ab10de6b/c.html"
+        },
+        {
+          "title": "国家能源局有关负责同志就《关于推动煤电与新能源融合发展的实施意见》答记者问",
+          "date": "2026-10-21",
+          "url": "https://www.nea.gov.cn/20261021/47444aa63de843ccb8c8e742d61eab6b/c.html"
+        },
+        {
           "title": "国家能源局关于印发《可再生能源绿色电力证书管理实施细则（试行）》的通知",
           "date": "2026-01-07",
           "url": "https://www.nea.gov.cn/20260107/9a905f263a8b4aa4a06e1a96855cc8eb/c.html"
+        },
+        {
+          "title": "国家能源局关于推进煤炭与新能源融合发展的指导意见",
+          "date": "2025-11-07",
+          "url": "https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html"
         },
         {
           "title": "江苏能源监管办召开发电企业电力市场运行情况座谈会",
@@ -516,7 +592,7 @@
       ],
       "stopReason": "json-feed-end",
       "listed": 999,
-      "selected": 52,
+      "selected": 106,
       "listErrors": [],
       "failures": [
         {
@@ -537,14 +613,44 @@
           "url": "https://www.nea.gov.cn/20260930/43fede537ca048b1a6a51fe0970fb205/c.html"
         },
         {
+          "title": "关于2026年8月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-09-23",
+          "url": "https://www.nea.gov.cn/20260923/aaadb598d4cc4c0a92585bfd26c8728e/c.html"
+        },
+        {
+          "title": "国家能源局公告 2026年第3号",
+          "date": "2026-09-14",
+          "url": "https://www.nea.gov.cn/20260914/cf012a88d0fa4297b6219b506bc72ed0/c.html"
+        },
+        {
+          "title": "关于2026年7月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-09-04",
+          "url": "https://www.nea.gov.cn/20260904/324fdc3e4908431392b82d19ab10de6b/c.html"
+        },
+        {
           "title": "关于公开征求《供电企业信息公开实施办法》（修订稿）意见的通知",
           "date": "2026-08-31",
           "url": "https://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html"
         },
         {
+          "title": "关于2026年6月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-07-20",
+          "url": "https://www.nea.gov.cn/20260720/f978dbe5fcbc4d8085a3909410b9366e/c.html"
+        },
+        {
+          "title": "关于2026年5月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-06-30",
+          "url": "https://www.nea.gov.cn/20260630/7d369a8776544e32adbd1bbaca577b4b/c.html"
+        },
+        {
           "title": "国家能源局综合司关于组织推进非公共电网可再生能源发电项目绿证核发的通知",
           "date": "2026-06-23",
           "url": "https://www.nea.gov.cn/20260623/62bac506e76544bda509a7a50e81ba08/c.html"
+        },
+        {
+          "title": "关于2026年4月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-05-28",
+          "url": "https://www.nea.gov.cn/20260528/24953644c2294aa58da2ea91c0c123b3/c.html"
         },
         {
           "title": "关于有序推动多用户绿电直连发展有关事项的通知(发改能源〔2026〕688号)",
@@ -557,6 +663,21 @@
           "url": "https://www.nea.gov.cn/20260514/ded62aeb85294f51ab9597405dcd3449/c.html"
         },
         {
+          "title": "国家能源局公告 2026年 第1号",
+          "date": "2026-05-13",
+          "url": "https://www.nea.gov.cn/20260513/a38f9ff036f145a7bcfb6724e9f8d89e/c.html"
+        },
+        {
+          "title": "关于2026年3月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-04-23",
+          "url": "https://www.nea.gov.cn/20260423/ba4fc99321fa4da19624eeeb2d5e4135/c.html"
+        },
+        {
+          "title": "关于2026年1月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-03-04",
+          "url": "https://www.nea.gov.cn/20260304/00841099b2d543099f5c957cb3f85b42/c.html"
+        },
+        {
           "title": "国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知",
           "date": "2026-02-26",
           "url": "https://www.nea.gov.cn/20260226/1f4744c9c2b44eb493f82a17f4603290/c.html"
@@ -565,6 +686,31 @@
           "title": "国家能源局关于印发《可再生能源绿色电力证书管理实施细则（试行）》的通知",
           "date": "2026-01-07",
           "url": "https://www.nea.gov.cn/20260107/9a905f263a8b4aa4a06e1a96855cc8eb/c.html"
+        },
+        {
+          "title": "关于2025年10月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-12-02",
+          "url": "https://www.nea.gov.cn/20251202/c0d8867f172e49ebae6d600d5ceec6cf/c.html"
+        },
+        {
+          "title": "国家能源局关于促进新能源集成融合发展的指导意见",
+          "date": "2025-11-12",
+          "url": "https://www.nea.gov.cn/20251112/79210278a3184efea9ccf2d546fdf1b7/c.html"
+        },
+        {
+          "title": "国家能源局关于推进煤炭与新能源融合发展的指导意见",
+          "date": "2025-11-07",
+          "url": "https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html"
+        },
+        {
+          "title": "国家能源局公告 2025年第5号",
+          "date": "2025-10-22",
+          "url": "https://www.nea.gov.cn/20251022/965401f0cf034cb7a070e3698edafc49/c.html"
+        },
+        {
+          "title": "国家能源局公告2025年第4号",
+          "date": "2025-09-26",
+          "url": "https://www.nea.gov.cn/20250926/755f66fcfc9f4484bdca1ca1ede9702a/c.html"
         },
         {
           "title": "关于印发《电力现货连续运行地区市场建设指引》的通知",
@@ -587,9 +733,24 @@
           "url": "https://www.nea.gov.cn/20250808/7f95f94550d64fa7bb428972a5b237e4/c.html"
         },
         {
+          "title": "关于2025年6月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-07-30",
+          "url": "https://www.nea.gov.cn/20250730/b53696c777cc472cab6dee2e8263973a/c.html"
+        },
+        {
           "title": "国家能源局综合司关于印发《浙江、河南、广东省分布式可再生能源发电项目绿证核发工作方案》的通知",
           "date": "2025-07-23",
           "url": "https://www.nea.gov.cn/20250723/48e11a3413dc440f8306c38a1869940c/c.html"
+        },
+        {
+          "title": "国家能源局公告 2025年第3号",
+          "date": "2025-07-10",
+          "url": "https://www.nea.gov.cn/20250710/1290d9b2a51f4edd8f8bc56e031cc70b/c.html"
+        },
+        {
+          "title": "关于2025年5月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-07-02",
+          "url": "https://www.nea.gov.cn/20250702/923f013fb13d48f0b8e214b167a2b90b/c.html"
         },
         {
           "title": "国家能源局关于组织开展新型电力系统建设第一批试点工作的通知",
@@ -607,6 +768,11 @@
           "url": "https://www.nea.gov.cn/20250530/2d67a6e49c044f2eacabe1fddf48d20f/c.html"
         },
         {
+          "title": "关于2025年4月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-05-26",
+          "url": "https://www.nea.gov.cn/20250526/beeda707fbdf40f3b92ae083620c4c3c/c.html"
+        },
+        {
           "title": "国家能源局综合司 工业和信息化部办公厅 应急管理部办公厅 市场监管总局办公厅 国家消防救援局办公室关于加强电化学储能安全管理有关工作的通知",
           "date": "2025-05-07",
           "url": "https://www.nea.gov.cn/20250507/66d99bb4f5b74666b509f44111eb4696/c.html"
@@ -617,9 +783,24 @@
           "url": "https://www.nea.gov.cn/20250429/df8e465e859245039b24fbbe21f04c5f/c.html"
         },
         {
+          "title": "关于2025年3月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-04-28",
+          "url": "https://www.nea.gov.cn/20250428/2307322f6da04292b21d37b632e23363/c.html"
+        },
+        {
+          "title": "关于印发《新一代煤电升级专项行动实施方案(2025—2027年)》的通知",
+          "date": "2025-04-18",
+          "url": "https://www.nea.gov.cn/20250418/5c9e2108eefc4e7d8c9931de4456dda9/c.html"
+        },
+        {
           "title": "关于加快推进虚拟电厂发展的指导意见",
           "date": "2025-04-11",
           "url": "https://www.nea.gov.cn/20250411/94a805e55f064493901cab6196e0448d/c.html"
+        },
+        {
+          "title": "关于2025年2月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-03-31",
+          "url": "https://www.nea.gov.cn/20250331/1c04c9eb856e41abb0f8c484e1600dfa/c.html"
         },
         {
           "title": "国家能源局关于开展电网公平开放专项监管工作的通知",
@@ -637,9 +818,44 @@
           "url": "https://www.nea.gov.cn/20250318/9d59e7bf731f4cd0830b125f6223b401/c.html"
         },
         {
+          "title": "国家能源局公告 2025年第2号",
+          "date": "2025-03-12",
+          "url": "https://www.nea.gov.cn/20250312/4e38a4fb737b457e933c5a389e161453/c.html"
+        },
+        {
+          "title": "关于2025年1月全国新增建档立卡新能源发电（不含自然人户用光伏）项目情况的公告",
+          "date": "2025-02-25",
+          "url": "https://www.nea.gov.cn/20250225/116d0ab4b97a4d28a28eb12dd64f0586/c.html"
+        },
+        {
           "title": "工业和信息化部等八部门关于印发新型储能制造业高质量发展行动方案的通知",
           "date": "2025-02-18",
           "url": "https://www.nea.gov.cn/20250218/8b14082a18c2423ba9779882d3791d30/c.html"
+        },
+        {
+          "title": "关于2024年12月全国新增建档立卡新能源发电（不含自然人户用光伏）项目情况的公告",
+          "date": "2025-01-27",
+          "url": "https://www.nea.gov.cn/20250127/71334dc56de44c4399d41672051c6257/c.html"
+        },
+        {
+          "title": "国家能源局公告 2025年第1号",
+          "date": "2025-01-13",
+          "url": "https://www.nea.gov.cn/20250113/6a92ff8f2ccf4e3d9d8ba6b8776df75d/c.html"
+        },
+        {
+          "title": "关于2024年11月全国新增建档立卡新能源发电（不含自然人户用光伏）项目情况的公告",
+          "date": "2024-12-30",
+          "url": "https://www.nea.gov.cn/20241230/f1298826e11a46fd96a2050340dee0c7/c.html"
+        },
+        {
+          "title": "国家能源局公告 2024年第4号",
+          "date": "2024-12-27",
+          "url": "https://www.nea.gov.cn/20241227/60972468f7f24739b3d939f1c97a3931/c.html"
+        },
+        {
+          "title": "关于2024年10月全国新增建档立卡新能源发电（不含自然人户用光伏）项目情况的公告",
+          "date": "2024-12-02",
+          "url": "https://zfxxgk.nea.gov.cn/2024-11/28/c_1310787407.htm"
         },
         {
           "title": "国家能源局关于加强电力安全治理 以高水平安全保障新型电力系统高质量发展的意见",
@@ -652,6 +868,11 @@
           "url": "https://zfxxgk.nea.gov.cn/2024-11/08/c_1310787216.htm"
         },
         {
+          "title": "关于2024年9月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2024-11-05",
+          "url": "https://zfxxgk.nea.gov.cn/2024-11/01/c_1310787114.htm"
+        },
+        {
           "title": "国家能源局关于提升新能源和新型并网主体涉网安全能力 服务新型电力系统高质量发展的通知",
           "date": "2024-10-30",
           "url": "https://zfxxgk.nea.gov.cn/2024-09/30/c_1310787050.htm"
@@ -660,6 +881,16 @@
           "title": "国家能源局综合司关于公开征求《电力辅助服务市场基本规则》意见的通知",
           "date": "2024-10-10",
           "url": "https://zfxxgk.nea.gov.cn/2024-10/08/c_1212404033.htm"
+        },
+        {
+          "title": "关于2024年8月全国新增建档立卡新能源发电项目情况的公告",
+          "date": "2024-10-09",
+          "url": "https://zfxxgk.nea.gov.cn/2024-10/09/c_1212403988.htm"
+        },
+        {
+          "title": "国家能源局公告 2024年第3号",
+          "date": "2024-09-24",
+          "url": "https://zfxxgk.nea.gov.cn/2024-09/24/c_1212403994.htm"
         },
         {
           "title": "国家能源局关于印发《电力市场注册基本规则》的通知",
@@ -677,9 +908,24 @@
           "url": "https://zfxxgk.nea.gov.cn/2024-08/26/c_1310785819.htm"
         },
         {
+          "title": "关于2024年7月全国新增建档立卡新能源发电项目情况的公告",
+          "date": "2024-09-03",
+          "url": "https://zfxxgk.nea.gov.cn/2024-08/30/c_1310785705.htm"
+        },
+        {
+          "title": "国家能源局关于加强煤电机组灵活性改造和深度调峰期间安全管理的通知",
+          "date": "2024-08-06",
+          "url": "https://zfxxgk.nea.gov.cn/2024-08/06/c_1212386624.htm"
+        },
+        {
           "title": "关于印发《加快构建新型电力系统行动方案(2024—2027年)》的通知",
           "date": "2024-08-06",
           "url": "https://zfxxgk.nea.gov.cn/2024-07/25/c_1310783890.htm"
+        },
+        {
+          "title": "关于2024年6月全国新增建档立卡新能源发电项目情况的公告",
+          "date": "2024-08-02",
+          "url": "https://zfxxgk.nea.gov.cn/2024-08/01/c_1310783682.htm"
         },
         {
           "title": "国家能源局综合司关于启用国家绿证核发交易系统的公告",
@@ -687,9 +933,19 @@
           "url": "https://zfxxgk.nea.gov.cn/2024-06/26/c_1212375466.htm"
         },
         {
+          "title": "关于2024年5月全国新增建档立卡新能源发电项目情况的公告",
+          "date": "2024-06-25",
+          "url": "https://zfxxgk.nea.gov.cn/2024-06/25/c_1212375050.htm"
+        },
+        {
           "title": "国家能源局综合司关于公开征求《电力市场注册基本规则》意见的通知",
           "date": "2024-06-04",
           "url": "https://zfxxgk.nea.gov.cn/2024-06/04/c_1310777099.htm"
+        },
+        {
+          "title": "国家能源局公告 2024年第2号",
+          "date": "2024-06-04",
+          "url": "https://zfxxgk.nea.gov.cn/2024-05/24/c_1310777111.htm"
         },
         {
           "title": "国家能源局关于做好新能源消纳工作保障新能源高质量发展的通知",
@@ -722,6 +978,26 @@
           "url": "https://zfxxgk.nea.gov.cn/2024-01/31/c_1310763726.htm"
         },
         {
+          "title": "国家能源局公告 2024年第1号",
+          "date": "2024-01-24",
+          "url": "https://zfxxgk.nea.gov.cn/2024-01/17/c_1310761775.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第8号",
+          "date": "2024-01-08",
+          "url": "https://zfxxgk.nea.gov.cn/2023-12/28/c_1310759283.htm"
+        },
+        {
+          "title": "国家发展改革委等部门关于加强新能源汽车与电网融合互动的实施意见",
+          "date": "2024-01-04",
+          "url": "https://zfxxgk.nea.gov.cn/2023-12/13/c_1310758710.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第7号",
+          "date": "2024-01-03",
+          "url": "https://www.nea.gov.cn/2024-01/03/c_1310758547.htm"
+        },
+        {
           "title": "国家能源局综合司公开征求《关于促进新型储能并网和调度运用的通知（征求意见稿）》意见的公告",
           "date": "2023-11-22",
           "url": "https://zfxxgk.nea.gov.cn/2023-11/20/c_1310751675.htm"
@@ -735,6 +1011,21 @@
           "title": "国家能源局综合司关于开展跨省跨区电力交易与市场秩序专项监管工作的通知",
           "date": "2023-10-31",
           "url": "https://zfxxgk.nea.gov.cn/2023-10/31/c_1310748175.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第6号",
+          "date": "2023-10-27",
+          "url": "https://zfxxgk.nea.gov.cn/2023-10/24/c_1310747681.htm"
+        },
+        {
+          "title": "国家能源局综合司关于印发《开展新能源及抽水蓄能开发领域不当市场干预行为专项整治工作方案》的通知",
+          "date": "2023-10-27",
+          "url": "https://zfxxgk.nea.gov.cn/2023-09/04/c_1310747578.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第5号",
+          "date": "2023-10-23",
+          "url": "https://zfxxgk.nea.gov.cn/2023-10/11/c_1310746777.htm"
         },
         {
           "title": "自然资源部 国家能源局关于印发矿产资源和电力市场化交易专项整治工作方案的通知",
@@ -767,9 +1058,39 @@
           "url": "https://zfxxgk.nea.gov.cn/2023-06/16/c_1310727975.htm"
         },
         {
+          "title": "国家能源局公告 2023年第4号",
+          "date": "2023-06-12",
+          "url": "https://zfxxgk.nea.gov.cn/2023-05/26/c_1310726596.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第3号",
+          "date": "2023-05-09",
+          "url": "https://zfxxgk.nea.gov.cn/2023-04/21/c_1310717199.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第2号",
+          "date": "2023-04-19",
+          "url": "https://zfxxgk.nea.gov.cn/2023-04/06/c_1310711943.htm"
+        },
+        {
+          "title": "国家能源局关于印发加快油气勘探开发与新能源融合发展行动方案（2023-2025年）的通知",
+          "date": "2023-03-22",
+          "url": "https://zfxxgk.nea.gov.cn/2023-02/27/c_1310704758.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第1号",
+          "date": "2023-02-17",
+          "url": "https://zfxxgk.nea.gov.cn/2023-02/06/c_1310698160.htm"
+        },
+        {
           "title": "国家能源局综合司关于公开征求 《电力现货市场基本规则（征求意见稿）》...",
           "date": "2022-11-25",
           "url": "https://www.nea.gov.cn/2022-11/25/c_1310679693.htm"
+        },
+        {
+          "title": "国家能源局公告 2022年第5号",
+          "date": "2022-11-11",
+          "url": "https://www.nea.gov.cn/2022-11/11/c_1310675861.htm"
         },
         {
           "title": "国家能源局科技司关于公开征集2022年度储能研究课题承担单位的公告",
@@ -777,14 +1098,39 @@
           "url": "https://www.nea.gov.cn/2022-06/29/c_1310635547.htm"
         },
         {
+          "title": "国家能源局公告2022年第4号",
+          "date": "2022-06-07",
+          "url": "https://www.nea.gov.cn/2022-06/07/c_1310616244.htm"
+        },
+        {
+          "title": "国家能源局公告 2022年第3号",
+          "date": "2022-05-26",
+          "url": "https://zfxxgk.nea.gov.cn/2022-05/18/c_1310605237.htm"
+        },
+        {
           "title": "国家能源局综合司关于加强电化学储能电站安全管理的通知",
           "date": "2022-05-25",
           "url": "https://zfxxgk.nea.gov.cn/2022-04/26/c_1310603679.htm"
         },
         {
+          "title": "国家能源局公告 2022年第2号",
+          "date": "2022-05-13",
+          "url": "https://zfxxgk.nea.gov.cn/2022-05/07/c_1310591797.htm"
+        },
+        {
           "title": "国家发展改革委 国家能源局关于印发《“十四五”新型储能发展实施方案》的通知",
           "date": "2022-03-21",
           "url": "https://zfxxgk.nea.gov.cn/2022-01/29/c_1310523208.htm"
+        },
+        {
+          "title": "国家能源局公告 2022年第1号",
+          "date": "2022-02-15",
+          "url": "https://zfxxgk.nea.gov.cn/2022-02/08/c_1310473177.htm"
+        },
+        {
+          "title": "国家能源局公告 2021年第6号",
+          "date": "2022-01-12",
+          "url": "https://zfxxgk.nea.gov.cn/2021-12/22/c_1310420968.htm"
         }
       ]
     },
@@ -806,10 +1152,15 @@
       ],
       "stopReason": "json-feed-end",
       "listed": 997,
-      "selected": 47,
+      "selected": 57,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "国家能源局关于推动煤电与新能源融合发展的实施意见",
+          "date": "2026-10-21",
+          "url": "https://www.nea.gov.cn/20261021/fbd5cb3be4584be88f63046ffb0155fc/c.html"
+        },
         {
           "title": "国家能源局综合司关于公开征求《全国统一电力市场信用评价指引（征求意见稿）》意见的通知",
           "date": "2026-10-19",
@@ -851,6 +1202,16 @@
           "url": "https://www.nea.gov.cn/20260107/9a905f263a8b4aa4a06e1a96855cc8eb/c.html"
         },
         {
+          "title": "国家能源局关于促进新能源集成融合发展的指导意见",
+          "date": "2025-11-12",
+          "url": "https://www.nea.gov.cn/20251112/79210278a3184efea9ccf2d546fdf1b7/c.html"
+        },
+        {
+          "title": "国家能源局关于推进煤炭与新能源融合发展的指导意见",
+          "date": "2025-11-07",
+          "url": "https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html"
+        },
+        {
           "title": "关于印发《电力现货连续运行地区市场建设指引》的通知",
           "date": "2025-09-12",
           "url": "https://www.nea.gov.cn/20250912/ebbfd999a23b440781f4e5a033abaf9e/c.html"
@@ -896,6 +1257,11 @@
           "url": "https://www.nea.gov.cn/20250429/df8e465e859245039b24fbbe21f04c5f/c.html"
         },
         {
+          "title": "关于印发《新一代煤电升级专项行动实施方案(2025—2027年)》的通知",
+          "date": "2025-04-18",
+          "url": "https://www.nea.gov.cn/20250418/5c9e2108eefc4e7d8c9931de4456dda9/c.html"
+        },
+        {
           "title": "关于加快推进虚拟电厂发展的指导意见",
           "date": "2025-04-11",
           "url": "https://www.nea.gov.cn/20250411/94a805e55f064493901cab6196e0448d/c.html"
@@ -914,6 +1280,11 @@
           "title": "关于促进可再生能源绿色电力证书市场高质量发展的意见",
           "date": "2025-03-18",
           "url": "https://www.nea.gov.cn/20250318/9d59e7bf731f4cd0830b125f6223b401/c.html"
+        },
+        {
+          "title": "关于2025年1月全国新增建档立卡新能源发电（不含自然人户用光伏）项目情况的公告",
+          "date": "2025-02-25",
+          "url": "https://www.nea.gov.cn/20250225/116d0ab4b97a4d28a28eb12dd64f0586/c.html"
         },
         {
           "title": "工业和信息化部等八部门关于印发新型储能制造业高质量发展行动方案的通知",
@@ -956,6 +1327,11 @@
           "url": "https://zfxxgk.nea.gov.cn/2024-08/26/c_1310785819.htm"
         },
         {
+          "title": "国家能源局关于加强煤电机组灵活性改造和深度调峰期间安全管理的通知",
+          "date": "2024-08-06",
+          "url": "https://zfxxgk.nea.gov.cn/2024-08/06/c_1212386624.htm"
+        },
+        {
           "title": "关于印发《加快构建新型电力系统行动方案(2024—2027年)》的通知",
           "date": "2024-08-06",
           "url": "https://zfxxgk.nea.gov.cn/2024-07/25/c_1310783890.htm"
@@ -996,6 +1372,11 @@
           "url": "https://zfxxgk.nea.gov.cn/2024-01/31/c_1310763726.htm"
         },
         {
+          "title": "国家发展改革委等部门关于加强新能源汽车与电网融合互动的实施意见",
+          "date": "2024-01-04",
+          "url": "https://zfxxgk.nea.gov.cn/2023-12/13/c_1310758710.htm"
+        },
+        {
           "title": "国家能源局综合司关于加强发电侧电网侧电化学储能电站安全运行风险监测的通知 国能综通安全〔2023〕131号",
           "date": "2023-11-16",
           "url": "https://zfxxgk.nea.gov.cn/2023-11/07/c_1310750783.htm"
@@ -1004,6 +1385,11 @@
           "title": "国家能源局综合司关于开展跨省跨区电力交易与市场秩序专项监管工作的通知",
           "date": "2023-10-31",
           "url": "https://zfxxgk.nea.gov.cn/2023-10/31/c_1310748175.htm"
+        },
+        {
+          "title": "国家能源局综合司关于印发《开展新能源及抽水蓄能开发领域不当市场干预行为专项整治工作方案》的通知",
+          "date": "2023-10-27",
+          "url": "https://zfxxgk.nea.gov.cn/2023-09/04/c_1310747578.htm"
         },
         {
           "title": "自然资源部 国家能源局关于印发矿产资源和电力市场化交易专项整治工作方案的通知",
@@ -1031,6 +1417,11 @@
           "url": "https://zfxxgk.nea.gov.cn/2023-06/16/c_1310727975.htm"
         },
         {
+          "title": "国家能源局关于印发加快油气勘探开发与新能源融合发展行动方案（2023-2025年）的通知",
+          "date": "2023-03-22",
+          "url": "https://zfxxgk.nea.gov.cn/2023-02/27/c_1310704758.htm"
+        },
+        {
           "title": "国家能源局综合司关于公开征求 《电力现货市场基本规则（征求意见稿）》...",
           "date": "2022-11-25",
           "url": "https://www.nea.gov.cn/2022-11/25/c_1310679693.htm"
@@ -1039,6 +1430,11 @@
           "title": "国家能源局综合司关于加强电化学储能电站安全管理的通知",
           "date": "2022-05-25",
           "url": "https://zfxxgk.nea.gov.cn/2022-04/26/c_1310603679.htm"
+        },
+        {
+          "title": "国家能源局公告 2022年第2号",
+          "date": "2022-05-13",
+          "url": "https://zfxxgk.nea.gov.cn/2022-05/07/c_1310591797.htm"
         },
         {
           "title": "国家发展改革委 国家能源局关于印发《“十四五”新型储能发展实施方案》的通知",
@@ -1065,14 +1461,239 @@
       ],
       "stopReason": "json-feed-end",
       "listed": 691,
-      "selected": 3,
+      "selected": 58,
       "listErrors": [],
       "failures": [],
       "entries": [
         {
+          "title": "国家能源局公告 2026年第4号",
+          "date": "2026-10-21",
+          "url": "https://www.nea.gov.cn/20261021/35115ff2391547fc9d2cf3e4af2c669c/c.html"
+        },
+        {
+          "title": "关于2026年8月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-09-23",
+          "url": "https://www.nea.gov.cn/20260923/aaadb598d4cc4c0a92585bfd26c8728e/c.html"
+        },
+        {
+          "title": "国家能源局公告 2026年第3号",
+          "date": "2026-09-14",
+          "url": "https://www.nea.gov.cn/20260914/cf012a88d0fa4297b6219b506bc72ed0/c.html"
+        },
+        {
+          "title": "关于2026年7月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-09-04",
+          "url": "https://www.nea.gov.cn/20260904/324fdc3e4908431392b82d19ab10de6b/c.html"
+        },
+        {
+          "title": "关于2026年6月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-07-20",
+          "url": "https://www.nea.gov.cn/20260720/f978dbe5fcbc4d8085a3909410b9366e/c.html"
+        },
+        {
+          "title": "国家能源局公告 2026年第2号",
+          "date": "2026-07-10",
+          "url": "https://www.nea.gov.cn/20260710/cbce8107d6eb42bd844f2f36f47a2191/c.html"
+        },
+        {
+          "title": "关于2026年5月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-06-30",
+          "url": "https://www.nea.gov.cn/20260630/7d369a8776544e32adbd1bbaca577b4b/c.html"
+        },
+        {
+          "title": "关于2026年4月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-05-28",
+          "url": "https://www.nea.gov.cn/20260528/24953644c2294aa58da2ea91c0c123b3/c.html"
+        },
+        {
+          "title": "国家能源局公告 2026年 第1号",
+          "date": "2026-04-28",
+          "url": "https://www.nea.gov.cn/20260513/a38f9ff036f145a7bcfb6724e9f8d89e/c.html"
+        },
+        {
+          "title": "关于2026年3月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-04-23",
+          "url": "https://www.nea.gov.cn/20260423/ba4fc99321fa4da19624eeeb2d5e4135/c.html"
+        },
+        {
+          "title": "关于2026年1月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-03-04",
+          "url": "https://www.nea.gov.cn/20260304/00841099b2d543099f5c957cb3f85b42/c.html"
+        },
+        {
+          "title": "关于2025年12月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-02-03",
+          "url": "https://www.nea.gov.cn/20260203/63c4d0afe6b94250a62e8792cdb28e3b/c.html"
+        },
+        {
+          "title": "关于2025年11月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-12-31",
+          "url": "https://www.nea.gov.cn/20251231/a6f4a56fd3534e208cc27143af651cb4/c.html"
+        },
+        {
+          "title": "国家能源局公告 2025年第7号",
+          "date": "2025-12-30",
+          "url": "https://www.nea.gov.cn/20251230/ef9d5d59dc9e4cffa7c712d516967857/c.html"
+        },
+        {
+          "title": "国家能源局公告 2025年第6号",
+          "date": "2025-12-05",
+          "url": "https://www.nea.gov.cn/20251205/8b311a8f290c4573aa9af6eb1537be80/c.html"
+        },
+        {
+          "title": "关于2025年10月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-12-02",
+          "url": "https://www.nea.gov.cn/20251202/c0d8867f172e49ebae6d600d5ceec6cf/c.html"
+        },
+        {
+          "title": "关于2025年9月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-10-31",
+          "url": "https://www.nea.gov.cn/20251031/1a51e15ddf60490b804bec26a4589b21/c.html"
+        },
+        {
+          "title": "国家能源局公告 2025年第5号",
+          "date": "2025-10-22",
+          "url": "https://www.nea.gov.cn/20251022/965401f0cf034cb7a070e3698edafc49/c.html"
+        },
+        {
+          "title": "关于2025年8月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-10-14",
+          "url": "https://www.nea.gov.cn/20251014/33550c9bc2d544e4b00a3f490ce73991/c.html"
+        },
+        {
+          "title": "国家能源局公告2025年第4号",
+          "date": "2025-09-26",
+          "url": "https://www.nea.gov.cn/20250926/755f66fcfc9f4484bdca1ca1ede9702a/c.html"
+        },
+        {
+          "title": "关于2025年7月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-09-03",
+          "url": "https://www.nea.gov.cn/20250903/00f521e2481f461ab98ae7616df62f67/c.html"
+        },
+        {
+          "title": "关于2025年6月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-07-30",
+          "url": "https://www.nea.gov.cn/20250730/b53696c777cc472cab6dee2e8263973a/c.html"
+        },
+        {
+          "title": "国家能源局公告 2025年第3号",
+          "date": "2025-07-10",
+          "url": "https://www.nea.gov.cn/20250710/1290d9b2a51f4edd8f8bc56e031cc70b/c.html"
+        },
+        {
+          "title": "关于2025年5月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-07-02",
+          "url": "https://www.nea.gov.cn/20250702/923f013fb13d48f0b8e214b167a2b90b/c.html"
+        },
+        {
+          "title": "关于2025年4月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-05-26",
+          "url": "https://www.nea.gov.cn/20250526/beeda707fbdf40f3b92ae083620c4c3c/c.html"
+        },
+        {
+          "title": "关于2025年3月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-04-28",
+          "url": "https://www.nea.gov.cn/20250428/2307322f6da04292b21d37b632e23363/c.html"
+        },
+        {
+          "title": "关于2025年2月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2025-03-31",
+          "url": "https://www.nea.gov.cn/20250331/1c04c9eb856e41abb0f8c484e1600dfa/c.html"
+        },
+        {
+          "title": "国家能源局公告 2025年第2号",
+          "date": "2025-03-12",
+          "url": "https://www.nea.gov.cn/20250312/4e38a4fb737b457e933c5a389e161453/c.html"
+        },
+        {
+          "title": "关于2025年1月全国新增建档立卡新能源发电（不含自然人户用光伏）项目情况的公告",
+          "date": "2025-02-25",
+          "url": "https://www.nea.gov.cn/20250225/116d0ab4b97a4d28a28eb12dd64f0586/c.html"
+        },
+        {
+          "title": "国家能源局公告 2025年第1号",
+          "date": "2025-01-13",
+          "url": "https://www.nea.gov.cn/20250113/6a92ff8f2ccf4e3d9d8ba6b8776df75d/c.html"
+        },
+        {
+          "title": "关于2024年11月全国新增建档立卡新能源发电（不含自然人户用光伏）项目情况的公告",
+          "date": "2024-12-30",
+          "url": "https://www.nea.gov.cn/20241230/f1298826e11a46fd96a2050340dee0c7/c.html"
+        },
+        {
+          "title": "国家能源局公告 2024年第4号",
+          "date": "2024-12-27",
+          "url": "https://www.nea.gov.cn/20241227/60972468f7f24739b3d939f1c97a3931/c.html"
+        },
+        {
+          "title": "关于2024年10月全国新增建档立卡新能源发电（不含自然人户用光伏）项目情况的公告",
+          "date": "2024-12-02",
+          "url": "https://zfxxgk.nea.gov.cn/2024-11/28/c_1310787407.htm"
+        },
+        {
+          "title": "关于2024年9月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2024-11-05",
+          "url": "https://zfxxgk.nea.gov.cn/2024-11/01/c_1310787114.htm"
+        },
+        {
+          "title": "关于2024年8月全国新增建档立卡新能源发电项目情况的公告",
+          "date": "2024-10-09",
+          "url": "https://zfxxgk.nea.gov.cn/2024-10/09/c_1212403988.htm"
+        },
+        {
+          "title": "国家能源局公告 2024年第3号",
+          "date": "2024-09-24",
+          "url": "https://zfxxgk.nea.gov.cn/2024-09/24/c_1212403994.htm"
+        },
+        {
+          "title": "关于2024年7月全国新增建档立卡新能源发电项目情况的公告",
+          "date": "2024-09-03",
+          "url": "https://zfxxgk.nea.gov.cn/2024-08/30/c_1310785705.htm"
+        },
+        {
+          "title": "关于2024年6月全国新增建档立卡新能源发电项目情况的公告",
+          "date": "2024-08-02",
+          "url": "https://zfxxgk.nea.gov.cn/2024-08/01/c_1310783682.htm"
+        },
+        {
           "title": "国家能源局综合司关于启用国家绿证核发交易系统的公告",
           "date": "2024-06-26",
           "url": "https://zfxxgk.nea.gov.cn/2024-06/26/c_1212375466.htm"
+        },
+        {
+          "title": "关于2024年5月全国新增建档立卡新能源发电项目情况的公告",
+          "date": "2024-06-25",
+          "url": "https://zfxxgk.nea.gov.cn/2024-06/25/c_1212375050.htm"
+        },
+        {
+          "title": "国家能源局公告 2024年第2号",
+          "date": "2024-06-04",
+          "url": "https://zfxxgk.nea.gov.cn/2024-05/24/c_1310777111.htm"
+        },
+        {
+          "title": "国家能源局公告 2024年第1号",
+          "date": "2024-01-24",
+          "url": "https://zfxxgk.nea.gov.cn/2024-01/17/c_1310761775.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第8号",
+          "date": "2024-01-08",
+          "url": "https://zfxxgk.nea.gov.cn/2023-12/28/c_1310759283.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第7号",
+          "date": "2024-01-03",
+          "url": "https://www.nea.gov.cn/2024-01/03/c_1310758547.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第6号",
+          "date": "2023-10-27",
+          "url": "https://zfxxgk.nea.gov.cn/2023-10/24/c_1310747681.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第5号",
+          "date": "2023-10-23",
+          "url": "https://zfxxgk.nea.gov.cn/2023-10/11/c_1310746777.htm"
         },
         {
           "title": "国家能源局综合司关于能源行业电力市场标委会和负载测试装置标准化工作组组建方案公开征求意见的公告",
@@ -1080,9 +1701,59 @@
           "url": "https://www.nea.gov.cn/2023-06/29/c_1310730063.htm"
         },
         {
+          "title": "国家能源局公告 2023年第4号",
+          "date": "2023-06-12",
+          "url": "https://zfxxgk.nea.gov.cn/2023-05/26/c_1310726596.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第3号",
+          "date": "2023-05-09",
+          "url": "https://zfxxgk.nea.gov.cn/2023-04/21/c_1310717199.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第2号",
+          "date": "2023-04-19",
+          "url": "https://zfxxgk.nea.gov.cn/2023-04/06/c_1310711943.htm"
+        },
+        {
+          "title": "国家能源局公告 2023年第1号",
+          "date": "2023-02-17",
+          "url": "https://zfxxgk.nea.gov.cn/2023-02/06/c_1310698160.htm"
+        },
+        {
+          "title": "国家能源局公告 2022年第5号",
+          "date": "2022-11-11",
+          "url": "https://www.nea.gov.cn/2022-11/11/c_1310675861.htm"
+        },
+        {
           "title": "国家能源局科技司关于公开征集2022年度储能研究课题承担单位的公告",
           "date": "2022-06-29",
           "url": "https://www.nea.gov.cn/2022-06/29/c_1310635547.htm"
+        },
+        {
+          "title": "国家能源局公告2022年第4号",
+          "date": "2022-06-07",
+          "url": "https://www.nea.gov.cn/2022-06/07/c_1310616244.htm"
+        },
+        {
+          "title": "国家能源局公告 2022年第3号",
+          "date": "2022-05-26",
+          "url": "https://zfxxgk.nea.gov.cn/2022-05/18/c_1310605237.htm"
+        },
+        {
+          "title": "国家能源局公告 2022年第2号",
+          "date": "2022-05-13",
+          "url": "https://zfxxgk.nea.gov.cn/2022-05/07/c_1310591797.htm"
+        },
+        {
+          "title": "国家能源局公告 2022年第1号",
+          "date": "2022-02-15",
+          "url": "https://zfxxgk.nea.gov.cn/2022-02/08/c_1310473177.htm"
+        },
+        {
+          "title": "国家能源局公告 2021年第6号",
+          "date": "2022-01-12",
+          "url": "https://zfxxgk.nea.gov.cn/2021-12/22/c_1310420968.htm"
         }
       ]
     },
@@ -1104,10 +1775,35 @@
       ],
       "stopReason": "json-feed-end",
       "listed": 289,
-      "selected": 36,
+      "selected": 52,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "构建煤电与新能源融合发展模式 持续提升系统调节能力与绿色低碳水平",
+          "date": "2026-10-21",
+          "url": "https://www.nea.gov.cn/20261021/083d58168f6c4a8481198a14b5aa1af2/c.html"
+        },
+        {
+          "title": "国家能源局有关负责同志就《关于推动煤电与新能源融合发展的实施意见》答记者问",
+          "date": "2026-10-21",
+          "url": "https://www.nea.gov.cn/20261021/47444aa63de843ccb8c8e742d61eab6b/c.html"
+        },
+        {
+          "title": "加快煤电与新能源融合发展 助推电力行业绿色低碳转型",
+          "date": "2026-10-21",
+          "url": "https://www.nea.gov.cn/20261021/6e331f2bc41149efbbe5eabe9ecbf2b4/c.html"
+        },
+        {
+          "title": "推动煤电与新能源融合发展 拓展新能源开发消纳空间",
+          "date": "2026-10-21",
+          "url": "https://www.nea.gov.cn/20261021/6b7a90e7354d449599dadb53f0e6e567/c.html"
+        },
+        {
+          "title": "推动煤电与新能源融合发展 以系统协同促进绿色低碳转型",
+          "date": "2026-10-21",
+          "url": "https://www.nea.gov.cn/20261021/42676e4ebaf046299337ee12abf2e6c9/c.html"
+        },
         {
           "title": "一图读懂《中国新型储能发展报告（2026）》",
           "date": "2026-07-30",
@@ -1127,6 +1823,16 @@
           "title": "《国家能源局关于印发〈可再生能源绿色电力证书管理实施细则（试行）〉的通知》解读",
           "date": "2026-01-07",
           "url": "https://www.nea.gov.cn/20260107/3f7a58d6f6a54b1a96b29e0f50cbd04d/c.html"
+        },
+        {
+          "title": "国家能源局有关负责同志就《关于促进新能源集成融合发展的指导意见》答记者问",
+          "date": "2025-11-12",
+          "url": "https://www.nea.gov.cn/20251112/03dc9ef6112a45be9712aa2e7dc17597/c.html"
+        },
+        {
+          "title": "国家能源局煤炭司负责同志就《关于推进煤炭与新能源融合发展的指导意见》答记者问",
+          "date": "2025-11-07",
+          "url": "https://www.nea.gov.cn/20251107/2f6a64db41264fb6b2f1597356211d6d/c.html"
         },
         {
           "title": "国家能源局有关负责同志就《新型储能规模化建设专项行动方案（2025—2027年）》答记者问",
@@ -1184,9 +1890,19 @@
           "url": "https://www.nea.gov.cn/20250609/8799cdca0bf64f8f89d5068002de2708/c.html"
         },
         {
+          "title": "政策解读丨创新新能源发展模式，助力经济社会绿色发展",
+          "date": "2025-06-09",
+          "url": "https://www.nea.gov.cn/20250609/0c28185e1e994561ab29d3962f06f17e/c.html"
+        },
+        {
           "title": "国家能源局有关负责同志就《关于有序推动绿电直连发展有关事项的通知》答记者问",
           "date": "2025-05-30",
           "url": "https://www.nea.gov.cn/20250530/9bf3a7dcdb6943a88d8b38e9781243cb/c.html"
+        },
+        {
+          "title": "政策解读丨供给、消费、技术、制度、国际合作 全方位支持民营企业参与新能源建设",
+          "date": "2025-05-06",
+          "url": "https://www.nea.gov.cn/20250506/6c9892f4b33b4056afb57a7bf7622290/c.html"
         },
         {
           "title": "国家能源局有关负责同志就《关于印发〈电力辅助服务市场基本规则〉的通知》答记者问",
@@ -1197,6 +1913,16 @@
           "title": "政策解读丨推进新一代煤电转型升级 助力新型电力系统高质量建设",
           "date": "2025-04-20",
           "url": "https://www.nea.gov.cn/20250420/c068f16deca9422bae827bb41698843c/c.html"
+        },
+        {
+          "title": "政策解读丨创新引领 科学有序 协同推进新一代煤电高质量发展",
+          "date": "2025-04-17",
+          "url": "https://www.nea.gov.cn/20250417/b0d7af274225479d9a30019c6073ab16/c.html"
+        },
+        {
+          "title": "政策解读丨助力我国能源转型 加快构建新一代煤电体系",
+          "date": "2025-04-17",
+          "url": "https://www.nea.gov.cn/20250417/92217a219c364bd3bec5bfbbdf6bbb51/c.html"
         },
         {
           "title": "政策解读丨推进新一代煤电高质量升级 加快建设新型电力系统",
@@ -1219,6 +1945,11 @@
           "url": "https://www.nea.gov.cn/20250414/b60ef8d1f82d4c7f9d04d07e776208cc/c.html"
         },
         {
+          "title": "国家能源局有关负责同志就《新一代煤电升级专项行动实施方案（2025—2027年）》答记者问",
+          "date": "2025-04-14",
+          "url": "https://www.nea.gov.cn/20250414/a2f1cc9afab9490db58a2a7c929593a1/c.html"
+        },
+        {
           "title": "大力发展虚拟电厂，提升源网荷储协同互动水平——《关于加快推进虚拟电厂发展的指导意见》解读",
           "date": "2025-04-13",
           "url": "https://www.nea.gov.cn/20250413/625ef23ff8b24d2fa58e352bdcdbfd87/c.html"
@@ -1232,6 +1963,11 @@
           "title": "一图读懂丨关于促进可再生能源绿色电力证书市场高质量发展的意见",
           "date": "2025-03-20",
           "url": "https://www.nea.gov.cn/20250320/39a522d78248455fb5354503a0938325/c.html"
+        },
+        {
+          "title": "《中国可再生能源绿色电力证书百问百答（2025年版）》发布",
+          "date": "2025-03-18",
+          "url": "https://www.nea.gov.cn/20250318/78dbc76b24434bd9ae9db87c3e1f18eb/c.html"
         },
         {
           "title": "国家能源局有关负责同志就《关于促进可再生能源绿色电力证书市场高质量发展的意见》答记者问",
@@ -1269,6 +2005,11 @@
           "url": "https://www.nea.gov.cn/2024-08/06/c_1212386607.htm"
         },
         {
+          "title": "新能源发电项目建档立卡小知识",
+          "date": "2024-07-31",
+          "url": "https://www.nea.gov.cn/2024-07/31/c_1310783429.htm"
+        },
+        {
           "title": "《关于做好新能源消纳工作 保障新能源高质量发展的通知》政策解读",
           "date": "2024-06-04",
           "url": "https://www.nea.gov.cn/2024-06/04/c_1310777103.htm"
@@ -1284,9 +2025,63 @@
           "url": "https://www.nea.gov.cn/2024-02/07/c_1310763802.htm"
         },
         {
+          "title": "《关于促进新时代新能源高质量发展的实施方案》政策解读",
+          "date": "2022-05-30",
+          "url": "https://www.nea.gov.cn/2022-05/30/c_1310608538.htm"
+        },
+        {
           "title": "《“十四五”新型储能发展实施方案》解读",
           "date": "2022-03-21",
           "url": "https://www.nea.gov.cn/2022-03/21/c_1310523223.htm"
+        },
+        {
+          "title": "《国家能源局 国家市场监督管理总局关于印发＜并网调度协议示范文本＞＜新能源场站...",
+          "date": "2022-01-10",
+          "url": "https://www.nea.gov.cn/2022-01/10/c_1310417599.htm"
+        }
+      ]
+    },
+    {
+      "sourceId": "nea-other",
+      "pages": [
+        {
+          "url": "https://www.nea.gov.cn/policy/qt.htm",
+          "bytes": 3485
+        },
+        {
+          "url": "https://www.nea.gov.cn/policy/ds_ed8253c59b864af093268fde3ad5664e.json",
+          "bytes": 13419
+        },
+        {
+          "url": "https://www.nea.gov.cn/policy/ds_b4ad36b327694722a0b1e9a38c32c233.json",
+          "bytes": 345492
+        }
+      ],
+      "stopReason": "json-feed-end",
+      "listed": 328,
+      "selected": 4,
+      "listErrors": [],
+      "failures": [],
+      "entries": [
+        {
+          "title": "关于公开征求《供电企业信息公开实施办法》（修订稿）意见的通知",
+          "date": "2026-08-31",
+          "url": "https://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html"
+        },
+        {
+          "title": "国家能源局关于印发《可再生能源绿色电力证书管理实施细则（试行）》的通知",
+          "date": "2026-01-07",
+          "url": "https://www.nea.gov.cn/20260107/9a905f263a8b4aa4a06e1a96855cc8eb/c.html"
+        },
+        {
+          "title": "国家能源局关于推进煤炭与新能源融合发展的指导意见",
+          "date": "2025-11-07",
+          "url": "https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html"
+        },
+        {
+          "title": "国家发展改革委等部门关于加强新能源汽车与电网融合互动的实施意见",
+          "date": "2023-01-04",
+          "url": "https://zfxxgk.nea.gov.cn/2023-12/13/c_1310758710.htm"
         }
       ]
     },
@@ -1294,6 +2089,36 @@
       "sourceId": "nea-consultation",
       "error": "页面可读，但未解析到任何文件链接",
       "pages": []
+    },
+    {
+      "sourceId": "gov-latest",
+      "pages": [
+        {
+          "url": "https://www.gov.cn/zhengce/zuixin/",
+          "bytes": 21484
+        },
+        {
+          "url": "https://www.gov.cn/zhengce/zuixin/ZUIXINZHENGCE.json",
+          "bytes": 266183
+        }
+      ],
+      "stopReason": "json-feed-end",
+      "listed": 1106,
+      "selected": 2,
+      "listErrors": [],
+      "failures": [],
+      "entries": [
+        {
+          "title": "国务院办公厅关于完善全国统一电力市场体系的实施意见",
+          "date": "2026-02-11",
+          "url": "https://www.gov.cn/zhengce/content/202602/content_7057744.htm"
+        },
+        {
+          "title": "国务院办公厅转发国家发展改革委国家能源局关于促进新时代新能源高质量发展实施方案的通知",
+          "date": "2022-05-30",
+          "url": "https://www.gov.cn/zhengce/content/2022-05/30/content_5693013.htm"
+        }
+      ]
     },
     {
       "sourceId": "sdb",
@@ -1313,7 +2138,7 @@
       ],
       "stopReason": "page-limit",
       "listed": 44,
-      "selected": 18,
+      "selected": 19,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -1366,6 +2191,11 @@
           "title": "关于公开征求《山东电力市场规则(试行)》(征求意见稿)意见的通知",
           "date": "2025-07-29",
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202507/t20250729_284995.html"
+        },
+        {
+          "title": "关于征求《山东省新能源和新型并网主体涉网安全能力提升工作方案》意见的函",
+          "date": "2025-06-24",
+          "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202506/t20250624_283284.html"
         },
         {
           "title": "关于山东电力现货市场由试运行转正式运行的通知",
@@ -1439,6 +2269,25 @@
       ]
     },
     {
+      "sourceId": "sdb-policy",
+      "pages": [
+        {
+          "url": "https://sdb.nea.gov.cn/xxgk/zcfg/",
+          "bytes": 23430
+        },
+        {
+          "url": "https://sdb.nea.gov.cn/xxgk/zcfg/index_1.html",
+          "bytes": 22702
+        }
+      ],
+      "stopReason": "passed-history-start",
+      "listed": 21,
+      "selected": 0,
+      "listErrors": [],
+      "failures": [],
+      "entries": []
+    },
+    {
       "sourceId": "sd-nyj-notices",
       "pages": [
         {
@@ -1510,6 +2359,11 @@
     },
     {
       "sourceId": "sd-fgw",
+      "error": "fetch failed",
+      "pages": []
+    },
+    {
+      "sourceId": "sd-fgw-price",
       "error": "fetch failed",
       "pages": []
     }

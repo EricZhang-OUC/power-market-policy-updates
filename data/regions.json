@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T05:58:21.285Z",
+  "updatedAt": "2026-10-22T07:33:54.278Z",
   "historyStart": "2026-01-01",
   "records": [
     {
@@ -208,7 +208,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-10-22T05:55:54.463Z",
+      "lastCheckedAt": "2026-10-22T07:31:17.355Z",
       "contentHash": "2ea03b268c208c41336dfcef387d647074bfb9b0198104e7533d96e1803cfa59",
       "attachments": []
     },
@@ -223,7 +223,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-10-22T05:55:54.463Z",
+      "lastCheckedAt": "2026-10-22T07:31:17.355Z",
       "contentHash": "0fd5c7cc335bbf752e0e2913de792ecb4fe398d10a0f9bd4a4ab4e2438a4b47c",
       "attachments": []
     },
@@ -238,7 +238,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-10-22T05:55:54.463Z",
+      "lastCheckedAt": "2026-10-22T07:31:17.355Z",
       "contentHash": "60b86bf5b9dbcdee51b81c0778f0401193f9481d7d9cf5530c70a7bfc02b4978",
       "attachments": []
     },
@@ -253,7 +253,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-10-22T05:55:54.463Z",
+      "lastCheckedAt": "2026-10-22T07:31:17.355Z",
       "contentHash": "3562d150945cbfe6a8414be41d5316afe3927c8f5802049ea837316b6584abfa",
       "attachments": []
     },
@@ -268,7 +268,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-10-22T05:55:54.463Z",
+      "lastCheckedAt": "2026-10-22T07:31:17.355Z",
       "contentHash": "0927aca0548f4a93d7c7ac7c6cefcd672aef071356333b342fd2d6acb6ddb316",
       "attachments": []
     },
@@ -283,7 +283,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-10-22T05:55:56.886Z",
+      "lastCheckedAt": "2026-10-22T07:31:20.219Z",
       "contentHash": "6011ae348aeccd89159360b1c6eb3e572fd0ac4f2d1bb00272f00fead7cee7c3",
       "attachments": []
     },
@@ -298,7 +298,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-10-22T05:55:56.886Z",
+      "lastCheckedAt": "2026-10-22T07:31:20.219Z",
       "contentHash": "66f881bf93fac330995b5683b6868a43e8b77420dc5ec878316431919d0ca6c7",
       "attachments": []
     },
@@ -313,7 +313,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-10-22T05:55:56.886Z",
+      "lastCheckedAt": "2026-10-22T07:31:20.219Z",
       "contentHash": "72138acfafd83d785c59d7809dc8914ce670f0171fddad0b0abc63d6bcde2b94",
       "attachments": []
     },
@@ -328,7 +328,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-10-22T05:55:56.886Z",
+      "lastCheckedAt": "2026-10-22T07:31:20.219Z",
       "contentHash": "297713c4956a6f9c26a907e8437b6619fcdd2b2de4aa6f53ae4fde16d311a890",
       "attachments": []
     },
@@ -343,7 +343,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-10-22T05:55:56.886Z",
+      "lastCheckedAt": "2026-10-22T07:31:20.219Z",
       "contentHash": "66a42f7c5112b92ea58d09991c3fd5ea4e40e8ad35d85cbcc51649eb59d85568",
       "attachments": []
     },
@@ -358,7 +358,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "d01d841d8742a0454e4bba39b7ffc7dfbee6f38974ed9775d41ee296bffede3f",
       "attachments": []
     },
@@ -373,7 +373,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "d34d36ceb61baa5c1068707e45e3acbe5140a0f5f4758a4c5e83949c7095d5b7",
       "attachments": []
     },
@@ -388,7 +388,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "d29523100bc274cb5012ab744ad5b219b12d827c8c9d494ab0840cfdf2f92584",
       "attachments": []
     },
@@ -403,7 +403,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "866b39f2c65fa4690abd8d3166b6c7f188a08b4737237dd81b67fdc3a29a8ed9",
       "attachments": [
         {
@@ -423,7 +423,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "a0136803d1cabc1d68ba5f121ebe4d63a42b0e238c10104409fc30624e0c7b7e",
       "attachments": [
         {
@@ -443,7 +443,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "cbbe4e6182eb235c4d0d004545b2d5fc0c76727eb431451076f413b63dfb4261",
       "attachments": [
         {
@@ -463,7 +463,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "6088012d0a8a5986b45c96c143a9cc7e29b4a6fb97a505716325e1060acb4901",
       "attachments": [
         {
@@ -728,7 +728,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:11.317Z",
-      "lastCheckedAt": "2026-10-22T05:56:07.683Z",
+      "lastCheckedAt": "2026-10-22T07:31:29.994Z",
       "contentHash": "7833d35eaf08c1f74ced02fec02e591280fad00e54da1e3333f495cabd912ad4",
       "attachments": []
     },
@@ -973,7 +973,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:15.314Z",
-      "lastCheckedAt": "2026-10-22T05:56:11.495Z",
+      "lastCheckedAt": "2026-10-22T07:31:33.926Z",
       "contentHash": "4dcde2994aa5575a9221f18056253aff8d37eba8af2f88e38e42a988ce922c44",
       "attachments": []
     },
@@ -988,7 +988,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:15.314Z",
-      "lastCheckedAt": "2026-10-22T05:56:11.495Z",
+      "lastCheckedAt": "2026-10-22T07:31:33.926Z",
       "contentHash": "071f37ea503fb1e021537e54ea7825a80b24c361c1d590ea57cafdfa9d122656",
       "attachments": []
     },
@@ -1153,7 +1153,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:20.871Z",
-      "lastCheckedAt": "2026-10-22T05:56:21.520Z",
+      "lastCheckedAt": "2026-10-22T07:31:43.468Z",
       "contentHash": "994169522d2ffa36df4cb0dda6cd5d78a0d344ea05201055066186a405683ff3",
       "attachments": [
         {
@@ -1173,7 +1173,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:20.871Z",
-      "lastCheckedAt": "2026-10-22T05:56:25.059Z",
+      "lastCheckedAt": "2026-10-22T07:31:47.660Z",
       "contentHash": "52f343847b3a5d19b0243054d6106f1b7ddbf853ad112e800595962081fcd1d2",
       "attachments": [
         {
@@ -1348,7 +1348,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:24.508Z",
-      "lastCheckedAt": "2026-10-22T05:56:25.671Z",
+      "lastCheckedAt": "2026-10-22T07:31:48.868Z",
       "contentHash": "d3c0de02ef210eb017490e2273acec136a344d7574a3b4e9fbcf25ad07810a02",
       "attachments": [
         {
@@ -1958,7 +1958,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:06.641Z",
-      "lastCheckedAt": "2026-10-22T05:56:31.168Z",
+      "lastCheckedAt": "2026-10-22T07:31:54.884Z",
       "contentHash": "e65fe71ac679da60cc955b3fd6e4cdc42c53f4ed81c1c19dd498146d61232f58",
       "attachments": []
     },
@@ -1988,7 +1988,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:06.641Z",
-      "lastCheckedAt": "2026-10-22T05:56:31.168Z",
+      "lastCheckedAt": "2026-10-22T07:31:54.884Z",
       "contentHash": "d662c2fde9d9960fb0a1811ca684f58f3e7920f7c86a9928e04fe16b4cae2244",
       "attachments": []
     },
@@ -2018,7 +2018,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:07.999Z",
-      "lastCheckedAt": "2026-10-22T05:56:34.364Z",
+      "lastCheckedAt": "2026-10-22T07:31:58.271Z",
       "contentHash": "9997a7a18f1ce6719890774e344fd1b8596e1c663144f0e2bc922ddc7f14dabc",
       "attachments": []
     },
@@ -2033,7 +2033,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:07.999Z",
-      "lastCheckedAt": "2026-10-22T05:56:34.364Z",
+      "lastCheckedAt": "2026-10-22T07:31:58.271Z",
       "contentHash": "615aa43c8aee9de0e660f44faac1a0cd40a20d94126227f1c782a30c94e7da23",
       "attachments": []
     },
@@ -2123,7 +2123,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:08.658Z",
-      "lastCheckedAt": "2026-10-22T05:56:36.230Z",
+      "lastCheckedAt": "2026-10-22T07:32:00.193Z",
       "contentHash": "635030198641a6e3d37ffd974e87779b162ce4c13aceefe6bbb1eaaec5b78b6e",
       "attachments": []
     },
@@ -2303,7 +2303,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-10-22T05:56:38.744Z",
+      "lastCheckedAt": "2026-10-22T07:32:03.061Z",
       "contentHash": "ef6ecfc868640c0dcce3596ae397e810babb93f3355a4fbe77760d0d9987fe50",
       "attachments": [
         {
@@ -2327,7 +2327,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-10-22T05:56:38.744Z",
+      "lastCheckedAt": "2026-10-22T07:32:03.061Z",
       "contentHash": "a083c07d697763031f5b98ba1228ef2879bf25850767ef018c5c900638e01a7a",
       "attachments": [
         {
@@ -2347,7 +2347,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-10-22T05:56:38.744Z",
+      "lastCheckedAt": "2026-10-22T07:32:03.061Z",
       "contentHash": "de7a772c47fded06afe6ff933b27b35af1dba24fcae3f661948b292def0ade22",
       "attachments": [
         {
@@ -2367,7 +2367,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-10-22T05:56:38.744Z",
+      "lastCheckedAt": "2026-10-22T07:32:03.061Z",
       "contentHash": "647ce26ceacdd67efead8b865ac683f83fbbbedc14de3e94e56fa54cb7370ef2",
       "attachments": [
         {
@@ -2395,7 +2395,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:13.965Z",
-      "lastCheckedAt": "2026-10-22T05:56:42.642Z",
+      "lastCheckedAt": "2026-10-22T07:32:07.523Z",
       "contentHash": "7307431d22ef60fd9f0526fbdee178508fd7af360c6362408a62570616cddb82",
       "attachments": [
         {
@@ -2415,7 +2415,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:14.235Z",
-      "lastCheckedAt": "2026-10-22T05:56:43.408Z",
+      "lastCheckedAt": "2026-10-22T07:32:08.223Z",
       "contentHash": "e350b2166b2628f7e2b04377c31a84cf938d8d64279c84b76258ab7eb8428d20",
       "attachments": []
     },
@@ -2445,7 +2445,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:14.235Z",
-      "lastCheckedAt": "2026-10-22T05:56:43.408Z",
+      "lastCheckedAt": "2026-10-22T07:32:08.223Z",
       "contentHash": "2823574d40845f04289295459d646e5383f2da0406b84406a3a88b11fd89c733",
       "attachments": []
     },
@@ -2460,7 +2460,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:14.653Z",
-      "lastCheckedAt": "2026-10-22T05:56:44.568Z",
+      "lastCheckedAt": "2026-10-22T07:32:09.778Z",
       "contentHash": "8bff0d9c742f98ca6ea17501a0e933d9fe52ec06ecaf97fd96ab518cec396d41",
       "attachments": [
         {
@@ -2525,7 +2525,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:14.979Z",
-      "lastCheckedAt": "2026-10-22T05:56:45.583Z",
+      "lastCheckedAt": "2026-10-22T07:32:10.851Z",
       "contentHash": "607529969aef14f3e64225928bbc63bab7d9a75198f1125bf46d53c4b6e73019",
       "attachments": []
     },
@@ -2735,7 +2735,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "df9f863de9927ed3a1ed2db58d1d4265e046140131b3124bb06fa7bfa0a0fdaa",
       "attachments": [
         {
@@ -2755,7 +2755,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "a765436720e33007a2ca1749f0c58fd440922a861a875d2bbd39408ea9396ba0",
       "attachments": [
         {
@@ -2779,7 +2779,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "fef940558798f2c71cedf2febb9dfb61f1b2987e2a11666f90c1a1a02844358a",
       "attachments": [
         {
@@ -2799,7 +2799,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "533d6a816d6dcede17b4dc618887ed78e090b82b576cd6e67289584ac2d6dee0",
       "attachments": [
         {
@@ -2819,7 +2819,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "6df2760713e7434511fdfa62546c167d215d79b21c8fb0309c6e855cee1a36f2",
       "attachments": [
         {
@@ -2839,7 +2839,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "9b9c9298c1fee145d0ca09dcd740d04f500e9e02bf73b6afad87964142853669",
       "attachments": [
         {
@@ -2859,7 +2859,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "71fcce2c95b3d2128903b1a3499bdf4dcc30464abbd61b2a298717a54e4b258f",
       "attachments": [
         {
@@ -2879,7 +2879,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "8c64338b7f23e27b2bf3f5202800b2b8e9aead147719d724012b26a122d05009",
       "attachments": [
         {
@@ -2899,7 +2899,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "0aab1c533e1c45b266ce02cda3368670e46c3f84da1ac0cc0e6b139a1facf2d9",
       "attachments": [
         {
@@ -2979,7 +2979,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-10-22T05:56:52.656Z",
+      "lastCheckedAt": "2026-10-22T07:32:19.726Z",
       "contentHash": "162cfbccee88d5bdba6e1e6f3fb38c0aa8104c5e8f28242ed0e9b9b0213eff92",
       "attachments": []
     },
@@ -2994,7 +2994,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-10-22T05:56:52.656Z",
+      "lastCheckedAt": "2026-10-22T07:32:19.726Z",
       "contentHash": "9efddbc5f42a50ff09ad398c1a19696d25d4ff6d4b10d10ff15980bf399849ac",
       "attachments": []
     },
@@ -3009,7 +3009,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-10-22T05:56:52.656Z",
+      "lastCheckedAt": "2026-10-22T07:32:19.726Z",
       "contentHash": "38b7f369c914dbb672267045a0b6122e3e2f7c4eb43973e7f40e2bff4dd98851",
       "attachments": []
     },
@@ -3024,7 +3024,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-10-22T05:56:52.656Z",
+      "lastCheckedAt": "2026-10-22T07:32:19.726Z",
       "contentHash": "a8ee82f59174b180aabeda22f057fd0759214e92015749897b971d5d5520aecf",
       "attachments": []
     },
@@ -3039,7 +3039,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-10-22T05:56:52.656Z",
+      "lastCheckedAt": "2026-10-22T07:32:19.726Z",
       "contentHash": "5f390a5150ac3e2fb3660ee52be0a6ad7bf9bd87b52c699fe34b87d8a1e0a832",
       "attachments": []
     },
@@ -3369,7 +3369,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:28.930Z",
-      "lastCheckedAt": "2026-10-22T05:56:56.653Z",
+      "lastCheckedAt": "2026-10-22T07:32:23.341Z",
       "contentHash": "e1781161b623656be4ce2def9e99277f3438bd17c944cf39a06c0fb4629a7dbb",
       "attachments": []
     },
@@ -3384,7 +3384,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:28.930Z",
-      "lastCheckedAt": "2026-10-22T05:56:56.653Z",
+      "lastCheckedAt": "2026-10-22T07:32:23.341Z",
       "contentHash": "6232a0b9c2f71d3ce7f12156786da3366221ecf001c4c2511ce1ef927e4a67c5",
       "attachments": [
         {
@@ -3404,7 +3404,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:29.243Z",
-      "lastCheckedAt": "2026-10-22T05:56:57.887Z",
+      "lastCheckedAt": "2026-10-22T07:32:24.872Z",
       "contentHash": "6cfd58e1e7fd0d06652c0f34510315d0742545d35ff7e57252bf75c0617d6044",
       "attachments": [
         {
@@ -3714,7 +3714,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:35.904Z",
-      "lastCheckedAt": "2026-10-22T05:57:01.991Z",
+      "lastCheckedAt": "2026-10-22T07:32:28.840Z",
       "contentHash": "a4dcbf8360ad64db0e6649295ea8ed940d18c684b0ef1a12e5f8b8e5d6d5d447",
       "attachments": [
         {
@@ -3803,7 +3803,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:37.070Z",
-      "lastCheckedAt": "2026-10-22T05:57:07.124Z",
+      "lastCheckedAt": "2026-10-22T07:32:31.456Z",
       "contentHash": "67cbb3cc59c342a35e4be920718a17ff5d7c94295bc1286305866cc9f4b478d8",
       "attachments": []
     },
@@ -3982,7 +3982,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:57.355Z",
-      "lastCheckedAt": "2026-10-22T05:57:10.307Z",
+      "lastCheckedAt": "2026-10-22T07:32:35.184Z",
       "contentHash": "e80597af517b5e42a0d3ae025f7807e13db406ff38ed2717196d862af3114798",
       "attachments": []
     },
@@ -3997,7 +3997,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:12.785Z",
-      "lastCheckedAt": "2026-10-22T05:57:12.309Z",
+      "lastCheckedAt": "2026-10-22T07:32:37.712Z",
       "contentHash": "100fd625af4b9f5a92afdb2150a237db95095f1a937200ff0196eb89e31c1ab6",
       "attachments": []
     },
@@ -4297,7 +4297,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:19.072Z",
-      "lastCheckedAt": "2026-10-22T05:57:15.228Z",
+      "lastCheckedAt": "2026-10-22T07:32:40.817Z",
       "contentHash": "c77c28699644610a37dcae2fee12a3e9698451e8ed213546cca92f2e35debfd0",
       "attachments": [
         {
@@ -4332,7 +4332,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:19.395Z",
-      "lastCheckedAt": "2026-10-22T05:57:16.183Z",
+      "lastCheckedAt": "2026-10-22T07:32:41.845Z",
       "contentHash": "ad035ca30d51455ed3080af117b8bd58727ffdb3d45cabc3f25d4b7d90dc471c",
       "attachments": []
     },
@@ -4347,7 +4347,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:19.711Z",
-      "lastCheckedAt": "2026-10-22T05:57:17.284Z",
+      "lastCheckedAt": "2026-10-22T07:32:43.404Z",
       "contentHash": "0ef042ba45d60bc889014420b6dd865bc179d923f74e0f225e36d6f8b37d13c9",
       "attachments": [
         {
@@ -4577,7 +4577,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-10-22T05:57:19.768Z",
+      "lastCheckedAt": "2026-10-22T07:32:45.825Z",
       "contentHash": "773e654d5452a96e269a5520c2fd0f2d482c379d1213ad85d5f934f88c3a0cfa",
       "attachments": [
         {
@@ -4597,7 +4597,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-10-22T05:57:19.768Z",
+      "lastCheckedAt": "2026-10-22T07:32:45.825Z",
       "contentHash": "245181e69bafff65c9c9e9d80004bfa720810ff720f9f5275c99ddbfe71a6505",
       "attachments": [
         {
@@ -4617,7 +4617,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-10-22T05:57:19.768Z",
+      "lastCheckedAt": "2026-10-22T07:32:45.825Z",
       "contentHash": "8d58b565c90e4fefbc0ef82db722b5c26245e2963a5af0c3e6688c1e8446e1fd",
       "attachments": [
         {
@@ -4657,7 +4657,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-10-22T05:57:19.768Z",
+      "lastCheckedAt": "2026-10-22T07:32:45.825Z",
       "contentHash": "4fd85b51c987b2ae9315e75c67600896adcda5ae8b57285e366d06e4b75f6a16",
       "attachments": [
         {
@@ -4717,7 +4717,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-10-22T05:57:25.159Z",
+      "lastCheckedAt": "2026-10-22T07:32:52.322Z",
       "contentHash": "a36186eedc168832924e2711e1cfe22780f2b403307af0e245cc02594175b58a",
       "attachments": [
         {
@@ -4745,7 +4745,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-10-22T05:57:22.376Z",
+      "lastCheckedAt": "2026-10-22T07:32:48.959Z",
       "contentHash": "a4256571963d37b5c836130c242aaf30c8bf8f2834148dcf89fc4b6e6b3dbd86",
       "attachments": []
     },
@@ -4760,7 +4760,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-10-22T05:57:22.376Z",
+      "lastCheckedAt": "2026-10-22T07:32:48.959Z",
       "contentHash": "4ae2880e7ca2abe921ff9d947118df25c61b6097cc1a2a551644de69f02c74bc",
       "attachments": []
     },
@@ -4775,7 +4775,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-10-22T05:57:22.376Z",
+      "lastCheckedAt": "2026-10-22T07:32:48.959Z",
       "contentHash": "67be2865c0aa586b4547492ff03e8f2402ab67c480037a88d24a90806ce593d6",
       "attachments": []
     },
@@ -4790,7 +4790,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-10-22T05:57:22.376Z",
+      "lastCheckedAt": "2026-10-22T07:32:48.959Z",
       "contentHash": "06cbd23213516339b2dda66f9604a513af083b424076928dd3a32e35edbe37dd",
       "attachments": []
     },
@@ -5075,7 +5075,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:30.278Z",
-      "lastCheckedAt": "2026-10-22T05:57:27.513Z",
+      "lastCheckedAt": "2026-10-22T07:32:54.546Z",
       "contentHash": "f030803156359af9b676f8872a822687d0931c5d64358a00a58bdfeb7f823765",
       "attachments": [
         {
@@ -5095,7 +5095,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:30.278Z",
-      "lastCheckedAt": "2026-10-22T05:57:27.513Z",
+      "lastCheckedAt": "2026-10-22T07:32:54.546Z",
       "contentHash": "701551eaf4ea99465c253c8c60ee1b238313d0e6df3e87f83803ea39605c0163",
       "attachments": [
         {
@@ -5159,7 +5159,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:33.849Z",
-      "lastCheckedAt": "2026-10-22T05:57:33.118Z",
+      "lastCheckedAt": "2026-10-22T07:33:00.402Z",
       "contentHash": "d3dbb96efdfcf69f003e2b850669ddf2cf5cc1fd6a41967461788a4b563d0e96",
       "attachments": []
     },
@@ -5174,7 +5174,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:34.077Z",
-      "lastCheckedAt": "2026-10-22T05:57:34.130Z",
+      "lastCheckedAt": "2026-10-22T07:33:01.625Z",
       "contentHash": "a4886cde5aa3909bcb9f6a9503c57cd2c6b98202d548efc205d6c8bb7012ef96",
       "attachments": []
     },
@@ -5399,7 +5399,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-10-22T05:57:36.548Z",
+      "lastCheckedAt": "2026-10-22T07:33:08.787Z",
       "contentHash": "26caa22116cee4a450bc878cd306f849bd30453d14883fadab89bb36fe5b2f21",
       "attachments": [
         {
@@ -5431,7 +5431,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-10-22T05:57:36.548Z",
+      "lastCheckedAt": "2026-10-22T07:33:08.787Z",
       "contentHash": "4185e84decb8dd5fb40ef9efc3e397c5fbdf80e89400c00dd49b69536edba03e",
       "attachments": []
     },
@@ -5446,7 +5446,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-10-22T05:57:36.548Z",
+      "lastCheckedAt": "2026-10-22T07:33:08.787Z",
       "contentHash": "dcaf31bb36377268b258c1b25afb8fe12df15732bec4503d1fbf78b9a3a2f7fa",
       "attachments": []
     },
@@ -5461,7 +5461,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-10-22T05:57:36.548Z",
+      "lastCheckedAt": "2026-10-22T07:33:08.787Z",
       "contentHash": "994dade1e78703d7964292fdee1dacb78f8dcc946c3d9a916bf8fcc9a250e59d",
       "attachments": [
         {
@@ -5489,7 +5489,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-10-22T05:57:36.548Z",
+      "lastCheckedAt": "2026-10-22T07:33:08.787Z",
       "contentHash": "182ffd90e885f317964405063bf25efa32df68671187bb7fd4a4548b0acb7a78",
       "attachments": [
         {
@@ -5571,7 +5571,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:46.643Z",
-      "lastCheckedAt": "2026-10-22T05:57:38.949Z",
+      "lastCheckedAt": "2026-10-22T07:33:11.521Z",
       "contentHash": "123e909db45209cb039aadda1e32ec59c41f12f5a66e802b9aabf502822bdb0b",
       "attachments": []
     },
@@ -5586,7 +5586,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:46.643Z",
-      "lastCheckedAt": "2026-10-22T05:57:38.949Z",
+      "lastCheckedAt": "2026-10-22T07:33:11.521Z",
       "contentHash": "529931dd43f9b947b2fd755b67aad7cdd3b6e56142eefbd5ad4b360ccc3626fd",
       "attachments": [
         {
@@ -5633,7 +5633,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.208Z",
-      "lastCheckedAt": "2026-10-22T05:57:42.049Z",
+      "lastCheckedAt": "2026-10-22T07:33:14.293Z",
       "contentHash": "3dff5f0860f6bf5b2fa56b51ebae4060ea32dfeca9a3659e7fa3df21d331895c",
       "attachments": [
         {
@@ -5665,7 +5665,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.208Z",
-      "lastCheckedAt": "2026-10-22T05:57:42.049Z",
+      "lastCheckedAt": "2026-10-22T07:33:14.293Z",
       "contentHash": "701f8ab8a97a91e3731bd5bcee2235c5cbf167cd6088c8ba338b336df3925252",
       "attachments": [
         {
@@ -5697,7 +5697,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.208Z",
-      "lastCheckedAt": "2026-10-22T05:57:42.049Z",
+      "lastCheckedAt": "2026-10-22T07:33:14.293Z",
       "contentHash": "ec2d286d2d667571f3dc01e4a4ea7cbf0125d2ce20e266ed545562895be811eb",
       "attachments": []
     },
@@ -5712,7 +5712,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.736Z",
-      "lastCheckedAt": "2026-10-22T05:57:44.832Z",
+      "lastCheckedAt": "2026-10-22T07:33:17.627Z",
       "contentHash": "1caeb99ed0043396682966bb415933679689c085408e798af675182d46a56fae",
       "attachments": []
     },
@@ -5770,7 +5770,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.736Z",
-      "lastCheckedAt": "2026-10-22T05:57:44.832Z",
+      "lastCheckedAt": "2026-10-22T07:33:17.627Z",
       "contentHash": "ab04113ba18ffddd5b84a20fcd9c3ab034fa95b1a28d0437a862e8c14dd9d6d6",
       "attachments": [
         {
@@ -5798,7 +5798,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.736Z",
-      "lastCheckedAt": "2026-10-22T05:57:44.832Z",
+      "lastCheckedAt": "2026-10-22T07:33:17.627Z",
       "contentHash": "64c5ab16cefe2909704a3bed5c13018663764bd853be42bcb46a5cde2b550ce3",
       "attachments": []
     },
@@ -5828,7 +5828,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:49.473Z",
-      "lastCheckedAt": "2026-10-22T05:57:49.550Z",
+      "lastCheckedAt": "2026-10-22T07:33:22.176Z",
       "contentHash": "53d7408b693bbac30cb0bd7b1bdbc7490d99dc6e55e5bc81c8c8810fffa91202",
       "attachments": []
     },
@@ -5843,7 +5843,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:21:30.550Z",
-      "lastCheckedAt": "2026-10-22T05:57:38.949Z",
+      "lastCheckedAt": "2026-10-22T07:33:11.521Z",
       "contentHash": "85167db491bbb920d533dd03c0dd6780b13167687f9aa416a5c5143a9314417a",
       "attachments": [
         {
@@ -5863,9 +5863,372 @@
           "url": "https://nyj.nmg.gov.cn/tzgg/202602/P020260214483569217454.pdf"
         }
       ]
+    },
+    {
+      "id": "2c9934d7f00800a5",
+      "region": "东北区域",
+      "title": "东北能源监管局印发实施方案规范新能源集中报价行为",
+      "date": "2026-08-05",
+      "agency": "东北能源监管局",
+      "url": "https://dbj.nea.gov.cn/dtyw/jgdt/202608/t20260806_306230.html",
+      "sourceId": "dbj-0",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:13.636Z",
+      "lastCheckedAt": "2026-10-22T07:31:13.636Z",
+      "contentHash": "bcc9f5674c62dc7d09fa8cb4fc5b7a9e8040fa08e2aefe58e551ff25fee0292b",
+      "attachments": []
+    },
+    {
+      "id": "9561aeb9a8911a02",
+      "region": "东北区域",
+      "title": "关于印发《东北区域集中式新能源发电企业集中报价工作实施方案（试行）》的通知（东北监能市场〔2026〕42号）",
+      "date": "2026-08-06",
+      "agency": "东北能源监管局",
+      "url": "https://dbj.nea.gov.cn/xxgk/zcfg/202608/t20260806_306274.html",
+      "sourceId": "dbj-2",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:17.355Z",
+      "lastCheckedAt": "2026-10-22T07:31:17.355Z",
+      "contentHash": "82e25d046aef95a1cc1fa5232643a306df693082fb57c9409d9ed45c35436b2a",
+      "attachments": []
+    },
+    {
+      "id": "e111e0c1a1fbe27d",
+      "region": "东北区域",
+      "title": "《东北区域集中式新能源发电企业集中报价 工作实施方案（试行）》解读",
+      "date": "2026-08-06",
+      "agency": "东北能源监管局",
+      "url": "https://dbj.nea.gov.cn/xxgk/zcjd/202608/t20260806_306275.html",
+      "sourceId": "dbj-3",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:20.219Z",
+      "lastCheckedAt": "2026-10-22T07:31:20.219Z",
+      "contentHash": "2c6978fba4b1a36832ee7e1a369d22f051038e0fb1c13195e42ad7873a7f1375",
+      "attachments": []
+    },
+    {
+      "id": "f60c86ce4b678de3",
+      "region": "东北区域",
+      "title": "关于征求《东北区域集中式新能源发电企业集中报价工作实施方案（征求意见稿）》意见的公告",
+      "date": "2026-05-20",
+      "agency": "东北能源监管局",
+      "url": "https://dbj.nea.gov.cn/hdhy/dczj/202605/t20260525_301717.html",
+      "sourceId": "dbj-4",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:22.905Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
+      "contentHash": "1ac4b3276f8fc7e4125ad0b290754923aa60dd5fd9c5bd08fb4a730352e8a07b",
+      "attachments": [
+        {
+          "title": "东北区域集中式新能源发电企业集中报价工作实施方案（征求意见稿）.pdf",
+          "url": "https://dbj.nea.gov.cn/hdhy/dczj/202605/P020260525592343331815.pdf"
+        }
+      ]
+    },
+    {
+      "id": "273c497994831906",
+      "region": "甘肃",
+      "title": "甘肃能源监管办关于征求《甘肃省集中式新能源发电企业市场报价管理工作实施方案（征求意见稿）》意见的公告",
+      "date": "2026-07-13",
+      "agency": "甘肃能源监管办",
+      "url": "https://gsb.nea.gov.cn/dtyw/tzgg/202607/t20260713_304740.html",
+      "sourceId": "gsb-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:33.926Z",
+      "lastCheckedAt": "2026-10-22T07:31:33.926Z",
+      "contentHash": "9cc07da084bdd71827c26f0dcea305b1355b243c83aeac85eb09a2df540aa6e4",
+      "attachments": [
+        {
+          "title": "《甘肃省集中式新能源发电企业市场报价管理工作实施方案（征求意见稿）》.docx",
+          "url": "https://gsb.nea.gov.cn/dtyw/tzgg/202607/P020260713658837146585.docx"
+        }
+      ]
+    },
+    {
+      "id": "83d137dfc7d37c23",
+      "region": "华东区域",
+      "title": "关于印发《华东区域电力交易行为合规指引（试行）》的通知（...",
+      "date": "2026-10-22",
+      "agency": "华东能源监管局",
+      "url": "https://hdj.nea.gov.cn/dtyw/tzgg/202610/P020261022510052039223.pdf",
+      "sourceId": "hdj-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:51.280Z",
+      "lastCheckedAt": "2026-10-22T07:31:51.280Z",
+      "contentHash": "dcc021c43c2dae279f1be198bf48f5917921329101d567b6db22969bc8c07c42",
+      "attachments": []
+    },
+    {
+      "id": "fa26415136a23dda",
+      "region": "河南",
+      "title": "河南能源监管办关于公开征求《河南省集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知",
+      "date": "2026-07-08",
+      "agency": "河南能源监管办",
+      "url": "https://henb.nea.gov.cn/dtyw/tzgg/202607/t20260708_304403.html",
+      "sourceId": "henb-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:54.884Z",
+      "lastCheckedAt": "2026-10-22T07:31:54.884Z",
+      "contentHash": "7307581d4d148fb415a611adc54988abfdc9776120d9bbc3e47d643ac09372be",
+      "attachments": [
+        {
+          "title": "河南省集中式新能源发电企业集中报价实施方案（征求意见稿）.docx",
+          "url": "https://henb.nea.gov.cn/dtyw/tzgg/202607/P020260708550078311252.docx"
+        }
+      ]
+    },
+    {
+      "id": "5fcb19c699387503",
+      "region": "湖南",
+      "title": "关于公开征求《湖南省集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知",
+      "date": "2026-05-22",
+      "agency": "湖南能源监管办",
+      "url": "https://hunb.nea.gov.cn/dtyw/tzgg/tz/202605/t20260522_301557.html",
+      "sourceId": "hunb-2",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:03.061Z",
+      "lastCheckedAt": "2026-10-22T07:32:03.061Z",
+      "contentHash": "ee2db353436f1d5074d2a15cfc317ed000d7c36865e8df1ada8714ce9c582056",
+      "attachments": [
+        {
+          "title": "关于公开征求《湖南省集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知.pdf",
+          "url": "https://hunb.nea.gov.cn/dtyw/tzgg/tz/202605/P020260522526709565183.pdf"
+        }
+      ]
+    },
+    {
+      "id": "cb36c6b9e23299a9",
+      "region": "湖南",
+      "title": "《湖南煤电机组最大出力申报认定及考核实施细则》解读",
+      "date": "2026-04-03",
+      "agency": "湖南能源监管办",
+      "url": "https://hunb.nea.gov.cn/xxgk/zcjd/202604/t20260403_299083.html",
+      "sourceId": "hunb-5",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:08.223Z",
+      "lastCheckedAt": "2026-10-22T07:32:08.223Z",
+      "contentHash": "74cf1edd31badd4ade97f208c52fa15d983795267be20151465d43720175243b",
+      "attachments": []
+    },
+    {
+      "id": "11f251d87f7e240c",
+      "region": "湖南",
+      "title": "关于公开征求《湖南省集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知",
+      "date": "2026-05-22",
+      "agency": "湖南能源监管办",
+      "url": "https://hunb.nea.gov.cn/hdhy/dczj/202605/t20260522_301557.html",
+      "sourceId": "hunb-6",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:09.778Z",
+      "lastCheckedAt": "2026-10-22T07:32:09.778Z",
+      "contentHash": "d613a7f01c10789dea9ca90fa77b0d455a8acba71b72024fc87788a5e4afdd9b",
+      "attachments": [
+        {
+          "title": "关于公开征求《湖南省集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知.pdf",
+          "url": "https://hunb.nea.gov.cn/hdhy/dczj/202605/P020260522526709565183.pdf"
+        }
+      ]
+    },
+    {
+      "id": "ebf43a62f00df5ab",
+      "region": "华中区域",
+      "title": "关于公开征求《湖北、江西、重庆集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知",
+      "date": "2026-04-30",
+      "agency": "华中能源监管局",
+      "url": "https://hzj.nea.gov.cn/dtyw/tzgg/202604/t20260430_300553.html",
+      "sourceId": "hzj-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:13.700Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
+      "contentHash": "31196f287e4849fde5e2f9da95e6ed29affb83f972a2eb7556b2de238b098758",
+      "attachments": [
+        {
+          "title": "《湖北、江西、重庆集中式新能源发电企业集中报价实施方案（征求意见稿）》.pdf",
+          "url": "https://hzj.nea.gov.cn/dtyw/tzgg/202604/P020260512538641886206.pdf"
+        }
+      ]
+    },
+    {
+      "id": "32d67eeb1adacc7a",
+      "region": "江苏",
+      "title": "关于印发《江苏集中式新能源发电企业市场报价实施方案（试行）》的通知",
+      "date": "2026-09-30",
+      "agency": "江苏能源监管办",
+      "url": "https://jsb.nea.gov.cn/dtyw/tz/202610/t20261013_310286.html",
+      "sourceId": "jsb-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:23.341Z",
+      "lastCheckedAt": "2026-10-22T07:32:23.341Z",
+      "contentHash": "2e8a8d3ef48420a3b0a228f72fc662e985177f2e74d3e7ef676e006c32bad3fb",
+      "attachments": [
+        {
+          "title": "关于印发《江苏集中式新能源发电企业市场报价实施方案（试行）》的通知.pdf",
+          "url": "https://jsb.nea.gov.cn/dtyw/tz/202610/P020261013561334724040.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6e3d4da6e1a8791e",
+      "region": "四川",
+      "title": "关于公开征求《四川集中式新能源发电企业集中报价管理工作实施方案（征求意见稿）...",
+      "date": "2026-07-10",
+      "agency": "四川能源监管办",
+      "url": "https://scb.nea.gov.cn/dtyw/tzgg/202607/P020260710636953397040.pdf",
+      "sourceId": "scb-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:33.578Z",
+      "lastCheckedAt": "2026-10-22T07:32:33.578Z",
+      "contentHash": "6881d67b3339c71da62cbcd23347246a32d2a8e04236fa4028bf67dc3dbd2f53",
+      "attachments": []
+    },
+    {
+      "id": "b686ffa96f324197",
+      "region": "山西",
+      "title": "《山西集中式新能源发电企业集中报价 实施方案》政策解读",
+      "date": "2026-07-21",
+      "agency": "山西能源监管办",
+      "url": "https://sxb.nea.gov.cn/xxgk/zcjd/202607/t20260721_305141.html",
+      "sourceId": "sxb-3",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:41.845Z",
+      "lastCheckedAt": "2026-10-22T07:32:41.845Z",
+      "contentHash": "3c90961cff0efbb3eeafae38b3d71892741d33596d3871117387c1215455492f",
+      "attachments": []
+    },
+    {
+      "id": "07561b6a10ba36c8",
+      "region": "西北区域",
+      "title": "《陕宁青三省（区）集中式新能源发电企业集中报价管理工作实施方案》政策解读",
+      "date": "2026-09-23",
+      "agency": "西北能源监管局",
+      "url": "https://xbj.nea.gov.cn/xxgk/zcjd/202609/t20260923_309535.html",
+      "sourceId": "xbj-3",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:48.959Z",
+      "lastCheckedAt": "2026-10-22T07:32:48.959Z",
+      "contentHash": "48f6f0d79c06c1401a34a9de47370bfb3db76b922bf03950a332d45dc6db8aaf",
+      "attachments": []
+    },
+    {
+      "id": "a3fa0a6799490214",
+      "region": "新疆",
+      "title": "关于印发《新疆集中式新能源发电企业 市场报价管理实施方案（试行）》的通知",
+      "date": "2026-03-30",
+      "agency": "新疆能源监管办",
+      "url": "https://xjb.nea.gov.cn/dtyw/tzgg/202603/t20260330_298798.html",
+      "sourceId": "xjb-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:54.546Z",
+      "lastCheckedAt": "2026-10-22T07:32:54.546Z",
+      "contentHash": "bf6be3be0b3d4623282f710190d943612cade8bd553d29549e05b53fa8bdf6f9",
+      "attachments": [
+        {
+          "title": "新疆集中式新能源发电企业市场报价实施方案（试行）.doc",
+          "url": "https://xjb.nea.gov.cn/dtyw/tzgg/202603/P020260330672062597812.doc"
+        },
+        {
+          "title": "新疆集中式新能源发电企业市场报价管理实施方案（试行）.pdf",
+          "url": "https://xjb.nea.gov.cn/dtyw/tzgg/202603/P020260330676497378046.pdf"
+        }
+      ]
+    },
+    {
+      "id": "67fe366c452e4a0b",
+      "region": "内蒙古",
+      "title": "国家能源局有关负责同志就《关于推动煤电与新能源融合发展的实施意见》答记者问",
+      "date": "2026-10-22",
+      "agency": "内蒙古自治区能源局",
+      "url": "https://nyj.nmg.gov.cn/ywdt/nydt1/202610/t20261022_2967794.html",
+      "sourceId": "nmg-nyj-home",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:33:14.293Z",
+      "lastCheckedAt": "2026-10-22T07:33:14.293Z",
+      "contentHash": "42aed555ee602589a66983a2cd8bd30c5b4cc89fb4f527fa5576441dde084f5a",
+      "attachments": []
+    },
+    {
+      "id": "ec374ddc3de2f128",
+      "region": "广东",
+      "title": "广东省发展改革委关于印发10千伏及以上新能源可持续发展价格结算机制存量项目清单的通知",
+      "date": "2026-07-27",
+      "agency": "广东省发展改革委",
+      "url": "https://drc.gd.gov.cn/ywtz/content/post_4933958.html",
+      "sourceId": "gd-drc-notices",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:33:17.627Z",
+      "lastCheckedAt": "2026-10-22T07:33:17.627Z",
+      "contentHash": "179b7176a5f1ce6d9a13a7799359ac86942d0f7f22e79b83e6ba43085118256c",
+      "attachments": [
+        {
+          "title": "附件1：广东省纳入新能源可持续发展价格结算机制存量项目（10千伏及以上的海上风电、陆上风电）清单.xlsx",
+          "url": "https://drc.gd.gov.cn/attachment/0/620/620659/4933958.xlsx"
+        },
+        {
+          "title": "附件2：广东省纳入新能源可持续发展价格结算机制存量项目（10千伏及以上的集中式光伏）清单.xlsx",
+          "url": "https://drc.gd.gov.cn/attachment/0/620/620658/4933958.xlsx"
+        },
+        {
+          "title": "附件3：广东省纳入新能源可持续发展价格结算机制存量项目（10千伏及以上的分布式光伏）清单.xlsx",
+          "url": "https://drc.gd.gov.cn/attachment/0/620/620657/4933958.xlsx"
+        }
+      ]
     }
   ],
   "rows": [
+    {
+      "id": "83d137dfc7d37c23",
+      "region": "华东区域",
+      "title": "关于印发《华东区域电力交易行为合规指引（试行）》的通知（...",
+      "date": "2026-10-22",
+      "agency": "华东能源监管局",
+      "url": "https://hdj.nea.gov.cn/dtyw/tzgg/202610/P020261022510052039223.pdf",
+      "sourceId": "hdj-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:51.280Z",
+      "lastCheckedAt": "2026-10-22T07:31:51.280Z",
+      "contentHash": "dcc021c43c2dae279f1be198bf48f5917921329101d567b6db22969bc8c07c42",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "67fe366c452e4a0b",
+      "region": "内蒙古",
+      "title": "国家能源局有关负责同志就《关于推动煤电与新能源融合发展的实施意见》答记者问",
+      "date": "2026-10-22",
+      "agency": "内蒙古自治区能源局",
+      "url": "https://nyj.nmg.gov.cn/ywdt/nydt1/202610/t20261022_2967794.html",
+      "sourceId": "nmg-nyj-home",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:33:14.293Z",
+      "lastCheckedAt": "2026-10-22T07:33:14.293Z",
+      "contentHash": "42aed555ee602589a66983a2cd8bd30c5b4cc89fb4f527fa5576441dde084f5a",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
     {
       "id": "e73482948be50fe0",
       "region": "甘肃",
@@ -5877,7 +6240,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:15.314Z",
-      "lastCheckedAt": "2026-10-22T05:56:11.495Z",
+      "lastCheckedAt": "2026-10-22T07:31:33.926Z",
       "contentHash": "4dcde2994aa5575a9221f18056253aff8d37eba8af2f88e38e42a988ce922c44",
       "attachments": [],
       "contentKind": "政策动态",
@@ -5895,7 +6258,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.736Z",
-      "lastCheckedAt": "2026-10-22T05:57:44.832Z",
+      "lastCheckedAt": "2026-10-22T07:33:17.627Z",
       "contentHash": "1caeb99ed0043396682966bb415933679689c085408e798af675182d46a56fae",
       "attachments": [],
       "contentKind": "政策动态",
@@ -5920,7 +6283,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-10-22T05:57:19.768Z",
+      "lastCheckedAt": "2026-10-22T07:32:45.825Z",
       "contentHash": "773e654d5452a96e269a5520c2fd0f2d482c379d1213ad85d5f934f88c3a0cfa",
       "attachments": [
         {
@@ -5966,7 +6329,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-10-22T05:57:36.548Z",
+      "lastCheckedAt": "2026-10-22T07:33:08.787Z",
       "contentHash": "26caa22116cee4a450bc878cd306f849bd30453d14883fadab89bb36fe5b2f21",
       "attachments": [
         {
@@ -5991,6 +6354,47 @@
       "sourceCount": 1
     },
     {
+      "id": "32d67eeb1adacc7a",
+      "region": "江苏",
+      "title": "关于印发《江苏集中式新能源发电企业市场报价实施方案（试行）》的通知",
+      "date": "2026-09-30",
+      "agency": "江苏能源监管办",
+      "url": "https://jsb.nea.gov.cn/dtyw/tz/202610/t20261013_310286.html",
+      "sourceId": "jsb-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:23.341Z",
+      "lastCheckedAt": "2026-10-22T07:32:23.341Z",
+      "contentHash": "2e8a8d3ef48420a3b0a228f72fc662e985177f2e74d3e7ef676e006c32bad3fb",
+      "attachments": [
+        {
+          "title": "关于印发《江苏集中式新能源发电企业市场报价实施方案（试行）》的通知.pdf",
+          "url": "https://jsb.nea.gov.cn/dtyw/tz/202610/P020261013561334724040.pdf"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "07561b6a10ba36c8",
+      "region": "西北区域",
+      "title": "《陕宁青三省（区）集中式新能源发电企业集中报价管理工作实施方案》政策解读",
+      "date": "2026-09-23",
+      "agency": "西北能源监管局",
+      "url": "https://xbj.nea.gov.cn/xxgk/zcjd/202609/t20260923_309535.html",
+      "sourceId": "xbj-3",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:48.959Z",
+      "lastCheckedAt": "2026-10-22T07:32:48.959Z",
+      "contentHash": "48f6f0d79c06c1401a34a9de47370bfb3db76b922bf03950a332d45dc6db8aaf",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "9ac9e2224bfef2f0",
       "region": "内蒙古",
       "title": "内蒙古自治区发展改革委 能源局关于新能源就近消纳价格机制有关事宜的补充通知",
@@ -6001,7 +6405,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:46.643Z",
-      "lastCheckedAt": "2026-10-22T05:57:38.949Z",
+      "lastCheckedAt": "2026-10-22T07:33:11.521Z",
       "contentHash": "123e909db45209cb039aadda1e32ec59c41f12f5a66e802b9aabf502822bdb0b",
       "attachments": [],
       "contentKind": "政策动态",
@@ -6019,7 +6423,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "d01d841d8742a0454e4bba39b7ffc7dfbee6f38974ed9775d41ee296bffede3f",
       "attachments": [],
       "contentKind": "征求意见",
@@ -6037,7 +6441,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "d34d36ceb61baa5c1068707e45e3acbe5140a0f5f4758a4c5e83949c7095d5b7",
       "attachments": [],
       "contentKind": "征求意见",
@@ -6055,7 +6459,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "d29523100bc274cb5012ab744ad5b219b12d827c8c9d494ab0840cfdf2f92584",
       "attachments": [],
       "contentKind": "征求意见",
@@ -6073,7 +6477,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-10-22T05:57:36.548Z",
+      "lastCheckedAt": "2026-10-22T07:33:08.787Z",
       "contentHash": "4185e84decb8dd5fb40ef9efc3e397c5fbdf80e89400c00dd49b69536edba03e",
       "attachments": [],
       "contentKind": "政策动态",
@@ -6091,7 +6495,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:24.508Z",
-      "lastCheckedAt": "2026-10-22T05:56:25.671Z",
+      "lastCheckedAt": "2026-10-22T07:31:48.868Z",
       "contentHash": "d3c0de02ef210eb017490e2273acec136a344d7574a3b4e9fbcf25ad07810a02",
       "attachments": [
         {
@@ -6114,7 +6518,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:20.871Z",
-      "lastCheckedAt": "2026-10-22T05:56:21.520Z",
+      "lastCheckedAt": "2026-10-22T07:31:43.468Z",
       "contentHash": "994169522d2ffa36df4cb0dda6cd5d78a0d344ea05201055066186a405683ff3",
       "attachments": [
         {
@@ -6137,7 +6541,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:29.243Z",
-      "lastCheckedAt": "2026-10-22T05:56:57.887Z",
+      "lastCheckedAt": "2026-10-22T07:32:24.872Z",
       "contentHash": "6cfd58e1e7fd0d06652c0f34510315d0742545d35ff7e57252bf75c0617d6044",
       "attachments": [
         {
@@ -6160,7 +6564,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.208Z",
-      "lastCheckedAt": "2026-10-22T05:57:42.049Z",
+      "lastCheckedAt": "2026-10-22T07:33:14.293Z",
       "contentHash": "ec2d286d2d667571f3dc01e4a4ea7cbf0125d2ce20e266ed545562895be811eb",
       "attachments": [],
       "contentKind": "解读",
@@ -6178,7 +6582,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:46.643Z",
-      "lastCheckedAt": "2026-10-22T05:57:38.949Z",
+      "lastCheckedAt": "2026-10-22T07:33:11.521Z",
       "contentHash": "529931dd43f9b947b2fd755b67aad7cdd3b6e56142eefbd5ad4b360ccc3626fd",
       "attachments": [
         {
@@ -6243,7 +6647,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-10-22T05:57:19.768Z",
+      "lastCheckedAt": "2026-10-22T07:32:45.825Z",
       "contentHash": "245181e69bafff65c9c9e9d80004bfa720810ff720f9f5275c99ddbfe71a6505",
       "attachments": [
         {
@@ -6266,7 +6670,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:35.904Z",
-      "lastCheckedAt": "2026-10-22T05:57:01.991Z",
+      "lastCheckedAt": "2026-10-22T07:32:28.840Z",
       "contentHash": "a4dcbf8360ad64db0e6649295ea8ed940d18c684b0ef1a12e5f8b8e5d6d5d447",
       "attachments": [
         {
@@ -6293,10 +6697,46 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-10-22T05:57:36.548Z",
+      "lastCheckedAt": "2026-10-22T07:33:08.787Z",
       "contentHash": "dcaf31bb36377268b258c1b25afb8fe12df15732bec4503d1fbf78b9a3a2f7fa",
       "attachments": [],
       "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "9561aeb9a8911a02",
+      "region": "东北区域",
+      "title": "关于印发《东北区域集中式新能源发电企业集中报价工作实施方案（试行）》的通知（东北监能市场〔2026〕42号）",
+      "date": "2026-08-06",
+      "agency": "东北能源监管局",
+      "url": "https://dbj.nea.gov.cn/xxgk/zcfg/202608/t20260806_306274.html",
+      "sourceId": "dbj-2",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:17.355Z",
+      "lastCheckedAt": "2026-10-22T07:31:17.355Z",
+      "contentHash": "82e25d046aef95a1cc1fa5232643a306df693082fb57c9409d9ed45c35436b2a",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "e111e0c1a1fbe27d",
+      "region": "东北区域",
+      "title": "《东北区域集中式新能源发电企业集中报价 工作实施方案（试行）》解读",
+      "date": "2026-08-06",
+      "agency": "东北能源监管局",
+      "url": "https://dbj.nea.gov.cn/xxgk/zcjd/202608/t20260806_306275.html",
+      "sourceId": "dbj-3",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:20.219Z",
+      "lastCheckedAt": "2026-10-22T07:31:20.219Z",
+      "contentHash": "2c6978fba4b1a36832ee7e1a369d22f051038e0fb1c13195e42ad7873a7f1375",
+      "attachments": [],
+      "contentKind": "解读",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -6311,7 +6751,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-10-22T05:57:36.548Z",
+      "lastCheckedAt": "2026-10-22T07:33:08.787Z",
       "contentHash": "994dade1e78703d7964292fdee1dacb78f8dcc946c3d9a916bf8fcc9a250e59d",
       "attachments": [
         {
@@ -6332,6 +6772,24 @@
       "sourceCount": 1
     },
     {
+      "id": "2c9934d7f00800a5",
+      "region": "东北区域",
+      "title": "东北能源监管局印发实施方案规范新能源集中报价行为",
+      "date": "2026-08-05",
+      "agency": "东北能源监管局",
+      "url": "https://dbj.nea.gov.cn/dtyw/jgdt/202608/t20260806_306230.html",
+      "sourceId": "dbj-0",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:13.636Z",
+      "lastCheckedAt": "2026-10-22T07:31:13.636Z",
+      "contentHash": "bcc9f5674c62dc7d09fa8cb4fc5b7a9e8040fa08e2aefe58e551ff25fee0292b",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "c0618201ff728712",
       "region": "河南",
       "title": "河南电力中长期市场交易实施细则有关政策解读",
@@ -6342,7 +6800,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:06.641Z",
-      "lastCheckedAt": "2026-10-22T05:56:31.168Z",
+      "lastCheckedAt": "2026-10-22T07:31:54.884Z",
       "contentHash": "e65fe71ac679da60cc955b3fd6e4cdc42c53f4ed81c1c19dd498146d61232f58",
       "attachments": [],
       "contentKind": "解读",
@@ -6367,7 +6825,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-10-22T05:57:36.548Z",
+      "lastCheckedAt": "2026-10-22T07:33:08.787Z",
       "contentHash": "182ffd90e885f317964405063bf25efa32df68671187bb7fd4a4548b0acb7a78",
       "attachments": [
         {
@@ -6398,7 +6856,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:14.979Z",
-      "lastCheckedAt": "2026-10-22T05:56:45.583Z",
+      "lastCheckedAt": "2026-10-22T07:32:10.851Z",
       "contentHash": "607529969aef14f3e64225928bbc63bab7d9a75198f1125bf46d53c4b6e73019",
       "attachments": [],
       "contentKind": "征求意见",
@@ -6416,7 +6874,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.736Z",
-      "lastCheckedAt": "2026-10-22T05:57:44.832Z",
+      "lastCheckedAt": "2026-10-22T07:33:17.627Z",
       "contentHash": "ab04113ba18ffddd5b84a20fcd9c3ab034fa95b1a28d0437a862e8c14dd9d6d6",
       "attachments": [
         {
@@ -6437,6 +6895,37 @@
       "sourceCount": 1
     },
     {
+      "id": "ec374ddc3de2f128",
+      "region": "广东",
+      "title": "广东省发展改革委关于印发10千伏及以上新能源可持续发展价格结算机制存量项目清单的通知",
+      "date": "2026-07-27",
+      "agency": "广东省发展改革委",
+      "url": "https://drc.gd.gov.cn/ywtz/content/post_4933958.html",
+      "sourceId": "gd-drc-notices",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:33:17.627Z",
+      "lastCheckedAt": "2026-10-22T07:33:17.627Z",
+      "contentHash": "179b7176a5f1ce6d9a13a7799359ac86942d0f7f22e79b83e6ba43085118256c",
+      "attachments": [
+        {
+          "title": "附件1：广东省纳入新能源可持续发展价格结算机制存量项目（10千伏及以上的海上风电、陆上风电）清单.xlsx",
+          "url": "https://drc.gd.gov.cn/attachment/0/620/620659/4933958.xlsx"
+        },
+        {
+          "title": "附件2：广东省纳入新能源可持续发展价格结算机制存量项目（10千伏及以上的集中式光伏）清单.xlsx",
+          "url": "https://drc.gd.gov.cn/attachment/0/620/620658/4933958.xlsx"
+        },
+        {
+          "title": "附件3：广东省纳入新能源可持续发展价格结算机制存量项目（10千伏及以上的分布式光伏）清单.xlsx",
+          "url": "https://drc.gd.gov.cn/attachment/0/620/620657/4933958.xlsx"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "a08c361de3d94432",
       "region": "湖南",
       "title": "湖南进一步完善电力市场规则体系",
@@ -6447,7 +6936,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:08.658Z",
-      "lastCheckedAt": "2026-10-22T05:56:36.230Z",
+      "lastCheckedAt": "2026-10-22T07:32:00.193Z",
       "contentHash": "635030198641a6e3d37ffd974e87779b162ce4c13aceefe6bbb1eaaec5b78b6e",
       "attachments": [],
       "contentKind": "政策动态",
@@ -6465,8 +6954,26 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:14.235Z",
-      "lastCheckedAt": "2026-10-22T05:56:43.408Z",
+      "lastCheckedAt": "2026-10-22T07:32:08.223Z",
       "contentHash": "e350b2166b2628f7e2b04377c31a84cf938d8d64279c84b76258ab7eb8428d20",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "b686ffa96f324197",
+      "region": "山西",
+      "title": "《山西集中式新能源发电企业集中报价 实施方案》政策解读",
+      "date": "2026-07-21",
+      "agency": "山西能源监管办",
+      "url": "https://sxb.nea.gov.cn/xxgk/zcjd/202607/t20260721_305141.html",
+      "sourceId": "sxb-3",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:41.845Z",
+      "lastCheckedAt": "2026-10-22T07:32:41.845Z",
+      "contentHash": "3c90961cff0efbb3eeafae38b3d71892741d33596d3871117387c1215455492f",
       "attachments": [],
       "contentKind": "解读",
       "otherSources": [],
@@ -6483,7 +6990,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "df9f863de9927ed3a1ed2db58d1d4265e046140131b3124bb06fa7bfa0a0fdaa",
       "attachments": [
         {
@@ -6524,7 +7031,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:19.072Z",
-      "lastCheckedAt": "2026-10-22T05:57:15.228Z",
+      "lastCheckedAt": "2026-10-22T07:32:40.817Z",
       "contentHash": "c77c28699644610a37dcae2fee12a3e9698451e8ed213546cca92f2e35debfd0",
       "attachments": [
         {
@@ -6547,7 +7054,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-10-22T05:56:38.744Z",
+      "lastCheckedAt": "2026-10-22T07:32:03.061Z",
       "contentHash": "ef6ecfc868640c0dcce3596ae397e810babb93f3355a4fbe77760d0d9987fe50",
       "attachments": [
         {
@@ -6560,6 +7067,29 @@
         }
       ],
       "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "273c497994831906",
+      "region": "甘肃",
+      "title": "甘肃能源监管办关于征求《甘肃省集中式新能源发电企业市场报价管理工作实施方案（征求意见稿）》意见的公告",
+      "date": "2026-07-13",
+      "agency": "甘肃能源监管办",
+      "url": "https://gsb.nea.gov.cn/dtyw/tzgg/202607/t20260713_304740.html",
+      "sourceId": "gsb-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:33.926Z",
+      "lastCheckedAt": "2026-10-22T07:31:33.926Z",
+      "contentHash": "9cc07da084bdd71827c26f0dcea305b1355b243c83aeac85eb09a2df540aa6e4",
+      "attachments": [
+        {
+          "title": "《甘肃省集中式新能源发电企业市场报价管理工作实施方案（征求意见稿）》.docx",
+          "url": "https://gsb.nea.gov.cn/dtyw/tzgg/202607/P020260713658837146585.docx"
+        }
+      ],
+      "contentKind": "征求意见",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -6582,6 +7112,47 @@
       "sourceCount": 1
     },
     {
+      "id": "6e3d4da6e1a8791e",
+      "region": "四川",
+      "title": "关于公开征求《四川集中式新能源发电企业集中报价管理工作实施方案（征求意见稿）...",
+      "date": "2026-07-10",
+      "agency": "四川能源监管办",
+      "url": "https://scb.nea.gov.cn/dtyw/tzgg/202607/P020260710636953397040.pdf",
+      "sourceId": "scb-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:33.578Z",
+      "lastCheckedAt": "2026-10-22T07:32:33.578Z",
+      "contentHash": "6881d67b3339c71da62cbcd23347246a32d2a8e04236fa4028bf67dc3dbd2f53",
+      "attachments": [],
+      "contentKind": "征求意见",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "fa26415136a23dda",
+      "region": "河南",
+      "title": "河南能源监管办关于公开征求《河南省集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知",
+      "date": "2026-07-08",
+      "agency": "河南能源监管办",
+      "url": "https://henb.nea.gov.cn/dtyw/tzgg/202607/t20260708_304403.html",
+      "sourceId": "henb-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:54.884Z",
+      "lastCheckedAt": "2026-10-22T07:31:54.884Z",
+      "contentHash": "7307581d4d148fb415a611adc54988abfdc9776120d9bbc3e47d643ac09372be",
+      "attachments": [
+        {
+          "title": "河南省集中式新能源发电企业集中报价实施方案（征求意见稿）.docx",
+          "url": "https://henb.nea.gov.cn/dtyw/tzgg/202607/P020260708550078311252.docx"
+        }
+      ],
+      "contentKind": "征求意见",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "79ef7d8a47ea1bd0",
       "region": "华北区域",
       "title": "华北能源监管局关于征求《京津唐电网电力中长期交易实施细则》意见的函",
@@ -6592,7 +7163,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:20.871Z",
-      "lastCheckedAt": "2026-10-22T05:56:25.059Z",
+      "lastCheckedAt": "2026-10-22T07:31:47.660Z",
       "contentHash": "52f343847b3a5d19b0243054d6106f1b7ddbf853ad112e800595962081fcd1d2",
       "attachments": [
         {
@@ -6619,7 +7190,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:15.314Z",
-      "lastCheckedAt": "2026-10-22T05:56:11.495Z",
+      "lastCheckedAt": "2026-10-22T07:31:33.926Z",
       "contentHash": "071f37ea503fb1e021537e54ea7825a80b24c361c1d590ea57cafdfa9d122656",
       "attachments": [],
       "contentKind": "政策动态",
@@ -6655,7 +7226,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "a765436720e33007a2ca1749f0c58fd440922a861a875d2bbd39408ea9396ba0",
       "attachments": [
         {
@@ -6682,7 +7253,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:37.070Z",
-      "lastCheckedAt": "2026-10-22T05:57:07.124Z",
+      "lastCheckedAt": "2026-10-22T07:32:31.456Z",
       "contentHash": "67cbb3cc59c342a35e4be920718a17ff5d7c94295bc1286305866cc9f4b478d8",
       "attachments": [],
       "contentKind": "政策动态",
@@ -6718,7 +7289,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-10-22T05:57:19.768Z",
+      "lastCheckedAt": "2026-10-22T07:32:45.825Z",
       "contentHash": "8d58b565c90e4fefbc0ef82db722b5c26245e2963a5af0c3e6688c1e8446e1fd",
       "attachments": [
         {
@@ -6741,7 +7312,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:28.930Z",
-      "lastCheckedAt": "2026-10-22T05:56:56.653Z",
+      "lastCheckedAt": "2026-10-22T07:32:23.341Z",
       "contentHash": "e1781161b623656be4ce2def9e99277f3438bd17c944cf39a06c0fb4629a7dbb",
       "attachments": [],
       "contentKind": "政策动态",
@@ -6818,7 +7389,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-10-22T05:57:22.376Z",
+      "lastCheckedAt": "2026-10-22T07:32:48.959Z",
       "contentHash": "a4256571963d37b5c836130c242aaf30c8bf8f2834148dcf89fc4b6e6b3dbd86",
       "attachments": [],
       "contentKind": "解读",
@@ -6836,7 +7407,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:19.395Z",
-      "lastCheckedAt": "2026-10-22T05:57:16.183Z",
+      "lastCheckedAt": "2026-10-22T07:32:41.845Z",
       "contentHash": "ad035ca30d51455ed3080af117b8bd58727ffdb3d45cabc3f25d4b7d90dc471c",
       "attachments": [],
       "contentKind": "解读",
@@ -6878,6 +7449,40 @@
       "sourceCount": 2
     },
     {
+      "id": "5fcb19c699387503",
+      "region": "湖南",
+      "title": "关于公开征求《湖南省集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知",
+      "date": "2026-05-22",
+      "agency": "湖南能源监管办",
+      "url": "https://hunb.nea.gov.cn/dtyw/tzgg/tz/202605/t20260522_301557.html",
+      "sourceId": "hunb-2",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:03.061Z",
+      "lastCheckedAt": "2026-10-22T07:32:03.061Z",
+      "contentHash": "ee2db353436f1d5074d2a15cfc317ed000d7c36865e8df1ada8714ce9c582056",
+      "attachments": [
+        {
+          "title": "关于公开征求《湖南省集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知.pdf",
+          "url": "https://hunb.nea.gov.cn/dtyw/tzgg/tz/202605/P020260522526709565183.pdf"
+        },
+        {
+          "title": "关于公开征求《湖南省集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知.pdf",
+          "url": "https://hunb.nea.gov.cn/hdhy/dczj/202605/P020260522526709565183.pdf"
+        }
+      ],
+      "contentKind": "征求意见",
+      "otherSources": [
+        {
+          "agency": "湖南能源监管办",
+          "title": "关于公开征求《湖南省集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知",
+          "url": "https://hunb.nea.gov.cn/hdhy/dczj/202605/t20260522_301557.html",
+          "date": "2026-05-22"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
       "id": "d299e73110a0e48f",
       "region": "四川",
       "title": "《四川省电力辅助服务管理实施细则》和《四川省电力并网管理实施细则...",
@@ -6888,10 +7493,33 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:12.785Z",
-      "lastCheckedAt": "2026-10-22T05:57:12.309Z",
+      "lastCheckedAt": "2026-10-22T07:32:37.712Z",
       "contentHash": "100fd625af4b9f5a92afdb2150a237db95095f1a937200ff0196eb89e31c1ab6",
       "attachments": [],
       "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "f60c86ce4b678de3",
+      "region": "东北区域",
+      "title": "关于征求《东北区域集中式新能源发电企业集中报价工作实施方案（征求意见稿）》意见的公告",
+      "date": "2026-05-20",
+      "agency": "东北能源监管局",
+      "url": "https://dbj.nea.gov.cn/hdhy/dczj/202605/t20260525_301717.html",
+      "sourceId": "dbj-4",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:31:22.905Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
+      "contentHash": "1ac4b3276f8fc7e4125ad0b290754923aa60dd5fd9c5bd08fb4a730352e8a07b",
+      "attachments": [
+        {
+          "title": "东北区域集中式新能源发电企业集中报价工作实施方案（征求意见稿）.pdf",
+          "url": "https://dbj.nea.gov.cn/hdhy/dczj/202605/P020260525592343331815.pdf"
+        }
+      ],
+      "contentKind": "征求意见",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -6906,7 +7534,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-10-22T05:56:52.656Z",
+      "lastCheckedAt": "2026-10-22T07:32:19.726Z",
       "contentHash": "162cfbccee88d5bdba6e1e6f3fb38c0aa8104c5e8f28242ed0e9b9b0213eff92",
       "attachments": [],
       "contentKind": "解读",
@@ -6924,7 +7552,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-10-22T05:56:52.656Z",
+      "lastCheckedAt": "2026-10-22T07:32:19.726Z",
       "contentHash": "9efddbc5f42a50ff09ad398c1a19696d25d4ff6d4b10d10ff15980bf399849ac",
       "attachments": [],
       "contentKind": "解读",
@@ -6942,7 +7570,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-10-22T05:56:52.656Z",
+      "lastCheckedAt": "2026-10-22T07:32:19.726Z",
       "contentHash": "38b7f369c914dbb672267045a0b6122e3e2f7c4eb43973e7f40e2bff4dd98851",
       "attachments": [],
       "contentKind": "解读",
@@ -6960,7 +7588,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-10-22T05:56:52.656Z",
+      "lastCheckedAt": "2026-10-22T07:32:19.726Z",
       "contentHash": "a8ee82f59174b180aabeda22f057fd0759214e92015749897b971d5d5520aecf",
       "attachments": [],
       "contentKind": "解读",
@@ -6978,7 +7606,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-10-22T05:57:19.768Z",
+      "lastCheckedAt": "2026-10-22T07:32:45.825Z",
       "contentHash": "4fd85b51c987b2ae9315e75c67600896adcda5ae8b57285e366d06e4b75f6a16",
       "attachments": [
         {
@@ -7019,7 +7647,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-10-22T05:56:38.744Z",
+      "lastCheckedAt": "2026-10-22T07:32:03.061Z",
       "contentHash": "a083c07d697763031f5b98ba1228ef2879bf25850767ef018c5c900638e01a7a",
       "attachments": [
         {
@@ -7053,10 +7681,33 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-10-22T05:56:52.656Z",
+      "lastCheckedAt": "2026-10-22T07:32:19.726Z",
       "contentHash": "5f390a5150ac3e2fb3660ee52be0a6ad7bf9bd87b52c699fe34b87d8a1e0a832",
       "attachments": [],
       "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "ebf43a62f00df5ab",
+      "region": "华中区域",
+      "title": "关于公开征求《湖北、江西、重庆集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知",
+      "date": "2026-04-30",
+      "agency": "华中能源监管局",
+      "url": "https://hzj.nea.gov.cn/dtyw/tzgg/202604/t20260430_300553.html",
+      "sourceId": "hzj-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:13.700Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
+      "contentHash": "31196f287e4849fde5e2f9da95e6ed29affb83f972a2eb7556b2de238b098758",
+      "attachments": [
+        {
+          "title": "《湖北、江西、重庆集中式新能源发电企业集中报价实施方案（征求意见稿）》.pdf",
+          "url": "https://hzj.nea.gov.cn/dtyw/tzgg/202604/P020260512538641886206.pdf"
+        }
+      ],
+      "contentKind": "征求意见",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -7071,7 +7722,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.736Z",
-      "lastCheckedAt": "2026-10-22T05:57:44.832Z",
+      "lastCheckedAt": "2026-10-22T07:33:17.627Z",
       "contentHash": "64c5ab16cefe2909704a3bed5c13018663764bd853be42bcb46a5cde2b550ce3",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7107,7 +7758,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "fef940558798f2c71cedf2febb9dfb61f1b2987e2a11666f90c1a1a02844358a",
       "attachments": [
         {
@@ -7130,7 +7781,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "533d6a816d6dcede17b4dc618887ed78e090b82b576cd6e67289584ac2d6dee0",
       "attachments": [
         {
@@ -7153,7 +7804,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "6df2760713e7434511fdfa62546c167d215d79b21c8fb0309c6e855cee1a36f2",
       "attachments": [
         {
@@ -7176,7 +7827,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "9b9c9298c1fee145d0ca09dcd740d04f500e9e02bf73b6afad87964142853669",
       "attachments": [
         {
@@ -7217,7 +7868,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:57.355Z",
-      "lastCheckedAt": "2026-10-22T05:57:10.307Z",
+      "lastCheckedAt": "2026-10-22T07:32:35.184Z",
       "contentHash": "e80597af517b5e42a0d3ae025f7807e13db406ff38ed2717196d862af3114798",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7235,7 +7886,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "71fcce2c95b3d2128903b1a3499bdf4dcc30464abbd61b2a298717a54e4b258f",
       "attachments": [
         {
@@ -7258,7 +7909,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-10-22T05:56:38.744Z",
+      "lastCheckedAt": "2026-10-22T07:32:03.061Z",
       "contentHash": "de7a772c47fded06afe6ff933b27b35af1dba24fcae3f661948b292def0ade22",
       "attachments": [
         {
@@ -7292,8 +7943,26 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:14.235Z",
-      "lastCheckedAt": "2026-10-22T05:56:43.408Z",
+      "lastCheckedAt": "2026-10-22T07:32:08.223Z",
       "contentHash": "2823574d40845f04289295459d646e5383f2da0406b84406a3a88b11fd89c733",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "cb36c6b9e23299a9",
+      "region": "湖南",
+      "title": "《湖南煤电机组最大出力申报认定及考核实施细则》解读",
+      "date": "2026-04-03",
+      "agency": "湖南能源监管办",
+      "url": "https://hunb.nea.gov.cn/xxgk/zcjd/202604/t20260403_299083.html",
+      "sourceId": "hunb-5",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:08.223Z",
+      "lastCheckedAt": "2026-10-22T07:32:08.223Z",
+      "contentHash": "74cf1edd31badd4ade97f208c52fa15d983795267be20151465d43720175243b",
       "attachments": [],
       "contentKind": "解读",
       "otherSources": [],
@@ -7382,12 +8051,39 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:30.278Z",
-      "lastCheckedAt": "2026-10-22T05:57:27.513Z",
+      "lastCheckedAt": "2026-10-22T07:32:54.546Z",
       "contentHash": "f030803156359af9b676f8872a822687d0931c5d64358a00a58bdfeb7f823765",
       "attachments": [
         {
           "title": "关于印发《新疆电力中长期市场实施细则》的通知.pdf",
           "url": "https://xjb.nea.gov.cn/dtyw/tzgg/202603/P020260330673623510749.pdf"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "a3fa0a6799490214",
+      "region": "新疆",
+      "title": "关于印发《新疆集中式新能源发电企业 市场报价管理实施方案（试行）》的通知",
+      "date": "2026-03-30",
+      "agency": "新疆能源监管办",
+      "url": "https://xjb.nea.gov.cn/dtyw/tzgg/202603/t20260330_298798.html",
+      "sourceId": "xjb-1",
+      "note": "",
+      "detailStatus": "read",
+      "firstSeenAt": "2026-10-22T07:32:54.546Z",
+      "lastCheckedAt": "2026-10-22T07:32:54.546Z",
+      "contentHash": "bf6be3be0b3d4623282f710190d943612cade8bd553d29549e05b53fa8bdf6f9",
+      "attachments": [
+        {
+          "title": "新疆集中式新能源发电企业市场报价实施方案（试行）.doc",
+          "url": "https://xjb.nea.gov.cn/dtyw/tzgg/202603/P020260330672062597812.doc"
+        },
+        {
+          "title": "新疆集中式新能源发电企业市场报价管理实施方案（试行）.pdf",
+          "url": "https://xjb.nea.gov.cn/dtyw/tzgg/202603/P020260330676497378046.pdf"
         }
       ],
       "contentKind": "政策动态",
@@ -7441,7 +8137,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-10-22T05:55:56.886Z",
+      "lastCheckedAt": "2026-10-22T07:31:20.219Z",
       "contentHash": "6011ae348aeccd89159360b1c6eb3e572fd0ac4f2d1bb00272f00fead7cee7c3",
       "attachments": [],
       "contentKind": "解读",
@@ -7459,7 +8155,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-10-22T05:55:56.886Z",
+      "lastCheckedAt": "2026-10-22T07:31:20.219Z",
       "contentHash": "66f881bf93fac330995b5683b6868a43e8b77420dc5ec878316431919d0ca6c7",
       "attachments": [],
       "contentKind": "解读",
@@ -7477,7 +8173,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-10-22T05:55:56.886Z",
+      "lastCheckedAt": "2026-10-22T07:31:20.219Z",
       "contentHash": "72138acfafd83d785c59d7809dc8914ce670f0171fddad0b0abc63d6bcde2b94",
       "attachments": [],
       "contentKind": "解读",
@@ -7495,7 +8191,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-10-22T05:55:56.886Z",
+      "lastCheckedAt": "2026-10-22T07:31:20.219Z",
       "contentHash": "297713c4956a6f9c26a907e8437b6619fcdd2b2de4aa6f53ae4fde16d311a890",
       "attachments": [],
       "contentKind": "解读",
@@ -7531,7 +8227,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-10-22T05:55:54.463Z",
+      "lastCheckedAt": "2026-10-22T07:31:17.355Z",
       "contentHash": "2ea03b268c208c41336dfcef387d647074bfb9b0198104e7533d96e1803cfa59",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7549,7 +8245,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-10-22T05:55:54.463Z",
+      "lastCheckedAt": "2026-10-22T07:31:17.355Z",
       "contentHash": "0fd5c7cc335bbf752e0e2913de792ecb4fe398d10a0f9bd4a4ab4e2438a4b47c",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7567,7 +8263,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-10-22T05:55:54.463Z",
+      "lastCheckedAt": "2026-10-22T07:31:17.355Z",
       "contentHash": "60b86bf5b9dbcdee51b81c0778f0401193f9481d7d9cf5530c70a7bfc02b4978",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7585,7 +8281,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-10-22T05:55:54.463Z",
+      "lastCheckedAt": "2026-10-22T07:31:17.355Z",
       "contentHash": "3562d150945cbfe6a8414be41d5316afe3927c8f5802049ea837316b6584abfa",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7603,7 +8299,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:33.849Z",
-      "lastCheckedAt": "2026-10-22T05:57:33.118Z",
+      "lastCheckedAt": "2026-10-22T07:33:00.402Z",
       "contentHash": "d3dbb96efdfcf69f003e2b850669ddf2cf5cc1fd6a41967461788a4b563d0e96",
       "attachments": [],
       "contentKind": "解读",
@@ -7639,7 +8335,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:28.930Z",
-      "lastCheckedAt": "2026-10-22T05:56:56.653Z",
+      "lastCheckedAt": "2026-10-22T07:32:23.341Z",
       "contentHash": "6232a0b9c2f71d3ce7f12156786da3366221ecf001c4c2511ce1ef927e4a67c5",
       "attachments": [
         {
@@ -7698,7 +8394,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-10-22T05:57:22.376Z",
+      "lastCheckedAt": "2026-10-22T07:32:48.959Z",
       "contentHash": "4ae2880e7ca2abe921ff9d947118df25c61b6097cc1a2a551644de69f02c74bc",
       "attachments": [],
       "contentKind": "解读",
@@ -7716,7 +8412,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-10-22T05:57:22.376Z",
+      "lastCheckedAt": "2026-10-22T07:32:48.959Z",
       "contentHash": "67be2865c0aa586b4547492ff03e8f2402ab67c480037a88d24a90806ce593d6",
       "attachments": [],
       "contentKind": "解读",
@@ -7734,7 +8430,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-10-22T05:57:22.376Z",
+      "lastCheckedAt": "2026-10-22T07:32:48.959Z",
       "contentHash": "06cbd23213516339b2dda66f9604a513af083b424076928dd3a32e35edbe37dd",
       "attachments": [],
       "contentKind": "解读",
@@ -7775,7 +8471,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:34.077Z",
-      "lastCheckedAt": "2026-10-22T05:57:34.130Z",
+      "lastCheckedAt": "2026-10-22T07:33:01.625Z",
       "contentHash": "a4886cde5aa3909bcb9f6a9503c57cd2c6b98202d548efc205d6c8bb7012ef96",
       "attachments": [],
       "contentKind": "意见反馈",
@@ -7793,7 +8489,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-10-22T05:55:54.463Z",
+      "lastCheckedAt": "2026-10-22T07:31:17.355Z",
       "contentHash": "0927aca0548f4a93d7c7ac7c6cefcd672aef071356333b342fd2d6acb6ddb316",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7811,7 +8507,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-10-22T05:55:56.886Z",
+      "lastCheckedAt": "2026-10-22T07:31:20.219Z",
       "contentHash": "66a42f7c5112b92ea58d09991c3fd5ea4e40e8ad35d85cbcc51649eb59d85568",
       "attachments": [],
       "contentKind": "解读",
@@ -7879,7 +8575,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:21:30.550Z",
-      "lastCheckedAt": "2026-10-22T05:57:38.949Z",
+      "lastCheckedAt": "2026-10-22T07:33:11.521Z",
       "contentHash": "85167db491bbb920d533dd03c0dd6780b13167687f9aa416a5c5143a9314417a",
       "attachments": [
         {
@@ -7906,7 +8602,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:06.641Z",
-      "lastCheckedAt": "2026-10-22T05:56:31.168Z",
+      "lastCheckedAt": "2026-10-22T07:31:54.884Z",
       "contentHash": "d662c2fde9d9960fb0a1811ca684f58f3e7920f7c86a9928e04fe16b4cae2244",
       "attachments": [],
       "contentKind": "征求意见",
@@ -7947,7 +8643,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:07.999Z",
-      "lastCheckedAt": "2026-10-22T05:56:34.364Z",
+      "lastCheckedAt": "2026-10-22T07:31:58.271Z",
       "contentHash": "615aa43c8aee9de0e660f44faac1a0cd40a20d94126227f1c782a30c94e7da23",
       "attachments": [],
       "contentKind": "解读",
@@ -7965,7 +8661,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-10-22T05:56:38.744Z",
+      "lastCheckedAt": "2026-10-22T07:32:03.061Z",
       "contentHash": "647ce26ceacdd67efead8b865ac683f83fbbbedc14de3e94e56fa54cb7370ef2",
       "attachments": [
         {
@@ -7996,7 +8692,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "866b39f2c65fa4690abd8d3166b6c7f188a08b4737237dd81b67fdc3a29a8ed9",
       "attachments": [
         {
@@ -8019,7 +8715,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "a0136803d1cabc1d68ba5f121ebe4d63a42b0e238c10104409fc30624e0c7b7e",
       "attachments": [
         {
@@ -8042,7 +8738,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "cbbe4e6182eb235c4d0d004545b2d5fc0c76727eb431451076f413b63dfb4261",
       "attachments": [
         {
@@ -8065,7 +8761,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-10-22T05:55:59.028Z",
+      "lastCheckedAt": "2026-10-22T07:31:22.905Z",
       "contentHash": "6088012d0a8a5986b45c96c143a9cc7e29b4a6fb97a505716325e1060acb4901",
       "attachments": [
         {
@@ -8088,7 +8784,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "8c64338b7f23e27b2bf3f5202800b2b8e9aead147719d724012b26a122d05009",
       "attachments": [
         {
@@ -8111,7 +8807,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-10-22T05:56:48.489Z",
+      "lastCheckedAt": "2026-10-22T07:32:13.700Z",
       "contentHash": "0aab1c533e1c45b266ce02cda3368670e46c3f84da1ac0cc0e6b139a1facf2d9",
       "attachments": [
         {
@@ -8203,7 +8899,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-10-22T05:57:25.159Z",
+      "lastCheckedAt": "2026-10-22T07:32:52.322Z",
       "contentHash": "a36186eedc168832924e2711e1cfe22780f2b403307af0e245cc02594175b58a",
       "attachments": [
         {
@@ -8257,7 +8953,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:30.278Z",
-      "lastCheckedAt": "2026-10-22T05:57:27.513Z",
+      "lastCheckedAt": "2026-10-22T07:32:54.546Z",
       "contentHash": "701551eaf4ea99465c253c8c60ee1b238313d0e6df3e87f83803ea39605c0163",
       "attachments": [
         {
@@ -8307,7 +9003,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:19.711Z",
-      "lastCheckedAt": "2026-10-22T05:57:17.284Z",
+      "lastCheckedAt": "2026-10-22T07:32:43.404Z",
       "contentHash": "0ef042ba45d60bc889014420b6dd865bc179d923f74e0f225e36d6f8b37d13c9",
       "attachments": [
         {
@@ -8366,7 +9062,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.208Z",
-      "lastCheckedAt": "2026-10-22T05:57:42.049Z",
+      "lastCheckedAt": "2026-10-22T07:33:14.293Z",
       "contentHash": "701f8ab8a97a91e3731bd5bcee2235c5cbf167cd6088c8ba338b336df3925252",
       "attachments": [
         {
@@ -8429,7 +9125,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:11.317Z",
-      "lastCheckedAt": "2026-10-22T05:56:07.683Z",
+      "lastCheckedAt": "2026-10-22T07:31:29.994Z",
       "contentHash": "7833d35eaf08c1f74ced02fec02e591280fad00e54da1e3333f495cabd912ad4",
       "attachments": [],
       "contentKind": "解读",
@@ -8461,8 +9157,8 @@
     }
   ],
   "cleanup": {
-    "input": 359,
-    "displayed": 121,
+    "input": 377,
+    "displayed": 138,
     "excluded": [
       {
         "id": "9cb24781d634f8f8",
@@ -9899,6 +10595,13 @@
           "https://drc.gd.gov.cn/ywtz/content/post_4967040.html",
           "https://drc.gd.gov.cn/snyj/gzyw/content/post_4967656.html"
         ]
+      },
+      {
+        "title": "关于公开征求《湖南省集中式新能源发电企业集中报价实施方案（征求意见稿）》意见的通知",
+        "urls": [
+          "https://hunb.nea.gov.cn/dtyw/tzgg/tz/202605/t20260522_301557.html",
+          "https://hunb.nea.gov.cn/hdhy/dczj/202605/t20260522_301557.html"
+        ]
       }
     ]
   },
@@ -9911,9 +10614,9 @@
       "url": "https://dbj.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:55:50.771Z",
-      "lastSuccessAt": "2026-10-22T05:55:50.771Z",
-      "recordCount": 0,
+      "checkedAt": "2026-10-22T07:31:13.636Z",
+      "lastSuccessAt": "2026-10-22T07:31:13.636Z",
+      "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 3,
@@ -9927,8 +10630,8 @@
       "url": "https://dbj.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:55:53.008Z",
-      "lastSuccessAt": "2026-10-22T05:55:53.008Z",
+      "checkedAt": "2026-10-22T07:31:16.214Z",
+      "lastSuccessAt": "2026-10-22T07:31:16.214Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -9943,9 +10646,9 @@
       "url": "https://dbj.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:55:54.463Z",
-      "lastSuccessAt": "2026-10-22T05:55:54.463Z",
-      "recordCount": 5,
+      "checkedAt": "2026-10-22T07:31:17.355Z",
+      "lastSuccessAt": "2026-10-22T07:31:17.355Z",
+      "recordCount": 6,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 1,
@@ -9959,9 +10662,9 @@
       "url": "https://dbj.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:55:56.886Z",
-      "lastSuccessAt": "2026-10-22T05:55:56.886Z",
-      "recordCount": 5,
+      "checkedAt": "2026-10-22T07:31:20.219Z",
+      "lastSuccessAt": "2026-10-22T07:31:20.219Z",
+      "recordCount": 6,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 1,
@@ -9975,9 +10678,9 @@
       "url": "https://dbj.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:55:59.028Z",
-      "lastSuccessAt": "2026-10-22T05:55:59.028Z",
-      "recordCount": 7,
+      "checkedAt": "2026-10-22T07:31:22.905Z",
+      "lastSuccessAt": "2026-10-22T07:31:22.905Z",
+      "recordCount": 8,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 1,
@@ -9991,8 +10694,8 @@
       "url": "https://fjb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:01.864Z",
-      "lastSuccessAt": "2026-10-22T05:56:01.864Z",
+      "checkedAt": "2026-10-22T07:31:26.149Z",
+      "lastSuccessAt": "2026-10-22T07:31:26.149Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10007,8 +10710,8 @@
       "url": "https://fjb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:04.641Z",
-      "lastSuccessAt": "2026-10-22T05:56:04.641Z",
+      "checkedAt": "2026-10-22T07:31:28.257Z",
+      "lastSuccessAt": "2026-10-22T07:31:28.257Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10023,8 +10726,8 @@
       "url": "https://fjb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:06.782Z",
-      "lastSuccessAt": "2026-10-22T05:56:06.782Z",
+      "checkedAt": "2026-10-22T07:31:29.139Z",
+      "lastSuccessAt": "2026-10-22T07:31:29.139Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10039,8 +10742,8 @@
       "url": "https://fjb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:07.683Z",
-      "lastSuccessAt": "2026-10-22T05:56:07.683Z",
+      "checkedAt": "2026-10-22T07:31:29.994Z",
+      "lastSuccessAt": "2026-10-22T07:31:29.994Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10055,8 +10758,8 @@
       "url": "https://fjb.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:09.227Z",
-      "lastSuccessAt": "2026-10-22T05:56:09.227Z",
+      "checkedAt": "2026-10-22T07:31:31.978Z",
+      "lastSuccessAt": "2026-10-22T07:31:31.978Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10071,8 +10774,8 @@
       "url": "https://gsb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:09.663Z",
-      "lastSuccessAt": "2026-10-22T05:56:09.663Z",
+      "checkedAt": "2026-10-22T07:31:32.326Z",
+      "lastSuccessAt": "2026-10-22T07:31:32.326Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10087,9 +10790,9 @@
       "url": "https://gsb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:11.495Z",
-      "lastSuccessAt": "2026-10-22T05:56:11.495Z",
-      "recordCount": 2,
+      "checkedAt": "2026-10-22T07:31:33.926Z",
+      "lastSuccessAt": "2026-10-22T07:31:33.926Z",
+      "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 3,
@@ -10103,8 +10806,8 @@
       "url": "https://gsb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:13.422Z",
-      "lastSuccessAt": "2026-10-22T05:56:13.422Z",
+      "checkedAt": "2026-10-22T07:31:36.036Z",
+      "lastSuccessAt": "2026-10-22T07:31:36.036Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10119,8 +10822,8 @@
       "url": "https://gzb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:14.266Z",
-      "lastSuccessAt": "2026-10-22T05:56:14.266Z",
+      "checkedAt": "2026-10-22T07:31:36.822Z",
+      "lastSuccessAt": "2026-10-22T07:31:36.822Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10135,8 +10838,8 @@
       "url": "https://gzb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:16.453Z",
-      "lastSuccessAt": "2026-10-22T05:56:16.453Z",
+      "checkedAt": "2026-10-22T07:31:38.780Z",
+      "lastSuccessAt": "2026-10-22T07:31:38.780Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10151,7 +10854,7 @@
       "url": "https://gzb.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "error",
-      "checkedAt": "2026-10-22T05:56:17.754Z",
+      "checkedAt": "2026-10-22T07:31:40.271Z",
       "lastSuccessAt": null,
       "error": "页面可读，但未解析到任何文件链接"
     },
@@ -10163,8 +10866,8 @@
       "url": "https://hbj.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:18.185Z",
-      "lastSuccessAt": "2026-10-22T05:56:18.185Z",
+      "checkedAt": "2026-10-22T07:31:40.657Z",
+      "lastSuccessAt": "2026-10-22T07:31:40.657Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10179,8 +10882,8 @@
       "url": "https://hbj.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:21.520Z",
-      "lastSuccessAt": "2026-10-22T05:56:21.520Z",
+      "checkedAt": "2026-10-22T07:31:43.468Z",
+      "lastSuccessAt": "2026-10-22T07:31:43.468Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10195,8 +10898,8 @@
       "url": "https://hbj.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:22.802Z",
-      "lastSuccessAt": "2026-10-22T05:56:22.802Z",
+      "checkedAt": "2026-10-22T07:31:44.848Z",
+      "lastSuccessAt": "2026-10-22T07:31:44.848Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10211,8 +10914,8 @@
       "url": "https://hbj.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:24.384Z",
-      "lastSuccessAt": "2026-10-22T05:56:24.384Z",
+      "checkedAt": "2026-10-22T07:31:45.996Z",
+      "lastSuccessAt": "2026-10-22T07:31:45.996Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10227,8 +10930,8 @@
       "url": "https://hbj.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:25.059Z",
-      "lastSuccessAt": "2026-10-22T05:56:25.059Z",
+      "checkedAt": "2026-10-22T07:31:47.660Z",
+      "lastSuccessAt": "2026-10-22T07:31:47.660Z",
       "recordCount": 2,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10243,8 +10946,8 @@
       "url": "https://hdj.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:25.671Z",
-      "lastSuccessAt": "2026-10-22T05:56:25.671Z",
+      "checkedAt": "2026-10-22T07:31:48.868Z",
+      "lastSuccessAt": "2026-10-22T07:31:48.868Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10259,9 +10962,9 @@
       "url": "https://hdj.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:27.852Z",
-      "lastSuccessAt": "2026-10-22T05:56:27.852Z",
-      "recordCount": 0,
+      "checkedAt": "2026-10-22T07:31:51.280Z",
+      "lastSuccessAt": "2026-10-22T07:31:51.280Z",
+      "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 3,
@@ -10275,8 +10978,8 @@
       "url": "https://hdj.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:28.946Z",
-      "lastSuccessAt": "2026-10-22T05:56:28.946Z",
+      "checkedAt": "2026-10-22T07:31:52.702Z",
+      "lastSuccessAt": "2026-10-22T07:31:52.702Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10291,8 +10994,8 @@
       "url": "https://henb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:29.377Z",
-      "lastSuccessAt": "2026-10-22T05:56:29.377Z",
+      "checkedAt": "2026-10-22T07:31:53.052Z",
+      "lastSuccessAt": "2026-10-22T07:31:53.052Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10307,9 +11010,9 @@
       "url": "https://henb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:31.168Z",
-      "lastSuccessAt": "2026-10-22T05:56:31.168Z",
-      "recordCount": 2,
+      "checkedAt": "2026-10-22T07:31:54.884Z",
+      "lastSuccessAt": "2026-10-22T07:31:54.884Z",
+      "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 2,
@@ -10323,8 +11026,8 @@
       "url": "https://henb.nea.gov.cn/dtyw/jggg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:32.866Z",
-      "lastSuccessAt": "2026-10-22T05:56:32.866Z",
+      "checkedAt": "2026-10-22T07:31:57.024Z",
+      "lastSuccessAt": "2026-10-22T07:31:57.024Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10339,8 +11042,8 @@
       "url": "https://henb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:34.031Z",
-      "lastSuccessAt": "2026-10-22T05:56:34.031Z",
+      "checkedAt": "2026-10-22T07:31:57.975Z",
+      "lastSuccessAt": "2026-10-22T07:31:57.975Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10355,8 +11058,8 @@
       "url": "https://henb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:34.364Z",
-      "lastSuccessAt": "2026-10-22T05:56:34.364Z",
+      "checkedAt": "2026-10-22T07:31:58.271Z",
+      "lastSuccessAt": "2026-10-22T07:31:58.271Z",
       "recordCount": 2,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10371,8 +11074,8 @@
       "url": "https://henb.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:35.828Z",
-      "lastSuccessAt": "2026-10-22T05:56:35.828Z",
+      "checkedAt": "2026-10-22T07:31:59.745Z",
+      "lastSuccessAt": "2026-10-22T07:31:59.745Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10387,8 +11090,8 @@
       "url": "https://hunb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:36.230Z",
-      "lastSuccessAt": "2026-10-22T05:56:36.230Z",
+      "checkedAt": "2026-10-22T07:32:00.193Z",
+      "lastSuccessAt": "2026-10-22T07:32:00.193Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10403,7 +11106,7 @@
       "url": "https://hunb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "error",
-      "checkedAt": "2026-10-22T05:56:38.313Z",
+      "checkedAt": "2026-10-22T07:32:02.620Z",
       "lastSuccessAt": null,
       "error": "页面可读，但未解析到任何文件链接"
     },
@@ -10415,9 +11118,9 @@
       "url": "https://hunb.nea.gov.cn/dtyw/tzgg/tz/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:38.744Z",
-      "lastSuccessAt": "2026-10-22T05:56:38.744Z",
-      "recordCount": 4,
+      "checkedAt": "2026-10-22T07:32:03.061Z",
+      "lastSuccessAt": "2026-10-22T07:32:03.061Z",
+      "recordCount": 5,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 2,
@@ -10431,8 +11134,8 @@
       "url": "https://hunb.nea.gov.cn/dtyw/tzgg/gsgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:41.311Z",
-      "lastSuccessAt": "2026-10-22T05:56:41.311Z",
+      "checkedAt": "2026-10-22T07:32:05.919Z",
+      "lastSuccessAt": "2026-10-22T07:32:05.919Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10447,8 +11150,8 @@
       "url": "https://hunb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:42.642Z",
-      "lastSuccessAt": "2026-10-22T05:56:42.642Z",
+      "checkedAt": "2026-10-22T07:32:07.523Z",
+      "lastSuccessAt": "2026-10-22T07:32:07.523Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10463,9 +11166,9 @@
       "url": "https://hunb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:43.408Z",
-      "lastSuccessAt": "2026-10-22T05:56:43.408Z",
-      "recordCount": 2,
+      "checkedAt": "2026-10-22T07:32:08.223Z",
+      "lastSuccessAt": "2026-10-22T07:32:08.223Z",
+      "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 1,
@@ -10479,9 +11182,9 @@
       "url": "https://hunb.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:44.568Z",
-      "lastSuccessAt": "2026-10-22T05:56:44.568Z",
-      "recordCount": 1,
+      "checkedAt": "2026-10-22T07:32:09.778Z",
+      "lastSuccessAt": "2026-10-22T07:32:09.778Z",
+      "recordCount": 2,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 1,
@@ -10495,8 +11198,8 @@
       "url": "https://hzj.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:45.583Z",
-      "lastSuccessAt": "2026-10-22T05:56:45.583Z",
+      "checkedAt": "2026-10-22T07:32:10.851Z",
+      "lastSuccessAt": "2026-10-22T07:32:10.851Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10511,9 +11214,9 @@
       "url": "https://hzj.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:48.489Z",
-      "lastSuccessAt": "2026-10-22T05:56:48.489Z",
-      "recordCount": 9,
+      "checkedAt": "2026-10-22T07:32:13.700Z",
+      "lastSuccessAt": "2026-10-22T07:32:13.700Z",
+      "recordCount": 10,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 3,
@@ -10527,8 +11230,8 @@
       "url": "https://hzj.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:52.656Z",
-      "lastSuccessAt": "2026-10-22T05:56:52.656Z",
+      "checkedAt": "2026-10-22T07:32:19.726Z",
+      "lastSuccessAt": "2026-10-22T07:32:19.726Z",
       "recordCount": 5,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10543,8 +11246,8 @@
       "url": "https://jsb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:54.711Z",
-      "lastSuccessAt": "2026-10-22T05:56:54.711Z",
+      "checkedAt": "2026-10-22T07:32:21.652Z",
+      "lastSuccessAt": "2026-10-22T07:32:21.652Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10559,9 +11262,9 @@
       "url": "https://jsb.nea.gov.cn/dtyw/tz/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:56.653Z",
-      "lastSuccessAt": "2026-10-22T05:56:56.653Z",
-      "recordCount": 2,
+      "checkedAt": "2026-10-22T07:32:23.341Z",
+      "lastSuccessAt": "2026-10-22T07:32:23.341Z",
+      "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 1,
@@ -10575,8 +11278,8 @@
       "url": "https://jsb.nea.gov.cn/dtyw/gg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:56:57.887Z",
-      "lastSuccessAt": "2026-10-22T05:56:57.887Z",
+      "checkedAt": "2026-10-22T07:32:24.872Z",
+      "lastSuccessAt": "2026-10-22T07:32:24.872Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10591,8 +11294,8 @@
       "url": "https://jsb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:59.509Z",
-      "lastSuccessAt": "2026-10-22T05:56:59.509Z",
+      "checkedAt": "2026-10-22T07:32:26.445Z",
+      "lastSuccessAt": "2026-10-22T07:32:26.445Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10607,8 +11310,8 @@
       "url": "https://jsb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:56:59.855Z",
-      "lastSuccessAt": "2026-10-22T05:56:59.855Z",
+      "checkedAt": "2026-10-22T07:32:26.800Z",
+      "lastSuccessAt": "2026-10-22T07:32:26.800Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10623,8 +11326,8 @@
       "url": "https://nfj.nea.gov.cn/xwzx/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:00.199Z",
-      "lastSuccessAt": "2026-10-22T05:57:00.199Z",
+      "checkedAt": "2026-10-22T07:32:27.215Z",
+      "lastSuccessAt": "2026-10-22T07:32:27.215Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10639,8 +11342,8 @@
       "url": "https://nfj.nea.gov.cn/xwzx/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:01.991Z",
-      "lastSuccessAt": "2026-10-22T05:57:01.991Z",
+      "checkedAt": "2026-10-22T07:32:28.840Z",
+      "lastSuccessAt": "2026-10-22T07:32:28.840Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10655,8 +11358,8 @@
       "url": "https://nfj.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:03.894Z",
-      "lastSuccessAt": "2026-10-22T05:57:03.894Z",
+      "checkedAt": "2026-10-22T07:32:30.405Z",
+      "lastSuccessAt": "2026-10-22T07:32:30.405Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10671,8 +11374,8 @@
       "url": "https://nfj.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:06.788Z",
-      "lastSuccessAt": "2026-10-22T05:57:06.788Z",
+      "checkedAt": "2026-10-22T07:32:31.123Z",
+      "lastSuccessAt": "2026-10-22T07:32:31.123Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10687,8 +11390,8 @@
       "url": "https://scb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:07.124Z",
-      "lastSuccessAt": "2026-10-22T05:57:07.124Z",
+      "checkedAt": "2026-10-22T07:32:31.456Z",
+      "lastSuccessAt": "2026-10-22T07:32:31.456Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10703,9 +11406,9 @@
       "url": "https://scb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:09.142Z",
-      "lastSuccessAt": "2026-10-22T05:57:09.142Z",
-      "recordCount": 0,
+      "checkedAt": "2026-10-22T07:32:33.578Z",
+      "lastSuccessAt": "2026-10-22T07:32:33.578Z",
+      "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 3,
@@ -10719,8 +11422,8 @@
       "url": "https://scb.nea.gov.cn/xxgk/flfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:10.307Z",
-      "lastSuccessAt": "2026-10-22T05:57:10.307Z",
+      "checkedAt": "2026-10-22T07:32:35.184Z",
+      "lastSuccessAt": "2026-10-22T07:32:35.184Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10735,8 +11438,8 @@
       "url": "https://scb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:12.309Z",
-      "lastSuccessAt": "2026-10-22T05:57:12.309Z",
+      "checkedAt": "2026-10-22T07:32:37.712Z",
+      "lastSuccessAt": "2026-10-22T07:32:37.712Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10751,8 +11454,8 @@
       "url": "https://sxb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:12.643Z",
-      "lastSuccessAt": "2026-10-22T05:57:12.643Z",
+      "checkedAt": "2026-10-22T07:32:38.192Z",
+      "lastSuccessAt": "2026-10-22T07:32:38.192Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10767,8 +11470,8 @@
       "url": "https://sxb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:14.064Z",
-      "lastSuccessAt": "2026-10-22T05:57:14.064Z",
+      "checkedAt": "2026-10-22T07:32:39.679Z",
+      "lastSuccessAt": "2026-10-22T07:32:39.679Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10783,8 +11486,8 @@
       "url": "https://sxb.nea.gov.cn/xxgk/zcfb/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:15.228Z",
-      "lastSuccessAt": "2026-10-22T05:57:15.228Z",
+      "checkedAt": "2026-10-22T07:32:40.817Z",
+      "lastSuccessAt": "2026-10-22T07:32:40.817Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10799,9 +11502,9 @@
       "url": "https://sxb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:16.183Z",
-      "lastSuccessAt": "2026-10-22T05:57:16.183Z",
-      "recordCount": 2,
+      "checkedAt": "2026-10-22T07:32:41.845Z",
+      "lastSuccessAt": "2026-10-22T07:32:41.845Z",
+      "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 2,
@@ -10815,8 +11518,8 @@
       "url": "https://sxb.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:17.284Z",
-      "lastSuccessAt": "2026-10-22T05:57:17.284Z",
+      "checkedAt": "2026-10-22T07:32:43.404Z",
+      "lastSuccessAt": "2026-10-22T07:32:43.404Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10831,8 +11534,8 @@
       "url": "https://xbj.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:18.069Z",
-      "lastSuccessAt": "2026-10-22T05:57:18.069Z",
+      "checkedAt": "2026-10-22T07:32:44.155Z",
+      "lastSuccessAt": "2026-10-22T07:32:44.155Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10847,8 +11550,8 @@
       "url": "https://xbj.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:19.768Z",
-      "lastSuccessAt": "2026-10-22T05:57:19.768Z",
+      "checkedAt": "2026-10-22T07:32:45.825Z",
+      "lastSuccessAt": "2026-10-22T07:32:45.825Z",
       "recordCount": 4,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10863,7 +11566,7 @@
       "url": "https://xbj.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "error",
-      "checkedAt": "2026-10-22T05:57:22.325Z",
+      "checkedAt": "2026-10-22T07:32:48.632Z",
       "lastSuccessAt": null,
       "error": "页面可读，但未解析到任何文件链接"
     },
@@ -10875,9 +11578,9 @@
       "url": "https://xbj.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:22.376Z",
-      "lastSuccessAt": "2026-10-22T05:57:22.376Z",
-      "recordCount": 5,
+      "checkedAt": "2026-10-22T07:32:48.959Z",
+      "lastSuccessAt": "2026-10-22T07:32:48.959Z",
+      "recordCount": 6,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 3,
@@ -10891,8 +11594,8 @@
       "url": "https://xbj.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:25.159Z",
-      "lastSuccessAt": "2026-10-22T05:57:25.159Z",
+      "checkedAt": "2026-10-22T07:32:52.322Z",
+      "lastSuccessAt": "2026-10-22T07:32:52.322Z",
       "recordCount": 4,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10907,8 +11610,8 @@
       "url": "https://xjb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:25.913Z",
-      "lastSuccessAt": "2026-10-22T05:57:25.913Z",
+      "checkedAt": "2026-10-22T07:32:53.019Z",
+      "lastSuccessAt": "2026-10-22T07:32:53.019Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10923,9 +11626,9 @@
       "url": "https://xjb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:27.513Z",
-      "lastSuccessAt": "2026-10-22T05:57:27.513Z",
-      "recordCount": 2,
+      "checkedAt": "2026-10-22T07:32:54.546Z",
+      "lastSuccessAt": "2026-10-22T07:32:54.546Z",
+      "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 2,
@@ -10939,8 +11642,8 @@
       "url": "https://xjb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:28.950Z",
-      "lastSuccessAt": "2026-10-22T05:57:28.950Z",
+      "checkedAt": "2026-10-22T07:32:56.383Z",
+      "lastSuccessAt": "2026-10-22T07:32:56.383Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10955,8 +11658,8 @@
       "url": "https://xjb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:29.346Z",
-      "lastSuccessAt": "2026-10-22T05:57:29.346Z",
+      "checkedAt": "2026-10-22T07:32:56.714Z",
+      "lastSuccessAt": "2026-10-22T07:32:56.714Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10971,8 +11674,8 @@
       "url": "https://ynb.nea.gov.cn/dtyw/gsgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:30.108Z",
-      "lastSuccessAt": "2026-10-22T05:57:30.108Z",
+      "checkedAt": "2026-10-22T07:32:57.452Z",
+      "lastSuccessAt": "2026-10-22T07:32:57.452Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -10987,8 +11690,8 @@
       "url": "https://ynb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:31.854Z",
-      "lastSuccessAt": "2026-10-22T05:57:31.854Z",
+      "checkedAt": "2026-10-22T07:32:59.106Z",
+      "lastSuccessAt": "2026-10-22T07:32:59.106Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11003,8 +11706,8 @@
       "url": "https://ynb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:33.118Z",
-      "lastSuccessAt": "2026-10-22T05:57:33.118Z",
+      "checkedAt": "2026-10-22T07:33:00.402Z",
+      "lastSuccessAt": "2026-10-22T07:33:00.402Z",
       "recordCount": 2,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11019,8 +11722,8 @@
       "url": "https://ynb.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:34.130Z",
-      "lastSuccessAt": "2026-10-22T05:57:34.130Z",
+      "checkedAt": "2026-10-22T07:33:01.625Z",
+      "lastSuccessAt": "2026-10-22T07:33:01.625Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11035,8 +11738,8 @@
       "url": "https://zjb.nea.gov.cn/dtyw/jgdt/index.html",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-10-22T05:57:34.828Z",
-      "lastSuccessAt": "2026-10-22T05:57:34.828Z",
+      "checkedAt": "2026-10-22T07:33:02.314Z",
+      "lastSuccessAt": "2026-10-22T07:33:02.314Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11051,8 +11754,8 @@
       "url": "https://zjb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:36.548Z",
-      "lastSuccessAt": "2026-10-22T05:57:36.548Z",
+      "checkedAt": "2026-10-22T07:33:08.787Z",
+      "lastSuccessAt": "2026-10-22T07:33:08.787Z",
       "recordCount": 5,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11067,8 +11770,8 @@
       "url": "https://zjb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:38.897Z",
-      "lastSuccessAt": "2026-10-22T05:57:38.897Z",
+      "checkedAt": "2026-10-22T07:33:11.219Z",
+      "lastSuccessAt": "2026-10-22T07:33:11.219Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11093,8 +11796,8 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:38.949Z",
-      "lastSuccessAt": "2026-10-22T05:57:38.949Z",
+      "checkedAt": "2026-10-22T07:33:11.521Z",
+      "lastSuccessAt": "2026-10-22T07:33:11.521Z",
       "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11112,9 +11815,9 @@
         "nyj.nmg.gov.cn"
       ],
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:42.049Z",
-      "lastSuccessAt": "2026-10-22T05:57:42.049Z",
-      "recordCount": 4,
+      "checkedAt": "2026-10-22T07:33:14.293Z",
+      "lastSuccessAt": "2026-10-22T07:33:14.293Z",
+      "recordCount": 5,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 1,
@@ -11131,9 +11834,9 @@
         "drc.gd.gov.cn"
       ],
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:44.832Z",
-      "lastSuccessAt": "2026-10-22T05:57:44.832Z",
-      "recordCount": 3,
+      "checkedAt": "2026-10-22T07:33:17.627Z",
+      "lastSuccessAt": "2026-10-22T07:33:17.627Z",
+      "recordCount": 4,
       "detailErrors": 0,
       "indexOnly": 0,
       "scannedPages": 1,
@@ -11150,7 +11853,7 @@
         "drc.gd.gov.cn"
       ],
       "status": "error",
-      "checkedAt": "2026-10-22T05:57:48.945Z",
+      "checkedAt": "2026-10-22T07:33:21.673Z",
       "lastSuccessAt": null,
       "error": "页面可读，但未解析到任何文件链接"
     },
@@ -11165,8 +11868,8 @@
         "drc.gd.gov.cn"
       ],
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:49.179Z",
-      "lastSuccessAt": "2026-10-22T05:57:49.179Z",
+      "checkedAt": "2026-10-22T07:33:21.918Z",
+      "lastSuccessAt": "2026-10-22T07:33:21.918Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11184,8 +11887,8 @@
         "drc.gd.gov.cn"
       ],
       "status": "ok",
-      "checkedAt": "2026-10-22T05:57:49.550Z",
-      "lastSuccessAt": "2026-10-22T05:57:49.550Z",
+      "checkedAt": "2026-10-22T07:33:22.176Z",
+      "lastSuccessAt": "2026-10-22T07:33:22.176Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11203,7 +11906,7 @@
         "nyj.shanxi.gov.cn"
       ],
       "status": "error",
-      "checkedAt": "2026-10-22T05:57:50.062Z",
+      "checkedAt": "2026-10-22T07:33:22.795Z",
       "lastSuccessAt": null,
       "error": "Connect Timeout Error (attempted addresses: 1.71.182.103:443, 2409:8c0c:310:2500:1000::b:443, 183.201.253.167:443, timeout: 10000ms)"
     },
@@ -11218,9 +11921,9 @@
         "nyj.shanxi.gov.cn"
       ],
       "status": "error",
-      "checkedAt": "2026-10-22T05:58:00.287Z",
+      "checkedAt": "2026-10-22T07:33:33.278Z",
       "lastSuccessAt": null,
-      "error": "Connect Timeout Error (attempted addresses: 1.71.182.103:443, 2409:8c0c:310:2500:1000::b:443, 183.201.253.167:443, timeout: 10000ms)"
+      "error": "Connect Timeout Error (attempted addresses: 183.201.253.167:443, 2409:8c0c:310:2500:1000::b:443, 1.71.182.103:443, timeout: 10000ms)"
     },
     {
       "id": "sx-nyj-consultation",
@@ -11233,9 +11936,9 @@
         "nyj.shanxi.gov.cn"
       ],
       "status": "error",
-      "checkedAt": "2026-10-22T05:58:10.787Z",
+      "checkedAt": "2026-10-22T07:33:43.783Z",
       "lastSuccessAt": "2026-10-21T03:19:50.959Z",
-      "error": "Connect Timeout Error (attempted addresses: 183.201.253.167:443, 2409:8c0c:310:2500:1000::b:443, 1.71.182.103:443, timeout: 10000ms)"
+      "error": "Connect Timeout Error (attempted addresses: 1.71.182.103:443, 2409:8c0c:310:2500:1000::b:443, 183.201.253.167:443, timeout: 10000ms)"
     }
   ],
   "registryUrl": "https://www.nea.gov.cn/"
