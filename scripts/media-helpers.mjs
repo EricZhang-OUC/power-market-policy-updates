@@ -1,7 +1,8 @@
 import {text,relevance} from './parsers.mjs';
 
 export const accounts=[{id:'bjx',name:'北极星电力市场网',group:'行业观察',url:'https://shoudian.bjx.com.cn/'}];
-export const mediaSources=[...accounts.map(a=>({...a,kind:a.id})),{id:'bjx-ranking',name:'北极星电力网 · 电力排行榜',group:'行业观察',url:'https://news.bjx.com.cn/rankinglist/dianli/',kind:'bjx',keywordFiltered:true}];
+// news.bjx.com.cn sits behind an Aliyun WAF JS challenge; www.bjx.com.cn serves the same ranking board unchallenged.
+export const mediaSources=[...accounts.map(a=>({...a,kind:a.id})),{id:'bjx-ranking',name:'北极星电力网 · 电力排行榜',group:'行业观察',url:'https://www.bjx.com.cn/rankinglist/dianli/',kind:'bjx',keywordFiltered:true,urls:['https://www.bjx.com.cn/rankinglist/dianli/','https://news.bjx.com.cn/rankinglist/dianli/']}];
 export function activeMediaRows(rows){return rows.filter(r=>mediaSources.some(s=>s.id===r.sourceId)&&r.group==='行业观察'&&validDate(r.date)&&mediaRelevant(r.title))}
 export function mediaRelevant(title){return title.length>7&&!/招聘|招标|中标|实训|培训|招生|课程|峰会|展会|研修|圆满|座谈|调研|签约|交流会|携手|党建|党委|社会责任|海外.*产业创新/.test(title)&&/电力|煤电|新型电网|电价|现货|售电|绿电|绿证|新能源|储能|虚拟电厂|需求响应|负荷|算电|能源气象/.test(title)}
 export function rankingRelevant(title){return mediaRelevant(title)&&relevance(title,{channel:'解读'})}

@@ -7,10 +7,16 @@ let old={rows:[],sources:[]};try{old=JSON.parse(await fs.readFile(file,'utf8'))}
 // Restrict retained history as well as new records, including when a request fails.
 const rows=new Map(activeMediaRows(old.rows).map(r=>[r.url,r]));const sources=[];let successes=0;
 async function get(url){const r=await fetch(url,{signal:AbortSignal.timeout(18000),headers:{'User-Agent':'PowerMarketPolicyUpdates/0.3 (article index)'}});if(!r.ok)throw Error('HTTP '+r.status);return r.text()}
+async function getFirst(s){const urls=s.urls?.length?s.urls:[s.url];const failures=[];
+ for(const url of urls){
+  try{const html=await get(url);if(mediaChallenge(html))throw Error('网站返回访问验证页，未取得真实文章列表');return {html,url}}
+  catch(e){failures.push(url.replace(/^https:\/\//,'')+' → '+e.message)}
+ }
+ throw Error(failures.join('；'))}
 for(const s of mediaSources){
  const checkedAt=new Date().toISOString();let count=0,errors=0;
  try{
-  const html=await get(s.url);if(mediaChallenge(html))throw Error('网站返回访问验证页，未取得真实文章列表');const listed=listedArticles(html,s.url,s.kind);
+  const {html,url:usedUrl}=await getFirst(s);const listed=listedArticles(html,usedUrl,s.kind);
   if(!listed.length)throw Error('未识别文章目录，不能视为零新增');
   const candidates=s.keywordFiltered?listed.filter(c=>rankingRelevant(c.title)):listed;
   for(const c of candidates){
