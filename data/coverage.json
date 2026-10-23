@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T17:56:51.585Z",
+  "checkedAt": "2026-10-23T09:44:17.065Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87859
+          "bytes": 87892
         }
       ],
       "stopReason": "single-page",
@@ -503,12 +503,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108950
+          "bytes": 108779
         }
       ],
       "stopReason": "single-page",
-      "listed": 84,
-      "selected": 12,
+      "listed": 88,
+      "selected": 14,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -568,9 +568,19 @@
           "url": "https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html"
         },
         {
-          "title": "江苏能源监管办召开发电企业电力市场运行情况座谈会",
-          "date": "2026-10-20",
-          "url": "https://www.nea.gov.cn/20261020/98d2e4ac73bd43e799442bdfa7b48956/c.html"
+          "title": "东北能源监管局积极推动吉林电力现货市场转正评估工作",
+          "date": "2026-10-23",
+          "url": "https://www.nea.gov.cn/20261023/f4b6e97eba3f4c0caf1b66a5433b6bf6/c.html"
+        },
+        {
+          "title": "华东能源监管局牵头制定电力交易行为合规指引",
+          "date": "2026-10-23",
+          "url": "https://www.nea.gov.cn/20261023/e1c489db5de74b5c8cb30635ba18e03b/c.html"
+        },
+        {
+          "title": "山东能源监管办规范电力系统并网运行管理",
+          "date": "2026-10-23",
+          "url": "https://www.nea.gov.cn/20261023/b3b6fae47b8d48db8ee0956b3cf32419/c.html"
         }
       ]
     },
@@ -2099,11 +2109,11 @@
         },
         {
           "url": "https://www.gov.cn/zhengce/zuixin/ZUIXINZHENGCE.json",
-          "bytes": 266183
+          "bytes": 266427
         }
       ],
       "stopReason": "json-feed-end",
-      "listed": 1106,
+      "listed": 1107,
       "selected": 2,
       "listErrors": [],
       "failures": [],
@@ -2292,7 +2302,7 @@
       "pages": [
         {
           "url": "http://nyj.shandong.gov.cn/col/col59960/index.html",
-          "bytes": 23017
+          "bytes": 23113
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/web/jpage/dataproxy.jsp?page=1&webid=355&path=http://nyj.shandong.gov.cn/&columnid=59960&unitid=745545&webname=%25E5%25B1%25B1%25E4%25B8%259C%25E7%259C%2581%25E8%2583%25BD%25E6%25BA%2590%25E5%25B1%2580&permissiontype=0",
