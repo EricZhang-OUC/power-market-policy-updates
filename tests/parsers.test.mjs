@@ -19,6 +19,10 @@ test('numbered announcements are inspected for relevant policy changes in their 
  assert(!detailRelevance('<p>现公布能源行业一般统计信息。</p>'));
 });
 import {loadSource} from '../scripts/source-loader.mjs';
+test('energy supply long-term contract order and accompanying explanations are selected',()=>{
+ for(const title of ['《能源保供中长期合同管理办法(试行)》 2026年第50号令','国家发展改革委印发《能源保供中长期合同管理办法（试行）》','国家发展改革委有关负责同志就《能源保供中长期合同管理办法（试行）》答记者问'])assert(relevance(title),title);
+ assert(!relevance('能源保供工作座谈会在京召开'));
+});
 const source={id:'sd-nyj-notices',url:'http://nyj.shandong.gov.cn/col/col59960/index.html',adapter:'jpage'};
 test('Shandong dated paths and list dates parse from XML-embedded records',()=>{
  const html=`<script type="text/xml"><record><![CDATA[<li><a href="/art/2022/1/5/art_59960_12.html">关于售电公司管理的通知</a><span>2022-01-06</span></li>]]></record></script>`;

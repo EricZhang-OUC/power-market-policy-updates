@@ -3,7 +3,7 @@ export function meta(h,name){for(const m of h.matchAll(/<meta\b[^>]*>/gi)){const
 export function canonical(value,base){const u=new URL(value,base);if(!['http:','https:'].includes(u.protocol))throw Error('非网页链接');if(!['nyj.shandong.gov.cn','fgw.shandong.gov.cn'].includes(u.hostname))u.protocol='https:';if(u.pathname!=='/sa.html')u.hash='';return u.href}
 export function allowed(url,source){const host=new URL(url).hostname;if(source.allowedHosts)return source.allowedHosts.some(root=>host===root||host.endsWith('.'+root));const root=source.id.startsWith('ndrc')?'ndrc.gov.cn':source.id.startsWith('sd-nyj')?'nyj.shandong.gov.cn':source.id.startsWith('sd-fgw')?'fgw.shandong.gov.cn':'nea.gov.cn';return host===root||host.endsWith('.'+root)}
 export function relevance(title,source={}){
- const topic=/售电|电网公平开放|电力市场|电力现货|电力中长期|直接交易|辅助服务|并网运行|输配电|输电价格|输电权|绿电|绿证|绿色电力|电价|虚拟电厂|需求响应|电力体制|新型电力系统|煤电|新能源|储能|能源行政处罚|供电企业信息公开|电力调度|电力负荷|电能量|容量补偿|电力交易/;
+ const topic=/售电|电网公平开放|电力市场|电力现货|电力中长期|能源保供|电力保供|电力.*中长期合同|直接交易|辅助服务|并网运行|输配电|输电价格|输电权|绿电|绿证|绿色电力|电价|虚拟电厂|需求响应|电力体制|新型电力系统|煤电|新能源|储能|能源行政处罚|供电企业信息公开|电力调度|电力负荷|电能量|容量补偿|电力交易/;
  const formal=/通知|规则|办法|规定|细则|意见|指引|规划|政策|解读|答记者问|一图读懂|监管|方案|公告|通告|机制/.test(title);
  const interpretation=String(source.id||'').includes('interpretation')||String(source.channel||'').includes('解读');
  return !/外债|氢能产业|电煤|煤炭中长期/.test(title)&&topic.test(title)&&(formal||interpretation);
