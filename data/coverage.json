@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-24T09:16:39.310Z",
+  "checkedAt": "2026-10-26T07:57:58.109Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,15 +9,30 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87842
+          "bytes": 88379
         }
       ],
       "stopReason": "single-page",
       "listed": 87,
-      "selected": 3,
+      "selected": 6,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "国家发展改革委印发《能源保供中长期合同管理办法（试行）》",
+          "date": "2026-10-23",
+          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202610/t20261023_1408367.html"
+        },
+        {
+          "title": "国家发展改革委有关负责同志就《能源保供中长期合同管理办法（试行）》答记者问",
+          "date": "2026-10-23",
+          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202610/t20261023_1408366.html"
+        },
+        {
+          "title": "《能源保供中长期合同管理办法(试行)》 2026年第50号令",
+          "date": "2026-10-23",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202610/t20261023_1408364.html"
+        },
         {
           "title": "国家发展改革委关于向社会公开征求《电力现货市场基本规则（公开征求意见稿）》意见的公告",
           "date": "",
@@ -281,10 +296,25 @@
       ],
       "stopReason": "page-limit",
       "listed": 147,
-      "selected": 5,
+      "selected": 8,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "《能源保供中长期合同管理办法(试行)》 2026年第50号令",
+          "date": "2026-10-23",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202610/t20261023_1408364.html"
+        },
+        {
+          "title": "国家发展改革委印发《能源保供中长期合同管理办法（试行）》",
+          "date": "2026-10-23",
+          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202610/t20261023_1408367.html"
+        },
+        {
+          "title": "国家发展改革委有关负责同志就《能源保供中长期合同管理办法（试行）》答记者问",
+          "date": "2026-10-23",
+          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202610/t20261023_1408366.html"
+        },
         {
           "title": "强化电力监控安全防护体系，支撑新型电力系统建设——《电力监控系统安全防护规定》专家解读",
           "date": "2024-12-12",
@@ -349,10 +379,25 @@
       ],
       "stopReason": "page-limit",
       "listed": 119,
-      "selected": 7,
+      "selected": 10,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "国家发展改革委印发《能源保供中长期合同管理办法（试行）》",
+          "date": "2026-10-23",
+          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202610/t20261023_1408367.html"
+        },
+        {
+          "title": "《能源保供中长期合同管理办法(试行)》 2026年第50号令",
+          "date": "2026-10-23",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202610/t20261023_1408364.html"
+        },
+        {
+          "title": "国家发展改革委有关负责同志就《能源保供中长期合同管理办法（试行）》答记者问",
+          "date": "2026-10-23",
+          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202610/t20261023_1408366.html"
+        },
         {
           "title": "国家能源局有关负责同志就《关于有序推动多用户绿电直连发展有关事项的通知》答记者问",
           "date": "2026-05-20",
@@ -408,7 +453,7 @@
       ],
       "stopReason": "page-limit",
       "listed": 75,
-      "selected": 7,
+      "selected": 8,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -431,6 +476,11 @@
           "title": "国家发展改革委关于向社会公开征求《电网公平开放监管办法》（公开征求意见稿）意见的公告",
           "date": "2026-07-30",
           "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/dwgpkfjgbf"
+        },
+        {
+          "title": "关于向社会公开征求《能源保供中长期合同管理办法（试行）（公开征求意见稿）》意见的公告",
+          "date": "2026-07-15",
+          "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/nybgglbf"
         },
         {
           "title": "国家发展改革委关于《输配电定价成本监审办法（修订征求意见稿）》《省级电网输配电价定价办法（修订征求意见稿）》《区域电网输电价格定价办法（修订征求意见稿）》《跨省跨区专项工程输电价格定价办法（修订征求意见稿）》公开征求意见的公告",
@@ -467,7 +517,7 @@
       ],
       "stopReason": "page-limit",
       "listed": 75,
-      "selected": 5,
+      "selected": 6,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -480,6 +530,11 @@
           "title": "关于《电网公平开放监管办法（公开征求意见稿）》公开征求意见情况的通告",
           "date": "2026-09-04",
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/yjfk/dwgpkfjgbf/202609/t20260904_1407414.html"
+        },
+        {
+          "title": "关于《能源保供中长期合同管理办法（试行）（公开征求意见稿）》公开征求意见情况的通告",
+          "date": "2026-08-25",
+          "url": "https://www.ndrc.gov.cn/hdjl/yjzq/yjfk/nybgcqhtglbf/202608/t20260825_1407183.html"
         },
         {
           "title": "关于《输配电定价成本监审办法（修订征求意见稿）》《省级电网输配电价定价办法（修订征求意见稿）》《区域电网输电价格定价办法（修订征求意见稿）》和《跨省跨区专项工程输电价格定价办法（修订征求意见稿）》公开征求意见情况的通告",
@@ -503,11 +558,11 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 109023
+          "bytes": 109204
         }
       ],
       "stopReason": "single-page",
-      "listed": 83,
+      "listed": 84,
       "selected": 14,
       "listErrors": [],
       "failures": [],
@@ -2109,7 +2164,7 @@
         },
         {
           "url": "https://www.gov.cn/zhengce/zuixin/ZUIXINZHENGCE.json",
-          "bytes": 266427
+          "bytes": 266454
         }
       ],
       "stopReason": "json-feed-end",
