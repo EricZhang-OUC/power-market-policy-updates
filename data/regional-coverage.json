@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-26T10:46:32.468Z",
+  "checkedAt": "2026-10-26T20:20:24.689Z",
   "since": "2026-01-01",
   "note": "已配置官方栏目采集记录，不代表覆盖所有省区及每个部门",
   "sources": [
@@ -1341,7 +1341,7 @@
     },
     {
       "sourceId": "sx-nyj-notices",
-      "error": "Connect Timeout Error (attempted addresses: 1.71.182.103:443, 2409:8c0c:310:2500:1000::b:443, 183.201.253.167:443, timeout: 10000ms)"
+      "error": "Connect Timeout Error (attempted addresses: 183.201.253.167:443, 2409:8c0c:310:2500:1000::b:443, 1.71.182.103:443, timeout: 10000ms)"
     },
     {
       "sourceId": "sx-nyj-interpretation",
@@ -1349,7 +1349,7 @@
     },
     {
       "sourceId": "sx-nyj-consultation",
-      "error": "Connect Timeout Error (attempted addresses: 1.71.182.103:443, 2409:8c0c:310:2500:1000::b:443, 183.201.253.167:443, timeout: 10000ms)"
+      "error": "Connect Timeout Error (attempted addresses: 183.201.253.167:443, 2409:8c0c:310:2500:1000::b:443, 1.71.182.103:443, timeout: 10000ms)"
     }
   ]
 }
