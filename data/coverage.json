@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-27T10:11:16.000Z",
+  "checkedAt": "2026-10-27T19:48:18.879Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 88564
+          "bytes": 88337
         }
       ],
       "stopReason": "single-page",
@@ -558,12 +558,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108620
+          "bytes": 108556
         }
       ],
       "stopReason": "single-page",
-      "listed": 84,
-      "selected": 14,
+      "listed": 86,
+      "selected": 13,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -623,19 +623,14 @@
           "url": "https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html"
         },
         {
-          "title": "东北能源监管局积极推动吉林电力现货市场转正评估工作",
-          "date": "2026-10-23",
-          "url": "https://www.nea.gov.cn/20261023/f4b6e97eba3f4c0caf1b66a5433b6bf6/c.html"
+          "title": "华北能源监管局及早谋划明年电力中长期交易工作",
+          "date": "2026-10-27",
+          "url": "https://www.nea.gov.cn/20261027/82bf572066ca42f98ee7263d92b1feb3/c.html"
         },
         {
-          "title": "华东能源监管局牵头制定电力交易行为合规指引",
-          "date": "2026-10-23",
-          "url": "https://www.nea.gov.cn/20261023/e1c489db5de74b5c8cb30635ba18e03b/c.html"
-        },
-        {
-          "title": "山东能源监管办规范电力系统并网运行管理",
-          "date": "2026-10-23",
-          "url": "https://www.nea.gov.cn/20261023/b3b6fae47b8d48db8ee0956b3cf32419/c.html"
+          "title": "云南能源监管办部署今冬明春能源保供监管工作",
+          "date": "2026-10-27",
+          "url": "https://www.nea.gov.cn/20261027/0a16980ac4b14810b99d4e8769f1542a/c.html"
         }
       ]
     },
