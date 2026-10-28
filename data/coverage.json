@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-27T19:48:18.879Z",
+  "checkedAt": "2026-10-28T03:17:15.395Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 88337
+          "bytes": 88141
         }
       ],
       "stopReason": "single-page",
@@ -55,20 +55,20 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/",
-          "bytes": 42075
+          "bytes": 42081
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_1.html",
-          "bytes": 52467
+          "bytes": 51889
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_2.html",
-          "bytes": 38103
+          "bytes": 38121
         }
       ],
       "stopReason": "page-limit",
-      "listed": 156,
-      "selected": 23,
+      "listed": 155,
+      "selected": 21,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -176,16 +176,6 @@
           "title": "国家能源局有关负责同志就《新型储能规模化建设专项行动方案（2025—2027年）》答记者问",
           "date": "2025-09-12",
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202509/t20250912_1400432.html"
-        },
-        {
-          "title": "关于跨电网经营区常态化电力交易机制方案的复函(发改体改〔2025〕915号)",
-          "date": "2025-07-11",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202507/t20250711_1399134.html"
-        },
-        {
-          "title": "国家发展改革委有关负责同志就《关于跨电网经营区常态化电力交易机制方案的复函》答记者问",
-          "date": "2025-07-14",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202507/t20250714_1399176.html"
         }
       ]
     },
@@ -558,11 +548,11 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108556
+          "bytes": 108801
         }
       ],
       "stopReason": "single-page",
-      "listed": 86,
+      "listed": 85,
       "selected": 13,
       "listErrors": [],
       "failures": [],
