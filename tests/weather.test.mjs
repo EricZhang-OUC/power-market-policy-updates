@@ -13,9 +13,9 @@ const weatherFixture={rows:[
  {id:'sd-daily',region:'山东',category:'天气预报',agency:'山东省气象局每日气象',status:'link-only',url:'https://example.test/daily'},
  {id:'sd-climate',region:'山东',category:'气候预测',agency:'山东气候预测',status:'link-only',entryLabel:'延伸期、月度、季节与年度预测',url:'https://sd.cma.gov.cn/qxfw_3576/qhyc/202201/t20220127_4471990.html'}
 ]};
-function renderAt(now){
+function renderAt(now,weather=weatherFixture){
  const elements={};class FixedDate extends Date{constructor(...args){super(...(args.length?args:[now]))}static now(){return new Date(now).getTime()}}
- const c={window:{WEATHER_DATA:weatherFixture},document:{querySelector:q=>elements[q]??={textContent:'',innerHTML:''}},esc:s=>String(s??''),Intl,Date:FixedDate};
+ const c={window:{WEATHER_DATA:weather},document:{querySelector:q=>elements[q]??={textContent:'',innerHTML:''}},esc:s=>String(s??''),Intl,Date:FixedDate};
  vm.createContext(c);vm.runInContext(fs.readFileSync(new URL('../weather-ui.js',import.meta.url),'utf8'),c);c.window.renderWeather();return {c,elements};
 }
 test('weather UI separates regions and preserves official PDF links using a fixed clock',()=>{
@@ -37,4 +37,11 @@ test('expired forecast disappears at Shanghai midnight while official entry link
  assert(!after.elements['#content'].innerHTML.includes('山东省气象台短期天气预报'));
  assert(after.elements['#content'].innerHTML.includes('每日气象 / PDF原文入口'));
  assert(after.elements['#content'].innerHTML.includes('延伸期、月度、季节与年度预测'));
+});
+test('unconfirmed Shandong climate entry is hidden without affecting new daily PDF entry',()=>{
+ const weather={...weatherFixture,sources:weatherFixture.sources.map(s=>s.id==='sd-climate'?{...s,parser:'paused',status:'paused'}:{...s,url:'http://58.59.29.50:15039/web/product/mrqx.html'})};
+ const {c,elements}=renderAt('2026-10-26T04:00:00Z',weather);c.window.weatherRegion('山东');
+ assert(elements['#content'].innerHTML.includes('http://58.59.29.50:15039/web/product/mrqx.html'));
+ assert(!elements['#content'].innerHTML.includes('山东 · 气候预测'));
+ assert(!elements['#content'].innerHTML.includes('t20220127_4471990.html'));
 });

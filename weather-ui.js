@@ -6,8 +6,10 @@
  function weatherCard(r){return '<article class="item weather-item"><div class="meta"><span>'+esc(r.agency)+' · 发布于 '+esc(timestamp(r.publishedAt))+'</span>'+'</div><a href="'+esc(r.url)+'" target="_blank" rel="noopener noreferrer">'+esc(r.title)+'</a><p class="weather-period">'+esc(r.periodLabel)+'</p><div class="item-bottom"><span>'+datedState(r)+'</span><span>'+(r.rolling?'滚动产品 · 查看最新原文':'查看官方原文')+' ↗</span></div></article>'}
  window.weatherRegion=function(value){region=value;window.renderWeather()};
  window.renderWeather=function(){
-  const data=window.WEATHER_DATA||{rows:[],sources:[]};
-  document.querySelector('#desc').textContent=region==='山东'?'山东省气象台短期预报、每日气象与气候预测公报。':'全国天气预报、预警和气候预测分别展示。';
+  const raw=window.WEATHER_DATA||{rows:[],sources:[]};
+  const paused=new Set(raw.sources.filter(s=>s.parser==='paused').map(s=>s.id));
+  const data={...raw,sources:raw.sources.filter(s=>!paused.has(s.id)),rows:raw.rows.filter(r=>!paused.has(r.sourceId))};
+  document.querySelector('#desc').textContent=region==='山东'?'山东省气象台短期预报与每日气象。':'全国天气预报、预警和气候预测分别展示。';
   document.querySelector('#updated').textContent=data.updatedAt?'气象更新于 '+new Date(data.updatedAt).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai',hour12:false}):'';
   document.querySelector('#sync-status').textContent='收录2026年起的产品。滚动产品的链接展示官网最新一期。'+(region==='全国'?'预警是否解除以官方原文为准。':'');
   const today=day();

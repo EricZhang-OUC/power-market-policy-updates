@@ -1,7 +1,7 @@
 {
   "secondaryHistoryStart": "2026-01-01",
   "historyStart": "2026-01-01",
-  "updatedAt": "2026-10-27T19:48:36.778Z",
+  "updatedAt": "2026-10-28T00:52:04.977Z",
   "sources": [
     {
       "id": "sd-forecast",
@@ -11,20 +11,20 @@
       "url": "http://58.59.29.50:15039/web/product/dqyb.html",
       "discoveryUrl": "https://sd.weather.com.cn/",
       "parser": "sd",
-      "status": "error",
-      "checkedAt": "2026-10-27T19:48:18.921Z",
-      "lastSuccessAt": "2026-10-21T02:50:17.809Z",
-      "error": "fetch failed"
+      "status": "ok",
+      "checkedAt": "2026-10-28T00:52:02.731Z",
+      "lastSuccessAt": "2026-10-28T00:52:02.731Z",
+      "recordCount": 1
     },
     {
       "id": "sd-daily",
       "region": "山东",
       "category": "天气预报",
       "agency": "山东省气象局 · 每日气象",
-      "url": "http://sd.cma.gov.cn/qxfw_3576/mrqx/202109/t20210914_3817129.html",
+      "url": "http://58.59.29.50:15039/web/product/mrqx.html",
       "parser": "link",
       "status": "link-only",
-      "checkedAt": "2026-10-27T19:48:29.443Z",
+      "checkedAt": "2026-10-28T00:52:02.842Z",
       "message": "每日气象官方原文入口，PDF请在原页面查看"
     },
     {
@@ -34,11 +34,11 @@
       "agency": "山东省气象局 · 气候预测公报",
       "url": "https://sd.cma.gov.cn/qxfw_3576/qhyc/202201/t20220127_4471990.html",
       "discoveryUrl": "https://sd.cma.gov.cn/qxfw_3576/qhyc/",
-      "entryLabel": "延伸期、月度、季节与年度预测 · 官方公报入口",
-      "parser": "link",
-      "status": "link-only",
-      "checkedAt": "2026-10-27T19:48:29.443Z",
-      "message": "延伸期、月度、季节与年度预测 · 官方公报入口"
+      "entryLabel": "入口待核实，暂不展示；尚不能确认是否停发",
+      "parser": "paused",
+      "status": "paused",
+      "checkedAt": "2026-10-28T00:52:02.729Z",
+      "message": "入口待核实，暂不展示；尚不能确认是否停发"
     },
     {
       "id": "nmc-forecast",
@@ -48,8 +48,8 @@
       "url": "https://www.nmc.cn/publish/weather-bulletin/index.htm",
       "parser": "nmc",
       "status": "ok",
-      "checkedAt": "2026-10-27T19:48:29.443Z",
-      "lastSuccessAt": "2026-10-27T19:48:29.443Z",
+      "checkedAt": "2026-10-28T00:52:02.842Z",
+      "lastSuccessAt": "2026-10-28T00:52:02.842Z",
       "recordCount": 1
     },
     {
@@ -60,8 +60,8 @@
       "url": "https://www.nmc.cn/publish/bulletin/mid-range.htm",
       "parser": "nmc",
       "status": "ok",
-      "checkedAt": "2026-10-27T19:48:32.056Z",
-      "lastSuccessAt": "2026-10-27T19:48:32.056Z",
+      "checkedAt": "2026-10-28T00:52:03.278Z",
+      "lastSuccessAt": "2026-10-28T00:52:03.278Z",
       "recordCount": 1
     },
     {
@@ -72,8 +72,8 @@
       "url": "https://www.nmc.cn/publish/country/warning/index.html",
       "parser": "nmc",
       "status": "ok",
-      "checkedAt": "2026-10-27T19:48:34.891Z",
-      "lastSuccessAt": "2026-10-27T19:48:34.891Z",
+      "checkedAt": "2026-10-28T00:52:04.306Z",
+      "lastSuccessAt": "2026-10-28T00:52:04.306Z",
       "recordCount": 1
     },
     {
@@ -84,12 +84,60 @@
       "url": "https://www.ncc-cma.net/channel/index/wid/154",
       "parser": "ncc",
       "status": "ok",
-      "checkedAt": "2026-10-27T19:48:35.367Z",
-      "lastSuccessAt": "2026-10-27T19:48:35.367Z",
+      "checkedAt": "2026-10-28T00:52:04.478Z",
+      "lastSuccessAt": "2026-10-28T00:52:04.478Z",
       "recordCount": 20
     }
   ],
   "rows": [
+    {
+      "id": "0828f3af8bbd392e",
+      "sourceId": "nmc-forecast",
+      "region": "全国",
+      "category": "天气预报",
+      "agency": "中央气象台",
+      "url": "https://www.nmc.cn/publish/weather-bulletin/index.htm",
+      "title": "天气公报",
+      "publishedAt": "2026-10-28T08:00:00+08:00",
+      "validFrom": null,
+      "validTo": null,
+      "periodLabel": "适用时段及解除情况见官方原文",
+      "rolling": true,
+      "date": "2026-10-28",
+      "checkedAt": "2026-10-28T00:52:02.842Z"
+    },
+    {
+      "id": "dae96e30080f0ffd",
+      "sourceId": "sd-forecast",
+      "region": "山东",
+      "category": "天气预报",
+      "agency": "山东省气象台",
+      "url": "http://58.59.29.50:15039/web/product/dqyb.html",
+      "title": "山东省气象台短期天气预报",
+      "publishedAt": "2026-10-28T06:00:00+08:00",
+      "validFrom": null,
+      "validTo": null,
+      "periodLabel": "适用时段见官方原文",
+      "rolling": true,
+      "date": "2026-10-28",
+      "checkedAt": "2026-10-28T00:52:02.731Z"
+    },
+    {
+      "id": "ef4807ad5f7b71e8",
+      "sourceId": "nmc-warning",
+      "region": "全国",
+      "category": "气象预警",
+      "agency": "中央气象台",
+      "url": "https://www.nmc.cn/publish/country/warning/index.html",
+      "title": "大风预警",
+      "publishedAt": "2026-10-28T06:00:00+08:00",
+      "validFrom": null,
+      "validTo": null,
+      "periodLabel": "适用时段及解除情况见官方原文",
+      "rolling": true,
+      "date": "2026-10-28",
+      "checkedAt": "2026-10-28T00:52:04.306Z"
+    },
     {
       "id": "a6999225b9dc63de",
       "sourceId": "nmc-forecast",
@@ -136,7 +184,7 @@
       "periodLabel": "适用时段及解除情况见官方原文",
       "rolling": true,
       "date": "2026-10-27",
-      "checkedAt": "2026-10-27T19:48:32.056Z"
+      "checkedAt": "2026-10-28T00:52:03.278Z"
     },
     {
       "id": "2f4e432deb81f6a1",
@@ -264,7 +312,7 @@
       "periodLabel": "2026年11月9日至11月24日",
       "rolling": false,
       "date": "2026-10-26",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "a8e1163bdab91161",
@@ -518,9 +566,9 @@
       "validFrom": "2026-10-21",
       "validTo": "2026-10-24",
       "periodLabel": "21日下午到22日白天；22日夜间到23日白天；23日夜间到24日白天",
+      "rolling": true,
       "date": "2026-10-21",
-      "checkedAt": "2026-10-21T02:50:17.809Z",
-      "rolling": true
+      "checkedAt": "2026-10-21T05:27:12.904Z"
     },
     {
       "id": "93fb00bb4ea97253",
@@ -584,7 +632,7 @@
       "periodLabel": "2026年11月2日至11月17日",
       "rolling": false,
       "date": "2026-10-19",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "7fff662ea13b6b84",
@@ -600,7 +648,7 @@
       "periodLabel": "2026年11月",
       "rolling": false,
       "date": "2026-10-16",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "b3abcd3e07f8f650",
@@ -616,7 +664,7 @@
       "periodLabel": "2026年10月26日至11月10日",
       "rolling": false,
       "date": "2026-10-12",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "5d983173f40280eb",
@@ -632,7 +680,7 @@
       "periodLabel": "2026年10月19日至11月3日",
       "rolling": false,
       "date": "2026-10-05",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "e78b4ebcb0b838bf",
@@ -648,7 +696,7 @@
       "periodLabel": "2026年10月",
       "rolling": false,
       "date": "2026-09-30",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "7a66517bab0b93c4",
@@ -664,7 +712,7 @@
       "periodLabel": "2026年10月12日至10月27日",
       "rolling": false,
       "date": "2026-09-28",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "a619a7f4eaa913ef",
@@ -680,7 +728,7 @@
       "periodLabel": "2026年10月",
       "rolling": false,
       "date": "2026-09-21",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "d8c70eafbb36063a",
@@ -696,7 +744,7 @@
       "periodLabel": "2026年10月5日至10月20日",
       "rolling": false,
       "date": "2026-09-21",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "87ae0d33d8eaef48",
@@ -712,7 +760,7 @@
       "periodLabel": "2026年9月28日至10月13日",
       "rolling": false,
       "date": "2026-09-14",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "c57a56bf5c482782",
@@ -728,7 +776,7 @@
       "periodLabel": "2026年9月21日至10月6日",
       "rolling": false,
       "date": "2026-09-07",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "5f24b122a6a32484",
@@ -744,7 +792,7 @@
       "periodLabel": "适用时段见官方原文",
       "rolling": false,
       "date": "2026-09-03",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "845704cf28154c7e",
@@ -760,7 +808,7 @@
       "periodLabel": "2026年9月14日至29日",
       "rolling": false,
       "date": "2026-08-31",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "4250dd8d0ddd441f",
@@ -776,7 +824,7 @@
       "periodLabel": "2026年9月",
       "rolling": false,
       "date": "2026-08-29",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "75cd4cb06b19f2fd",
@@ -792,7 +840,7 @@
       "periodLabel": "2026年9月7日至22日",
       "rolling": false,
       "date": "2026-08-24",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "2818d198637f0a89",
@@ -808,7 +856,7 @@
       "periodLabel": "2026年8月31日至9月15日",
       "rolling": false,
       "date": "2026-08-17",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "d0dd49f96f5d4a1a",
@@ -824,7 +872,7 @@
       "periodLabel": "2026年9月",
       "rolling": false,
       "date": "2026-08-15",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "08c5a45339e153bd",
@@ -840,7 +888,7 @@
       "periodLabel": "2026年8月24日至9月8日",
       "rolling": false,
       "date": "2026-08-10",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "1fbf63fefba4da3f",
@@ -856,7 +904,7 @@
       "periodLabel": "2026年8月",
       "rolling": false,
       "date": "2026-08-05",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "fbeee7d369a85093",
@@ -872,7 +920,7 @@
       "periodLabel": "2026年8月17日至9月1日",
       "rolling": false,
       "date": "2026-08-03",
-      "checkedAt": "2026-10-27T19:48:35.367Z"
+      "checkedAt": "2026-10-28T00:52:04.478Z"
     },
     {
       "id": "e6c10942af0710c3",
