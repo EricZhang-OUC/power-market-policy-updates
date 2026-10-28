@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-28T03:17:15.395Z",
+  "checkedAt": "2026-10-28T10:58:07.062Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 88141
+          "bytes": 87981
         }
       ],
       "stopReason": "single-page",
@@ -2175,20 +2175,20 @@
       "pages": [
         {
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/",
-          "bytes": 18534
+          "bytes": 18524
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/index_1.html",
-          "bytes": 18562
+          "bytes": 18553
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/index_2.html",
-          "bytes": 18287
+          "bytes": 18266
         }
       ],
       "stopReason": "page-limit",
       "listed": 44,
-      "selected": 19,
+      "selected": 18,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -2281,11 +2281,6 @@
           "title": "关于征求《山东电力爬坡辅助服务市场交易规则(征求意见稿)》意见的通知",
           "date": "2023-08-08",
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202309/t20230919_110475.html"
-        },
-        {
-          "title": "关于印发《山东省电力并网运行管理实施细则》、《山东省电力辅助服务管理实施细则》的通知",
-          "date": "2023-07-24",
-          "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202309/t20230919_110474.html"
         }
       ]
     },
@@ -2294,29 +2289,23 @@
       "pages": [
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/",
-          "bytes": 18297
+          "bytes": 18339
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_1.html",
-          "bytes": 18335
+          "bytes": 18311
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_2.html",
-          "bytes": 18309
+          "bytes": 18298
         }
       ],
       "stopReason": "page-limit",
-      "listed": 40,
-      "selected": 1,
+      "listed": 41,
+      "selected": 0,
       "listErrors": [],
       "failures": [],
-      "entries": [
-        {
-          "title": "山东能源监管办修订《山东省电力并网运行管理实施细则》",
-          "date": "2026-06-29",
-          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202606/t20260629_303765.html"
-        }
-      ]
+      "entries": []
     },
     {
       "sourceId": "sdb-policy",
