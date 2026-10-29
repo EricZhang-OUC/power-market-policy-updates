@@ -19,8 +19,15 @@ export const sources = [
  ['sdb-interpretation','山东能源监管办','山东','监管动态','https://sdb.nea.gov.cn/dtyw/jgdt/','trs'],
  ['sdb-policy','山东能源监管办','山东','政策法规','https://sdb.nea.gov.cn/xxgk/zcfg/','trs',['sdb.nea.gov.cn']],
  ['sd-nyj-notices','山东省能源局','山东','通知公告','http://nyj.shandong.gov.cn/col/col59960/index.html','jpage'],
+ ['sd-nyj-interpretation','山东省能源局','山东','政策解读','http://nyj.shandong.gov.cn/col/col100396/index.html','jpage'],
  ['sd-nyj-consultation','山东省能源局','山东','调查征集','http://nyj.shandong.gov.cn/col/col59978/index.html','jpage'],
  ['sd-nyj-disclosure','山东省能源局','山东','法规文件','http://nyj.shandong.gov.cn/col/col100377/index.html?vc_xxgkarea=11370000MB28526373&number=SD02','discovery'],
  ['sd-fgw','山东省发展改革委','山东','官网入口（待恢复）','http://fgw.shandong.gov.cn/','discovery'],
  ['sd-fgw-price','山东省发展改革委价格处','山东','价格政策','http://fgw.shandong.gov.cn/col/col91687/index.html','jpage',['fgw.shandong.gov.cn']]
 ].map(([id,name,region,channel,url,adapter,allowedHosts])=>({id,name,region,channel,url,adapter,...(allowedHosts?{allowedHosts}:{})}));
+
+// Verified article links supplement the directory when its browser verification blocks collection.
+sources.find(s=>s.id==='sd-nyj-interpretation').seedRecords=[{
+ title:'政策解读：《山东省抽水蓄能项目管理实施细则》',date:'2026-07-06',
+ url:'http://nyj.shandong.gov.cn/art/2026/7/6/art_100396_10312557.html'
+}];

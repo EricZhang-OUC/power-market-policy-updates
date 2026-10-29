@@ -5,10 +5,11 @@ test('drafts, revisions, interpretation and later same-title releases remain sep
 test('policy and two different interpretations referring to same number are not combined',()=>{const titles=['关于电力市场规则的通知 发改能源〔2026〕12号','专家甲解读电力市场规则 发改能源〔2026〕12号','专家乙解读电力市场规则 发改能源〔2026〕12号'];assert.equal(cleanPolicies(titles.map((t,i)=>record('t'+i,t))).rows.length,3)});
 test('irrelevant and local news exclusions are reviewable, source array is not mutated',()=>{const input=[record('x','江苏能源监管办召开电力市场座谈会'),record('y','关于企业中长期外债的通知'),record('z','关于完善电价机制的通知')];assert.equal(cleanPolicies(input).report.excluded.length,2);assert.equal(input.length,3)});
 
-test('Shandong removes work updates even when they mention a named rule',()=>{
- const titles=['山东能源监管办扎实开展电力市场秩序现场检查工作','山东能源监管办召开《山东电力市场规则》宣贯会','山东能源监管办以市场化手段推动储能高质量规模化发展','山东能源监管办组织开展电力市场交易规则修订工作'];
- const input=titles.map((t,i)=>({...record('sd-work'+i,t),region:'山东'}));
- const result=cleanPolicies(input);assert.equal(result.rows.length,0);assert.equal(result.report.excluded.length,4);assert.equal(input.length,4);
+test('Shandong retains substantive market supervision while removing routine work news',()=>{
+ const include=['山东能源监管办完善虚拟电厂聚合资源基线获取及出清机制','山东能源监管办规范电力系统并网运行管理 保障电力系统安全稳定运行','山东能源监管办督导市场交易机构完善市场经营主体不良行为监测及处理机制','山东能源监管办扎实开展电力市场秩序现场检查工作','山东能源监管办以市场化手段保障度夏期间电力安全可靠供应','山东能源监管办创新完善市场机制服务算电协同高质量发展','山东能源监管办以市场化手段推动储能高质量规模化发展','政策解读：《山东省抽水蓄能项目管理实施细则》'];
+ const exclude=['山东能源监管办召开《山东电力市场规则》宣贯会','山东能源监管办开展主题党日活动','山东能源监管办全面排查整治新能源及储能电站涉网能力重大事故隐患','山东能源监管办召开电力市场座谈会'];
+ const input=[...include,...exclude].map((t,i)=>({...record('sd-work'+i,t),region:'山东'}));
+ const result=cleanPolicies(input);assert.deepEqual(result.rows.map(r=>r.title).sort(),include.sort());assert.equal(result.report.excluded.length,exclude.length);
 });
 
 test('Shandong retains releases, drafts, explanations and unquoted formal notices',()=>{

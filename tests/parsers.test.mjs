@@ -58,3 +58,16 @@ test('China government latest-policy JSON and Shandong price links are supported
  const rows=parseLinks('<li><a href="/art/2026/9/21/art_91687_1.html">关于印发《山东省电力零售市场价格风险防控实施细则》的通知</a><span>2026-09-21</span></li>',price.url,price);
  assert.equal(rows[0].url,'http://fgw.shandong.gov.cn/art/2026/9/21/art_91687_1.html');
 });
+
+test('Shandong market news and pumped storage interpretation pass initial candidate selection',()=>{
+ const source={id:'sdb-interpretation',region:'山东',channel:'监管动态'};
+ for(const title of ['山东能源监管办以市场化手段推动储能高质量规模化发展','山东能源监管办督导市场交易机构完善市场经营主体不良行为监测及处理机制','山东能源监管办扎实开展电力市场秩序现场检查工作'])assert(relevance(title,source));
+ assert(relevance('政策解读：《山东省抽水蓄能项目管理实施细则》'));
+});
+
+test('verified source seeds remain readable when its directory challenges the collector',async()=>{
+ const {loadSource}=await import('../scripts/source-loader.mjs');
+ const seed={title:'政策解读：《山东省抽水蓄能项目管理实施细则》',date:'2026-07-06',url:'http://nyj.shandong.gov.cn/art/2026/7/6/art_100396_10312557.html'};
+ const result=await loadSource({id:'sd-nyj-interpretation',url:'http://nyj.shandong.gov.cn/col/col100396/index.html',adapter:'jpage',seedRecords:[seed]},async()=>'<script src="/usershare/flash.js"></script>');
+ assert.deepEqual(result.entries,[seed]);assert.equal(result.listErrors.length,1);assert.equal(result.stopReason,'seed-fallback');
+});

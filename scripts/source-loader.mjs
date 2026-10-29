@@ -3,7 +3,13 @@ export async function loadSource(source,get,{since='2022-01-01',maxPages=80}={})
  const pages=[];const listErrors=[];const all=new Map();let stopReason='single-page';let indexUrl=source.url;
  const add=(entries)=>{for(const c of entries)all.set(c.url,c)};
  function record(url,h){if(isChallenge(h))throw Error('官网返回验证页，未读取政策正文');pages.push({url,bytes:Buffer.byteLength(h)});return h}
- const first=record(indexUrl,await get(indexUrl));
+ add(source.seedRecords||[]);
+ let first;
+ try{first=record(indexUrl,await get(indexUrl))}catch(e){
+  if(!all.size)throw e;
+  listErrors.push({url:indexUrl,error:e.message});
+  return {entries:[...all.values()],pages,stopReason:'seed-fallback',listErrors};
+ }
  if(source.adapter==='discovery')throw Error(source.id==='sd-fgw'?'官网入口尚不可读':'动态公开目录尚未解析');
  if(source.adapter==='gov-json'){
   const url=new URL('./ZUIXINZHENGCE.json',indexUrl).href;const body=record(url,await get(url));const json=JSON.parse(body);if(!Array.isArray(json))throw Error('中国政府网最新政策数据格式改变');
