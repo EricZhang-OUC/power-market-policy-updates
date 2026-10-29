@@ -19,6 +19,12 @@ test('numbered announcements are inspected for relevant policy changes in their 
  assert(!detailRelevance('<p>现公布能源行业一般统计信息。</p>'));
 });
 import {loadSource} from '../scripts/source-loader.mjs';
+test('official market replies and approvals are retained without requiring the word notice',()=>{
+ for(const title of ['关于同意南方区域电力市场转入正式运行的复函(发改办体改〔2026〕715号)','关于跨电网经营区常态化电力交易机制方案的复函','关于新能源机制电价竞价有关事项的函','关于电力市场交易规则的批复','关于修改电力市场规则的决定'])assert(relevance(title),title);
+ assert(!relevance('关于对外投资项目的复函'));
+ const rows=parseLinks('<li><a href="./202610/t20261028_1408423.html">关于同意南方区域电力市场转入正式运行的复函(发改办体改〔2026〕715号)</a><span>2026/10/28</span></li>','https://www.ndrc.gov.cn/xxgk/zcfb/tz/',{id:'ndrc'});
+ assert.equal(rows[0].date,'2026-10-28');assert(relevance(rows[0].title));
+});
 test('energy supply long-term contract order and accompanying explanations are selected',()=>{
  for(const title of ['《能源保供中长期合同管理办法(试行)》 2026年第50号令','国家发展改革委印发《能源保供中长期合同管理办法（试行）》','国家发展改革委有关负责同志就《能源保供中长期合同管理办法（试行）》答记者问'])assert(relevance(title),title);
  assert(!relevance('能源保供工作座谈会在京召开'));
