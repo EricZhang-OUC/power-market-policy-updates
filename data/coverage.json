@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T03:42:09.044Z",
+  "checkedAt": "2026-10-29T11:15:29.647Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87981
+          "bytes": 87874
         }
       ],
       "stopReason": "single-page",
@@ -563,12 +563,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108801
+          "bytes": 108938
         }
       ],
       "stopReason": "single-page",
-      "listed": 85,
-      "selected": 14,
+      "listed": 83,
+      "selected": 13,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -636,11 +636,6 @@
           "title": "华北能源监管局及早谋划明年电力中长期交易工作",
           "date": "2026-10-27",
           "url": "https://www.nea.gov.cn/20261027/82bf572066ca42f98ee7263d92b1feb3/c.html"
-        },
-        {
-          "title": "云南能源监管办部署今冬明春能源保供监管工作",
-          "date": "2026-10-27",
-          "url": "https://www.nea.gov.cn/20261027/0a16980ac4b14810b99d4e8769f1542a/c.html"
         }
       ]
     },
@@ -2368,43 +2363,8 @@
     },
     {
       "sourceId": "sd-nyj-notices",
-      "pages": [
-        {
-          "url": "http://nyj.shandong.gov.cn/col/col59960/index.html",
-          "bytes": 23141
-        },
-        {
-          "url": "http://nyj.shandong.gov.cn/module/web/jpage/dataproxy.jsp?page=1&webid=355&path=http://nyj.shandong.gov.cn/&columnid=59960&unitid=745545&webname=%25E5%25B1%25B1%25E4%25B8%259C%25E7%259C%2581%25E8%2583%25BD%25E6%25BA%2590%25E5%25B1%2580&permissiontype=0",
-          "bytes": 49
-        }
-      ],
-      "stopReason": "unparsed-page",
-      "listed": 45,
-      "selected": 4,
-      "listErrors": [],
-      "failures": [],
-      "entries": [
-        {
-          "title": "关于公开征求《山东省能源行政处罚裁量基准（征求意见稿）》意见的通知",
-          "date": "2026-07-27",
-          "url": "http://nyj.shandong.gov.cn/art/2026/7/27/art_59960_10312755.html"
-        },
-        {
-          "title": "关于做好2026年下半年全省电力市场建设有关工作的通知",
-          "date": "2026-06-11",
-          "url": "http://nyj.shandong.gov.cn/art/2026/6/11/art_59960_10312276.html"
-        },
-        {
-          "title": "关于印发《山东省促进虚拟电厂高质量发展方案》的通知",
-          "date": "2026-03-27",
-          "url": "http://nyj.shandong.gov.cn/art/2026/3/27/art_59960_10311577.html"
-        },
-        {
-          "title": "《山东省虚拟电厂建设运行管理办法（征求意见稿）》征求意见公告",
-          "date": "2026-03-16",
-          "url": "http://nyj.shandong.gov.cn/art/2026/3/16/art_59960_10311433.html"
-        }
-      ]
+      "error": "fetch failed",
+      "pages": []
     },
     {
       "sourceId": "sd-nyj-consultation",
