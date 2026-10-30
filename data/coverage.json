@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T20:01:47.572Z",
+  "checkedAt": "2026-10-30T00:02:29.627Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -212,7 +212,7 @@
       ],
       "stopReason": "page-limit",
       "listed": 152,
-      "selected": 13,
+      "selected": 15,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -255,6 +255,16 @@
           "title": "国家能源局有关负责同志就《关于印发〈电力辅助服务市场基本规则〉的通知》答记者问",
           "date": "2025-04-28",
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202504/t20250428_1397458.html"
+        },
+        {
+          "title": "关于印发《抽水蓄能电站开发建设管理暂行办法》的通知(发改能源规〔2025〕93号)",
+          "date": "2025-02-07",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202502/t20250207_1396029.html"
+        },
+        {
+          "title": "国家能源局有关负责同志就《抽水蓄能电站开发建设管理暂行办法》答记者问",
+          "date": "2025-02-07",
+          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202502/t20250207_1396032.html"
         },
         {
           "title": "关于印发《电力负荷管理办法(2023年版)》的通知(发改运行规〔2023〕1261号)",
@@ -458,7 +468,7 @@
       ],
       "stopReason": "page-limit",
       "listed": 75,
-      "selected": 8,
+      "selected": 9,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -501,6 +511,11 @@
           "title": "关于《电力市场计量结算基本规则（征求意见稿）》公开征求意见的通知",
           "date": "2025-04-08",
           "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/dlscjljsjbgz"
+        },
+        {
+          "title": "关于向社会公开征求《抽水蓄能电站开发建设管理暂行办法（征求意见稿）》意见的公告",
+          "date": "2023-12-01",
+          "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/csxnkfjszqyj"
         }
       ]
     },
@@ -568,7 +583,7 @@
       ],
       "stopReason": "single-page",
       "listed": 83,
-      "selected": 13,
+      "selected": 14,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -636,6 +651,11 @@
           "title": "华北能源监管局及早谋划明年电力中长期交易工作",
           "date": "2026-10-27",
           "url": "https://www.nea.gov.cn/20261027/82bf572066ca42f98ee7263d92b1feb3/c.html"
+        },
+        {
+          "title": "东北能源监管局开展抽水蓄能项目专项调研",
+          "date": "2026-10-27",
+          "url": "https://www.nea.gov.cn/20261027/e76fac6ffdad40988c6fddeaca7b07b9/c.html"
         }
       ]
     },
@@ -657,7 +677,7 @@
       ],
       "stopReason": "json-feed-end",
       "listed": 999,
-      "selected": 108,
+      "selected": 114,
       "listErrors": [],
       "failures": [
         {
@@ -756,6 +776,11 @@
           "title": "国家能源局关于印发《可再生能源绿色电力证书管理实施细则（试行）》的通知",
           "date": "2026-01-07",
           "url": "https://www.nea.gov.cn/20260107/9a905f263a8b4aa4a06e1a96855cc8eb/c.html"
+        },
+        {
+          "title": "国家能源局综合司关于开展抽水蓄能电站建设工程安全质量集中整治工作的通知",
+          "date": "2025-12-30",
+          "url": "https://www.nea.gov.cn/20251230/471cf2b8907c45d6905bc9eab299e31d/c.html"
         },
         {
           "title": "关于2025年10月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
@@ -901,6 +926,11 @@
           "title": "工业和信息化部等八部门关于印发新型储能制造业高质量发展行动方案的通知",
           "date": "2025-02-18",
           "url": "https://www.nea.gov.cn/20250218/8b14082a18c2423ba9779882d3791d30/c.html"
+        },
+        {
+          "title": "国家发展改革委 国家能源局关于印发《抽水蓄能电站开发建设管理暂行办法》的通知",
+          "date": "2025-02-07",
+          "url": "https://www.nea.gov.cn/20250207/0b5268899a14427aa43b08a0c9f0e146/c.html"
         },
         {
           "title": "关于2024年12月全国新增建档立卡新能源发电（不含自然人户用光伏）项目情况的公告",
@@ -1068,6 +1098,11 @@
           "url": "https://www.nea.gov.cn/2024-01/03/c_1310758547.htm"
         },
         {
+          "title": "关于向社会公开征求《抽水蓄能电站开发建设管理暂行办法（征求意见稿）》意见的公告",
+          "date": "2023-12-01",
+          "url": "https://zfxxgk.nea.gov.cn/2023-12/01/c_1310753193.htm"
+        },
+        {
           "title": "国家能源局综合司公开征求《关于促进新型储能并网和调度运用的通知（征求意见稿）》意见的公告",
           "date": "2023-11-22",
           "url": "https://zfxxgk.nea.gov.cn/2023-11/20/c_1310751675.htm"
@@ -1123,6 +1158,11 @@
           "url": "https://zfxxgk.nea.gov.cn/2023-07/25/c_1310735434.htm"
         },
         {
+          "title": "国家能源局综合司关于印发《申请纳入抽水蓄能中长期发展规划重点实施项目技术要求（暂行）》的通知 国能综通新能〔2023〕84号",
+          "date": "2023-07-19",
+          "url": "https://zfxxgk.nea.gov.cn/2023-07/07/c_1310733179.htm"
+        },
+        {
           "title": "国家能源局综合司关于能源行业电力市场标委会和负载测试装置标准化工作组组建方案公开征求意见的公告",
           "date": "2023-06-29",
           "url": "https://www.nea.gov.cn/2023-06/29/c_1310730063.htm"
@@ -1136,6 +1176,11 @@
           "title": "国家能源局公告 2023年第4号",
           "date": "2023-06-12",
           "url": "https://zfxxgk.nea.gov.cn/2023-05/26/c_1310726596.htm"
+        },
+        {
+          "title": "国家能源局综合司关于进一步做好抽水蓄能规划建设工作有关事项的通知",
+          "date": "2023-05-12",
+          "url": "https://zfxxgk.nea.gov.cn/2023-04/23/c_1310717984.htm"
         },
         {
           "title": "国家能源局公告 2023年第3号",
@@ -1193,6 +1238,11 @@
           "url": "https://zfxxgk.nea.gov.cn/2022-05/07/c_1310591797.htm"
         },
         {
+          "title": "国家能源局关于《抽水蓄能中长期发展规划（2021—2035年）》山西省调整项目...",
+          "date": "2022-05-09",
+          "url": "https://zfxxgk.nea.gov.cn/2022-04/26/c_1310587767.htm"
+        },
+        {
           "title": "国家发展改革委 国家能源局关于印发《“十四五”新型储能发展实施方案》的通知",
           "date": "2022-03-21",
           "url": "https://zfxxgk.nea.gov.cn/2022-01/29/c_1310523208.htm"
@@ -1227,7 +1277,7 @@
       ],
       "stopReason": "json-feed-end",
       "listed": 997,
-      "selected": 57,
+      "selected": 61,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -1275,6 +1325,11 @@
           "title": "国家能源局关于印发《可再生能源绿色电力证书管理实施细则（试行）》的通知",
           "date": "2026-01-07",
           "url": "https://www.nea.gov.cn/20260107/9a905f263a8b4aa4a06e1a96855cc8eb/c.html"
+        },
+        {
+          "title": "国家能源局综合司关于开展抽水蓄能电站建设工程安全质量集中整治工作的通知",
+          "date": "2025-12-30",
+          "url": "https://www.nea.gov.cn/20251230/471cf2b8907c45d6905bc9eab299e31d/c.html"
         },
         {
           "title": "国家能源局关于促进新能源集成融合发展的指导意见",
@@ -1365,6 +1420,11 @@
           "title": "工业和信息化部等八部门关于印发新型储能制造业高质量发展行动方案的通知",
           "date": "2025-02-18",
           "url": "https://www.nea.gov.cn/20250218/8b14082a18c2423ba9779882d3791d30/c.html"
+        },
+        {
+          "title": "国家发展改革委 国家能源局关于印发《抽水蓄能电站开发建设管理暂行办法》的通知",
+          "date": "2025-02-07",
+          "url": "https://www.nea.gov.cn/20250207/0b5268899a14427aa43b08a0c9f0e146/c.html"
         },
         {
           "title": "国家能源局关于加强电力安全治理 以高水平安全保障新型电力系统高质量发展的意见",
@@ -1487,9 +1547,19 @@
           "url": "https://zfxxgk.nea.gov.cn/2023-07/25/c_1310735434.htm"
         },
         {
+          "title": "国家能源局综合司关于印发《申请纳入抽水蓄能中长期发展规划重点实施项目技术要求（暂行）》的通知 国能综通新能〔2023〕84号",
+          "date": "2023-07-19",
+          "url": "https://zfxxgk.nea.gov.cn/2023-07/07/c_1310733179.htm"
+        },
+        {
           "title": "国家能源局综合司关于开展新型储能试点示范工作的通知",
           "date": "2023-06-16",
           "url": "https://zfxxgk.nea.gov.cn/2023-06/16/c_1310727975.htm"
+        },
+        {
+          "title": "国家能源局综合司关于进一步做好抽水蓄能规划建设工作有关事项的通知",
+          "date": "2023-05-12",
+          "url": "https://zfxxgk.nea.gov.cn/2023-04/23/c_1310717984.htm"
         },
         {
           "title": "国家能源局关于印发加快油气勘探开发与新能源融合发展行动方案（2023-2025年）的通知",
@@ -1536,7 +1606,7 @@
       ],
       "stopReason": "json-feed-end",
       "listed": 691,
-      "selected": 59,
+      "selected": 60,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -1761,6 +1831,11 @@
           "url": "https://www.nea.gov.cn/2024-01/03/c_1310758547.htm"
         },
         {
+          "title": "关于向社会公开征求《抽水蓄能电站开发建设管理暂行办法（征求意见稿）》意见的公告",
+          "date": "2023-12-01",
+          "url": "https://zfxxgk.nea.gov.cn/2023-12/01/c_1310753193.htm"
+        },
+        {
           "title": "国家能源局公告 2023年第6号",
           "date": "2023-10-27",
           "url": "https://zfxxgk.nea.gov.cn/2023-10/24/c_1310747681.htm"
@@ -1855,7 +1930,7 @@
       ],
       "stopReason": "json-feed-end",
       "listed": 289,
-      "selected": 52,
+      "selected": 53,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -2055,6 +2130,11 @@
           "url": "https://www.nea.gov.cn/20250318/0c73110958864a75bd1a823c7861c40c/c.html"
         },
         {
+          "title": "国家能源局有关负责同志就《抽水蓄能电站开发建设管理暂行办法》答记者问",
+          "date": "2025-02-07",
+          "url": "https://www.nea.gov.cn/20250207/4a0c3ba713964301a67a601f35f0a747/c.html"
+        },
+        {
           "title": "强化电力监控安全防护体系，支撑新型电力系统建设——《电力监控系统安全防护规定》专家解读",
           "date": "2024-12-12",
           "url": "https://www.nea.gov.cn/2024-12/12/c_1212408444.htm"
@@ -2139,7 +2219,7 @@
       ],
       "stopReason": "json-feed-end",
       "listed": 328,
-      "selected": 5,
+      "selected": 7,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -2167,6 +2247,16 @@
           "title": "国家发展改革委等部门关于加强新能源汽车与电网融合互动的实施意见",
           "date": "2023-01-04",
           "url": "https://zfxxgk.nea.gov.cn/2023-12/13/c_1310758710.htm"
+        },
+        {
+          "title": "国家能源局关于《抽水蓄能中长期发展规划（2021—2035年）》山西省调整项目...",
+          "date": "2022-05-09",
+          "url": "https://zfxxgk.nea.gov.cn/2022-04/26/c_1310587767.htm"
+        },
+        {
+          "title": "国家能源局综合司关于同意溪口抽水蓄能电站上库坝等14座水电站大坝安全注册登记的复函",
+          "date": "2022-04-06",
+          "url": "https://zfxxgk.nea.gov.cn/2022-03/23/c_1310546027.htm"
         }
       ]
     },
@@ -2223,7 +2313,7 @@
       ],
       "stopReason": "page-limit",
       "listed": 44,
-      "selected": 18,
+      "selected": 19,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -2231,6 +2321,11 @@
           "title": "关于印发《山东省电力并网运行管理实施细则》《山东省电力辅助服务管理实施细则》(2026年修订...",
           "date": "2026-10-10",
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202610/t20261010_310115.html"
+        },
+        {
+          "title": "关于开展电力市场秩序问题线索征集工作的通知",
+          "date": "2026-08-20",
+          "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202608/t20260820_307013.html"
         },
         {
           "title": "关于印发《山东省电力市场监管办法(试行)》《山东电力市场电力交易主体异常行为认定和处置监...",
@@ -2337,10 +2432,56 @@
       ],
       "stopReason": "page-limit",
       "listed": 41,
-      "selected": 0,
+      "selected": 9,
       "listErrors": [],
       "failures": [],
-      "entries": []
+      "entries": [
+        {
+          "title": "山东能源监管办完善虚拟电厂聚合资源基线获取及出清机制",
+          "date": "2026-10-28",
+          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202610/t20261028_311164.html"
+        },
+        {
+          "title": "山东能源监管办规范电力系统并网运行管理 保障电力系统安全稳定运行",
+          "date": "2026-10-20",
+          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202610/t20261020_310658.html"
+        },
+        {
+          "title": "山东能源监管办督导市场交易机构完善市场经营主体不良行为监测及处理机制",
+          "date": "2026-10-20",
+          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202610/t20261020_310657.html"
+        },
+        {
+          "title": "山东能源监管办扎实开展电力市场秩序现场检查工作",
+          "date": "2026-10-10",
+          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202610/t20261010_310107.html"
+        },
+        {
+          "title": "山东能源监管办开展电网设施公平开放现场监管",
+          "date": "2026-09-22",
+          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202609/t20260922_309469.html"
+        },
+        {
+          "title": "山东能源监管办以市场化手段保障度夏期间电力安全可靠供应",
+          "date": "2026-09-01",
+          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202609/t20260901_307921.html"
+        },
+        {
+          "title": "山东能源监管办创新完善市场机制服务算电协同高质量发展",
+          "date": "2026-09-01",
+          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202609/t20260901_307920.html"
+        },
+        {
+          "title": "山东能源监管办以市场化手段推动储能高质量规模化发展",
+          "date": "2026-08-13",
+          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202608/t20260813_306666.html"
+        },
+        {
+          "title": "山东能源监管办以机制创新推动全国首例台区储能虚拟电厂调频交易落地",
+          "date": "2026-07-30",
+          "url": "https://sdb.nea.gov.cn/dtyw/jgdt/202607/t20260730_305681.html"
+        }
+      ]
     },
     {
       "sourceId": "sdb-policy",
@@ -2363,41 +2504,27 @@
     },
     {
       "sourceId": "sd-nyj-notices",
+      "error": "fetch failed",
+      "pages": []
+    },
+    {
+      "sourceId": "sd-nyj-interpretation",
       "pages": [
         {
-          "url": "http://nyj.shandong.gov.cn/col/col59960/index.html",
-          "bytes": 23141
-        },
-        {
-          "url": "http://nyj.shandong.gov.cn/module/web/jpage/dataproxy.jsp?page=1&webid=355&path=http://nyj.shandong.gov.cn/&columnid=59960&unitid=745545&webname=%25E5%25B1%25B1%25E4%25B8%259C%25E7%259C%2581%25E8%2583%25BD%25E6%25BA%2590%25E5%25B1%2580&permissiontype=0",
-          "bytes": 49
+          "url": "http://nyj.shandong.gov.cn/col/col100396/index.html",
+          "bytes": 32023
         }
       ],
-      "stopReason": "unparsed-page",
-      "listed": 45,
-      "selected": 4,
+      "stopReason": "jpage-end",
+      "listed": 11,
+      "selected": 1,
       "listErrors": [],
       "failures": [],
       "entries": [
         {
-          "title": "关于公开征求《山东省能源行政处罚裁量基准（征求意见稿）》意见的通知",
-          "date": "2026-07-27",
-          "url": "http://nyj.shandong.gov.cn/art/2026/7/27/art_59960_10312755.html"
-        },
-        {
-          "title": "关于做好2026年下半年全省电力市场建设有关工作的通知",
-          "date": "2026-06-11",
-          "url": "http://nyj.shandong.gov.cn/art/2026/6/11/art_59960_10312276.html"
-        },
-        {
-          "title": "关于印发《山东省促进虚拟电厂高质量发展方案》的通知",
-          "date": "2026-03-27",
-          "url": "http://nyj.shandong.gov.cn/art/2026/3/27/art_59960_10311577.html"
-        },
-        {
-          "title": "《山东省虚拟电厂建设运行管理办法（征求意见稿）》征求意见公告",
-          "date": "2026-03-16",
-          "url": "http://nyj.shandong.gov.cn/art/2026/3/16/art_59960_10311433.html"
+          "title": "政策解读：《山东省抽水蓄能项目管理实施细则》",
+          "date": "2026-07-06",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/6/art_100396_10312557.html"
         }
       ]
     },
