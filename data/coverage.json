@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T03:45:28.087Z",
+  "checkedAt": "2026-10-30T11:10:36.508Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87724
+          "bytes": 87993
         }
       ],
       "stopReason": "single-page",
@@ -65,15 +65,15 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/",
-          "bytes": 42081
+          "bytes": 41107
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_1.html",
-          "bytes": 51889
+          "bytes": 52907
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_2.html",
-          "bytes": 38121
+          "bytes": 38085
         }
       ],
       "stopReason": "page-limit",
@@ -578,7 +578,7 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 109082
+          "bytes": 108751
         }
       ],
       "stopReason": "single-page",
