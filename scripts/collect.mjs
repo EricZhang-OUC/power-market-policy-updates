@@ -9,11 +9,11 @@ import crypto from 'node:crypto';
 import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const historyStart='2022-01-01', backfill=process.argv.includes('--backfill');
-async function get(url){const r=await fetch(url,{signal:AbortSignal.timeout(18000),headers:{'User-Agent':'PowerMarketPolicyUpdates/0.2 (public policy index)'}});if(!r.ok)throw Error('HTTP '+r.status);let b=await r.arrayBuffer();let head=new TextDecoder().decode(b.slice(0,3000));return new TextDecoder(/charset\s*=\s*["']?gb/i.test(head)?'gb18030':'utf-8').decode(b)}
+async function get(url,options={}){const r=await fetch(url,{...options,signal:AbortSignal.timeout(18000),headers:{'User-Agent':'PowerMarketPolicyUpdates/0.2 (public policy index)',...options.headers}});if(!r.ok)throw Error('HTTP '+r.status);let b=await r.arrayBuffer();let head=new TextDecoder().decode(b.slice(0,3000));return new TextDecoder(/charset\s*=\s*["']?gb/i.test(head)?'gb18030':'utf-8').decode(b)}
 const file=path.join(root,'data/policies.json');let old={rows:[],sources:[]};try{old=JSON.parse(await fs.readFile(file,'utf8'))}catch(e){if(e.code!=='ENOENT')throw e}
 const byUrl=new Map((old.records||old.rows).map(r=>{const {state,...record}=r;return [canonical(r.url),record]}));const statuses=[],audit=[];let successes=0;
 for(const source of sources){const checkedAt=new Date().toISOString();let loaded;try{
- loaded=await loadSource(source,get,{since:historyStart,maxPages:backfill?80:3});
+ loaded=await loadSource(source,get,{since:historyStart,maxPages:backfill?80:(source.maxPages||3)});
  const candidates=loaded.entries.filter(r=>(!r.date||r.date>=historyStart)&&(relevance(r.title,source)||genericOfficialTitle(r.title))&&(source.region!=='山东'||!exclusionReason({...r,region:source.region}))); let count=0,errors=0,indexOnly=0;const failures=[];
  for(const c of candidates){try{
   let detail,url=c.url;const previous=byUrl.get(url);

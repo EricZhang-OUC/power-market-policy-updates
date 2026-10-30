@@ -4,6 +4,31 @@ export async function loadSource(source,get,{since='2022-01-01',maxPages=80}={})
  const add=(entries)=>{for(const c of entries)all.set(c.url,c)};
  function record(url,h){if(isChallenge(h))throw Error('官网返回验证页，未读取政策正文');pages.push({url,bytes:Buffer.byteLength(h)});return h}
  add(source.seedRecords||[]);
+ if(source.adapter==='sd-xxgk'){
+  // The disclosure shell contains no policy list. Its public script loads this POST endpoint.
+  const endpoint=new URL('/module/xxgk/search.jsp',indexUrl).href;
+  const infotypeId=new URL(indexUrl).searchParams.get('number');
+  if(!infotypeId)throw Error('公开目录缺少分类编码');
+  let total=1;
+  for(let page=1;page<=Math.min(total,maxPages);page++){
+   const body=new URLSearchParams({standardXxgk:'1',infotypeId,jdid:'355',divid:'div162733',area:'',currpage:String(page),isAllList:'1'});
+   let h;try{h=record(endpoint+'?'+body,await get(endpoint,{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:body.toString()}))}catch(e){
+    if(page===1)throw e;
+    listErrors.push({url:endpoint,page,error:e.message});stopReason='page-read-error';break;
+   }
+   const entries=parseLinks(h,endpoint,source);
+   if(!entries.length){if(page===1)throw Error('公开目录未返回文件列表');stopReason='unparsed-page';break}
+   const before=all.size;add(entries);
+   if(page>1&&all.size===before){stopReason='repeated-next-page';break}
+   const declared=text(h).match(/共\s*(\d+)\s*页/);
+   if(!declared)throw Error('公开目录分页总数未识别');
+   total=Number(declared[1]);
+   stopReason=total>maxPages?'page-limit':'declared-page-end';
+   // Check the entire page: pinned or backdated rows can appear out of order.
+   if(entries.every(r=>r.date&&r.date<since)){stopReason='passed-history-start';break}
+  }
+  return {entries:[...all.values()],pages,stopReason,listErrors};
+ }
  let first;
  try{first=record(indexUrl,await get(indexUrl))}catch(e){
   if(!all.size)throw e;
