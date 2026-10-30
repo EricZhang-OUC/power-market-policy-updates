@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T11:10:36.508Z",
+  "checkedAt": "2026-10-30T19:50:58.805Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87993
+          "bytes": 87797
         }
       ],
       "stopReason": "single-page",
@@ -455,7 +455,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/",
-          "bytes": 14795
+          "bytes": 14787
         },
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/index_1.html",
@@ -578,12 +578,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108751
+          "bytes": 108764
         }
       ],
       "stopReason": "single-page",
-      "listed": 83,
-      "selected": 14,
+      "listed": 86,
+      "selected": 16,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -648,14 +648,24 @@
           "url": "https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html"
         },
         {
-          "title": "华北能源监管局及早谋划明年电力中长期交易工作",
-          "date": "2026-10-27",
-          "url": "https://www.nea.gov.cn/20261027/82bf572066ca42f98ee7263d92b1feb3/c.html"
+          "title": "甘肃能源监管办赴湖南开展电力市场监管情况调研",
+          "date": "2026-10-30",
+          "url": "https://www.nea.gov.cn/20261030/bc93a54c507b411fb4336c308bb7ccd0/c.html"
         },
         {
-          "title": "东北能源监管局开展抽水蓄能项目专项调研",
-          "date": "2026-10-27",
-          "url": "https://www.nea.gov.cn/20261027/e76fac6ffdad40988c6fddeaca7b07b9/c.html"
+          "title": "新疆能源监管办组织召开迎峰度冬电力保供运行方式汇报会议",
+          "date": "2026-10-30",
+          "url": "https://www.nea.gov.cn/20261030/120b0fa5473348c99eacaf1ec87b14be/c.html"
+        },
+        {
+          "title": "福建能源监管办推动独立新型储能首次参与华东省间互济交易探索省间互济新模式",
+          "date": "2026-10-30",
+          "url": "https://www.nea.gov.cn/20261030/da83889a06c94618bdb77a5afd656fc8/c.html"
+        },
+        {
+          "title": "湖南能源监管办组织召开电力市场风险分析会",
+          "date": "2026-10-30",
+          "url": "https://www.nea.gov.cn/20261030/5d92473aa0794630a56409eb4b831e4d/c.html"
         }
       ]
     },
