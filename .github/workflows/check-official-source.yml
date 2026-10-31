@@ -1,0 +1,34 @@
+name: Check official source connectivity
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/check-official-source.yml']
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Probe official site routes
+        run: |
+          node --input-type=module <<'JS'
+          import dns from 'node:dns/promises';
+          import {setDefaultResultOrder} from 'node:dns';
+          import http from 'node:http';
+          for(const host of ['fgw.shandong.gov.cn','nyj.shandong.gov.cn']){
+            for(const type of ['resolve4','resolve6'])try{console.log(host,type,await dns[type](host))}catch(e){console.log(host,type,e.code)}
+          }
+          const failures=e=>({message:e.message,code:e.code,cause:e.cause&&failures(e.cause),errors:e.errors?.map(failures)});
+          setDefaultResultOrder('ipv4first');
+          await Promise.all(['http://fgw.shandong.gov.cn/col/col91687/index.html','https://fgw.shandong.gov.cn/col/col91687/index.html','http://nyj.shandong.gov.cn/'].map(async u=>{
+            try{const r=await fetch(u,{signal:AbortSignal.timeout(12000)});console.log('fetch',u,r.status,r.url,(await r.text()).length)}catch(e){console.log('fetch',u,JSON.stringify(failures(e)))}
+          }));
+          await Promise.all([4,6].map(family=>new Promise(resolve=>{
+            const r=http.get('http://fgw.shandong.gov.cn/col/col91687/index.html',{family,timeout:10000},res=>{let bytes=0;res.on('data',b=>bytes+=b.length);res.on('end',()=>{console.log('http',family,res.statusCode,bytes);resolve()})});
+            r.on('timeout',()=>r.destroy(new Error('timeout')));r.on('error',e=>{console.log('http',family,JSON.stringify(failures(e)));resolve()});
+          })));
+          JS
