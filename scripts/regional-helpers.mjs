@@ -14,6 +14,7 @@ export function ruleDocument(title){
  if(names.some(name=>documentTerms.test(name)))return true;
  // Keep unquoted formal notices and documents, without treating work verbs as a release.
  if(/组织修订|研究修订|推动|推进|召开|开展/.test(outside)&&!/印发|发布|征求|解读|答记者问/.test(outside))return false;
+ if(/关于.*(?:通知|公告|通告|函|批复|决定)(?:[（(][^）)]*[）)])?$/.test(title))return true;
  return documentTerms.test(title)&&(/关于.*(?:通知|公告|通告|复函)$|印发|发布|公开征求|征求意见|政策解读|答记者问|修订.*条款.*通知/.test(title)||/(?:规则|细则|办法|规定|规则体系)(?:[（(]?(?:试行|暂行|20\d{2}年?(?:修订版|版)?|修订版)[）)]?)?$/.test(title));
 }
 export function regionalArea(title,fallback){const found=provinces.filter(p=>title.includes(p));if(found.length===1)return found[0];return fallback}

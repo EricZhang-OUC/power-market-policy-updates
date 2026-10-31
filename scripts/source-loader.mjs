@@ -1,3 +1,4 @@
+import {loadSdJpage} from './sd-jpage.mjs';
 import {parseLinks,text,isChallenge,canonical,allowed} from './parsers.mjs';
 export async function loadSource(source,get,{since='2022-01-01',maxPages=80}={}){
  const pages=[];const listErrors=[];const all=new Map();let stopReason='single-page';let indexUrl=source.url;
@@ -11,7 +12,7 @@ export async function loadSource(source,get,{since='2022-01-01',maxPages=80}={})
   if(!infotypeId)throw Error('公开目录缺少分类编码');
   let total=1;
   for(let page=1;page<=Math.min(total,maxPages);page++){
-   const body=new URLSearchParams({standardXxgk:'1',infotypeId,jdid:'355',divid:'div162733',area:'',currpage:String(page),isAllList:'1'});
+   const body=new URLSearchParams({standardXxgk:'1',infotypeId,jdid:String(source.disclosure?.webId||355),divid:source.disclosure?.divId||'div162733',area:'',currpage:String(page),isAllList:'1'});
    let h;try{h=record(endpoint+'?'+body,await get(endpoint,{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:body.toString()}))}catch(e){
     if(page===1)throw e;
     listErrors.push({url:endpoint,page,error:e.message});stopReason='page-read-error';break;
@@ -35,6 +36,7 @@ export async function loadSource(source,get,{since='2022-01-01',maxPages=80}={})
   listErrors.push({url:indexUrl,error:e.message});
   return {entries:[...all.values()],pages,stopReason:'seed-fallback',listErrors};
  }
+ if(source.adapter==='sd-jpage')return loadSdJpage(source,first,get,{since,maxPages,pages});
  if(source.adapter==='discovery')throw Error(source.id==='sd-fgw'?'官网入口尚不可读':'动态公开目录尚未解析');
  if(source.adapter==='gov-json'){
   const url=new URL('./ZUIXINZHENGCE.json',indexUrl).href;const body=record(url,await get(url));const json=JSON.parse(body);if(!Array.isArray(json))throw Error('中国政府网最新政策数据格式改变');

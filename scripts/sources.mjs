@@ -22,9 +22,17 @@ export const sources = [
  ['sd-nyj-interpretation','山东省能源局','山东','政策解读','http://nyj.shandong.gov.cn/col/col100396/index.html?number=SD020207','sd-xxgk'],
  ['sd-nyj-consultation','山东省能源局','山东','调查征集','http://nyj.shandong.gov.cn/col/col59978/index.html','jpage'],
  ['sd-nyj-disclosure','山东省能源局','山东','法规文件','http://nyj.shandong.gov.cn/col/col100377/index.html?vc_xxgkarea=11370000MB28526373&number=SD0202','sd-xxgk'],
- ['sd-fgw','山东省发展改革委','山东','官网入口（待恢复）','http://fgw.shandong.gov.cn/','discovery'],
- ['sd-fgw-price','山东省发展改革委价格处','山东','价格政策','http://fgw.shandong.gov.cn/col/col91687/index.html','jpage',['fgw.shandong.gov.cn']]
+ ['sd-fgw','山东省发展改革委','山东','通知公告','http://fgw.shandong.gov.cn/col/col91082/index.html','sd-jpage'],
+ ['sd-fgw-price','山东省发展改革委价格处','山东','价格政策','http://fgw.shandong.gov.cn/col/col91687/index.html','sd-jpage',['fgw.shandong.gov.cn']],
+ ['sd-fgw-other','山东省发展改革委','山东','其他文件','http://fgw.shandong.gov.cn/col/col306787/index.html?vc_xxgkarea=113700000045024031&number=SD020206','sd-xxgk'],
+ ['sd-fgw-interpretation','山东省发展改革委','山东','政策解读','http://fgw.shandong.gov.cn/col/col91410/index.html?vc_xxgkarea=113700000045024031&number=SD020207','sd-xxgk'],
+ ['sd-fgw-consultation','山东省发展改革委','山东','调查征集','http://fgw.shandong.gov.cn/col/col115442/index.html','sd-jpage']
 ].map(([id,name,region,channel,url,adapter,allowedHosts])=>({id,name,region,channel,url,adapter,...(allowedHosts?{allowedHosts}:{})}));
 
 // These small disclosure directories are scanned through the configured history boundary.
 for(const source of sources.filter(s=>s.adapter==='sd-xxgk'))source.maxPages=20;
+
+for(const source of sources.filter(s=>s.id.startsWith('sd-fgw'))){
+ source.maxPages=30;
+ if(source.adapter==='sd-xxgk')source.disclosure={webId:408,divId:'div91105'};
+}
