@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T13:07:34.364Z",
+  "updatedAt": "2026-10-31T13:17:14.750Z",
   "historyStart": "2022-01-01",
   "intervalMinutes": 60,
   "schedulerActive": false,
@@ -406,10 +406,17 @@
       "url": "http://fgw.shandong.gov.cn/col/col91082/index.html",
       "adapter": "sd-jpage",
       "maxPages": 30,
-      "status": "error",
-      "checkedAt": "2026-10-31T13:07:24.970Z",
-      "lastSuccessAt": null,
-      "error": "fetch failed"
+      "status": "ok",
+      "checkedAt": "2026-10-31T13:16:25.340Z",
+      "lastSuccessAt": "2026-10-31T13:16:25.340Z",
+      "recordCount": 3,
+      "detailErrors": 0,
+      "indexOnly": 0,
+      "listErrors": [],
+      "scannedPages": 5,
+      "stopReason": "declared-page-end",
+      "collectionEnvironment": "local",
+      "cloudConnectivity": "GitHub runner: IPv4 ETIMEDOUT; IPv6 ENETUNREACH"
     },
     {
       "id": "sd-fgw-price",
@@ -422,10 +429,17 @@
         "fgw.shandong.gov.cn"
       ],
       "maxPages": 30,
-      "status": "error",
-      "checkedAt": "2026-10-31T13:07:33.293Z",
-      "lastSuccessAt": null,
-      "error": "fetch failed"
+      "status": "ok",
+      "checkedAt": "2026-10-31T13:16:34.532Z",
+      "lastSuccessAt": "2026-10-31T13:16:34.532Z",
+      "recordCount": 45,
+      "detailErrors": 0,
+      "indexOnly": 0,
+      "listErrors": [],
+      "scannedPages": 8,
+      "stopReason": "passed-history-start",
+      "collectionEnvironment": "local",
+      "cloudConnectivity": "GitHub runner: IPv4 ETIMEDOUT; IPv6 ENETUNREACH"
     },
     {
       "id": "sd-fgw-other",
@@ -439,10 +453,17 @@
         "webId": 408,
         "divId": "div91105"
       },
-      "status": "error",
-      "checkedAt": "2026-10-31T13:07:33.562Z",
-      "lastSuccessAt": null,
-      "error": "fetch failed"
+      "status": "ok",
+      "checkedAt": "2026-10-31T13:16:49.407Z",
+      "lastSuccessAt": "2026-10-31T13:16:49.407Z",
+      "recordCount": 26,
+      "detailErrors": 0,
+      "indexOnly": 0,
+      "listErrors": [],
+      "scannedPages": 15,
+      "stopReason": "declared-page-end",
+      "collectionEnvironment": "local",
+      "cloudConnectivity": "GitHub runner: IPv4 ETIMEDOUT; IPv6 ENETUNREACH"
     },
     {
       "id": "sd-fgw-interpretation",
@@ -456,10 +477,17 @@
         "webId": 408,
         "divId": "div91105"
       },
-      "status": "error",
-      "checkedAt": "2026-10-31T13:07:33.832Z",
-      "lastSuccessAt": null,
-      "error": "fetch failed"
+      "status": "ok",
+      "checkedAt": "2026-10-31T13:17:02.259Z",
+      "lastSuccessAt": "2026-10-31T13:17:02.259Z",
+      "recordCount": 20,
+      "detailErrors": 0,
+      "indexOnly": 0,
+      "listErrors": [],
+      "scannedPages": 10,
+      "stopReason": "passed-history-start",
+      "collectionEnvironment": "local",
+      "cloudConnectivity": "GitHub runner: IPv4 ETIMEDOUT; IPv6 ENETUNREACH"
     },
     {
       "id": "sd-fgw-consultation",
@@ -469,10 +497,17 @@
       "url": "http://fgw.shandong.gov.cn/col/col115442/index.html",
       "adapter": "sd-jpage",
       "maxPages": 30,
-      "status": "error",
-      "checkedAt": "2026-10-31T13:07:34.101Z",
-      "lastSuccessAt": null,
-      "error": "fetch failed"
+      "status": "ok",
+      "checkedAt": "2026-10-31T13:17:08.794Z",
+      "lastSuccessAt": "2026-10-31T13:17:08.794Z",
+      "recordCount": 8,
+      "detailErrors": 0,
+      "indexOnly": 0,
+      "listErrors": [],
+      "scannedPages": 4,
+      "stopReason": "passed-history-start",
+      "collectionEnvironment": "local",
+      "cloudConnectivity": "GitHub runner: IPv4 ETIMEDOUT; IPv6 ENETUNREACH"
     }
   ],
   "records": [
@@ -7966,6 +8001,1817 @@
       "contentHash": "9ff01ba49a0aa263f8ebddc57e094b6c0402105d9c57efb4e2e0aea134dde89a",
       "detailStatus": "read",
       "attachments": []
+    },
+    {
+      "id": "e367bb1f16abea64",
+      "region": "山东",
+      "date": "2025-08-08",
+      "title": "关于印发《山东省新能源机制电价竞价实施细则》的通知（鲁发改价格〔2025〕577号）",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_91082_10472526.html",
+      "note": "",
+      "documentDate": "2025-08-08 14:34",
+      "sourceId": "sd-fgw",
+      "firstSeenAt": "2026-10-31T13:16:25.340Z",
+      "lastCheckedAt": "2026-10-31T13:16:25.340Z",
+      "contentHash": "19427990296f28b863704d0768661d32ed2d84a34aadb09839dc4be2855ec74d",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "竞价信息填报承诺书（模板）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=783ea03c3fc14e0994ba5b23399de9be.docx"
+        },
+        {
+          "title": "附件",
+          "url": "http://172.20.232.124/module/download/downfile.jsp?classid=0&filename=66a37d8ed3d3458dbd45d2371a17c79f.docx"
+        },
+        {
+          "title": "分布式光伏项目竞价代理委托书（模板）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=66a37d8ed3d3458dbd45d2371a17c79f.docx"
+        },
+        {
+          "title": "附件",
+          "url": "http://172.20.232.124/module/download/downfile.jsp?classid=0&filename=6647d6a337504848b14e6355ed135809.docx"
+        },
+        {
+          "title": "竞价授权委托书（模板）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=6647d6a337504848b14e6355ed135809.docx"
+        },
+        {
+          "title": "附件",
+          "url": "http://172.20.232.124/module/download/downfile.jsp?classid=0&filename=b178db4e6c744798b8afa6be0d7c765a.docx"
+        },
+        {
+          "title": "见索即付履约保函（模板）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=b178db4e6c744798b8afa6be0d7c765a.docx"
+        }
+      ]
+    },
+    {
+      "id": "76a7fe5ad93022d0",
+      "region": "山东",
+      "date": "2025-08-08",
+      "title": "关于2025年新能源机制电价竞价工作有关事项的通知（鲁发改价格〔2025〕578号）",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_91082_10472680.html",
+      "note": "",
+      "documentDate": "2025-08-08 13:38",
+      "sourceId": "sd-fgw",
+      "firstSeenAt": "2026-10-31T13:16:25.340Z",
+      "lastCheckedAt": "2026-10-31T13:16:25.340Z",
+      "contentHash": "e119eb8cd2f54c90a0bf7056cedb52943fe664ae7328ee5b6924e5783d18d1b3",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "3dbfaae9a013d4c8",
+      "region": "山东",
+      "date": "2025-08-07",
+      "title": "关于印发《山东省新能源上网电价市场化改革实施方案》的通知（鲁发改价格〔2025〕576号）",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/7/art_91082_10472502.html",
+      "note": "",
+      "documentDate": "2025-08-07 16:59",
+      "sourceId": "sd-fgw",
+      "firstSeenAt": "2026-10-31T13:16:25.340Z",
+      "lastCheckedAt": "2026-10-31T13:16:25.340Z",
+      "contentHash": "ffcfccabb8f733ad99a13d195e8c075109daa69612845d0607da59da2dc15c08",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "edbbdae463592afc",
+      "region": "山东",
+      "date": "2026-09-21",
+      "title": "关于新能源机制电价竞价有关事项的函",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2026/9/21/art_91687_10514485.html",
+      "note": "",
+      "documentDate": "2026-09-21 17:00",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "9f067888bb7af581541ca420b98f9d1cb4bc1f9a832d185306ca6943cbb4946d",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "13287ac8c460a9eb",
+      "region": "山东",
+      "date": "2026-09-21",
+      "title": "关于印发《山东省电力零售市场价格风险防控实施细则（修订稿）》的通知",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2026/9/21/art_91687_10517865.html",
+      "note": "",
+      "documentDate": "2026-09-21 16:57",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "9e9148ec2886fe415c8ada0321c01ef0b0a0f2d60c7e80b52e24d95da22d51d7",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件：《山东省电力零售市场价格风险防控实施细则（修订稿）》.doc",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=f33135b86bfd44deb2e27897423c029e.doc"
+        }
+      ]
+    },
+    {
+      "id": "eaf036d9f10cfa3d",
+      "region": "山东",
+      "date": "2026-09-21",
+      "title": "工商业非电网直供环节电价政策明白纸",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2026/9/21/art_91687_10513645.html",
+      "note": "",
+      "documentDate": "2026-09-21 09:19",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "3a2bbb6918bc6650c02eee49bb0b8e2bfa446bdd9d440e80f38610c6e938fb21",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "42f1a14d5b4deda3",
+      "region": "山东",
+      "date": "2026-09-07",
+      "title": "关于进一步优化分时电价机制的函",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2026/9/7/art_91687_10508305.html",
+      "note": "",
+      "documentDate": "2026-09-07 14:18",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "170f284a38e002daa34c0cbe47501f84502da23fb34f7d23e367221078fd1208",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "28eb7b514a005e91",
+      "region": "山东",
+      "date": "2026-08-25",
+      "title": "关于2025-2027年开工抽水蓄能电站电价政策有关事项的通知(鲁发改价格〔2026〕627号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2026/8/25/art_91687_10500667.html",
+      "note": "",
+      "documentDate": "2026-08-25 10:58",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "51bb183810b319e4993ad6b183a4a52f06e6f47c4a9049c6cb50f78dae40b15c",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "0900569191f898c5",
+      "region": "山东",
+      "date": "2026-07-30",
+      "title": "山东省发展和改革委员会 山东省能源局关于贯彻发改价格〔2025〕1192号文件支持新能源就近消纳价格政策有关事项的通知（鲁发改价格〔2026〕554号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2026/7/30/art_91687_10494042.html",
+      "note": "",
+      "documentDate": "2026-07-30 08:47",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "493f5fd5bb36fe81647a3d7e56dfca1f5535e3fe32fcecf4682140b4c18b6f4d",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "a03728819aeff002",
+      "region": "山东",
+      "date": "2026-07-30",
+      "title": "关于山东电网第四监管周期输配电价及有关事项的通知（鲁发改价格〔2026〕556号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2026/7/30/art_91687_10494033.html",
+      "note": "",
+      "documentDate": "2026-07-30 08:31",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "2b7261f932535badc17d5dc9514351649bb5f2dcae2fe410d8a8fc0b4c68cc64",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "ee186dc00b8109c4",
+      "region": "山东",
+      "date": "2026-02-12",
+      "title": "分布式新能源全量入市结算政策解读（一图读懂）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2026/2/12/art_91687_10483760.html",
+      "note": "",
+      "documentDate": "2026-02-12 19:20",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "0a3b6edb92fe9c4e55752c752c992198f35437be54621682b33e57228121f9ca",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "16f967511cce5be7",
+      "region": "山东",
+      "date": "2025-12-22",
+      "title": "关于2026年新能源机制电价竞价工作有关事项的通知（鲁发改价格〔2025〕904号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/22/art_91687_10480950.html",
+      "note": "",
+      "documentDate": "2025-12-22 11:12",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "948373df1c8f126646612390c99e56c52f0ee6a9e17dfaf12626ff45c8230f5a",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "6411c316e0188f78",
+      "region": "山东",
+      "date": "2025-12-12",
+      "title": "关于印发《山东省新能源可持续发展差价结算实施细则》的通知(鲁发改价格〔2025〕871号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/12/art_91687_10480213.html",
+      "note": "",
+      "documentDate": "2025-12-12 18:49",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "7331b51d5ed001b4467a6fe0f3d6b4aebe7cfe6a137e9ffe86f100a08a311954",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "山东省新能源可持续发展差价结算实施细则.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=a8fcc9b20edb4e32a78bb5458979c315.docx"
+        }
+      ]
+    },
+    {
+      "id": "484d484f5ceefc10",
+      "region": "山东",
+      "date": "2025-12-12",
+      "title": "关于印发《山东省电力零售市场价格风险防控实施细则》的通知（鲁发改价格〔2025〕872号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/12/art_91687_10480212.html",
+      "note": "",
+      "documentDate": "2025-12-12 18:42",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "993120074a576b73fe82f4753c164b85d6abb8a89fc95d2c943b67c8b8d035a5",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "山东省电力零售市场价格风险防控实施细则.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=5968bf29712b4f1b854667ad88ffa6e6.docx"
+        }
+      ]
+    },
+    {
+      "id": "2f21b84d7f57af0c",
+      "region": "山东",
+      "date": "2025-10-09",
+      "title": "关于公布2025年山东省新能源机制电价竞价结果的通知",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/10/9/art_91687_10476103.html",
+      "note": "",
+      "documentDate": "2025-10-09 11:01",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "60997926372bcd28cad5dd1d3ac09b258a9116033c5e569fdcd99bb3cafcddb8",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件：山东省2025年度新能源机制电价竞价结果.xlsx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=6def35e19979436ba4e856b6795c9c37.xlsx"
+        }
+      ]
+    },
+    {
+      "id": "796410fcc7224a46",
+      "region": "山东",
+      "date": "2025-08-28",
+      "title": "非电网直供环节电价政策明白纸",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/28/art_91687_10473623.html",
+      "note": "",
+      "documentDate": "2025-08-28 10:03",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "f5975fd23d85c23b95b55ef65693dc4307dcc592d7fdf942e511200f5023eb37",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "ffe00b329be965d4",
+      "region": "山东",
+      "date": "2025-08-08",
+      "title": "一图读懂《山东省新能源机制电价竞价实施细则》",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_91687_10472539.html",
+      "note": "",
+      "documentDate": "2025-08-08 16:03",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "995e9a5896a854cd712543f0510f073457e8fbda78c2dad204d833f47fa458c7",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "aad4f2166468eb73",
+      "region": "山东",
+      "date": "2025-08-08",
+      "title": "关于2025年新能源机制电价竞价工作有关事项的通知（鲁发改价格〔2025〕578号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_91687_10472525.html",
+      "note": "",
+      "documentDate": "2025-08-08 13:38",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "c682236dead25f5a64ae075040d4e563f8881e60033134b024b9c5b2f5fedef4",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "d86d05ea5230f647",
+      "region": "山东",
+      "date": "2025-08-08",
+      "title": "关于印发《山东省新能源机制电价竞价实施细则》的通知（鲁发改价格〔2025〕577号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_91687_10472524.html",
+      "note": "",
+      "documentDate": "2025-08-08 13:35",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "c45f70ebb5f647433d30cf164a451ed4521c2c307d33affdc5a8539c51e61cd3",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "竞价信息填报承诺书（模板）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=783ea03c3fc14e0994ba5b23399de9be.docx"
+        },
+        {
+          "title": "附件",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=66a37d8ed3d3458dbd45d2371a17c79f.docx"
+        },
+        {
+          "title": "分布式光伏项目竞价代理委托书（模板）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=66a37d8ed3d3458dbd45d2371a17c79f.docx"
+        },
+        {
+          "title": "附件",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=6647d6a337504848b14e6355ed135809.docx"
+        },
+        {
+          "title": "竞价授权委托书（模板）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=6647d6a337504848b14e6355ed135809.docx"
+        },
+        {
+          "title": "附件",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=b178db4e6c744798b8afa6be0d7c765a.docx"
+        },
+        {
+          "title": "见索即付履约保函（模板）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=b178db4e6c744798b8afa6be0d7c765a.docx"
+        }
+      ]
+    },
+    {
+      "id": "4b2c71ad4339d70b",
+      "region": "山东",
+      "date": "2025-08-08",
+      "title": "《山东省新能源机制电价竞价实施细则》政策解读",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_91687_10472523.html",
+      "note": "",
+      "documentDate": "2025-08-08 13:34",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "c2e70a59d1d17f3a38d54fc9db92482ccf7adce9c52f30d95ba883443f49dd6e",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "58034189b7c0148e",
+      "region": "山东",
+      "date": "2025-08-07",
+      "title": "一图读懂《山东省新能源上网电价市场化改革实施方案》",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/7/art_91687_10472505.html",
+      "note": "",
+      "documentDate": "2025-08-07 17:13",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "ab3c777a96bacae85f790e619dbe09387769ba951d3d148f99049bd4b2ee3eec",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "64c38769331c8886",
+      "region": "山东",
+      "date": "2025-08-07",
+      "title": "《山东省新能源上网电价市场化改革实施方案》政策解读",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/7/art_91687_10472503.html",
+      "note": "",
+      "documentDate": "2025-08-07 17:02",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "3449c2e5052a63e89feffbaf886c034269d7663711a9f5b3a33503e1706e7316",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "771e263e5ed1be3e",
+      "region": "山东",
+      "date": "2025-08-07",
+      "title": "关于印发《山东省新能源上网电价市场化改革实施方案》的通知（鲁发改价格〔2025〕576号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/7/art_91687_10472554.html",
+      "note": "",
+      "documentDate": "2025-08-07 16:59",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "37db3aa883f3c4eb2cfaf6381ff79c53c81a4e7d425e5787bde53a33e19b56e9",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "52c0a993790ab42a",
+      "region": "山东",
+      "date": "2025-03-27",
+      "title": "关于京杭运河山东段新能源船舶实施免费过闸优惠的通知",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/3/27/art_91687_10470881.html",
+      "note": "",
+      "documentDate": "2025-03-27 10:08",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "65ce65e31ca7ebb41c4dc9c8150a8b26f6d73ac255d68842b7ceb65f52c5fcb6",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "c8653dd31ae9d245",
+      "region": "山东",
+      "date": "2025-03-24",
+      "title": "关于进一步明确粮食初加工用电价格政策有关事项的通知",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/3/24/art_91687_10463644.html",
+      "note": "",
+      "documentDate": "2025-03-24 17:04",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "09f75174b83952caf1ddefc32a8166f3b980b7dff60312f269342bae2bd73f9e",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "粮食初加工用电申请表.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=c3b31bcb7a0d43d78f0f817965747428.docx"
+        }
+      ]
+    },
+    {
+      "id": "967794391120e8b4",
+      "region": "山东",
+      "date": "2024-12-12",
+      "title": "关于做好2025年电力零售市场价格监管和服务工作的通知（鲁发改价格〔2024〕980号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2024/12/12/art_91687_10454482.html",
+      "note": "",
+      "documentDate": "2024-12-12 15:26",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "317eec26739c3201e365515c9832bc9fecf3956f2682777b8bb543b708b99136",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "6d5b9747bf35b28a",
+      "region": "山东",
+      "date": "2024-10-08",
+      "title": "关于农业生产分时电价政策有关事项的通知",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2024/10/8/art_91687_10448323.html",
+      "note": "",
+      "documentDate": "2024-10-08 16:22",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "a569d8bac78ea3571212d70e1a572fee9768c4be4e12fea3e4baa9b89eee5633",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "b597362759f3e1a7",
+      "region": "山东",
+      "date": "2024-10-08",
+      "title": "一图读懂：关于农业生产分时电价政策有关事项的通知",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2024/10/8/art_91687_10448771.html",
+      "note": "",
+      "documentDate": "2024-10-08 14:45",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "474b15ba253966c33322cd79f2e6f612b27f60123c14c6312e583f0fb9178bf3",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "de79e381a40366a8",
+      "region": "山东",
+      "date": "2023-12-25",
+      "title": "关于贯彻发改价格〔2023〕1501号文件完善我省容量电价机制有关事项的通知（鲁发改价格〔2023〕1022号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/12/25/art_91687_10422922.html",
+      "note": "",
+      "documentDate": "2023-12-25 17:41",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "c7543ab8745d6a0493628578cb77fc7b0207a27643458ee458f8f29abcf3507a",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "9f5264442379dafb",
+      "region": "山东",
+      "date": "2023-11-24",
+      "title": "关于进一步优化工商业分时电价政策的通知（鲁发改价格〔2023〕914号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/11/24/art_91687_10420246.html",
+      "note": "",
+      "documentDate": "2023-11-24 09:37",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "de53d219910357acd485142232bb4f6b8247fd25db7ce83e523d9f86b568c4c9",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "1f5761350e28980e",
+      "region": "山东",
+      "date": "2023-10-15",
+      "title": "关于征求《关于进一步优化工商业分时电价政策的通知（征求意见稿）》意见的公告",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/10/15/art_91687_10418510.html",
+      "note": "",
+      "documentDate": "2023-10-15 11:12",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "bee1367635818b6ff99b6143fb136e8a76ffe81a32959e152201b81f8befe712",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "4d21dc0fc7a9e994",
+      "region": "山东",
+      "date": "2023-07-31",
+      "title": "《关于进一步完善居民电动汽车充电桩分时电价政策的通知》政策解读",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/7/31/art_91687_10407939.html",
+      "note": "",
+      "documentDate": "2023-07-31 10:42",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "91e781958b50b85927a2423883319449b2a6b6e9ae6ba1597b92355cc5e8cb76",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "11bc1be99cb82e54",
+      "region": "山东",
+      "date": "2023-07-31",
+      "title": "关于进一步完善居民电动汽车充电桩分时电价政策的通知(鲁发改价格〔2023〕594号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/7/31/art_91687_10407936.html",
+      "note": "",
+      "documentDate": "2023-07-31 10:40",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "bbefbd0293adb3aba490ef200fa34bd6db30770c357c5a472783696706b2ea27",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "cffacd3ccf5bf65c",
+      "region": "山东",
+      "date": "2023-05-29",
+      "title": "关于山东电网第三周期输配电价及有关事项的通知(鲁发改价格〔2023〕393号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/5/29/art_91687_10399669.html",
+      "note": "",
+      "documentDate": "2023-05-29 09:55",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "9325bc43ead074031b946bc13e6131623160f503fa4538a51d83e8432327536c",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "e24bdb7905f60e7c",
+      "region": "山东",
+      "date": "2023-03-13",
+      "title": "关于水泥焦化企业超低排放差别化电价政策有关事项的通知（鲁发改价格〔2023〕168号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/3/13/art_91687_10391456.html",
+      "note": "",
+      "documentDate": "2023-03-13 11:20",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "f8d7d9cf592fba2b929a962ba2efeecf159829aca1f9fdc0512da472dc9e614a",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "e2938d08265fccc5",
+      "region": "山东",
+      "date": "2023-02-23",
+      "title": "关于2022年电解铝水泥钢铁企业阶梯电价有关事项的通知(鲁发改价格〔2023〕125号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/2/23/art_91687_10391455.html",
+      "note": "",
+      "documentDate": "2023-02-23 11:19",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "c5359edbcef80e21c640c9b0ee9ad6a8801b929d3e1a27058251802b63de63ab",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "ccb76a721fd8d160",
+      "region": "山东",
+      "date": "2023-01-16",
+      "title": "关于居民住宅小区电动自行车用电价格政策有关事项的通知(鲁发改价格〔2023〕39号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/1/16/art_91687_10383244.html",
+      "note": "",
+      "documentDate": "2023-01-16 18:08",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "9eeb6d08adc761f4a9ff0cd3bca3592f00bd5ca28a97290db7604d300fe588e1",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "eb3667bd341481a7",
+      "region": "山东",
+      "date": "2022-12-10",
+      "title": "关于2023年生物质发电电价补贴有关事项的通知(鲁发改价格〔2022〕1028号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/12/10/art_91687_10378948.html",
+      "note": "",
+      "documentDate": "2022-12-10 14:17",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "0109135db79ed7f0db736cf50b82cbdb99fe40a73e0f02b3b1fc82f5e39f66fb",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "cd4e572e21266c87",
+      "region": "山东",
+      "date": "2022-10-31",
+      "title": "​关于生物质发电上网电价有关事项的通知( 鲁发改价格〔2022〕916号 )",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/10/31/art_91687_10371513.html",
+      "note": "",
+      "documentDate": "2022-10-31 15:27",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "b2f79bffe6336c01a8c1b842193c7866f2479d1944c2b58e3f3e30c85b052145",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "e1a7036f022809c4",
+      "region": "山东",
+      "date": "2022-06-28",
+      "title": "关于2022年炼化焦化企业阶梯电价有关事项的通知(鲁发改价格〔2022〕910号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/6/28/art_91687_10378834.html",
+      "note": "",
+      "documentDate": "2022-06-28 11:20",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "c4c210575fd10792119dedbee719230b6e0bdd4c9f16eefcece49524a67aad09",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "1a55eefbd62906d5",
+      "region": "山东",
+      "date": "2022-05-30",
+      "title": "关于青岛顺安热电有限公司等民生采暖型燃煤背压机组两部制电价的批复(鲁发改价格〔2022〕464号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/5/30/art_91687_10378833.html",
+      "note": "",
+      "documentDate": "2022-05-30 11:18",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "78e3dbdb6bb010f10218eb9035bc9961c190cbd37446f9ff69c26786bc5d00c2",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "a53b0ba5cc04e7e7",
+      "region": "山东",
+      "date": "2022-04-29",
+      "title": "关于钢铁企业超低排放差别化电价政策有关事项的通知(鲁发改价格〔2022〕350号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/4/29/art_91687_10350943.html",
+      "note": "",
+      "documentDate": "2022-04-29 09:02",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "5e4f80c9218c13bccb2e1b4747847a350436e0ce28c0018623ff6dd57e8aa1b3",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "b87adaecb81f636b",
+      "region": "山东",
+      "date": "2022-03-30",
+      "title": "关于工商业非电网直供环节电价政策有关事项的通知(鲁发改价格〔2022〕248号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/30/art_91687_10347073.html",
+      "note": "",
+      "documentDate": "2022-03-30 17:50",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "18dbc998496f4e825c8582266e5a702007ccfe55a25e7fb7abb2d7b5124a8773",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "a14641fc269a5fa3",
+      "region": "山东",
+      "date": "2022-03-30",
+      "title": "关于电力现货市场容量补偿电价有关事项的通知(鲁发改价格〔2022〕247号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/30/art_91687_10347028.html",
+      "note": "",
+      "documentDate": "2022-03-30 09:44",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "92f72cfc0a61bb717d0083f81ba80d6c2b27fb4ebf6d20f80eb273f232a21b98",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "fbde843924f8ad1b",
+      "region": "山东",
+      "date": "2022-03-14",
+      "title": "关于新冠肺炎疫情防控期间支持性电价政策有关事项的函（鲁发改价格函〔2022〕25号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/14/art_91687_10345006.html",
+      "note": "",
+      "documentDate": "2022-03-14 20:07",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "59eb16152202eaffe1326f3eccb44d0af726875e628a21fde0c5345188fba1ee",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "fe7b9d4815d969d5",
+      "region": "山东",
+      "date": "2022-03-04",
+      "title": "关于完善居民分时电价政策的通知(鲁发改价格〔2022〕158号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/4/art_91687_10343992.html",
+      "note": "",
+      "documentDate": "2022-03-04 19:14",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "ca0a57b0614aaaeb76c8a2b421393cf6aa75c052e727898b792fae36e7abb298",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "910958680d4fef3e",
+      "region": "山东",
+      "date": "2022-03-02",
+      "title": "关于天然气发电价格政策有关事项的通知(鲁发改价格〔2022〕154号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/2/art_91687_10345005.html",
+      "note": "",
+      "documentDate": "2022-03-02 20:05",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "6357da301db36dd39555c9549f33886015bbc5b84806122a40239743a6242b8a",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "17e004db5f1a4d6b",
+      "region": "山东",
+      "date": "2022-01-29",
+      "title": "关于进一步完善燃煤发电机组环保电价政策的通知(鲁发改价格〔2022〕74号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/1/29/art_91687_10343228.html",
+      "note": "",
+      "documentDate": "2022-01-29 15:34",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "efed9e670a49344b8ff4c35b7c15bc0e47393335bc7fb3b0f351ce7e0c3a52d1",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "4ae43f5366168f33",
+      "region": "山东",
+      "date": "2026-09-21",
+      "title": "关于新能源机制电价竞价有关事项的函",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/9/21/art_306787_87829.html",
+      "note": "",
+      "documentDate": "2026-09-21 17:16",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "5fdd2aaa4b5c13995c5d7ee2a84512f4d792e87354d69f7480e205d4dd8c078e",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "bc6f9a28f1af6a22",
+      "region": "山东",
+      "date": "2026-09-07",
+      "title": "关于进一步优化分时电价机制的函",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/9/7/art_306787_87709.html",
+      "note": "",
+      "documentDate": "2026-09-07 09:34",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "f7d608eb39abddc3bb77bd5bd071b930fbcbfada595e4eb16d1050332b4b3183",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "876219143f30e660",
+      "region": "山东",
+      "date": "2026-08-28",
+      "title": "山东省发展和改革委员会 山东省能源局关于将济南热电集团有限公司#1等机组补充纳入适用煤电容量电价机制机组清单的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/8/28/art_306787_88369.html",
+      "note": "",
+      "documentDate": "2026-08-28 16:18",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "94a0687fdab930d47edc991f8d3320c1c2125105bc3ced483b5c4d7f9e876943",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "c1eee756f6181d82",
+      "region": "山东",
+      "date": "2026-08-24",
+      "title": "关于2025-2027年开工抽水蓄能电站电价政策有关事项的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/8/24/art_306787_87609.html",
+      "note": "",
+      "documentDate": "2026-08-24 08:46",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "d8fb7871be8cdf3b58968f162eaad9d36511e51e3f955c8a27d4ab0b2d2779ff",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "25949401654ff40e",
+      "region": "山东",
+      "date": "2026-07-28",
+      "title": "关于山东电网第四监管周期输配电价及有关事项的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/7/28/art_306787_87689.html",
+      "note": "",
+      "documentDate": "2026-07-28 09:27",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "0a31feb31d0661735456960bfb71737249953e8e2e53d12a4db096ef9e588595",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "e1a2c8c91a3a2eb0",
+      "region": "山东",
+      "date": "2026-07-27",
+      "title": "关于贯彻发改价格〔2025〕1192号文件支持新能源就近消纳价格政策有关事项的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/7/27/art_306787_87610.html",
+      "note": "",
+      "documentDate": "2026-07-27 09:16",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "7e06a673877bbd5b536f3c885fe237fcb4558c5194d66311e6cddd00795a3c3a",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "da211a59d166c736",
+      "region": "山东",
+      "date": "2026-07-13",
+      "title": "关于2026年新增民生采暖型燃煤背压机组容量电价有关事项的函",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/7/13/art_306787_87769.html",
+      "note": "",
+      "documentDate": "2026-07-13 10:27",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "88ae3c8a397d21346890dc41e41aaeb83f83ad9d6b6b6995d743c7acd0b17938",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "fc0a48e666d490c5",
+      "region": "山东",
+      "date": "2026-06-05",
+      "title": "关于印发《山东省虚拟电厂建设运行管理办法》的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/6/5/art_306787_88349.html",
+      "note": "",
+      "documentDate": "2026-06-05 16:09",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "1e9870d727863df477222a96347fb239ee342b861b4be5804418634a3eb11692",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "1.虚拟电厂接入流程.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=522703a0164f48dba5dda9d27d07aee3.docx"
+        },
+        {
+          "title": "2.虚拟电厂运营商及聚合资源变更流程.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=6d810eec1d0e439b875b73307472f41b.docx"
+        },
+        {
+          "title": "3.电力负荷确认承诺书.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=ba8cc3600b1e48f8b10742662edb5c02.docx"
+        },
+        {
+          "title": "4.虚拟电厂接入业务申请单.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=c803b18744944a44aadc4e84c5354c6b.docx"
+        }
+      ]
+    },
+    {
+      "id": "0f062091f463a858",
+      "region": "山东",
+      "date": "2026-05-21",
+      "title": "关于将华电龙口发电有限公司#1等机组补充纳入适用煤电容量电价机制机组清单的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/5/21/art_306787_88310.html",
+      "note": "",
+      "documentDate": "2026-05-21 16:05",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "30c576c1d97920272a4a367b5631e2d4ec26ce16b512c59011c2b76091b6a961",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "31eb2579ea31f680",
+      "region": "山东",
+      "date": "2026-04-01",
+      "title": "山东省发展和改革委员会 山东省能源局关于将山东裕龙热力有限公司#4等机组补充纳入适用煤电容量电价机制机组清单的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/4/1/art_306787_88329.html",
+      "note": "",
+      "documentDate": "2026-04-01 15:59",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "4148105d0608ca0f4e58911bdcb436c92d2566aef58155621105bdbd0a458900",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "f9ed504c5b53d7dd",
+      "region": "山东",
+      "date": "2026-03-31",
+      "title": "关于印发《山东省2026年新能源高水平消纳行动方案》的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/3/31/art_306787_79459.html",
+      "note": "",
+      "documentDate": "2026-03-31 15:53",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "3c7b4194dde73a6e07430dbea9b8b9d2a025dc4fe0cfe3d1fca2dbd10cfbd49e",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "9a586be18a153623",
+      "region": "山东",
+      "date": "2026-03-26",
+      "title": "关于印发《山东省促进虚拟电厂高质量发展方案》的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/3/26/art_306787_88309.html",
+      "note": "",
+      "documentDate": "2026-03-26 15:56",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "2b2248c3b8f181f4f0ab793a62fe5c75ed48d3c652b03ebe2b79e2ebb800092d",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "0e9805bb45114660",
+      "region": "山东",
+      "date": "2026-03-04",
+      "title": "关于做好2026年第二季度全省电力市场建设有关工作的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/3/4/art_306787_79137.html",
+      "note": "",
+      "documentDate": "2026-03-04 15:35",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "8216339049fe60c504b159390a2d0fee432e67b478d7431ae813abca4f15c3e6",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "f3038b27849c54d2",
+      "region": "山东",
+      "date": "2026-03-02",
+      "title": "山东省发展和改革委员会 山东省能源局关于公布2026年山东省新能源机制电价竞价结果的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/3/2/art_306787_79125.html",
+      "note": "",
+      "documentDate": "2026-03-02 16:57",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "77aeec6001b94bf6b3589831a99efe2dd6348b52cd29834eef86e2b57ace1597",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件：山东省2026年度新能源机制电价竞价结果.pdf",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=7e9726421c644de8b5cb4a636d0ee3f8.pdf"
+        }
+      ]
+    },
+    {
+      "id": "9a7b16a2e6944d2c",
+      "region": "山东",
+      "date": "2026-02-28",
+      "title": "关于公布2026年山东省新能源机制电价竞价结果的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/2/28/art_306787_87669.html",
+      "note": "",
+      "documentDate": "2026-02-28 08:58",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "52a669d9752b1dc29bb6971c587aaca04eda28d9a6e8c4f74a42e55857f19dfb",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件：山东省2026年度新能源机制电价竞价结果.pdf",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=949cb7f4db574a6c9fab17e641d2fbbc.pdf"
+        }
+      ]
+    },
+    {
+      "id": "17094be09d90e7c1",
+      "region": "山东",
+      "date": "2026-01-12",
+      "title": "关于2026—2027年生物天然气电价政策有关事项的函",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/1/12/art_306787_87849.html",
+      "note": "",
+      "documentDate": "2026-01-12 17:45",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "c13c9e2e4e0d571bcde1fc52c8b127767abdec5cb0ccc87a24a76566c2f361e7",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "3068adc43dbe930b",
+      "region": "山东",
+      "date": "2025-12-31",
+      "title": "山东省发展和改革委员会 山东省能源局关于将华能陇东能源有限责任公司正宁电厂#1、#2号机组补充纳入适用煤电容量电价机制机组清单的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/31/art_306787_88289.html",
+      "note": "",
+      "documentDate": "2025-12-31 15:45",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "e07e750806ef84707209e93ad63c2a6cf067bbab45b396157668035c87fcb5de",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "958f4045e974cb7e",
+      "region": "山东",
+      "date": "2025-12-22",
+      "title": "关于2026年新能源机制电价竞价工作有关事项的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/22/art_306787_87729.html",
+      "note": "",
+      "documentDate": "2025-12-22 09:38",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "30c17dbbaebfc23d650d373a434eeffb6c91ab1d3ca46e8111cd302ff33de4d1",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "3e67609d17702d6f",
+      "region": "山东",
+      "date": "2025-11-07",
+      "title": "山东省发展和改革委员会 山东省能源局关于将山东华泰热力有限公司#2等机组补充纳入适用煤电容量电价机制机组清单的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/11/7/art_306787_88249.html",
+      "note": "",
+      "documentDate": "2025-11-07 15:18",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "bb07532422c3c28cdf15f83a04a1dba7e005d5067fd246d36c51e17cf55cb865",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "35bb9e4cc88481c6",
+      "region": "山东",
+      "date": "2025-10-09",
+      "title": "关于公布2025年山东省新能源机制电价竞价结果的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/10/9/art_306787_77499.html",
+      "note": "",
+      "documentDate": "2025-10-09 17:30",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "103346668a673433e4387a8362da47379fcc2b708a0f2946b444539ce369fc7d",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "山东省2025年度新能源机制电价竞价结果.xlsx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=6f8a5e49457a41869b41ec17514c9544.xlsx"
+        }
+      ]
+    },
+    {
+      "id": "ca6a6b421c8f40a3",
+      "region": "山东",
+      "date": "2025-08-08",
+      "title": "关于2025年新能源机制电价竞价工作有关事项的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_306787_77501.html",
+      "note": "",
+      "documentDate": "2025-08-08 18:13",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "a56c03de2bc3b2577c0685b03aa93796ff9b632f22125e70250e98db62f35664",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "3e22064f3762a158",
+      "region": "山东",
+      "date": "2025-08-07",
+      "title": "关于印发《山东省新能源上网电价市场化改革实施方案》的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/7/art_306787_77500.html",
+      "note": "",
+      "documentDate": "2025-08-07 17:47",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "557b692631736743b4a67b17bb8e05abb568c46834b639ded22792339cbbc9d5",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "d4af5d1d40d317ff",
+      "region": "山东",
+      "date": "2025-08-05",
+      "title": "关于将山东华泰热力有限公司#1等机组补充纳入适用煤电容量电价机制机组清单的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/5/art_306787_88229.html",
+      "note": "",
+      "documentDate": "2025-08-05 15:10",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "dc0357c1d31199abe7adf241cebc9afb093a217ccb3fdb6417e966dc6000a586",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "26016084228a17e9",
+      "region": "山东",
+      "date": "2025-01-24",
+      "title": "关于进一步明确2025年新增新能源项目参与电力市场相关事项的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/1/24/art_306787_75414.html",
+      "note": "",
+      "documentDate": "2025-01-24 14:55",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "a9273f172ad15ed57b3d1730e4aeb0293b05d6ac9a04b8d2d2f30d64e965d827",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "c3ad6e93e1d34a3d",
+      "region": "山东",
+      "date": "2023-08-31",
+      "title": "山东省发展和改革委员会关于印发《山东省售电公司信用评价管理办法（试行）》的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2023/8/31/art_306787_61890.html",
+      "note": "",
+      "documentDate": "2023-08-31 09:25",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "066e0e70347b634cf2b2f8ec9d05346c03d45358d687e9ac81487d9d968ba0f3",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "dba6dd64dc90373d",
+      "region": "山东",
+      "date": "2023-07-28",
+      "title": "关于进一步完善居民电动汽车充电桩分时电价政策的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2023/7/28/art_306787_59184.html",
+      "note": "",
+      "documentDate": "2023-07-28 13:07",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "9cc9a0727e230d2a6dbbcc8b49376d3b4b5aea3539bf2e0a9154d496c4b051a9",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "95f2116375690af0",
+      "region": "山东",
+      "date": "2026-09-22",
+      "title": "解读《山东省电力零售市场价格风险防控实施细则（修订稿）》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/9/22/art_91410_10524105.html",
+      "note": "",
+      "documentDate": "2026-09-22 09:40",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "627e130c90aad79d8c4ab9c5c90d59d190c0583d60c8d5d0e0968ccacfd9f511",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "386cff83637f4787",
+      "region": "山东",
+      "date": "2026-08-31",
+      "title": "解读《关于加快推动新能源场站配建储能高质量发展的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/8/31/art_91410_10502945.html",
+      "note": "",
+      "documentDate": "2026-08-31 16:18",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "32c55ba48eaf3b6e7c34a37cfd5dd46f317a021aa9f9b7414533d73f8a26828f",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "867faa473add5113",
+      "region": "山东",
+      "date": "2026-08-21",
+      "title": "解读《关于完善工商业非电网直供环节电价政策的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/8/21/art_91410_10499505.html",
+      "note": "",
+      "documentDate": "2026-08-21 15:35",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "24e259df5596760695e52a21d561265f249075ac02191612efb2244f61fbb9a9",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "b1504017ba0994bb",
+      "region": "山东",
+      "date": "2026-07-23",
+      "title": "专家解读 |《山东省抽水蓄能项目管理实施细则》：立足国家顶层制度 构建省级开发管理体系",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/7/23/art_91410_10493773.html",
+      "note": "",
+      "documentDate": "2026-07-23 10:42",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "1fea6dfbd7af5ebd06c34bf603d8d03f8a0cdd7a3b0eaa742c70041fc2d18944",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "56769bfb479a29f5",
+      "region": "山东",
+      "date": "2026-07-06",
+      "title": "解读《山东省抽水蓄能项目管理实施细则》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/7/6/art_91410_10492790.html",
+      "note": "",
+      "documentDate": "2026-07-06 16:29",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "7f640ade52b3671d6b69b30565115ef4e069d50bee7295d98a49c467c097dd85",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "0d81fd7917d443ed",
+      "region": "山东",
+      "date": "2026-06-05",
+      "title": "解读《山东省虚拟电厂建设运行管理办法》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/6/5/art_91410_10524945.html",
+      "note": "",
+      "documentDate": "2026-06-05 16:27",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "53ba099639f04ebe3b50e24dfe605b1c9bff0914be4eec6e212727eb89859e5f",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "280329990ef6d23a",
+      "region": "山东",
+      "date": "2026-04-03",
+      "title": "媒体解读 | 山东推出22条措施支持新能源消纳年内全省新型储能装机达1400万千瓦左右",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/4/3/art_91410_10486958.html",
+      "note": "",
+      "documentDate": "2026-04-03 16:00",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "dab4fee72c35ac5a3cef4644bd29eeb8a3bf06eb63e4be32b0f148e63574f0c3",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "9012d9b133937f6e",
+      "region": "山东",
+      "date": "2026-03-26",
+      "title": "解读《山东省促进虚拟电厂高质量发展方案》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/3/26/art_91410_10524925.html",
+      "note": "",
+      "documentDate": "2026-03-26 16:24",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "6a91ee0d1d7ea9f72ff6baf00d965e3e80ce856609a4720028bf92048a76d528",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "0354a7498757bd96",
+      "region": "山东",
+      "date": "2025-12-12",
+      "title": "解读《山东省电力零售市场价格风险防控实施细则》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/12/art_91410_10481511.html",
+      "note": "",
+      "documentDate": "2025-12-12 16:36",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "8cb4c3d939c847bcd6a6b69481190ff9b55d7061434331968042a1ba8f06b044",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "43630e510333f47c",
+      "region": "山东",
+      "date": "2025-12-12",
+      "title": "解读《山东省新能源可持续发展差价结算实施细则》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/12/art_91410_10481510.html",
+      "note": "",
+      "documentDate": "2025-12-12 16:31",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "08d5e684913c26cc6a2914cdd9909e111f3da5c5a0dba44ed8327e2c0ee00cbe",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "794f0db117efcd57",
+      "region": "山东",
+      "date": "2025-09-17",
+      "title": "媒体解读 | 关于印发《山东省新能源上网电价市场化改革实施方案》的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/9/17/art_91410_10481234.html",
+      "note": "",
+      "documentDate": "2025-09-17 15:06",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "1b6609f77dfaab8813556d2186fbe46bcc1a8fa64d169322951e5a6a0df24738",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "c7a455a65db5aa22",
+      "region": "山东",
+      "date": "2025-08-07",
+      "title": "解读《山东省新能源上网电价市场化改革实施方案》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/7/art_91410_10478490.html",
+      "note": "",
+      "documentDate": "2025-08-07 17:58",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "a4fd5cde4cd2ecd8237cd896190f9b3eba8f8b1d72877b7331c7ad01f34df267",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "de3d9ae0771d6fc6",
+      "region": "山东",
+      "date": "2025-08-06",
+      "title": "解读《山东省新能源机制电价竞价实施细则》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/6/art_91410_10472687.html",
+      "note": "",
+      "documentDate": "2025-08-06 13:34",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "bcb26c5578cfba8834ee9e702943c0f9364917d979b0841e3e9b774dff36e7e5",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "482b6178b1f234c3",
+      "region": "山东",
+      "date": "2023-08-31",
+      "title": "解读《关于印发〈山东省售电公司信用评价管理办法（试行）〉的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2023/8/31/art_91410_10411616.html",
+      "note": "",
+      "documentDate": "2023-08-31 15:51",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "676fd46e9ae5c92260d54ae149c69e81996a22c5875b75ac9204e3f2b8cb37dd",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "7743b0ab473f134e",
+      "region": "山东",
+      "date": "2023-03-14",
+      "title": "解读《关于印发〈山东省电力市场体系建设工作分工方案〉的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2023/3/14/art_91410_10388205.html",
+      "note": "",
+      "documentDate": "2023-03-14 14:24",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "d58eeb77a27ae89d8ae051556eadd2a34ddd7ad637db9079ef8c8c9addeec79d",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "7b5baad525513d74",
+      "region": "山东",
+      "date": "2023-03-14",
+      "title": "解读《关于水泥焦化企业超低排放差别化电价政策有关事项的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2023/3/14/art_91410_10391485.html",
+      "note": "",
+      "documentDate": "2023-03-14 12:13",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "cb2efd3fcac9921c787560626ee382e97b2a24d73312a9f57c2675ed49be8f67",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "f3f3b44480618d8f",
+      "region": "山东",
+      "date": "2022-11-16",
+      "title": "解读《关于做好2023年全省电力中长期和零售合同签订工作的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2022/11/16/art_91410_10373443.html",
+      "note": "",
+      "documentDate": "2022-11-16 14:42",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "507f70b2d3144a80c9c12ef31365470f0c7031a139fb7103869995872ac62839",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "83fa11cf790ece2c",
+      "region": "山东",
+      "date": "2022-04-27",
+      "title": "解读《关于钢铁企业超低排放差别化电价政策有关事项的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2022/4/27/art_91410_10379186.html",
+      "note": "",
+      "documentDate": "2022-04-27 17:00",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "b83422ef4086d042719f2810bd572386a1db70136c6a9260c27953f088f4b460",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "7ec05982650d5002",
+      "region": "山东",
+      "date": "2022-03-29",
+      "title": "解读《关于工商业非电网直供环节电价政策有关事项的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/29/art_91410_10379184.html",
+      "note": "",
+      "documentDate": "2022-03-29 16:56",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "a4575c865363d6aee46bb9d8ccc62855137e9c70874984f3642e59c71d84e7a6",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "3f2114868ab06f09",
+      "region": "山东",
+      "date": "2022-03-29",
+      "title": "解读《关于电力现货市场容量补偿电价有关事项的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/29/art_91410_10379178.html",
+      "note": "",
+      "documentDate": "2022-03-29 16:48",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "3fa2b607016b072fa7ca0cd338a6f5d7c34d283f5a1991e1cee6af8d56c351fb",
+      "detailStatus": "read",
+      "attachments": []
+    },
+    {
+      "id": "4dee0f299b3e68cf",
+      "region": "山东",
+      "date": "2026-10-15",
+      "title": "关于公开征求《山东省发电侧可靠容量补偿实施细则（征求意见稿）》意见的公告",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/10/15/art_115442_10525665.html",
+      "note": "",
+      "documentDate": "2026-10-15 16:51",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "1ddfa61c0158adea7c1e3943e4078af64fe7ef7f414f26c046da0da201c0d537",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "山东省发电侧可靠容量补偿实施细则(征求意见稿) .pdf",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=51733f07d10b4aca97bb016784cb51c9.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1e691f8272e4f991",
+      "region": "山东",
+      "date": "2026-03-17",
+      "title": "《山东省虚拟电厂建设运行管理办法（征求意见稿）》征求意见公告",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/3/17/art_115442_10485512.html",
+      "note": "",
+      "documentDate": "2026-03-17 16:54",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "8ccada7b2abcf407ad09df6909de375226c1df661d1cb69a99461370f147bad1",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "山东省虚拟电厂建设运行管理办法（征求意见稿）.pdf",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=c7513c8c583346028d607cf70e05eeb8.pdf"
+        },
+        {
+          "title": "《山东省虚拟电厂建设运行管理办法》起草说明.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=df709b46249b41dc838f7935272bb1c9.docx"
+        }
+      ]
+    },
+    {
+      "id": "528083972b6f0dc9",
+      "region": "山东",
+      "date": "2026-02-01",
+      "title": "关于公开征求《山东省发展和改革委员会关于进一步完善工商业非电网直供环节电价政策的通知（征求意见稿）》意见建议的公告",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/2/1/art_115442_10484106.html",
+      "note": "",
+      "documentDate": "2026-02-01 09:38",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "55dd724d08a85f44ff02aa71f20f8690b4e29b300e180b867113631c31bab7be",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "关于进一步完善工商业非电网直供环节电价政策有关事项的通知（征求意见稿）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=7b08c2d6ed484d56abe502b9f385a7bb.docx"
+        }
+      ]
+    },
+    {
+      "id": "6c7ca8e2aefdc23d",
+      "region": "山东",
+      "date": "2025-12-01",
+      "title": "关于公开征求《山东省新能源可持续发展差价结算实施细则》《山东省电力零售市场价格风险防控实施细则》意见建议的公告",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/1/art_115442_10479065.html",
+      "note": "",
+      "documentDate": "2025-12-01 21:25",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "c2a3069e1389f8f8ffb27c3998ddf53bceda60507d43c0f468af3375a9852a63",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件1：山东省新能源可持续发展差价结算实施细则（征求意见稿）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=c6f766d9aec946938357f5149484bac4.docx"
+        },
+        {
+          "title": "附件2：山东省电力零售市场价格风险防控实施细则（征求意见稿）.doc",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=bcf221a384f84e0c969e40e46bd89c25.doc"
+        },
+        {
+          "title": "关于山东省电力零售用户封顶价格的计算示例.docx",
+          "url": "http://172.20.232.124/module/download/downfile.jsp?classid=0&filename=2b6970457d6c410a8eda1cff4bbc58ed.docx"
+        }
+      ]
+    },
+    {
+      "id": "62f55cb6cc2f4dfe",
+      "region": "山东",
+      "date": "2025-07-28",
+      "title": "关于公开征求《山东省新能源机制电价竞价实施细则（征求意见稿）》意见的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/7/28/art_115442_10472036.html",
+      "note": "",
+      "documentDate": "2025-07-28 10:31",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "698a25b20101f446745006febb75685726f2f2cab605722a75ce0c62c8ca75e6",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件：山东省新能源机制电价竞价实施细则（征求意见稿）.doc",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=5d38aa802acb41b194a1b586e2009cc0.doc"
+        }
+      ]
+    },
+    {
+      "id": "c1131aa6434fa563",
+      "region": "山东",
+      "date": "2024-03-14",
+      "title": "关于征集《关于民生采暖型燃煤背压机组两部制电价有关事项的通知》意见的公告",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2024/3/14/art_115442_10434658.html",
+      "note": "",
+      "documentDate": "2024-03-14 16:39",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "687a568b590d3f9cb564aa08d21169066a285f4528f82bfa1d0e3269dcc7ee75",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "《关于民生采暖型燃煤背压机组两部制电价有关事项的通知（征求意见稿）》解读说明.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=a39fc098328946118cdd85bbb8fbcb67.docx"
+        },
+        {
+          "title": "《关于民生采暖型燃煤背压机组两部制电价有关事项的通知》征求意见稿.doc",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=0bec04af6fe447f7bbc91d31746d492f.doc"
+        }
+      ]
+    },
+    {
+      "id": "33d907d64111ff64",
+      "region": "山东",
+      "date": "2024-03-14",
+      "title": "关于征集《关于居民阶梯电价制度有关事项的通知》意见的公告",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2024/3/14/art_115442_10434657.html",
+      "note": "",
+      "documentDate": "2024-03-14 16:35",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "5c44012974f80069e4cbce4a8055e9cbb554059f2bc4a9923e984b0de28472d2",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "《关于居民阶梯电价制度有关事项的通知（征求意见稿）》解读说明.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=6299a645e1a646f7acab37466aba53c2.docx"
+        },
+        {
+          "title": "《关于居民阶梯电价制度有关事项的通知》征求意见稿.doc",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=79e34a7ed545401d9533194f62dfa706.doc"
+        }
+      ]
+    },
+    {
+      "id": "7783bff2f63081e0",
+      "region": "山东",
+      "date": "2023-06-25",
+      "title": "关于征求《山东省售电公司信用评价管理办法（试行）》（征求意见稿）规范性文件意见的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2023/6/25/art_115442_10403153.html",
+      "note": "",
+      "documentDate": "2023-06-25 11:14",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "4d2aa18a102c17b192f3f1524af6c3d20af584185e614bdc79d8349db6f8ad1f",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "《山东省售电公司信用评价管理办法（试行）》（征求意见稿）.pdf",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=0a2982e8438d458683b1f78ac519387b.pdf"
+        },
+        {
+          "title": "关于《山东省售电公司信用评价管理办法（试行）》（征求意见稿）的起草说明.pdf",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=68b0c19435d24892bb449f5dbd9c46bd.pdf"
+        }
+      ]
     }
   ],
   "rows": [
@@ -8334,6 +10180,30 @@
       "sourceCount": 1
     },
     {
+      "id": "4dee0f299b3e68cf",
+      "region": "山东",
+      "date": "2026-10-15",
+      "title": "关于公开征求《山东省发电侧可靠容量补偿实施细则（征求意见稿）》意见的公告",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/10/15/art_115442_10525665.html",
+      "note": "",
+      "documentDate": "2026-10-15 16:51",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "1ddfa61c0158adea7c1e3943e4078af64fe7ef7f414f26c046da0da201c0d537",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "山东省发电侧可靠容量补偿实施细则(征求意见稿) .pdf",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=51733f07d10b4aca97bb016784cb51c9.pdf"
+        }
+      ],
+      "contentKind": "征求意见",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "3d1822b3619e8889",
       "region": "国家",
       "date": "2026-10-12",
@@ -8486,6 +10356,94 @@
       "sourceCount": 1
     },
     {
+      "id": "95f2116375690af0",
+      "region": "山东",
+      "date": "2026-09-22",
+      "title": "解读《山东省电力零售市场价格风险防控实施细则（修订稿）》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/9/22/art_91410_10524105.html",
+      "note": "",
+      "documentDate": "2026-09-22 09:40",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "627e130c90aad79d8c4ab9c5c90d59d190c0583d60c8d5d0e0968ccacfd9f511",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "4ae43f5366168f33",
+      "region": "山东",
+      "date": "2026-09-21",
+      "title": "关于新能源机制电价竞价有关事项的函",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/9/21/art_306787_87829.html",
+      "note": "",
+      "documentDate": "2026-09-21 17:16",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "5fdd2aaa4b5c13995c5d7ee2a84512f4d792e87354d69f7480e205d4dd8c078e",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [
+        {
+          "agency": "山东省发展改革委价格处",
+          "title": "关于新能源机制电价竞价有关事项的函",
+          "url": "http://fgw.shandong.gov.cn/art/2026/9/21/art_91687_10514485.html",
+          "date": "2026-09-21"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "13287ac8c460a9eb",
+      "region": "山东",
+      "date": "2026-09-21",
+      "title": "关于印发《山东省电力零售市场价格风险防控实施细则（修订稿）》的通知",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2026/9/21/art_91687_10517865.html",
+      "note": "",
+      "documentDate": "2026-09-21 16:57",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "9e9148ec2886fe415c8ada0321c01ef0b0a0f2d60c7e80b52e24d95da22d51d7",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件：《山东省电力零售市场价格风险防控实施细则（修订稿）》.doc",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=f33135b86bfd44deb2e27897423c029e.doc"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "eaf036d9f10cfa3d",
+      "region": "山东",
+      "date": "2026-09-21",
+      "title": "工商业非电网直供环节电价政策明白纸",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2026/9/21/art_91687_10513645.html",
+      "note": "",
+      "documentDate": "2026-09-21 09:19",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "3a2bbb6918bc6650c02eee49bb0b8e2bfa446bdd9d440e80f38610c6e938fb21",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "fc357f346f7bef53",
       "region": "国家",
       "date": "2026-09-14",
@@ -8503,6 +10461,32 @@
       "contentKind": "政策动态",
       "otherSources": [],
       "sourceCount": 1
+    },
+    {
+      "id": "bc6f9a28f1af6a22",
+      "region": "山东",
+      "date": "2026-09-07",
+      "title": "关于进一步优化分时电价机制的函",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/9/7/art_306787_87709.html",
+      "note": "",
+      "documentDate": "2026-09-07 09:34",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "f7d608eb39abddc3bb77bd5bd071b930fbcbfada595e4eb16d1050332b4b3183",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [
+        {
+          "agency": "山东省发展改革委价格处",
+          "title": "关于进一步优化分时电价机制的函",
+          "url": "http://fgw.shandong.gov.cn/art/2026/9/7/art_91687_10508305.html",
+          "date": "2026-09-07"
+        }
+      ],
+      "sourceCount": 2
     },
     {
       "id": "689926a7e84a48de",
@@ -8653,6 +10637,44 @@
       "sourceCount": 1
     },
     {
+      "id": "386cff83637f4787",
+      "region": "山东",
+      "date": "2026-08-31",
+      "title": "解读《关于加快推动新能源场站配建储能高质量发展的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/8/31/art_91410_10502945.html",
+      "note": "",
+      "documentDate": "2026-08-31 16:18",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "32c55ba48eaf3b6e7c34a37cfd5dd46f317a021aa9f9b7414533d73f8a26828f",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "876219143f30e660",
+      "region": "山东",
+      "date": "2026-08-28",
+      "title": "山东省发展和改革委员会 山东省能源局关于将济南热电集团有限公司#1等机组补充纳入适用煤电容量电价机制机组清单的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/8/28/art_306787_88369.html",
+      "note": "",
+      "documentDate": "2026-08-28 16:18",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "94a0687fdab930d47edc991f8d3320c1c2125105bc3ced483b5c4d7f9e876943",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "a5bffc2f899308f4",
       "region": "国家",
       "date": "2026-08-25",
@@ -8668,6 +10690,51 @@
       "detailStatus": "read",
       "attachments": [],
       "contentKind": "意见反馈",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "c1eee756f6181d82",
+      "region": "山东",
+      "date": "2026-08-24",
+      "title": "关于2025-2027年开工抽水蓄能电站电价政策有关事项的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/8/24/art_306787_87609.html",
+      "note": "",
+      "documentDate": "2026-08-24 08:46",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "d8fb7871be8cdf3b58968f162eaad9d36511e51e3f955c8a27d4ab0b2d2779ff",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [
+        {
+          "agency": "山东省发展改革委价格处",
+          "title": "关于2025-2027年开工抽水蓄能电站电价政策有关事项的通知(鲁发改价格〔2026〕627号)",
+          "url": "http://fgw.shandong.gov.cn/art/2026/8/25/art_91687_10500667.html",
+          "date": "2026-08-25"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "867faa473add5113",
+      "region": "山东",
+      "date": "2026-08-21",
+      "title": "解读《关于完善工商业非电网直供环节电价政策的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/8/21/art_91410_10499505.html",
+      "note": "",
+      "documentDate": "2026-08-21 15:35",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "24e259df5596760695e52a21d561265f249075ac02191612efb2244f61fbb9a9",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -8807,6 +10874,32 @@
       "sourceCount": 1
     },
     {
+      "id": "25949401654ff40e",
+      "region": "山东",
+      "date": "2026-07-28",
+      "title": "关于山东电网第四监管周期输配电价及有关事项的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/7/28/art_306787_87689.html",
+      "note": "",
+      "documentDate": "2026-07-28 09:27",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "0a31feb31d0661735456960bfb71737249953e8e2e53d12a4db096ef9e588595",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [
+        {
+          "agency": "山东省发展改革委价格处",
+          "title": "关于山东电网第四监管周期输配电价及有关事项的通知（鲁发改价格〔2026〕556号）",
+          "url": "http://fgw.shandong.gov.cn/art/2026/7/30/art_91687_10494033.html",
+          "date": "2026-07-30"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
       "id": "c6dfa5013c0bb254",
       "region": "山东",
       "date": "2026-07-27",
@@ -8836,6 +10929,51 @@
         }
       ],
       "sourceCount": 2
+    },
+    {
+      "id": "e1a2c8c91a3a2eb0",
+      "region": "山东",
+      "date": "2026-07-27",
+      "title": "关于贯彻发改价格〔2025〕1192号文件支持新能源就近消纳价格政策有关事项的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/7/27/art_306787_87610.html",
+      "note": "",
+      "documentDate": "2026-07-27 09:16",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "7e06a673877bbd5b536f3c885fe237fcb4558c5194d66311e6cddd00795a3c3a",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [
+        {
+          "agency": "山东省发展改革委价格处",
+          "title": "山东省发展和改革委员会 山东省能源局关于贯彻发改价格〔2025〕1192号文件支持新能源就近消纳价格政策有关事项的通知（鲁发改价格〔2026〕554号）",
+          "url": "http://fgw.shandong.gov.cn/art/2026/7/30/art_91687_10494042.html",
+          "date": "2026-07-30"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "b1504017ba0994bb",
+      "region": "山东",
+      "date": "2026-07-23",
+      "title": "专家解读 |《山东省抽水蓄能项目管理实施细则》：立足国家顶层制度 构建省级开发管理体系",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/7/23/art_91410_10493773.html",
+      "note": "",
+      "documentDate": "2026-07-23 10:42",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "1fea6dfbd7af5ebd06c34bf603d8d03f8a0cdd7a3b0eaa742c70041fc2d18944",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
     },
     {
       "id": "1cd5a903bd7b3531",
@@ -8924,6 +11062,25 @@
         }
       ],
       "contentKind": "征求意见",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "da211a59d166c736",
+      "region": "山东",
+      "date": "2026-07-13",
+      "title": "关于2026年新增民生采暖型燃煤背压机组容量电价有关事项的函",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/7/13/art_306787_87769.html",
+      "note": "",
+      "documentDate": "2026-07-13 10:27",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "88ae3c8a397d21346890dc41e41aaeb83f83ad9d6b6b6995d743c7acd0b17938",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -9097,6 +11254,25 @@
       "sourceCount": 1
     },
     {
+      "id": "56769bfb479a29f5",
+      "region": "山东",
+      "date": "2026-07-06",
+      "title": "解读《山东省抽水蓄能项目管理实施细则》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/7/6/art_91410_10492790.html",
+      "note": "",
+      "documentDate": "2026-07-06 16:29",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "7f640ade52b3671d6b69b30565115ef4e069d50bee7295d98a49c467c097dd85",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "73cdb07515830596",
       "region": "国家",
       "date": "2026-06-30",
@@ -9265,6 +11441,61 @@
       "sourceCount": 1
     },
     {
+      "id": "fc0a48e666d490c5",
+      "region": "山东",
+      "date": "2026-06-05",
+      "title": "关于印发《山东省虚拟电厂建设运行管理办法》的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/6/5/art_306787_88349.html",
+      "note": "",
+      "documentDate": "2026-06-05 16:09",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "1e9870d727863df477222a96347fb239ee342b861b4be5804418634a3eb11692",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "1.虚拟电厂接入流程.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=522703a0164f48dba5dda9d27d07aee3.docx"
+        },
+        {
+          "title": "2.虚拟电厂运营商及聚合资源变更流程.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=6d810eec1d0e439b875b73307472f41b.docx"
+        },
+        {
+          "title": "3.电力负荷确认承诺书.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=ba8cc3600b1e48f8b10742662edb5c02.docx"
+        },
+        {
+          "title": "4.虚拟电厂接入业务申请单.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=c803b18744944a44aadc4e84c5354c6b.docx"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "0d81fd7917d443ed",
+      "region": "山东",
+      "date": "2026-06-05",
+      "title": "解读《山东省虚拟电厂建设运行管理办法》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/6/5/art_91410_10524945.html",
+      "note": "",
+      "documentDate": "2026-06-05 16:27",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "53ba099639f04ebe3b50e24dfe605b1c9bff0914be4eec6e212727eb89859e5f",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "8d30d3a1ea83625a",
       "region": "国家",
       "date": "2026-06-02",
@@ -9344,6 +11575,25 @@
       "firstSeenAt": "2026-10-21T02:36:05.617Z",
       "lastCheckedAt": "2026-10-21T02:36:05.617Z",
       "contentHash": "22cf64d588401357287ac4f5e770b964e3ebb2943a71da1be86fed305ba20323",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "0f062091f463a858",
+      "region": "山东",
+      "date": "2026-05-21",
+      "title": "关于将华电龙口发电有限公司#1等机组补充纳入适用煤电容量电价机制机组清单的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/5/21/art_306787_88310.html",
+      "note": "",
+      "documentDate": "2026-05-21 16:05",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "30c576c1d97920272a4a367b5631e2d4ec26ce16b512c59011c2b76091b6a961",
       "detailStatus": "read",
       "attachments": [],
       "contentKind": "政策动态",
@@ -9551,6 +11801,63 @@
       "sourceCount": 1
     },
     {
+      "id": "280329990ef6d23a",
+      "region": "山东",
+      "date": "2026-04-03",
+      "title": "媒体解读 | 山东推出22条措施支持新能源消纳年内全省新型储能装机达1400万千瓦左右",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/4/3/art_91410_10486958.html",
+      "note": "",
+      "documentDate": "2026-04-03 16:00",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "dab4fee72c35ac5a3cef4644bd29eeb8a3bf06eb63e4be32b0f148e63574f0c3",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "31eb2579ea31f680",
+      "region": "山东",
+      "date": "2026-04-01",
+      "title": "山东省发展和改革委员会 山东省能源局关于将山东裕龙热力有限公司#4等机组补充纳入适用煤电容量电价机制机组清单的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/4/1/art_306787_88329.html",
+      "note": "",
+      "documentDate": "2026-04-01 15:59",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "4148105d0608ca0f4e58911bdcb436c92d2566aef58155621105bdbd0a458900",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "f9ed504c5b53d7dd",
+      "region": "山东",
+      "date": "2026-03-31",
+      "title": "关于印发《山东省2026年新能源高水平消纳行动方案》的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/3/31/art_306787_79459.html",
+      "note": "",
+      "documentDate": "2026-03-31 15:53",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "3c7b4194dde73a6e07430dbea9b8b9d2a025dc4fe0cfe3d1fca2dbd10cfbd49e",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "a414e8de3895b995",
       "region": "山东",
       "date": "2026-03-27",
@@ -9583,18 +11890,18 @@
       "sourceCount": 1
     },
     {
-      "id": "35e04fc822402b68",
+      "id": "9a586be18a153623",
       "region": "山东",
-      "date": "2026-03-27",
+      "date": "2026-03-26",
       "title": "关于印发《山东省促进虚拟电厂高质量发展方案》的通知",
-      "agency": "山东省能源局",
-      "url": "http://nyj.shandong.gov.cn/art/2026/3/27/art_59960_10311577.html",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/3/26/art_306787_88309.html",
       "note": "",
-      "documentDate": "2026-03-27 15:16",
-      "sourceId": "sd-nyj-notices",
-      "firstSeenAt": "2026-10-21T17:59:11.535Z",
-      "lastCheckedAt": "2026-10-31T13:07:00.004Z",
-      "contentHash": "6f833bbdb6451cc61eb151966e4a56cd85c4c5c0bc1eb9d9bf5216adda72cc53",
+      "documentDate": "2026-03-26 15:56",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "2b2248c3b8f181f4f0ab793a62fe5c75ed48d3c652b03ebe2b79e2ebb800092d",
       "detailStatus": "read",
       "attachments": [
         {
@@ -9603,6 +11910,32 @@
         }
       ],
       "contentKind": "政策动态",
+      "otherSources": [
+        {
+          "agency": "山东省能源局",
+          "title": "关于印发《山东省促进虚拟电厂高质量发展方案》的通知",
+          "url": "http://nyj.shandong.gov.cn/art/2026/3/27/art_59960_10311577.html",
+          "date": "2026-03-27"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "9012d9b133937f6e",
+      "region": "山东",
+      "date": "2026-03-26",
+      "title": "解读《山东省促进虚拟电厂高质量发展方案》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/3/26/art_91410_10524925.html",
+      "note": "",
+      "documentDate": "2026-03-26 16:24",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "6a91ee0d1d7ea9f72ff6baf00d965e3e80ce856609a4720028bf92048a76d528",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -9652,11 +11985,26 @@
         {
           "title": "山东省虚拟电厂建设运行管理办法（征求意见稿）",
           "url": "http://nyj.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=28397e5c97a548b4ade4ac81e7ec6ec1.pdf"
+        },
+        {
+          "title": "山东省虚拟电厂建设运行管理办法（征求意见稿）.pdf",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=c7513c8c583346028d607cf70e05eeb8.pdf"
+        },
+        {
+          "title": "《山东省虚拟电厂建设运行管理办法》起草说明.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=df709b46249b41dc838f7935272bb1c9.docx"
         }
       ],
       "contentKind": "征求意见",
-      "otherSources": [],
-      "sourceCount": 1
+      "otherSources": [
+        {
+          "agency": "山东省发展改革委",
+          "title": "《山东省虚拟电厂建设运行管理办法（征求意见稿）》征求意见公告",
+          "url": "http://fgw.shandong.gov.cn/art/2026/3/17/art_115442_10485512.html",
+          "date": "2026-03-17"
+        }
+      ],
+      "sourceCount": 2
     },
     {
       "id": "572fc993aa0921df",
@@ -9707,6 +12055,73 @@
       "sourceCount": 1
     },
     {
+      "id": "0e9805bb45114660",
+      "region": "山东",
+      "date": "2026-03-04",
+      "title": "关于做好2026年第二季度全省电力市场建设有关工作的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/3/4/art_306787_79137.html",
+      "note": "",
+      "documentDate": "2026-03-04 15:35",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "8216339049fe60c504b159390a2d0fee432e67b478d7431ae813abca4f15c3e6",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "f3038b27849c54d2",
+      "region": "山东",
+      "date": "2026-03-02",
+      "title": "山东省发展和改革委员会 山东省能源局关于公布2026年山东省新能源机制电价竞价结果的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/3/2/art_306787_79125.html",
+      "note": "",
+      "documentDate": "2026-03-02 16:57",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "77aeec6001b94bf6b3589831a99efe2dd6348b52cd29834eef86e2b57ace1597",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件：山东省2026年度新能源机制电价竞价结果.pdf",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=7e9726421c644de8b5cb4a636d0ee3f8.pdf"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "9a7b16a2e6944d2c",
+      "region": "山东",
+      "date": "2026-02-28",
+      "title": "关于公布2026年山东省新能源机制电价竞价结果的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/2/28/art_306787_87669.html",
+      "note": "",
+      "documentDate": "2026-02-28 08:58",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "52a669d9752b1dc29bb6971c587aaca04eda28d9a6e8c4f74a42e55857f19dfb",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件：山东省2026年度新能源机制电价竞价结果.pdf",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=949cb7f4db574a6c9fab17e641d2fbbc.pdf"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "7c44d800c994a38e",
       "region": "国家",
       "date": "2026-02-26",
@@ -9722,6 +12137,25 @@
       "detailStatus": "read",
       "attachments": [],
       "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "ee186dc00b8109c4",
+      "region": "山东",
+      "date": "2026-02-12",
+      "title": "分布式新能源全量入市结算政策解读（一图读懂）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2026/2/12/art_91687_10483760.html",
+      "note": "",
+      "documentDate": "2026-02-12 19:20",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "0a3b6edb92fe9c4e55752c752c992198f35437be54621682b33e57228121f9ca",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -9788,6 +12222,30 @@
       "sourceCount": 1
     },
     {
+      "id": "528083972b6f0dc9",
+      "region": "山东",
+      "date": "2026-02-01",
+      "title": "关于公开征求《山东省发展和改革委员会关于进一步完善工商业非电网直供环节电价政策的通知（征求意见稿）》意见建议的公告",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/2/1/art_115442_10484106.html",
+      "note": "",
+      "documentDate": "2026-02-01 09:38",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "55dd724d08a85f44ff02aa71f20f8690b4e29b300e180b867113631c31bab7be",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "关于进一步完善工商业非电网直供环节电价政策有关事项的通知（征求意见稿）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=7b08c2d6ed484d56abe502b9f385a7bb.docx"
+        }
+      ],
+      "contentKind": "征求意见",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "1a4fc416ca30ceda",
       "region": "国家",
       "date": "2026-01-30",
@@ -9841,6 +12299,25 @@
       "detailStatus": "read",
       "attachments": [],
       "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "17094be09d90e7c1",
+      "region": "山东",
+      "date": "2026-01-12",
+      "title": "关于2026—2027年生物天然气电价政策有关事项的函",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2026/1/12/art_306787_87849.html",
+      "note": "",
+      "documentDate": "2026-01-12 17:45",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "c13c9e2e4e0d571bcde1fc52c8b127767abdec5cb0ccc87a24a76566c2f361e7",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -9930,6 +12407,25 @@
           "url": "https://www.nea.gov.cn/20251231/a6f4a56fd3534e208cc27143af651cb4/20251231a6f4a56fd3534e208cc27143af651cb4_5427f4a0c6a71948deba30243aab818b20.docx"
         }
       ],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "3068adc43dbe930b",
+      "region": "山东",
+      "date": "2025-12-31",
+      "title": "山东省发展和改革委员会 山东省能源局关于将华能陇东能源有限责任公司正宁电厂#1、#2号机组补充纳入适用煤电容量电价机制机组清单的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/31/art_306787_88289.html",
+      "note": "",
+      "documentDate": "2025-12-31 15:45",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "e07e750806ef84707209e93ad63c2a6cf067bbab45b396157668035c87fcb5de",
+      "detailStatus": "read",
+      "attachments": [],
       "contentKind": "政策动态",
       "otherSources": [],
       "sourceCount": 1
@@ -10035,6 +12531,32 @@
       "sourceCount": 1
     },
     {
+      "id": "958f4045e974cb7e",
+      "region": "山东",
+      "date": "2025-12-22",
+      "title": "关于2026年新能源机制电价竞价工作有关事项的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/22/art_306787_87729.html",
+      "note": "",
+      "documentDate": "2025-12-22 09:38",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "30c17dbbaebfc23d650d373a434eeffb6c91ab1d3ca46e8111cd302ff33de4d1",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [
+        {
+          "agency": "山东省发展改革委价格处",
+          "title": "关于2026年新能源机制电价竞价工作有关事项的通知（鲁发改价格〔2025〕904号）",
+          "url": "http://fgw.shandong.gov.cn/art/2025/12/22/art_91687_10480950.html",
+          "date": "2025-12-22"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
       "id": "a9d574a47a4b3c76",
       "region": "国家",
       "date": "2025-12-17",
@@ -10090,6 +12612,92 @@
       "firstSeenAt": "2026-10-22T07:28:02.746Z",
       "lastCheckedAt": "2026-10-31T13:03:40.889Z",
       "contentHash": "247f730127a3e3d9f4da178c7fa0776eb8bd4080cd2e8c12e42c1e4dc200b9c5",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "6411c316e0188f78",
+      "region": "山东",
+      "date": "2025-12-12",
+      "title": "关于印发《山东省新能源可持续发展差价结算实施细则》的通知(鲁发改价格〔2025〕871号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/12/art_91687_10480213.html",
+      "note": "",
+      "documentDate": "2025-12-12 18:49",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "7331b51d5ed001b4467a6fe0f3d6b4aebe7cfe6a137e9ffe86f100a08a311954",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "山东省新能源可持续发展差价结算实施细则.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=a8fcc9b20edb4e32a78bb5458979c315.docx"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "484d484f5ceefc10",
+      "region": "山东",
+      "date": "2025-12-12",
+      "title": "关于印发《山东省电力零售市场价格风险防控实施细则》的通知（鲁发改价格〔2025〕872号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/12/art_91687_10480212.html",
+      "note": "",
+      "documentDate": "2025-12-12 18:42",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "993120074a576b73fe82f4753c164b85d6abb8a89fc95d2c943b67c8b8d035a5",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "山东省电力零售市场价格风险防控实施细则.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=5968bf29712b4f1b854667ad88ffa6e6.docx"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "0354a7498757bd96",
+      "region": "山东",
+      "date": "2025-12-12",
+      "title": "解读《山东省电力零售市场价格风险防控实施细则》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/12/art_91410_10481511.html",
+      "note": "",
+      "documentDate": "2025-12-12 16:36",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "8cb4c3d939c847bcd6a6b69481190ff9b55d7061434331968042a1ba8f06b044",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "43630e510333f47c",
+      "region": "山东",
+      "date": "2025-12-12",
+      "title": "解读《山东省新能源可持续发展差价结算实施细则》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/12/art_91410_10481510.html",
+      "note": "",
+      "documentDate": "2025-12-12 16:31",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "08d5e684913c26cc6a2914cdd9909e111f3da5c5a0dba44ed8327e2c0ee00cbe",
       "detailStatus": "read",
       "attachments": [],
       "contentKind": "解读",
@@ -10155,6 +12763,38 @@
       "detailStatus": "read",
       "attachments": [],
       "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "6c7ca8e2aefdc23d",
+      "region": "山东",
+      "date": "2025-12-01",
+      "title": "关于公开征求《山东省新能源可持续发展差价结算实施细则》《山东省电力零售市场价格风险防控实施细则》意见建议的公告",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/12/1/art_115442_10479065.html",
+      "note": "",
+      "documentDate": "2025-12-01 21:25",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "c2a3069e1389f8f8ffb27c3998ddf53bceda60507d43c0f468af3375a9852a63",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件1：山东省新能源可持续发展差价结算实施细则（征求意见稿）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=c6f766d9aec946938357f5149484bac4.docx"
+        },
+        {
+          "title": "附件2：山东省电力零售市场价格风险防控实施细则（征求意见稿）.doc",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=bcf221a384f84e0c969e40e46bd89c25.doc"
+        },
+        {
+          "title": "关于山东省电力零售用户封顶价格的计算示例.docx",
+          "url": "http://172.20.232.124/module/download/downfile.jsp?classid=0&filename=2b6970457d6c410a8eda1cff4bbc58ed.docx"
+        }
+      ],
+      "contentKind": "政策动态",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -10366,6 +13006,25 @@
       "sourceCount": 1
     },
     {
+      "id": "3e67609d17702d6f",
+      "region": "山东",
+      "date": "2025-11-07",
+      "title": "山东省发展和改革委员会 山东省能源局关于将山东华泰热力有限公司#2等机组补充纳入适用煤电容量电价机制机组清单的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/11/7/art_306787_88249.html",
+      "note": "",
+      "documentDate": "2025-11-07 15:18",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "bb07532422c3c28cdf15f83a04a1dba7e005d5067fd246d36c51e17cf55cb865",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "dd210151aabfecba",
       "region": "国家",
       "date": "2025-10-31",
@@ -10433,6 +13092,41 @@
       "sourceCount": 1
     },
     {
+      "id": "35bb9e4cc88481c6",
+      "region": "山东",
+      "date": "2025-10-09",
+      "title": "关于公布2025年山东省新能源机制电价竞价结果的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/10/9/art_306787_77499.html",
+      "note": "",
+      "documentDate": "2025-10-09 17:30",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "103346668a673433e4387a8362da47379fcc2b708a0f2946b444539ce369fc7d",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件：山东省2025年度新能源机制电价竞价结果.xlsx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=6def35e19979436ba4e856b6795c9c37.xlsx"
+        },
+        {
+          "title": "山东省2025年度新能源机制电价竞价结果.xlsx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=6f8a5e49457a41869b41ec17514c9544.xlsx"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [
+        {
+          "agency": "山东省发展改革委价格处",
+          "title": "关于公布2025年山东省新能源机制电价竞价结果的通知",
+          "url": "http://fgw.shandong.gov.cn/art/2025/10/9/art_91687_10476103.html",
+          "date": "2025-10-09"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
       "id": "e78c50bd16fdb12d",
       "region": "山东",
       "date": "2025-09-30",
@@ -10484,6 +13178,25 @@
       "detailStatus": "read",
       "attachments": [],
       "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "794f0db117efcd57",
+      "region": "山东",
+      "date": "2025-09-17",
+      "title": "媒体解读 | 关于印发《山东省新能源上网电价市场化改革实施方案》的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/9/17/art_91410_10481234.html",
+      "note": "",
+      "documentDate": "2025-09-17 15:06",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "1b6609f77dfaab8813556d2186fbe46bcc1a8fa64d169322951e5a6a0df24738",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -10748,6 +13461,239 @@
       "sourceCount": 1
     },
     {
+      "id": "796410fcc7224a46",
+      "region": "山东",
+      "date": "2025-08-28",
+      "title": "非电网直供环节电价政策明白纸",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/28/art_91687_10473623.html",
+      "note": "",
+      "documentDate": "2025-08-28 10:03",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "f5975fd23d85c23b95b55ef65693dc4307dcc592d7fdf942e511200f5023eb37",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "e367bb1f16abea64",
+      "region": "山东",
+      "date": "2025-08-08",
+      "title": "关于印发《山东省新能源机制电价竞价实施细则》的通知（鲁发改价格〔2025〕577号）",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_91082_10472526.html",
+      "note": "",
+      "documentDate": "2025-08-08 14:34",
+      "sourceId": "sd-fgw",
+      "firstSeenAt": "2026-10-31T13:16:25.340Z",
+      "lastCheckedAt": "2026-10-31T13:16:25.340Z",
+      "contentHash": "19427990296f28b863704d0768661d32ed2d84a34aadb09839dc4be2855ec74d",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "竞价信息填报承诺书（模板）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=783ea03c3fc14e0994ba5b23399de9be.docx"
+        },
+        {
+          "title": "附件",
+          "url": "http://172.20.232.124/module/download/downfile.jsp?classid=0&filename=66a37d8ed3d3458dbd45d2371a17c79f.docx"
+        },
+        {
+          "title": "分布式光伏项目竞价代理委托书（模板）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=66a37d8ed3d3458dbd45d2371a17c79f.docx"
+        },
+        {
+          "title": "附件",
+          "url": "http://172.20.232.124/module/download/downfile.jsp?classid=0&filename=6647d6a337504848b14e6355ed135809.docx"
+        },
+        {
+          "title": "竞价授权委托书（模板）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=6647d6a337504848b14e6355ed135809.docx"
+        },
+        {
+          "title": "附件",
+          "url": "http://172.20.232.124/module/download/downfile.jsp?classid=0&filename=b178db4e6c744798b8afa6be0d7c765a.docx"
+        },
+        {
+          "title": "见索即付履约保函（模板）.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=b178db4e6c744798b8afa6be0d7c765a.docx"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [
+        {
+          "agency": "山东省发展改革委价格处",
+          "title": "关于印发《山东省新能源机制电价竞价实施细则》的通知（鲁发改价格〔2025〕577号）",
+          "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_91687_10472524.html",
+          "date": "2025-08-08"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "ca6a6b421c8f40a3",
+      "region": "山东",
+      "date": "2025-08-08",
+      "title": "关于2025年新能源机制电价竞价工作有关事项的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_306787_77501.html",
+      "note": "",
+      "documentDate": "2025-08-08 18:13",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "a56c03de2bc3b2577c0685b03aa93796ff9b632f22125e70250e98db62f35664",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [
+        {
+          "agency": "山东省发展改革委",
+          "title": "关于2025年新能源机制电价竞价工作有关事项的通知（鲁发改价格〔2025〕578号）",
+          "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_91082_10472680.html",
+          "date": "2025-08-08"
+        },
+        {
+          "agency": "山东省发展改革委价格处",
+          "title": "关于2025年新能源机制电价竞价工作有关事项的通知（鲁发改价格〔2025〕578号）",
+          "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_91687_10472525.html",
+          "date": "2025-08-08"
+        }
+      ],
+      "sourceCount": 3
+    },
+    {
+      "id": "ffe00b329be965d4",
+      "region": "山东",
+      "date": "2025-08-08",
+      "title": "一图读懂《山东省新能源机制电价竞价实施细则》",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_91687_10472539.html",
+      "note": "",
+      "documentDate": "2025-08-08 16:03",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "995e9a5896a854cd712543f0510f073457e8fbda78c2dad204d833f47fa458c7",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "4b2c71ad4339d70b",
+      "region": "山东",
+      "date": "2025-08-08",
+      "title": "《山东省新能源机制电价竞价实施细则》政策解读",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/8/art_91687_10472523.html",
+      "note": "",
+      "documentDate": "2025-08-08 13:34",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "c2e70a59d1d17f3a38d54fc9db92482ccf7adce9c52f30d95ba883443f49dd6e",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "3e22064f3762a158",
+      "region": "山东",
+      "date": "2025-08-07",
+      "title": "关于印发《山东省新能源上网电价市场化改革实施方案》的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/7/art_306787_77500.html",
+      "note": "",
+      "documentDate": "2025-08-07 17:47",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "557b692631736743b4a67b17bb8e05abb568c46834b639ded22792339cbbc9d5",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [
+        {
+          "agency": "山东省发展改革委",
+          "title": "关于印发《山东省新能源上网电价市场化改革实施方案》的通知（鲁发改价格〔2025〕576号）",
+          "url": "http://fgw.shandong.gov.cn/art/2025/8/7/art_91082_10472502.html",
+          "date": "2025-08-07"
+        },
+        {
+          "agency": "山东省发展改革委价格处",
+          "title": "关于印发《山东省新能源上网电价市场化改革实施方案》的通知（鲁发改价格〔2025〕576号）",
+          "url": "http://fgw.shandong.gov.cn/art/2025/8/7/art_91687_10472554.html",
+          "date": "2025-08-07"
+        }
+      ],
+      "sourceCount": 3
+    },
+    {
+      "id": "58034189b7c0148e",
+      "region": "山东",
+      "date": "2025-08-07",
+      "title": "一图读懂《山东省新能源上网电价市场化改革实施方案》",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/7/art_91687_10472505.html",
+      "note": "",
+      "documentDate": "2025-08-07 17:13",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "ab3c777a96bacae85f790e619dbe09387769ba951d3d148f99049bd4b2ee3eec",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "64c38769331c8886",
+      "region": "山东",
+      "date": "2025-08-07",
+      "title": "《山东省新能源上网电价市场化改革实施方案》政策解读",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/7/art_91687_10472503.html",
+      "note": "",
+      "documentDate": "2025-08-07 17:02",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "3449c2e5052a63e89feffbaf886c034269d7663711a9f5b3a33503e1706e7316",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "c7a455a65db5aa22",
+      "region": "山东",
+      "date": "2025-08-07",
+      "title": "解读《山东省新能源上网电价市场化改革实施方案》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/7/art_91410_10478490.html",
+      "note": "",
+      "documentDate": "2025-08-07 17:58",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "a4fd5cde4cd2ecd8237cd896190f9b3eba8f8b1d72877b7331c7ad01f34df267",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "d4839499079845c0",
       "region": "国家",
       "date": "2025-08-06",
@@ -10807,6 +13753,44 @@
         }
       ],
       "sourceCount": 2
+    },
+    {
+      "id": "de3d9ae0771d6fc6",
+      "region": "山东",
+      "date": "2025-08-06",
+      "title": "解读《山东省新能源机制电价竞价实施细则》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/6/art_91410_10472687.html",
+      "note": "",
+      "documentDate": "2025-08-06 13:34",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "bcb26c5578cfba8834ee9e702943c0f9364917d979b0841e3e9b774dff36e7e5",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "d4af5d1d40d317ff",
+      "region": "山东",
+      "date": "2025-08-05",
+      "title": "关于将山东华泰热力有限公司#1等机组补充纳入适用煤电容量电价机制机组清单的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/8/5/art_306787_88229.html",
+      "note": "",
+      "documentDate": "2025-08-05 15:10",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "dc0357c1d31199abe7adf241cebc9afb093a217ccb3fdb6417e966dc6000a586",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
     },
     {
       "id": "b236ca5e5dffa0fd",
@@ -10896,6 +13880,30 @@
         {
           "title": "附件3：修改意见反馈表.pdf",
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202507/P020250729768089291149.pdf"
+        }
+      ],
+      "contentKind": "征求意见",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "62f55cb6cc2f4dfe",
+      "region": "山东",
+      "date": "2025-07-28",
+      "title": "关于公开征求《山东省新能源机制电价竞价实施细则（征求意见稿）》意见的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/7/28/art_115442_10472036.html",
+      "note": "",
+      "documentDate": "2025-07-28 10:31",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "698a25b20101f446745006febb75685726f2f2cab605722a75ce0c62c8ca75e6",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "附件：山东省新能源机制电价竞价实施细则（征求意见稿）.doc",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=5d38aa802acb41b194a1b586e2009cc0.doc"
         }
       ],
       "contentKind": "征求意见",
@@ -11886,6 +14894,25 @@
       "sourceCount": 1
     },
     {
+      "id": "52c0a993790ab42a",
+      "region": "山东",
+      "date": "2025-03-27",
+      "title": "关于京杭运河山东段新能源船舶实施免费过闸优惠的通知",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/3/27/art_91687_10470881.html",
+      "note": "",
+      "documentDate": "2025-03-27 10:08",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "65ce65e31ca7ebb41c4dc9c8150a8b26f6d73ac255d68842b7ceb65f52c5fcb6",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "3eca96919491ca82",
       "region": "国家",
       "date": "2025-03-25",
@@ -11900,6 +14927,30 @@
       "contentHash": "d3d29d32b1c2f275c32078a55831e75abac67423e583c61d7f6a6910b8b2ee5b",
       "detailStatus": "read",
       "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "c8653dd31ae9d245",
+      "region": "山东",
+      "date": "2025-03-24",
+      "title": "关于进一步明确粮食初加工用电价格政策有关事项的通知",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2025/3/24/art_91687_10463644.html",
+      "note": "",
+      "documentDate": "2025-03-24 17:04",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "09f75174b83952caf1ddefc32a8166f3b980b7dff60312f269342bae2bd73f9e",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "粮食初加工用电申请表.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=c3b31bcb7a0d43d78f0f817965747428.docx"
+        }
+      ],
       "contentKind": "政策动态",
       "otherSources": [],
       "sourceCount": 1
@@ -12197,6 +15248,25 @@
       "sourceCount": 1
     },
     {
+      "id": "26016084228a17e9",
+      "region": "山东",
+      "date": "2025-01-24",
+      "title": "关于进一步明确2025年新增新能源项目参与电力市场相关事项的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2025/1/24/art_306787_75414.html",
+      "note": "",
+      "documentDate": "2025-01-24 14:55",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "a9273f172ad15ed57b3d1730e4aeb0293b05d6ac9a04b8d2d2f30d64e965d827",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "ba01c7bb4c24ad0f",
       "region": "国家",
       "date": "2025-01-13",
@@ -12288,6 +15358,25 @@
         }
       ],
       "sourceCount": 2
+    },
+    {
+      "id": "967794391120e8b4",
+      "region": "山东",
+      "date": "2024-12-12",
+      "title": "关于做好2025年电力零售市场价格监管和服务工作的通知（鲁发改价格〔2024〕980号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2024/12/12/art_91687_10454482.html",
+      "note": "",
+      "documentDate": "2024-12-12 15:26",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "317eec26739c3201e365515c9832bc9fecf3956f2682777b8bb543b708b99136",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
     },
     {
       "id": "c2f469fd1e8d5524",
@@ -12477,6 +15566,44 @@
         }
       ],
       "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "6d5b9747bf35b28a",
+      "region": "山东",
+      "date": "2024-10-08",
+      "title": "关于农业生产分时电价政策有关事项的通知",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2024/10/8/art_91687_10448323.html",
+      "note": "",
+      "documentDate": "2024-10-08 16:22",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "a569d8bac78ea3571212d70e1a572fee9768c4be4e12fea3e4baa9b89eee5633",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "b597362759f3e1a7",
+      "region": "山东",
+      "date": "2024-10-08",
+      "title": "一图读懂：关于农业生产分时电价政策有关事项的通知",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2024/10/8/art_91687_10448771.html",
+      "note": "",
+      "documentDate": "2024-10-08 14:45",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "474b15ba253966c33322cd79f2e6f612b27f60123c14c6312e583f0fb9178bf3",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -13294,6 +16421,62 @@
       "sourceCount": 1
     },
     {
+      "id": "c1131aa6434fa563",
+      "region": "山东",
+      "date": "2024-03-14",
+      "title": "关于征集《关于民生采暖型燃煤背压机组两部制电价有关事项的通知》意见的公告",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2024/3/14/art_115442_10434658.html",
+      "note": "",
+      "documentDate": "2024-03-14 16:39",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "687a568b590d3f9cb564aa08d21169066a285f4528f82bfa1d0e3269dcc7ee75",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "《关于民生采暖型燃煤背压机组两部制电价有关事项的通知（征求意见稿）》解读说明.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=a39fc098328946118cdd85bbb8fbcb67.docx"
+        },
+        {
+          "title": "《关于民生采暖型燃煤背压机组两部制电价有关事项的通知》征求意见稿.doc",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=0bec04af6fe447f7bbc91d31746d492f.doc"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "33d907d64111ff64",
+      "region": "山东",
+      "date": "2024-03-14",
+      "title": "关于征集《关于居民阶梯电价制度有关事项的通知》意见的公告",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2024/3/14/art_115442_10434657.html",
+      "note": "",
+      "documentDate": "2024-03-14 16:35",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "5c44012974f80069e4cbce4a8055e9cbb554059f2bc4a9923e984b0de28472d2",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "《关于居民阶梯电价制度有关事项的通知（征求意见稿）》解读说明.docx",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=6299a645e1a646f7acab37466aba53c2.docx"
+        },
+        {
+          "title": "《关于居民阶梯电价制度有关事项的通知》征求意见稿.doc",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=79e34a7ed545401d9533194f62dfa706.doc"
+        }
+      ],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "331b42dfd0dc357d",
       "region": "国家",
       "date": "2024-02-27",
@@ -13607,6 +16790,25 @@
       "sourceCount": 1
     },
     {
+      "id": "de79e381a40366a8",
+      "region": "山东",
+      "date": "2023-12-25",
+      "title": "关于贯彻发改价格〔2023〕1501号文件完善我省容量电价机制有关事项的通知（鲁发改价格〔2023〕1022号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/12/25/art_91687_10422922.html",
+      "note": "",
+      "documentDate": "2023-12-25 17:41",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "c7543ab8745d6a0493628578cb77fc7b0207a27643458ee458f8f29abcf3507a",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "ab237f98f39411af",
       "region": "国家",
       "date": "2023-12-01",
@@ -13640,6 +16842,25 @@
         }
       ],
       "sourceCount": 2
+    },
+    {
+      "id": "9f5264442379dafb",
+      "region": "山东",
+      "date": "2023-11-24",
+      "title": "关于进一步优化工商业分时电价政策的通知（鲁发改价格〔2023〕914号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/11/24/art_91687_10420246.html",
+      "note": "",
+      "documentDate": "2023-11-24 09:37",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "de53d219910357acd485142232bb4f6b8247fd25db7ce83e523d9f86b568c4c9",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
     },
     {
       "id": "f2c85fc802d514ba",
@@ -13890,6 +17111,25 @@
       "sourceCount": 1
     },
     {
+      "id": "1f5761350e28980e",
+      "region": "山东",
+      "date": "2023-10-15",
+      "title": "关于征求《关于进一步优化工商业分时电价政策的通知（征求意见稿）》意见的公告",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/10/15/art_91687_10418510.html",
+      "note": "",
+      "documentDate": "2023-10-15 11:12",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "bee1367635818b6ff99b6143fb136e8a76ffe81a32959e152201b81f8befe712",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "征求意见",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "6ec207ed59815f0c",
       "region": "国家",
       "date": "2023-10-14",
@@ -14023,6 +17263,44 @@
         }
       ],
       "sourceCount": 2
+    },
+    {
+      "id": "c3ad6e93e1d34a3d",
+      "region": "山东",
+      "date": "2023-08-31",
+      "title": "山东省发展和改革委员会关于印发《山东省售电公司信用评价管理办法（试行）》的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2023/8/31/art_306787_61890.html",
+      "note": "",
+      "documentDate": "2023-08-31 09:25",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "066e0e70347b634cf2b2f8ec9d05346c03d45358d687e9ac81487d9d968ba0f3",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "482b6178b1f234c3",
+      "region": "山东",
+      "date": "2023-08-31",
+      "title": "解读《关于印发〈山东省售电公司信用评价管理办法（试行）〉的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2023/8/31/art_91410_10411616.html",
+      "note": "",
+      "documentDate": "2023-08-31 15:51",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "676fd46e9ae5c92260d54ae149c69e81996a22c5875b75ac9204e3f2b8cb37dd",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
     },
     {
       "id": "5ba5dd010b8ab409",
@@ -14298,6 +17576,51 @@
       "sourceCount": 1
     },
     {
+      "id": "4d21dc0fc7a9e994",
+      "region": "山东",
+      "date": "2023-07-31",
+      "title": "《关于进一步完善居民电动汽车充电桩分时电价政策的通知》政策解读",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/7/31/art_91687_10407939.html",
+      "note": "",
+      "documentDate": "2023-07-31 10:42",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "91e781958b50b85927a2423883319449b2a6b6e9ae6ba1597b92355cc5e8cb76",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "dba6dd64dc90373d",
+      "region": "山东",
+      "date": "2023-07-28",
+      "title": "关于进一步完善居民电动汽车充电桩分时电价政策的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2023/7/28/art_306787_59184.html",
+      "note": "",
+      "documentDate": "2023-07-28 13:07",
+      "sourceId": "sd-fgw-other",
+      "firstSeenAt": "2026-10-31T13:16:49.407Z",
+      "lastCheckedAt": "2026-10-31T13:16:49.407Z",
+      "contentHash": "9cc9a0727e230d2a6dbbcc8b49376d3b4b5aea3539bf2e0a9154d496c4b051a9",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [
+        {
+          "agency": "山东省发展改革委价格处",
+          "title": "关于进一步完善居民电动汽车充电桩分时电价政策的通知(鲁发改价格〔2023〕594号)",
+          "url": "http://fgw.shandong.gov.cn/art/2023/7/31/art_91687_10407936.html",
+          "date": "2023-07-31"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
       "id": "48ff20e1ec3bfbf3",
       "region": "山东",
       "date": "2023-07-24",
@@ -14478,6 +17801,34 @@
       "sourceCount": 1
     },
     {
+      "id": "7783bff2f63081e0",
+      "region": "山东",
+      "date": "2023-06-25",
+      "title": "关于征求《山东省售电公司信用评价管理办法（试行）》（征求意见稿）规范性文件意见的通知",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2023/6/25/art_115442_10403153.html",
+      "note": "",
+      "documentDate": "2023-06-25 11:14",
+      "sourceId": "sd-fgw-consultation",
+      "firstSeenAt": "2026-10-31T13:17:08.794Z",
+      "lastCheckedAt": "2026-10-31T13:17:08.794Z",
+      "contentHash": "4d2aa18a102c17b192f3f1524af6c3d20af584185e614bdc79d8349db6f8ad1f",
+      "detailStatus": "read",
+      "attachments": [
+        {
+          "title": "《山东省售电公司信用评价管理办法（试行）》（征求意见稿）.pdf",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=0a2982e8438d458683b1f78ac519387b.pdf"
+        },
+        {
+          "title": "关于《山东省售电公司信用评价管理办法（试行）》（征求意见稿）的起草说明.pdf",
+          "url": "http://fgw.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=68b0c19435d24892bb449f5dbd9c46bd.pdf"
+        }
+      ],
+      "contentKind": "征求意见",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "75906d483859844c",
       "region": "国家",
       "date": "2023-06-16",
@@ -14537,6 +17888,25 @@
       "firstSeenAt": "2026-10-21T02:36:05.617Z",
       "lastCheckedAt": "2026-10-21T02:36:05.617Z",
       "contentHash": "9adae9bf1413afcce6db3d2b1b006c870773006c7b478aabf0d23e89925f6a6d",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "cffacd3ccf5bf65c",
+      "region": "山东",
+      "date": "2023-05-29",
+      "title": "关于山东电网第三周期输配电价及有关事项的通知(鲁发改价格〔2023〕393号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/5/29/art_91687_10399669.html",
+      "note": "",
+      "documentDate": "2023-05-29 09:55",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "9325bc43ead074031b946bc13e6131623160f503fa4538a51d83e8432327536c",
       "detailStatus": "read",
       "attachments": [],
       "contentKind": "政策动态",
@@ -14795,6 +18165,63 @@
       "sourceCount": 1
     },
     {
+      "id": "7743b0ab473f134e",
+      "region": "山东",
+      "date": "2023-03-14",
+      "title": "解读《关于印发〈山东省电力市场体系建设工作分工方案〉的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2023/3/14/art_91410_10388205.html",
+      "note": "",
+      "documentDate": "2023-03-14 14:24",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "d58eeb77a27ae89d8ae051556eadd2a34ddd7ad637db9079ef8c8c9addeec79d",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "7b5baad525513d74",
+      "region": "山东",
+      "date": "2023-03-14",
+      "title": "解读《关于水泥焦化企业超低排放差别化电价政策有关事项的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2023/3/14/art_91410_10391485.html",
+      "note": "",
+      "documentDate": "2023-03-14 12:13",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "cb2efd3fcac9921c787560626ee382e97b2a24d73312a9f57c2675ed49be8f67",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "e24bdb7905f60e7c",
+      "region": "山东",
+      "date": "2023-03-13",
+      "title": "关于水泥焦化企业超低排放差别化电价政策有关事项的通知（鲁发改价格〔2023〕168号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/3/13/art_91687_10391456.html",
+      "note": "",
+      "documentDate": "2023-03-13 11:20",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "f8d7d9cf592fba2b929a962ba2efeecf159829aca1f9fdc0512da472dc9e614a",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "5103a23649a7bdea",
       "region": "山东",
       "date": "2023-03-08",
@@ -14826,6 +18253,44 @@
       "firstSeenAt": "2026-10-21T02:36:05.617Z",
       "lastCheckedAt": "2026-10-21T02:36:05.617Z",
       "contentHash": "343d6b5a0677d356f02eca22798c00c6e28cd43d63e3e2d4f1a93644e9a385c0",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "e2938d08265fccc5",
+      "region": "山东",
+      "date": "2023-02-23",
+      "title": "关于2022年电解铝水泥钢铁企业阶梯电价有关事项的通知(鲁发改价格〔2023〕125号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/2/23/art_91687_10391455.html",
+      "note": "",
+      "documentDate": "2023-02-23 11:19",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "c5359edbcef80e21c640c9b0ee9ad6a8801b929d3e1a27058251802b63de63ab",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "ccb76a721fd8d160",
+      "region": "山东",
+      "date": "2023-01-16",
+      "title": "关于居民住宅小区电动自行车用电价格政策有关事项的通知(鲁发改价格〔2023〕39号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2023/1/16/art_91687_10383244.html",
+      "note": "",
+      "documentDate": "2023-01-16 18:08",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "9eeb6d08adc761f4a9ff0cd3bca3592f00bd5ca28a97290db7604d300fe588e1",
       "detailStatus": "read",
       "attachments": [],
       "contentKind": "政策动态",
@@ -14914,6 +18379,25 @@
       "sourceCount": 1
     },
     {
+      "id": "eb3667bd341481a7",
+      "region": "山东",
+      "date": "2022-12-10",
+      "title": "关于2023年生物质发电电价补贴有关事项的通知(鲁发改价格〔2022〕1028号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/12/10/art_91687_10378948.html",
+      "note": "",
+      "documentDate": "2022-12-10 14:17",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "0109135db79ed7f0db736cf50b82cbdb99fe40a73e0f02b3b1fc82f5e39f66fb",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "167315a845941067",
       "region": "国家",
       "date": "2022-12-06",
@@ -14961,6 +18445,25 @@
       "sourceCount": 1
     },
     {
+      "id": "f3f3b44480618d8f",
+      "region": "山东",
+      "date": "2022-11-16",
+      "title": "解读《关于做好2023年全省电力中长期和零售合同签订工作的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2022/11/16/art_91410_10373443.html",
+      "note": "",
+      "documentDate": "2022-11-16 14:42",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "507f70b2d3144a80c9c12ef31365470f0c7031a139fb7103869995872ac62839",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "275e5b632474c261",
       "region": "山东",
       "date": "2022-11-07",
@@ -14973,6 +18476,25 @@
       "firstSeenAt": "2026-10-21T02:36:05.617Z",
       "lastCheckedAt": "2026-10-21T02:36:05.617Z",
       "contentHash": "9d97fb3e54c57b64fccab53b5d63aa3e8e26cb73b023aedeff283066102626fc",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "cd4e572e21266c87",
+      "region": "山东",
+      "date": "2022-10-31",
+      "title": "​关于生物质发电上网电价有关事项的通知( 鲁发改价格〔2022〕916号 )",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/10/31/art_91687_10371513.html",
+      "note": "",
+      "documentDate": "2022-10-31 15:27",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "b2f79bffe6336c01a8c1b842193c7866f2479d1944c2b58e3f3e30c85b052145",
       "detailStatus": "read",
       "attachments": [],
       "contentKind": "政策动态",
@@ -15109,6 +18631,25 @@
       "sourceCount": 1
     },
     {
+      "id": "e1a7036f022809c4",
+      "region": "山东",
+      "date": "2022-06-28",
+      "title": "关于2022年炼化焦化企业阶梯电价有关事项的通知(鲁发改价格〔2022〕910号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/6/28/art_91687_10378834.html",
+      "note": "",
+      "documentDate": "2022-06-28 11:20",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "c4c210575fd10792119dedbee719230b6e0bdd4c9f16eefcece49524a67aad09",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "c74a3ff4b4b1299f",
       "region": "山东",
       "date": "2022-06-10",
@@ -15185,6 +18726,25 @@
       "sourceCount": 1
     },
     {
+      "id": "1a55eefbd62906d5",
+      "region": "山东",
+      "date": "2022-05-30",
+      "title": "关于青岛顺安热电有限公司等民生采暖型燃煤背压机组两部制电价的批复(鲁发改价格〔2022〕464号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/5/30/art_91687_10378833.html",
+      "note": "",
+      "documentDate": "2022-05-30 11:18",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "78e3dbdb6bb010f10218eb9035bc9961c190cbd37446f9ff69c26786bc5d00c2",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "417e71e537499486",
       "region": "国家",
       "date": "2022-05-13",
@@ -15252,6 +18812,25 @@
       "sourceCount": 1
     },
     {
+      "id": "a53b0ba5cc04e7e7",
+      "region": "山东",
+      "date": "2022-04-29",
+      "title": "关于钢铁企业超低排放差别化电价政策有关事项的通知(鲁发改价格〔2022〕350号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/4/29/art_91687_10350943.html",
+      "note": "",
+      "documentDate": "2022-04-29 09:02",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "5e4f80c9218c13bccb2e1b4747847a350436e0ce28c0018623ff6dd57e8aa1b3",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "8b33cb7c916f68c7",
       "region": "山东",
       "date": "2022-04-27",
@@ -15267,6 +18846,25 @@
       "detailStatus": "read",
       "attachments": [],
       "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "83fa11cf790ece2c",
+      "region": "山东",
+      "date": "2022-04-27",
+      "title": "解读《关于钢铁企业超低排放差别化电价政策有关事项的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2022/4/27/art_91410_10379186.html",
+      "note": "",
+      "documentDate": "2022-04-27 17:00",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "b83422ef4086d042719f2810bd572386a1db70136c6a9260c27953f088f4b460",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -15328,6 +18926,82 @@
       "sourceCount": 1
     },
     {
+      "id": "b87adaecb81f636b",
+      "region": "山东",
+      "date": "2022-03-30",
+      "title": "关于工商业非电网直供环节电价政策有关事项的通知(鲁发改价格〔2022〕248号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/30/art_91687_10347073.html",
+      "note": "",
+      "documentDate": "2022-03-30 17:50",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "18dbc998496f4e825c8582266e5a702007ccfe55a25e7fb7abb2d7b5124a8773",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "a14641fc269a5fa3",
+      "region": "山东",
+      "date": "2022-03-30",
+      "title": "关于电力现货市场容量补偿电价有关事项的通知(鲁发改价格〔2022〕247号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/30/art_91687_10347028.html",
+      "note": "",
+      "documentDate": "2022-03-30 09:44",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "92f72cfc0a61bb717d0083f81ba80d6c2b27fb4ebf6d20f80eb273f232a21b98",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "7ec05982650d5002",
+      "region": "山东",
+      "date": "2022-03-29",
+      "title": "解读《关于工商业非电网直供环节电价政策有关事项的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/29/art_91410_10379184.html",
+      "note": "",
+      "documentDate": "2022-03-29 16:56",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "a4575c865363d6aee46bb9d8ccc62855137e9c70874984f3642e59c71d84e7a6",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "3f2114868ab06f09",
+      "region": "山东",
+      "date": "2022-03-29",
+      "title": "解读《关于电力现货市场容量补偿电价有关事项的通知》",
+      "agency": "山东省发展改革委",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/29/art_91410_10379178.html",
+      "note": "",
+      "documentDate": "2022-03-29 16:48",
+      "sourceId": "sd-fgw-interpretation",
+      "firstSeenAt": "2026-10-31T13:17:02.259Z",
+      "lastCheckedAt": "2026-10-31T13:17:02.259Z",
+      "contentHash": "3fa2b607016b072fa7ca0cd338a6f5d7c34d283f5a1991e1cee6af8d56c351fb",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
       "id": "4a260196c1ffadda",
       "region": "国家",
       "date": "2022-03-21",
@@ -15378,6 +19052,82 @@
       "detailStatus": "read",
       "attachments": [],
       "contentKind": "解读",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "fbde843924f8ad1b",
+      "region": "山东",
+      "date": "2022-03-14",
+      "title": "关于新冠肺炎疫情防控期间支持性电价政策有关事项的函（鲁发改价格函〔2022〕25号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/14/art_91687_10345006.html",
+      "note": "",
+      "documentDate": "2022-03-14 20:07",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "59eb16152202eaffe1326f3eccb44d0af726875e628a21fde0c5345188fba1ee",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "fe7b9d4815d969d5",
+      "region": "山东",
+      "date": "2022-03-04",
+      "title": "关于完善居民分时电价政策的通知(鲁发改价格〔2022〕158号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/4/art_91687_10343992.html",
+      "note": "",
+      "documentDate": "2022-03-04 19:14",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "ca0a57b0614aaaeb76c8a2b421393cf6aa75c052e727898b792fae36e7abb298",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "910958680d4fef3e",
+      "region": "山东",
+      "date": "2022-03-02",
+      "title": "关于天然气发电价格政策有关事项的通知(鲁发改价格〔2022〕154号）",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/3/2/art_91687_10345005.html",
+      "note": "",
+      "documentDate": "2022-03-02 20:05",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "6357da301db36dd39555c9549f33886015bbc5b84806122a40239743a6242b8a",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
+      "otherSources": [],
+      "sourceCount": 1
+    },
+    {
+      "id": "17e004db5f1a4d6b",
+      "region": "山东",
+      "date": "2022-01-29",
+      "title": "关于进一步完善燃煤发电机组环保电价政策的通知(鲁发改价格〔2022〕74号)",
+      "agency": "山东省发展改革委价格处",
+      "url": "http://fgw.shandong.gov.cn/art/2022/1/29/art_91687_10343228.html",
+      "note": "",
+      "documentDate": "2022-01-29 15:34",
+      "sourceId": "sd-fgw-price",
+      "firstSeenAt": "2026-10-31T13:16:34.532Z",
+      "lastCheckedAt": "2026-10-31T13:16:34.532Z",
+      "contentHash": "efed9e670a49344b8ff4c35b7c15bc0e47393335bc7fb3b0f351ce7e0c3a52d1",
+      "detailStatus": "read",
+      "attachments": [],
+      "contentKind": "政策动态",
       "otherSources": [],
       "sourceCount": 1
     },
@@ -15440,8 +19190,8 @@
     }
   ],
   "cleanup": {
-    "input": 415,
-    "displayed": 340,
+    "input": 517,
+    "displayed": 427,
     "excluded": [
       {
         "id": "4896f4c2a6222b29",
@@ -15896,6 +19646,20 @@
         ]
       },
       {
+        "title": "关于印发《山东省促进虚拟电厂高质量发展方案》的通知",
+        "urls": [
+          "http://nyj.shandong.gov.cn/art/2026/3/27/art_59960_10311577.html",
+          "http://fgw.shandong.gov.cn/art/2026/3/26/art_306787_88309.html"
+        ]
+      },
+      {
+        "title": "《山东省虚拟电厂建设运行管理办法（征求意见稿）》征求意见公告",
+        "urls": [
+          "http://nyj.shandong.gov.cn/art/2026/3/16/art_59960_10311433.html",
+          "http://fgw.shandong.gov.cn/art/2026/3/17/art_115442_10485512.html"
+        ]
+      },
+      {
         "title": "关于同意南方区域电力市场转入正式运行的复函",
         "urls": [
           "https://www.ndrc.gov.cn/xwdt/tzgg/202610/t20261028_1408425.html",
@@ -15921,6 +19685,85 @@
         "urls": [
           "https://yyglxxbsgw.ndrc.gov.cn/htmls/article/article.html?articleId=2c97d16b-8678801b-018c-231ad7fc-0070",
           "https://zfxxgk.nea.gov.cn/2023-12/01/c_1310753193.htm"
+        ]
+      },
+      {
+        "title": "关于印发《山东省新能源机制电价竞价实施细则》的通知（鲁发改价格〔2025〕577号）",
+        "urls": [
+          "http://fgw.shandong.gov.cn/art/2025/8/8/art_91082_10472526.html",
+          "http://fgw.shandong.gov.cn/art/2025/8/8/art_91687_10472524.html"
+        ]
+      },
+      {
+        "title": "关于2025年新能源机制电价竞价工作有关事项的通知（鲁发改价格〔2025〕578号）",
+        "urls": [
+          "http://fgw.shandong.gov.cn/art/2025/8/8/art_91082_10472680.html",
+          "http://fgw.shandong.gov.cn/art/2025/8/8/art_91687_10472525.html",
+          "http://fgw.shandong.gov.cn/art/2025/8/8/art_306787_77501.html"
+        ]
+      },
+      {
+        "title": "关于印发《山东省新能源上网电价市场化改革实施方案》的通知（鲁发改价格〔2025〕576号）",
+        "urls": [
+          "http://fgw.shandong.gov.cn/art/2025/8/7/art_91082_10472502.html",
+          "http://fgw.shandong.gov.cn/art/2025/8/7/art_91687_10472554.html",
+          "http://fgw.shandong.gov.cn/art/2025/8/7/art_306787_77500.html"
+        ]
+      },
+      {
+        "title": "关于新能源机制电价竞价有关事项的函",
+        "urls": [
+          "http://fgw.shandong.gov.cn/art/2026/9/21/art_91687_10514485.html",
+          "http://fgw.shandong.gov.cn/art/2026/9/21/art_306787_87829.html"
+        ]
+      },
+      {
+        "title": "关于进一步优化分时电价机制的函",
+        "urls": [
+          "http://fgw.shandong.gov.cn/art/2026/9/7/art_91687_10508305.html",
+          "http://fgw.shandong.gov.cn/art/2026/9/7/art_306787_87709.html"
+        ]
+      },
+      {
+        "title": "关于2025-2027年开工抽水蓄能电站电价政策有关事项的通知(鲁发改价格〔2026〕627号)",
+        "urls": [
+          "http://fgw.shandong.gov.cn/art/2026/8/25/art_91687_10500667.html",
+          "http://fgw.shandong.gov.cn/art/2026/8/24/art_306787_87609.html"
+        ]
+      },
+      {
+        "title": "山东省发展和改革委员会 山东省能源局关于贯彻发改价格〔2025〕1192号文件支持新能源就近消纳价格政策有关事项的通知（鲁发改价格〔2026〕554号）",
+        "urls": [
+          "http://fgw.shandong.gov.cn/art/2026/7/30/art_91687_10494042.html",
+          "http://fgw.shandong.gov.cn/art/2026/7/27/art_306787_87610.html"
+        ]
+      },
+      {
+        "title": "关于山东电网第四监管周期输配电价及有关事项的通知（鲁发改价格〔2026〕556号）",
+        "urls": [
+          "http://fgw.shandong.gov.cn/art/2026/7/30/art_91687_10494033.html",
+          "http://fgw.shandong.gov.cn/art/2026/7/28/art_306787_87689.html"
+        ]
+      },
+      {
+        "title": "关于2026年新能源机制电价竞价工作有关事项的通知（鲁发改价格〔2025〕904号）",
+        "urls": [
+          "http://fgw.shandong.gov.cn/art/2025/12/22/art_91687_10480950.html",
+          "http://fgw.shandong.gov.cn/art/2025/12/22/art_306787_87729.html"
+        ]
+      },
+      {
+        "title": "关于公布2025年山东省新能源机制电价竞价结果的通知",
+        "urls": [
+          "http://fgw.shandong.gov.cn/art/2025/10/9/art_91687_10476103.html",
+          "http://fgw.shandong.gov.cn/art/2025/10/9/art_306787_77499.html"
+        ]
+      },
+      {
+        "title": "关于进一步完善居民电动汽车充电桩分时电价政策的通知(鲁发改价格〔2023〕594号)",
+        "urls": [
+          "http://fgw.shandong.gov.cn/art/2023/7/31/art_91687_10407936.html",
+          "http://fgw.shandong.gov.cn/art/2023/7/28/art_306787_59184.html"
         ]
       }
     ]
