@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-31T03:29:52.262Z",
+  "checkedAt": "2026-10-31T10:43:47.976Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87797
+          "bytes": 87820
         }
       ],
       "stopReason": "single-page",
