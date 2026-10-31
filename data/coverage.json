@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-31T10:43:47.976Z",
+  "checkedAt": "2026-10-31T13:07:34.375Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -78,7 +78,7 @@
       ],
       "stopReason": "page-limit",
       "listed": 155,
-      "selected": 22,
+      "selected": 21,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -166,11 +166,6 @@
           "title": "关于印发《电力现货连续运行地区市场建设指引》的通知(发改能源〔2025〕1171号)",
           "date": "2025-09-12",
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202509/t20250912_1400454.html"
-        },
-        {
-          "title": "国家能源局有关负责同志就《关于印发<电力现货连续运行地区市场建设指引>的通知》答记者问",
-          "date": "2025-09-16",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202509/t20250916_1400538.html"
         },
         {
           "title": "关于完善价格机制促进新能源发电就近消纳的通知(发改价格〔2025〕1192号)",
@@ -2891,6 +2886,21 @@
     },
     {
       "sourceId": "sd-fgw-price",
+      "error": "fetch failed",
+      "pages": []
+    },
+    {
+      "sourceId": "sd-fgw-other",
+      "error": "fetch failed",
+      "pages": []
+    },
+    {
+      "sourceId": "sd-fgw-interpretation",
+      "error": "fetch failed",
+      "pages": []
+    },
+    {
+      "sourceId": "sd-fgw-consultation",
       "error": "fetch failed",
       "pages": []
     }
