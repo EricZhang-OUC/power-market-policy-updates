@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02T03:41:22.682Z",
+  "checkedAt": "2026-11-02T13:02:43.218Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87822
+          "bytes": 87820
         }
       ],
       "stopReason": "single-page",
@@ -573,15 +573,20 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108925
+          "bytes": 108869
         }
       ],
       "stopReason": "single-page",
-      "listed": 81,
-      "selected": 14,
+      "listed": 82,
+      "selected": 15,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "国家能源局公告 2026年第5号",
+          "date": "2026-11-02",
+          "url": "https://www.nea.gov.cn/20261102/af04409304d44bfb89c9880f55b70dff/c.html"
+        },
         {
           "title": "国家能源局综合司关于公开征求《全国统一电力市场信用评价指引（征求意见稿）》意见的通知",
           "date": "2026-10-19",
@@ -603,6 +608,11 @@
           "url": "https://www.nea.gov.cn/20261021/fbd5cb3be4584be88f63046ffb0155fc/c.html"
         },
         {
+          "title": "关于2026年9月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-11-02",
+          "url": "https://www.nea.gov.cn/20261102/567b561e1eb846c3910b6efeafa55f5e/c.html"
+        },
+        {
           "title": "国家能源局公告 2026年第4号",
           "date": "2026-10-21",
           "url": "https://www.nea.gov.cn/20261021/35115ff2391547fc9d2cf3e4af2c669c/c.html"
@@ -611,11 +621,6 @@
           "title": "关于2026年7月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
           "date": "2026-09-04",
           "url": "https://www.nea.gov.cn/20260904/324fdc3e4908431392b82d19ab10de6b/c.html"
-        },
-        {
-          "title": "关于2026年6月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
-          "date": "2026-07-20",
-          "url": "https://www.nea.gov.cn/20260720/f978dbe5fcbc4d8085a3909410b9366e/c.html"
         },
         {
           "title": "国家能源局有关负责同志就《关于推动煤电与新能源融合发展的实施意见》答记者问",
@@ -663,16 +668,16 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_b4ae3efbfd3f4ffcb1bb211fa7bdb92d.json",
-          "bytes": 13062
+          "bytes": 12871
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_40d365c13659452aa06cdb7268d6192e.json",
-          "bytes": 1086717
+          "bytes": 1086642
         }
       ],
       "stopReason": "json-feed-end",
       "listed": 999,
-      "selected": 112,
+      "selected": 113,
       "listErrors": [],
       "failures": [
         {
@@ -682,6 +687,11 @@
         }
       ],
       "entries": [
+        {
+          "title": "国家能源局公告 2026年第5号",
+          "date": "2026-11-02",
+          "url": "https://www.nea.gov.cn/20261102/af04409304d44bfb89c9880f55b70dff/c.html"
+        },
         {
           "title": "国家能源局综合司关于公开征求《全国统一电力市场信用评价指引（征求意见稿）》意见的通知",
           "date": "2026-10-19",
@@ -1577,19 +1587,29 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_e5cd0ac514b8416db9d472a1d5f8989c.json",
-          "bytes": 11657
+          "bytes": 11686
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_6db2ed2a0ae946d882bcc769494c99be.json",
-          "bytes": 721282
+          "bytes": 723661
         }
       ],
       "stopReason": "json-feed-end",
-      "listed": 690,
-      "selected": 60,
+      "listed": 692,
+      "selected": 62,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "国家能源局公告 2026年第5号",
+          "date": "2026-11-02",
+          "url": "https://www.nea.gov.cn/20261102/af04409304d44bfb89c9880f55b70dff/c.html"
+        },
+        {
+          "title": "关于2026年9月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-11-02",
+          "url": "https://www.nea.gov.cn/20261102/567b561e1eb846c3910b6efeafa55f5e/c.html"
+        },
         {
           "title": "国家能源局公告 2026年第4号",
           "date": "2026-10-21",
@@ -2249,7 +2269,7 @@
         },
         {
           "url": "https://www.gov.cn/zhengce/zuixin/ZUIXINZHENGCE.json",
-          "bytes": 266865
+          "bytes": 266893
         }
       ],
       "stopReason": "json-feed-end",
@@ -2527,7 +2547,7 @@
       "pages": [
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=1&isAllList=1",
-          "bytes": 8441
+          "bytes": 16167
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=2&isAllList=1",
