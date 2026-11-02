@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02T13:02:43.218Z",
+  "checkedAt": "2026-11-02T23:00:26.562Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -2547,7 +2547,7 @@
       "pages": [
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=1&isAllList=1",
-          "bytes": 16167
+          "bytes": 8441
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=2&isAllList=1",
