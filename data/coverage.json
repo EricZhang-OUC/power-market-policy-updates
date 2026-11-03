@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-03T04:46:10.117Z",
+  "checkedAt": "2026-11-03T12:35:22.785Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87972
+          "bytes": 88168
         }
       ],
       "stopReason": "single-page",
@@ -573,12 +573,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108926
+          "bytes": 108870
         }
       ],
       "stopReason": "single-page",
-      "listed": 82,
-      "selected": 15,
+      "listed": 84,
+      "selected": 17,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -643,19 +643,29 @@
           "url": "https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html"
         },
         {
-          "title": "甘肃能源监管办赴湖南开展电力市场监管情况调研",
-          "date": "2026-10-30",
-          "url": "https://www.nea.gov.cn/20261030/bc93a54c507b411fb4336c308bb7ccd0/c.html"
+          "title": "西北能源监管局完成陕西省新能源汽车充电设施建设运营专项监管",
+          "date": "2026-11-03",
+          "url": "https://www.nea.gov.cn/20261103/9b6c6791dd4c4aef8355aa5151a19108/c.html"
         },
         {
-          "title": "新疆能源监管办组织召开迎峰度冬电力保供运行方式汇报会议",
-          "date": "2026-10-30",
-          "url": "https://www.nea.gov.cn/20261030/120b0fa5473348c99eacaf1ec87b14be/c.html"
+          "title": "山西能源监管办研究部署深化电力市场改革重点举措",
+          "date": "2026-11-03",
+          "url": "https://www.nea.gov.cn/20261103/171b70fdecec43ac9226cd9dda677e3f/c.html"
         },
         {
-          "title": "福建能源监管办推动独立新型储能首次参与华东省间互济交易探索省间互济新模式",
-          "date": "2026-10-30",
-          "url": "https://www.nea.gov.cn/20261030/da83889a06c94618bdb77a5afd656fc8/c.html"
+          "title": "浙江能源监管办召开2026年度浙江电力调度交易与市场秩序厂网联席会议",
+          "date": "2026-11-03",
+          "url": "https://www.nea.gov.cn/20261103/c0c1e5a7f728492a86fdb4994ca196cc/c.html"
+        },
+        {
+          "title": "湖南能源监管办赴大唐湘潭电厂开展迎峰度冬电力保供筹备工作督导检查",
+          "date": "2026-11-03",
+          "url": "https://www.nea.gov.cn/20261103/7bb3f45373ec4adf94cd1eea5ad55e5d/c.html"
+        },
+        {
+          "title": "云南能源监管办 云南省能源局组织召开全省抽水蓄能在建工程安全质量现场会",
+          "date": "2026-11-03",
+          "url": "https://www.nea.gov.cn/20261103/d1f3d676ec9a4f60bbab778e041e4ba5/c.html"
         }
       ]
     },
@@ -2414,15 +2424,15 @@
       "pages": [
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/",
-          "bytes": 18339
+          "bytes": 18321
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_1.html",
-          "bytes": 18311
+          "bytes": 18336
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_2.html",
-          "bytes": 18298
+          "bytes": 18258
         }
       ],
       "stopReason": "page-limit",
@@ -2483,15 +2493,15 @@
       "pages": [
         {
           "url": "https://sdb.nea.gov.cn/xxgk/zcfg/",
-          "bytes": 23430
+          "bytes": 23480
         },
         {
           "url": "https://sdb.nea.gov.cn/xxgk/zcfg/index_1.html",
-          "bytes": 22702
+          "bytes": 22699
         }
       ],
       "stopReason": "passed-history-start",
-      "listed": 21,
+      "listed": 20,
       "selected": 0,
       "listErrors": [],
       "failures": [],
