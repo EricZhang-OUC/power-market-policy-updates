@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-04T04:07:05.622Z",
+  "checkedAt": "2026-11-04T12:45:20.926Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,12 +9,12 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 88050
+          "bytes": 88048
         }
       ],
       "stopReason": "single-page",
       "listed": 87,
-      "selected": 8,
+      "selected": 6,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -27,16 +27,6 @@
           "title": "关于同意南方区域电力市场转入正式运行的复函(发改办体改〔2026〕715号)",
           "date": "2026-10-28",
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202610/t20261028_1408423.html"
-        },
-        {
-          "title": "国家发展改革委印发《能源保供中长期合同管理办法（试行）》",
-          "date": "2026-10-23",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202610/t20261023_1408367.html"
-        },
-        {
-          "title": "国家发展改革委有关负责同志就《能源保供中长期合同管理办法（试行）》答记者问",
-          "date": "2026-10-23",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202610/t20261023_1408366.html"
         },
         {
           "title": "《能源保供中长期合同管理办法(试行)》 2026年第50号令",
@@ -65,19 +55,19 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/",
-          "bytes": 41107
+          "bytes": 44691
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_1.html",
-          "bytes": 52907
+          "bytes": 50549
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_2.html",
-          "bytes": 38085
+          "bytes": 41539
         }
       ],
       "stopReason": "page-limit",
-      "listed": 155,
+      "listed": 165,
       "selected": 21,
       "listErrors": [],
       "failures": [],
@@ -376,19 +366,19 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/",
-          "bytes": 74287
+          "bytes": 91225
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_1.html",
-          "bytes": 75971
+          "bytes": 77403
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_2.html",
-          "bytes": 94215
+          "bytes": 78735
         }
       ],
       "stopReason": "page-limit",
-      "listed": 119,
+      "listed": 118,
       "selected": 10,
       "listErrors": [],
       "failures": [],
@@ -2552,31 +2542,36 @@
       "pages": [
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=1&isAllList=1",
-          "bytes": 8441
+          "bytes": 8443
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=2&isAllList=1",
-          "bytes": 8102
+          "bytes": 8085
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=3&isAllList=1",
-          "bytes": 8347
+          "bytes": 8345
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=4&isAllList=1",
-          "bytes": 8283
+          "bytes": 8327
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=5&isAllList=1",
-          "bytes": 7970
+          "bytes": 8244
         }
       ],
       "stopReason": "passed-history-start",
-      "listed": 79,
-      "selected": 19,
+      "listed": 80,
+      "selected": 20,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "政策解读：《山东省能源行政处罚裁量权基准（2026年版）》",
+          "date": "2026-11-04",
+          "url": "http://nyj.shandong.gov.cn/art/2026/11/4/art_100396_10314335.html"
+        },
         {
           "title": "政策解读：《关于加快推动新能源场站配建储能高质量发展的通知》",
           "date": "2026-08-31",
@@ -2704,39 +2699,48 @@
       "pages": [
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=1&isAllList=1",
-          "bytes": 8353
+          "bytes": 8339
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=2&isAllList=1",
-          "bytes": 8336
+          "bytes": 8371
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=3&isAllList=1",
-          "bytes": 8106
+          "bytes": 8087
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=4&isAllList=1",
-          "bytes": 8318
+          "bytes": 8351
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=5&isAllList=1",
-          "bytes": 8296
+          "bytes": 8219
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=6&isAllList=1",
-          "bytes": 8347
+          "bytes": 8406
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=7&isAllList=1",
-          "bytes": 8327
+          "bytes": 8306
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=8&isAllList=1",
+          "bytes": 8300
         }
       ],
       "stopReason": "passed-history-start",
-      "listed": 112,
-      "selected": 27,
+      "listed": 128,
+      "selected": 28,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "政策解读：《山东省能源行政处罚裁量权基准（2026年版）》",
+          "date": "2026-11-04",
+          "url": "http://nyj.shandong.gov.cn/art/2026/11/4/art_100396_10314335.html"
+        },
         {
           "title": "政策解读：《关于加快推动新能源场站配建储能高质量发展的通知》",
           "date": "2026-08-31",
