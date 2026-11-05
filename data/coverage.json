@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-04T21:03:41.394Z",
+  "checkedAt": "2026-11-05T04:28:56.923Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 88048
+          "bytes": 87741
         }
       ],
       "stopReason": "single-page",
@@ -563,12 +563,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 109012
+          "bytes": 108986
         }
       ],
       "stopReason": "single-page",
-      "listed": 83,
-      "selected": 16,
+      "listed": 82,
+      "selected": 15,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -646,11 +646,6 @@
           "title": "浙江能源监管办召开2026年度浙江电力调度交易与市场秩序厂网联席会议",
           "date": "2026-11-03",
           "url": "https://www.nea.gov.cn/20261103/c0c1e5a7f728492a86fdb4994ca196cc/c.html"
-        },
-        {
-          "title": "湖南能源监管办赴大唐湘潭电厂开展迎峰度冬电力保供筹备工作督导检查",
-          "date": "2026-11-03",
-          "url": "https://www.nea.gov.cn/20261103/7bb3f45373ec4adf94cd1eea5ad55e5d/c.html"
         }
       ]
     },
@@ -663,11 +658,11 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_b4ae3efbfd3f4ffcb1bb211fa7bdb92d.json",
-          "bytes": 12871
+          "bytes": 13063
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_40d365c13659452aa06cdb7268d6192e.json",
-          "bytes": 1086642
+          "bytes": 1086723
         }
       ],
       "stopReason": "json-feed-end",
@@ -2699,7 +2694,7 @@
       "pages": [
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=1&isAllList=1",
-          "bytes": 16065
+          "bytes": 8339
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=2&isAllList=1",
