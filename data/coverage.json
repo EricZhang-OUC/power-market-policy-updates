@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-06T04:26:55.025Z",
+  "checkedAt": "2026-11-06T12:40:55.725Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87743
+          "bytes": 87771
         }
       ],
       "stopReason": "single-page",
@@ -563,12 +563,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 109147
+          "bytes": 108934
         }
       ],
       "stopReason": "single-page",
-      "listed": 82,
-      "selected": 15,
+      "listed": 85,
+      "selected": 17,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -633,19 +633,29 @@
           "url": "https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html"
         },
         {
-          "title": "西北能源监管局完成陕西省新能源汽车充电设施建设运营专项监管",
-          "date": "2026-11-03",
-          "url": "https://www.nea.gov.cn/20261103/9b6c6791dd4c4aef8355aa5151a19108/c.html"
+          "title": "甘肃能源监管办深入开展新能源汇集升压站专题调研",
+          "date": "2026-11-06",
+          "url": "https://www.nea.gov.cn/20261106/80fb2d8ea0464d998d5aa4d7e793c3fd/c.html"
         },
         {
-          "title": "山西能源监管办研究部署深化电力市场改革重点举措",
-          "date": "2026-11-03",
-          "url": "https://www.nea.gov.cn/20261103/171b70fdecec43ac9226cd9dda677e3f/c.html"
+          "title": "新疆能源监管办与新疆自治区能源局开展电力市场建设暨电力安全生产监管工作座谈",
+          "date": "2026-11-06",
+          "url": "https://www.nea.gov.cn/20261106/1c17c224f4d14935bfd72aca08632e6d/c.html"
         },
         {
-          "title": "浙江能源监管办召开2026年度浙江电力调度交易与市场秩序厂网联席会议",
-          "date": "2026-11-03",
-          "url": "https://www.nea.gov.cn/20261103/c0c1e5a7f728492a86fdb4994ca196cc/c.html"
+          "title": "福建能源监管办组织召开新能源发展座谈会",
+          "date": "2026-11-06",
+          "url": "https://www.nea.gov.cn/20261106/cbbfb169cc974898be3bc2f306b07a8b/c.html"
+        },
+        {
+          "title": "湖南能源监管办调研卜里坪变电站并网运行情况",
+          "date": "2026-11-06",
+          "url": "https://www.nea.gov.cn/20261106/9c6f50a5946249a3b417531f58052377/c.html"
+        },
+        {
+          "title": "云南能源监管办制定印发云南电力市场负面行为清单",
+          "date": "2026-11-06",
+          "url": "https://www.nea.gov.cn/20261106/4f563872cde849a794de0a01d55c7115/c.html"
         }
       ]
     },
@@ -2259,11 +2269,11 @@
         },
         {
           "url": "https://www.gov.cn/zhengce/zuixin/ZUIXINZHENGCE.json",
-          "bytes": 267582
+          "bytes": 267791
         }
       ],
       "stopReason": "json-feed-end",
-      "listed": 1112,
+      "listed": 1113,
       "selected": 2,
       "listErrors": [],
       "failures": [],
