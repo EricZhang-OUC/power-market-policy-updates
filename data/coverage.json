@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-09T03:52:04.619Z",
+  "checkedAt": "2026-11-09T13:33:44.623Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87753
+          "bytes": 87717
         }
       ],
       "stopReason": "single-page",
@@ -2269,11 +2269,11 @@
         },
         {
           "url": "https://www.gov.cn/zhengce/zuixin/ZUIXINZHENGCE.json",
-          "bytes": 268004
+          "bytes": 268231
         }
       ],
       "stopReason": "json-feed-end",
-      "listed": 1114,
+      "listed": 1115,
       "selected": 2,
       "listErrors": [],
       "failures": [],
@@ -2414,15 +2414,15 @@
       "pages": [
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/",
-          "bytes": 18345
+          "bytes": 18328
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_1.html",
-          "bytes": 18336
+          "bytes": 18347
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_2.html",
-          "bytes": 18252
+          "bytes": 18258
         }
       ],
       "stopReason": "page-limit",
