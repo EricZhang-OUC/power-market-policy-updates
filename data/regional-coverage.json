@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-08T19:21:57.904Z",
+  "checkedAt": "2026-11-09T03:55:08.989Z",
   "since": "2026-01-01",
   "note": "已配置官方栏目采集记录，不代表覆盖所有省区及每个部门",
   "sources": [
@@ -8,15 +8,15 @@
       "pages": [
         {
           "url": "https://dbj.nea.gov.cn/dtyw/jgdt/",
-          "bytes": 18896
+          "bytes": 18864
         },
         {
           "url": "https://dbj.nea.gov.cn/dtyw/jgdt/index_1.html",
-          "bytes": 18948
+          "bytes": 18916
         },
         {
           "url": "https://dbj.nea.gov.cn/dtyw/jgdt/index_2.html",
-          "bytes": 19059
+          "bytes": 19052
         }
       ],
       "listed": 39,
@@ -29,15 +29,15 @@
       "pages": [
         {
           "url": "https://dbj.nea.gov.cn/dtyw/tzgg/",
-          "bytes": 18779
+          "bytes": 18764
         },
         {
           "url": "https://dbj.nea.gov.cn/dtyw/tzgg/index_1.html",
-          "bytes": 18478
+          "bytes": 18508
         },
         {
           "url": "https://dbj.nea.gov.cn/dtyw/tzgg/index_2.html",
-          "bytes": 18477
+          "bytes": 18462
         }
       ],
       "listed": 39,
@@ -110,11 +110,11 @@
       "pages": [
         {
           "url": "https://fjb.nea.gov.cn/dtyw/tzgg/",
-          "bytes": 20374
+          "bytes": 20304
         },
         {
           "url": "https://fjb.nea.gov.cn/dtyw/tzgg/index_1.html",
-          "bytes": 20353
+          "bytes": 20346
         },
         {
           "url": "https://fjb.nea.gov.cn/dtyw/tzgg/index_2.html",
@@ -652,15 +652,15 @@
       "pages": [
         {
           "url": "https://hzj.nea.gov.cn/dtyw/jgdt/",
-          "bytes": 22684
+          "bytes": 22681
         },
         {
           "url": "https://hzj.nea.gov.cn/dtyw/jgdt/index_1.html",
-          "bytes": 22631
+          "bytes": 22616
         },
         {
           "url": "https://hzj.nea.gov.cn/dtyw/jgdt/index_2.html",
-          "bytes": 22631
+          "bytes": 22623
         }
       ],
       "listed": 45,
@@ -741,15 +741,15 @@
       "pages": [
         {
           "url": "https://jsb.nea.gov.cn/dtyw/gg/",
-          "bytes": 19148
+          "bytes": 19216
         },
         {
           "url": "https://jsb.nea.gov.cn/dtyw/gg/index_1.html",
-          "bytes": 19090
+          "bytes": 19024
         },
         {
           "url": "https://jsb.nea.gov.cn/dtyw/gg/index_2.html",
-          "bytes": 19281
+          "bytes": 19361
         }
       ],
       "listed": 45,
@@ -953,11 +953,11 @@
       "pages": [
         {
           "url": "https://sxb.nea.gov.cn/dtyw/tzgg/",
-          "bytes": 21114
+          "bytes": 21141
         },
         {
           "url": "https://sxb.nea.gov.cn/dtyw/tzgg/index_1.html",
-          "bytes": 21143
+          "bytes": 21115
         },
         {
           "url": "https://sxb.nea.gov.cn/dtyw/tzgg/index_2.html",
@@ -1126,11 +1126,11 @@
         },
         {
           "url": "https://xjb.nea.gov.cn/dtyw/tzgg/index_1.html",
-          "bytes": 18390
+          "bytes": 18441
         },
         {
           "url": "https://xjb.nea.gov.cn/dtyw/tzgg/index_2.html",
-          "bytes": 18263
+          "bytes": 18217
         }
       ],
       "listed": 45,
@@ -1309,7 +1309,7 @@
       "pages": [
         {
           "url": "https://nyj.nmg.gov.cn/",
-          "bytes": 96121
+          "bytes": 96127
         }
       ],
       "listed": 43,
