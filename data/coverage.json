@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T05:26:47.092Z",
+  "checkedAt": "2026-11-10T21:10:44.475Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,12 +9,12 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87966
+          "bytes": 88167
         }
       ],
       "stopReason": "single-page",
       "listed": 87,
-      "selected": 6,
+      "selected": 5,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -27,11 +27,6 @@
           "title": "关于同意南方区域电力市场转入正式运行的复函(发改办体改〔2026〕715号)",
           "date": "2026-10-28",
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202610/t20261028_1408423.html"
-        },
-        {
-          "title": "《能源保供中长期合同管理办法(试行)》 2026年第50号令",
-          "date": "2026-10-23",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202610/t20261023_1408364.html"
         },
         {
           "title": "国家发展改革委关于向社会公开征求《电力现货市场基本规则（公开征求意见稿）》意见的公告",
@@ -55,19 +50,19 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/",
-          "bytes": 44691
+          "bytes": 45215
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_1.html",
-          "bytes": 50549
+          "bytes": 50553
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_2.html",
-          "bytes": 41539
+          "bytes": 41521
         }
       ],
       "stopReason": "page-limit",
-      "listed": 165,
+      "listed": 166,
       "selected": 21,
       "listErrors": [],
       "failures": [],
@@ -366,15 +361,15 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/",
-          "bytes": 91225
+          "bytes": 91239
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_1.html",
-          "bytes": 77403
+          "bytes": 75791
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_2.html",
-          "bytes": 78735
+          "bytes": 80461
         }
       ],
       "stopReason": "page-limit",
@@ -440,7 +435,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/",
-          "bytes": 14787
+          "bytes": 14779
         },
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/index_1.html",
@@ -563,12 +558,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 109196
+          "bytes": 109136
         }
       ],
       "stopReason": "single-page",
-      "listed": 82,
-      "selected": 16,
+      "listed": 85,
+      "selected": 18,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -633,24 +628,34 @@
           "url": "https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html"
         },
         {
-          "title": "甘肃能源监管办深入开展新能源汇集升压站专题调研",
-          "date": "2026-11-06",
-          "url": "https://www.nea.gov.cn/20261106/80fb2d8ea0464d998d5aa4d7e793c3fd/c.html"
+          "title": "东北能源监管局充分运用穿透式监管 推动电网公平开放走深走实",
+          "date": "2026-11-10",
+          "url": "https://www.nea.gov.cn/20261110/25e42f79f59b457a93ec655a5aeba2af/c.html"
         },
         {
-          "title": "新疆能源监管办与新疆自治区能源局开展电力市场建设暨电力安全生产监管工作座谈",
-          "date": "2026-11-06",
-          "url": "https://www.nea.gov.cn/20261106/1c17c224f4d14935bfd72aca08632e6d/c.html"
+          "title": "华东能源监管局完成新能源汽车充电设施建设运营情况监管",
+          "date": "2026-11-10",
+          "url": "https://www.nea.gov.cn/20261110/e54e86a2bc48482282bcc10b9169db42/c.html"
         },
         {
-          "title": "福建能源监管办组织召开新能源发展座谈会",
-          "date": "2026-11-06",
-          "url": "https://www.nea.gov.cn/20261106/cbbfb169cc974898be3bc2f306b07a8b/c.html"
+          "title": "山西能源监管办落实供暖季全国能源保供视频会议部署抓实迎峰度冬保供监管",
+          "date": "2026-11-10",
+          "url": "https://www.nea.gov.cn/20261110/5cc96ef649af41bdb123d2aca6fbe494/c.html"
         },
         {
-          "title": "湖南能源监管办调研卜里坪变电站并网运行情况",
-          "date": "2026-11-06",
-          "url": "https://www.nea.gov.cn/20261106/9c6f50a5946249a3b417531f58052377/c.html"
+          "title": "新疆能源监管办指导新疆电力交易中心首次试点开展疆内小时级绿电交易",
+          "date": "2026-11-10",
+          "url": "https://www.nea.gov.cn/20261110/2d88c447346d4cad9b11452b476ae93f/c.html"
+        },
+        {
+          "title": "福建能源监管办组织开展电力市场自律倡议活动",
+          "date": "2026-11-10",
+          "url": "https://www.nea.gov.cn/20261110/365547d85eb443d9a6b7cd73931225e4/c.html"
+        },
+        {
+          "title": "云南能源监管办赴昭通调研督导能源保供和电力安全生产工作",
+          "date": "2026-11-10",
+          "url": "https://www.nea.gov.cn/20261110/7f59e371f0734aa7b6fe41d261cb6213/c.html"
         }
       ]
     },
@@ -2264,11 +2269,11 @@
         },
         {
           "url": "https://www.gov.cn/zhengce/zuixin/ZUIXINZHENGCE.json",
-          "bytes": 268231
+          "bytes": 268406
         }
       ],
       "stopReason": "json-feed-end",
-      "listed": 1115,
+      "listed": 1116,
       "selected": 2,
       "listErrors": [],
       "failures": [],
