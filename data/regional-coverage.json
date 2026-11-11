@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T12:26:11.710Z",
+  "checkedAt": "2026-11-11T21:46:45.672Z",
   "since": "2026-01-01",
   "note": "已配置官方栏目采集记录，不代表覆盖所有省区及每个部门",
   "sources": [
@@ -293,20 +293,17 @@
         {
           "url": "https://hbj.nea.gov.cn/dtyw/jgdt/",
           "bytes": 23028
-        },
-        {
-          "url": "https://hbj.nea.gov.cn/dtyw/jgdt/index_1.html",
-          "bytes": 23016
-        },
-        {
-          "url": "https://hbj.nea.gov.cn/dtyw/jgdt/index_2.html",
-          "bytes": 23030
         }
       ],
-      "listed": 45,
+      "listed": 15,
       "selected": 0,
       "failures": [],
-      "listErrors": []
+      "listErrors": [
+        {
+          "url": "https://hbj.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "error": "fetch failed"
+        }
+      ]
     },
     {
       "sourceId": "hbj-1",
@@ -314,20 +311,17 @@
         {
           "url": "https://hbj.nea.gov.cn/dtyw/tzgg/",
           "bytes": 23168
-        },
-        {
-          "url": "https://hbj.nea.gov.cn/dtyw/tzgg/index_1.html",
-          "bytes": 23111
-        },
-        {
-          "url": "https://hbj.nea.gov.cn/dtyw/tzgg/index_2.html",
-          "bytes": 23232
         }
       ],
-      "listed": 45,
-      "selected": 1,
+      "listed": 15,
+      "selected": 0,
       "failures": [],
-      "listErrors": []
+      "listErrors": [
+        {
+          "url": "https://hbj.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "error": "fetch failed"
+        }
+      ]
     },
     {
       "sourceId": "hbj-2",
@@ -653,20 +647,17 @@
         {
           "url": "https://hzj.nea.gov.cn/dtyw/jgdt/",
           "bytes": 22693
-        },
-        {
-          "url": "https://hzj.nea.gov.cn/dtyw/jgdt/index_1.html",
-          "bytes": 22595
-        },
-        {
-          "url": "https://hzj.nea.gov.cn/dtyw/jgdt/index_2.html",
-          "bytes": 22648
         }
       ],
-      "listed": 45,
+      "listed": 15,
       "selected": 0,
       "failures": [],
-      "listErrors": []
+      "listErrors": [
+        {
+          "url": "https://hzj.nea.gov.cn/dtyw/jgdt/index_1.html",
+          "error": "fetch failed"
+        }
+      ]
     },
     {
       "sourceId": "hzj-1",
@@ -674,20 +665,17 @@
         {
           "url": "https://hzj.nea.gov.cn/dtyw/tzgg/",
           "bytes": 22486
-        },
-        {
-          "url": "https://hzj.nea.gov.cn/dtyw/tzgg/index_1.html",
-          "bytes": 22700
-        },
-        {
-          "url": "https://hzj.nea.gov.cn/dtyw/tzgg/index_2.html",
-          "bytes": 22520
         }
       ],
-      "listed": 44,
-      "selected": 11,
+      "listed": 15,
+      "selected": 0,
       "failures": [],
-      "listErrors": []
+      "listErrors": [
+        {
+          "url": "https://hzj.nea.gov.cn/dtyw/tzgg/index_1.html",
+          "error": "fetch failed"
+        }
+      ]
     },
     {
       "sourceId": "hzj-2",
@@ -1101,7 +1089,7 @@
       "pages": [
         {
           "url": "https://xjb.nea.gov.cn/dtyw/jgdt/",
-          "bytes": 18558
+          "bytes": 18557
         },
         {
           "url": "https://xjb.nea.gov.cn/dtyw/jgdt/index_1.html",
