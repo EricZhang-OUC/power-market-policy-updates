@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T03:57:37.576Z",
+  "checkedAt": "2026-11-11T12:22:53.064Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 88195
+          "bytes": 88257
         }
       ],
       "stopReason": "single-page",
@@ -558,11 +558,11 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 109164
+          "bytes": 109143
         }
       ],
       "stopReason": "single-page",
-      "listed": 85,
+      "listed": 86,
       "selected": 18,
       "listErrors": [],
       "failures": [],
