@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T05:05:34.813Z",
+  "checkedAt": "2026-11-12T21:44:16.075Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 88333
+          "bytes": 88152
         }
       ],
       "stopReason": "single-page",
@@ -558,7 +558,7 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 109195
+          "bytes": 109454
         }
       ],
       "stopReason": "single-page",
@@ -2502,7 +2502,7 @@
       "pages": [
         {
           "url": "http://nyj.shandong.gov.cn/col/col59960/index.html",
-          "bytes": 23141
+          "bytes": 23058
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/web/jpage/dataproxy.jsp?page=1&webid=355&path=http://nyj.shandong.gov.cn/&columnid=59960&unitid=745545&webname=%25E5%25B1%25B1%25E4%25B8%259C%25E7%259C%2581%25E8%2583%25BD%25E6%25BA%2590%25E5%25B1%2580&permissiontype=0",
