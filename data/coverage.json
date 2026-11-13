@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13T04:20:09.961Z",
+  "checkedAt": "2026-11-13T12:48:30.738Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,24 +9,29 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87851
+          "bytes": 87785
         }
       ],
       "stopReason": "single-page",
       "listed": 87,
-      "selected": 5,
+      "selected": 6,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "关于印发《“十五五”新型储能实施方案》的通知",
+          "date": "2026-11-13",
+          "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202611/t20261113_1408811.html"
+        },
         {
           "title": "关于同意南方区域电力市场转入正式运行的复函",
           "date": "2026-10-28",
           "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202610/t20261028_1408425.html"
         },
         {
-          "title": "关于同意南方区域电力市场转入正式运行的复函(发改办体改〔2026〕715号)",
-          "date": "2026-10-28",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202610/t20261028_1408423.html"
+          "title": "关于印发《“十五五”新型储能实施方案》的通知(发改能源〔2026〕1565号)",
+          "date": "2026-11-13",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202611/t20261113_1408810.html"
         },
         {
           "title": "国家发展改革委关于向社会公开征求《电力现货市场基本规则（公开征求意见稿）》意见的公告",
@@ -50,23 +55,28 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/",
-          "bytes": 45215
+          "bytes": 44253
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_1.html",
-          "bytes": 50553
+          "bytes": 50897
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_2.html",
-          "bytes": 41521
+          "bytes": 42049
         }
       ],
       "stopReason": "page-limit",
       "listed": 166,
-      "selected": 21,
+      "selected": 22,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "关于印发《“十五五”新型储能实施方案》的通知(发改能源〔2026〕1565号)",
+          "date": "2026-11-13",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202611/t20261113_1408810.html"
+        },
         {
           "title": "关于同意南方区域电力市场转入正式运行的复函(发改办体改〔2026〕715号)",
           "date": "2026-10-28",
@@ -558,15 +568,20 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 109385
+          "bytes": 109262
         }
       ],
       "stopReason": "single-page",
       "listed": 85,
-      "selected": 18,
+      "selected": 17,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "关于印发《“十五五”新型储能实施方案》的通知",
+          "date": "2026-11-13",
+          "url": "https://www.nea.gov.cn/20261113/bb7e8be257fb43048ca17184be6cb27f/c.html"
+        },
         {
           "title": "国家能源局公告 2026年第5号",
           "date": "2026-11-02",
@@ -608,6 +623,16 @@
           "url": "https://www.nea.gov.cn/20260904/324fdc3e4908431392b82d19ab10de6b/c.html"
         },
         {
+          "title": "国家能源局有关负责同志就《“十五五”新型储能实施方案》答记者问",
+          "date": "2026-11-13",
+          "url": "https://www.nea.gov.cn/20261113/6a2b2141529448ddb8650df1784abe73/c.html"
+        },
+        {
+          "title": "一图读懂 | “十五五”新型储能实施方案",
+          "date": "2026-11-13",
+          "url": "https://www.nea.gov.cn/20261113/e01150d49f6f4a04ad851cb40887401d/c.html"
+        },
+        {
           "title": "国家能源局有关负责同志就《关于推动煤电与新能源融合发展的实施意见》答记者问",
           "date": "2026-10-21",
           "url": "https://www.nea.gov.cn/20261021/47444aa63de843ccb8c8e742d61eab6b/c.html"
@@ -628,34 +653,14 @@
           "url": "https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html"
         },
         {
-          "title": "东北能源监管局充分运用穿透式监管 推动电网公平开放走深走实",
-          "date": "2026-11-10",
-          "url": "https://www.nea.gov.cn/20261110/25e42f79f59b457a93ec655a5aeba2af/c.html"
+          "title": "西北能源监管局部署推进2026年迎峰度冬能源保供工作",
+          "date": "2026-11-13",
+          "url": "https://www.nea.gov.cn/20261113/b4cc3804015241cfa3327241a311bf1d/c.html"
         },
         {
-          "title": "华东能源监管局完成新能源汽车充电设施建设运营情况监管",
-          "date": "2026-11-10",
-          "url": "https://www.nea.gov.cn/20261110/e54e86a2bc48482282bcc10b9169db42/c.html"
-        },
-        {
-          "title": "山西能源监管办落实供暖季全国能源保供视频会议部署抓实迎峰度冬保供监管",
-          "date": "2026-11-10",
-          "url": "https://www.nea.gov.cn/20261110/5cc96ef649af41bdb123d2aca6fbe494/c.html"
-        },
-        {
-          "title": "新疆能源监管办指导新疆电力交易中心首次试点开展疆内小时级绿电交易",
-          "date": "2026-11-10",
-          "url": "https://www.nea.gov.cn/20261110/2d88c447346d4cad9b11452b476ae93f/c.html"
-        },
-        {
-          "title": "福建能源监管办组织开展电力市场自律倡议活动",
-          "date": "2026-11-10",
-          "url": "https://www.nea.gov.cn/20261110/365547d85eb443d9a6b7cd73931225e4/c.html"
-        },
-        {
-          "title": "云南能源监管办赴昭通调研督导能源保供和电力安全生产工作",
-          "date": "2026-11-10",
-          "url": "https://www.nea.gov.cn/20261110/7f59e371f0734aa7b6fe41d261cb6213/c.html"
+          "title": "湖南能源监管办部署推进迎峰度冬能源保供工作",
+          "date": "2026-11-13",
+          "url": "https://www.nea.gov.cn/20261113/772d4bf3d06d486f9753d4e351626d05/c.html"
         }
       ]
     },
@@ -668,16 +673,16 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_b4ae3efbfd3f4ffcb1bb211fa7bdb92d.json",
-          "bytes": 13154
+          "bytes": 13489
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_40d365c13659452aa06cdb7268d6192e.json",
-          "bytes": 1086993
+          "bytes": 1087432
         }
       ],
       "stopReason": "json-feed-end",
       "listed": 999,
-      "selected": 113,
+      "selected": 114,
       "listErrors": [],
       "failures": [
         {
@@ -687,6 +692,11 @@
         }
       ],
       "entries": [
+        {
+          "title": "关于印发《“十五五”新型储能实施方案》的通知",
+          "date": "2026-11-13",
+          "url": "https://www.nea.gov.cn/20261113/bb7e8be257fb43048ca17184be6cb27f/c.html"
+        },
         {
           "title": "国家能源局公告 2026年第5号",
           "date": "2026-11-02",
@@ -1263,19 +1273,24 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_fa9dea7db62643b385c9dfc13f1a9285.json",
-          "bytes": 13613
+          "bytes": 13325
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_7290c82b05cc4d49be4971ade193edfc.json",
-          "bytes": 1117573
+          "bytes": 1117936
         }
       ],
       "stopReason": "json-feed-end",
       "listed": 997,
-      "selected": 60,
+      "selected": 61,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "关于印发《“十五五”新型储能实施方案》的通知",
+          "date": "2026-11-13",
+          "url": "https://www.nea.gov.cn/20261113/bb7e8be257fb43048ca17184be6cb27f/c.html"
+        },
         {
           "title": "国家能源局关于推动煤电与新能源融合发展的实施意见",
           "date": "2026-10-21",
@@ -1921,19 +1936,29 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_323f40996d5b4b0bbfea850ea9018f09.json",
-          "bytes": 12111
+          "bytes": 12025
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_694d98bc00ff4b8aa78ee2782c27acba.json",
-          "bytes": 316610
+          "bytes": 318414
         }
       ],
       "stopReason": "json-feed-end",
-      "listed": 289,
-      "selected": 53,
+      "listed": 291,
+      "selected": 55,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "国家能源局有关负责同志就《“十五五”新型储能实施方案》答记者问",
+          "date": "2026-11-13",
+          "url": "https://www.nea.gov.cn/20261113/6a2b2141529448ddb8650df1784abe73/c.html"
+        },
+        {
+          "title": "一图读懂 | “十五五”新型储能实施方案",
+          "date": "2026-11-13",
+          "url": "https://www.nea.gov.cn/20261113/e01150d49f6f4a04ad851cb40887401d/c.html"
+        },
         {
           "title": "构建煤电与新能源融合发展模式 持续提升系统调节能力与绿色低碳水平",
           "date": "2026-10-21",
@@ -2414,15 +2439,15 @@
       "pages": [
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/",
-          "bytes": 18328
+          "bytes": 18384
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_1.html",
-          "bytes": 18347
+          "bytes": 18336
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_2.html",
-          "bytes": 18258
+          "bytes": 18252
         }
       ],
       "stopReason": "page-limit",
