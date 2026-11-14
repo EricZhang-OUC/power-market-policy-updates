@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T04:19:53.017Z",
+  "updatedAt": "2026-11-14T11:59:48.526Z",
   "historyStart": "2026-01-01",
   "accounts": [
     {
@@ -17,8 +17,8 @@
       "url": "https://shoudian.bjx.com.cn/",
       "kind": "bjx",
       "status": "ok",
-      "checkedAt": "2026-11-14T04:19:50.898Z",
-      "lastSuccessAt": "2026-11-14T04:19:50.898Z",
+      "checkedAt": "2026-11-14T11:59:45.740Z",
+      "lastSuccessAt": "2026-11-14T11:59:45.740Z",
       "recordCount": 73,
       "detailErrors": 0
     },
@@ -34,8 +34,8 @@
         "https://news.bjx.com.cn/rankinglist/dianli/"
       ],
       "status": "ok",
-      "checkedAt": "2026-11-14T04:19:52.087Z",
-      "lastSuccessAt": "2026-11-14T04:19:52.087Z",
+      "checkedAt": "2026-11-14T11:59:47.290Z",
+      "lastSuccessAt": "2026-11-14T11:59:47.290Z",
       "recordCount": 10,
       "detailErrors": 0
     }
@@ -54,7 +54,7 @@
       "id": "bd7d1d26032649b2",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T04:23:10.377Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "安徽电力调频辅助服务市场结算工作实施规范征求意见",
@@ -69,7 +69,7 @@
       "id": "7ab9f8daa0148ccf",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T04:23:10.377Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "冀北提醒：拟强制注销连续三年未在冀北地区开展售电业务的售电公司市场主体资格或业务范围",
@@ -84,7 +84,7 @@
       "id": "bcdb6559d1564dcb",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T04:23:10.377Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "青海电力现货市场10月结算试运行情况通报：发电侧出清均价155元/兆瓦时",
@@ -99,7 +99,7 @@
       "id": "2a505be89a417fa2",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T04:23:10.377Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "首都电力交易中心公告：1家售电公司欠费约52万元 拟被执行履约保障凭证",
@@ -114,7 +114,7 @@
       "id": "058133a692e1a592",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T04:23:10.377Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "重庆电力市场9月发电装机及分类型总体情况",
@@ -129,7 +129,7 @@
       "id": "e77d09f1e03d2547",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T04:23:10.377Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "四川能源监管办指导完善电力市场管委会运作机制",
@@ -144,7 +144,7 @@
       "id": "3170cb1b56a0e983",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T04:23:10.377Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "山西能源监管办开展2026年电力市场秩序和电网公平开放专项监管",
@@ -159,7 +159,7 @@
       "id": "eb4915956e169c15",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T04:23:10.377Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "新疆电力市场保底售电公司名单公布",
@@ -174,7 +174,7 @@
       "id": "f414f3148f21af01",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T04:23:10.377Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "国网蒙东电力前10个月售电量同比增长24.22%",
@@ -189,7 +189,7 @@
       "id": "15f02c7b9f3b4186",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T04:23:10.377Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "晶科科技投建，河北秦皇岛100MW/400MWh独立储能电站项目并网",
@@ -204,7 +204,7 @@
       "id": "9dd6c5c9f069f16d",
       "sourceId": "bjx-ranking",
       "firstSeenAt": "2026-11-13T04:23:11.763Z",
-      "lastCheckedAt": "2026-11-14T04:19:52.087Z"
+      "lastCheckedAt": "2026-11-14T11:59:47.290Z"
     },
     {
       "title": "0.545-0.669元/Wh！山西100MW/140.4MWh混合储能项目磷酸铁锂储能系统采购开标",
@@ -219,7 +219,7 @@
       "id": "55526b408ae0e7a0",
       "sourceId": "bjx-ranking",
       "firstSeenAt": "2026-11-13T04:23:11.763Z",
-      "lastCheckedAt": "2026-11-14T04:19:52.087Z"
+      "lastCheckedAt": "2026-11-14T11:59:47.290Z"
     },
     {
       "title": "0.949-0.995元/Wh！贵州遵义300MW/600MWh构网型储能项目EPC开标",
@@ -234,7 +234,7 @@
       "id": "b4d4e74c7b72efd1",
       "sourceId": "bjx-ranking",
       "firstSeenAt": "2026-11-13T04:23:11.763Z",
-      "lastCheckedAt": "2026-11-14T04:19:52.087Z"
+      "lastCheckedAt": "2026-11-14T11:59:47.290Z"
     },
     {
       "title": "太原智储100MW独立储能电站完成验收转入全面商业运营",
@@ -249,7 +249,7 @@
       "id": "13cdb7584d56350f",
       "sourceId": "bjx-ranking",
       "firstSeenAt": "2026-11-13T04:23:11.763Z",
-      "lastCheckedAt": "2026-11-14T04:19:52.087Z"
+      "lastCheckedAt": "2026-11-14T11:59:47.290Z"
     },
     {
       "title": "行业先进！特变电工新能源构网型SVG通过国家级鉴定",
@@ -294,7 +294,7 @@
       "id": "a8c0594632ab665e",
       "sourceId": "bjx-ranking",
       "firstSeenAt": "2026-11-13T04:23:11.763Z",
-      "lastCheckedAt": "2026-11-14T04:19:52.087Z"
+      "lastCheckedAt": "2026-11-14T11:59:47.290Z"
     },
     {
       "title": "天津市2027年电力市场化交易工作通知：直接交易电量总规模暂定460亿千瓦时",
@@ -309,7 +309,7 @@
       "id": "038374deffce36c3",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T12:52:30.070Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "海南虚拟电厂参与电能量市场交易细则发布！虚拟电厂交易单元分时参与现货电能量市场和辅助服务市场",
@@ -324,7 +324,7 @@
       "id": "3a8a0b99b38a8696",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T12:52:30.070Z",
-      "lastCheckedAt": "2026-11-14T04:19:52.087Z"
+      "lastCheckedAt": "2026-11-14T11:59:47.290Z"
     },
     {
       "title": "喜报｜中科天机“物理-AI融合驱动的新能源场站小尺度气象预报技术”通过科技成果评价",
@@ -339,7 +339,7 @@
       "id": "a211dc4dbaac13af",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T12:52:30.070Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "电力交易步入“AI量化交易”时代，星辰新能如何让每一度电价值最大？",
@@ -354,7 +354,7 @@
       "id": "57a338724973bd0b",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-13T12:52:30.070Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "“十五五”新型储能实施方案印发 到2030年顶峰保供电网侧独立新型储能规模约1.4亿千瓦",
@@ -369,7 +369,7 @@
       "id": "0bb78f64074fc34f",
       "sourceId": "bjx-ranking",
       "firstSeenAt": "2026-11-13T12:52:31.502Z",
-      "lastCheckedAt": "2026-11-14T04:19:52.087Z"
+      "lastCheckedAt": "2026-11-14T11:59:47.290Z"
     },
     {
       "title": "PCS导致停运占比33. 63%、BMS占比骤降！中电联2026Q3储能电站数据发布！",
@@ -384,7 +384,7 @@
       "id": "31046b5a36987ae0",
       "sourceId": "bjx-ranking",
       "firstSeenAt": "2026-11-13T12:52:31.502Z",
-      "lastCheckedAt": "2026-11-14T04:19:52.087Z"
+      "lastCheckedAt": "2026-11-14T11:59:47.290Z"
     },
     {
       "title": "采用半固态电池！上海60MW/240MWh独立储能电站开工！",
@@ -399,7 +399,7 @@
       "id": "4f7578c3025c5aee",
       "sourceId": "bjx-ranking",
       "firstSeenAt": "2026-11-13T12:52:31.502Z",
-      "lastCheckedAt": "2026-11-14T04:19:52.087Z"
+      "lastCheckedAt": "2026-11-14T11:59:47.290Z"
     },
     {
       "title": "江西：到2030年储能装机超5GW，推动新能源与煤电、储能协同开发",
@@ -414,7 +414,7 @@
       "id": "cbd053c46cf6a5e2",
       "sourceId": "bjx-ranking",
       "firstSeenAt": "2026-11-13T12:52:31.502Z",
-      "lastCheckedAt": "2026-11-14T04:19:52.087Z"
+      "lastCheckedAt": "2026-11-14T11:59:47.290Z"
     },
     {
       "title": "吉林省现货电能量市场交易实施细则征求意见",
@@ -444,7 +444,7 @@
       "id": "47d918e48865545e",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-12T05:08:47.757Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "陕西电力市场结算实施细则（2027年版）（征求意见稿）：已入市未签交易合同用户超额获利回收",
@@ -474,7 +474,7 @@
       "id": "3ef2cef06821924c",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-12T05:08:47.757Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "青海前三季度绿证交易量创新高",
@@ -489,7 +489,7 @@
       "id": "340ab632b8745ae9",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-12T05:08:47.757Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "0.38元/Wh！宁德时代/亿纬动力入围200MWh储能电芯采购",
@@ -639,7 +639,7 @@
       "id": "9f3753b6ddc0147e",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-12T21:47:28.328Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "南方能源监管局与广西壮族自治区能源局共同谋划2027年电力市场建设工作",
@@ -654,7 +654,7 @@
       "id": "60a81e25c8b3a0cd",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-12T21:47:28.328Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "价差越赚越薄 陕西售电公司如何走出交易困境？",
@@ -669,7 +669,7 @@
       "id": "5f161faba3069f18",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-12T21:47:28.328Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "山西省2027年新能源竞价问题咨询答复 (第一批)",
@@ -684,7 +684,7 @@
       "id": "031a3e21b7aa48e0",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-12T21:47:28.328Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "政通宝能打造县域样板 —— 衡水市虚拟电厂现场会在河北故城召开",
@@ -699,7 +699,7 @@
       "id": "d62446d4985db93e",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-12T21:47:28.328Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "远景再获德国442MWh储能订单，700Ah+大电芯渐成海外主流",
@@ -759,7 +759,7 @@
       "id": "ae2f8334f71483ab",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-11T04:00:43.935Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "华北电网年度绿电交易电量突破八百亿千瓦时",
@@ -774,7 +774,7 @@
       "id": "27b6489a84be61fb",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-11T04:00:43.935Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "宁夏电力交易中心2026年10月市场主体注册情况",
@@ -789,7 +789,7 @@
       "id": "0cb1f9ace882589b",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-11T04:00:43.935Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "宁夏电力中长期交易实施细则（征求意见稿）：对直接参与市场交易的经营主体不再人为规定分时电价水平和时段",
@@ -804,7 +804,7 @@
       "id": "d4e09bba2a2390ac",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-11T04:00:43.935Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "湖南电力市场监管情况通报：部分售电公司涉嫌利用合同转让开展关联交易",
@@ -864,7 +864,7 @@
       "id": "5655c3d25a1b8a61",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-11T04:00:43.935Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "2027年规则“四梁八柱”全面落地 售电公司合规风控的三个关键切面",
@@ -879,7 +879,7 @@
       "id": "05ead0e76a94d4b8",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-11T04:00:43.935Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "注资5亿元！阳光电源成立储能子公司！",
@@ -1044,7 +1044,7 @@
       "id": "0669980cfc56535a",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-11T12:26:11.798Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "西藏2027年电力中长期交易的风险提示函",
@@ -1089,7 +1089,7 @@
       "id": "c049454fc1f9e83c",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-11T12:26:11.798Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "辽宁2027机制电价结果公示：风电0.3元/度、光伏0.2元/度",
@@ -1104,7 +1104,7 @@
       "id": "195cf40f4c468d41",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-10T05:29:48.409Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "山西省2027年增量新能源项目机制电价竞价工作有关事项：电量总规模69.43亿千瓦时",
@@ -1584,7 +1584,7 @@
       "id": "93d3d1da7481ee03",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-09T13:36:51.977Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "陕西电力现货市场实施细则（2027年版）（公开征求意见稿）：售电公司、批发大用户以“报量不报价”方式参与日前电能量市场结算",
@@ -1704,7 +1704,7 @@
       "id": "82ef5da2ccb3af5f",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-06T04:29:58.401Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "海南电力市场信息披露实施细则（2026年V1.0版）发布",
@@ -1749,7 +1749,7 @@
       "id": "5119d676666fb3b3",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-06T04:29:58.401Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "山东2026年9月新能源结算参考价公布：光伏235.232元/兆瓦时 环比下降23.23%",
@@ -1764,7 +1764,7 @@
       "id": "ed68917505104d78",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-06T04:29:58.401Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "湖南能监办对在中长期合同转让中涉嫌开展关联交易的售电公司启动监管约谈",
@@ -1824,7 +1824,7 @@
       "id": "65e1dbe57f8df3e1",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-06T04:29:58.401Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "河南能源监管办启动电力市场市场秩序和用电营商环境现场监管",
@@ -1854,7 +1854,7 @@
       "id": "f28a9fb6659bcf9e",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-06T04:29:58.401Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "均为风电！河南下发2.39GW煤电升级改造新能源项目",
@@ -2004,7 +2004,7 @@
       "id": "37e937773464f876",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-06T12:44:10.372Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "广东：鼓励建设零碳算力、合理配置储能！加快突破固态变压器等技术！",
@@ -2124,7 +2124,7 @@
       "id": "066f374bdfb15d56",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-05T04:31:56.600Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "如何不让机制电价推着新能源低价抢量？",
@@ -2154,7 +2154,7 @@
       "id": "6982cb8ed7afaa3b",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-05T04:31:56.600Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "2027年电力交易倒计时：两份文件里的七个市场信号",
@@ -2214,7 +2214,7 @@
       "id": "a84974fc18d2e9dd",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-05T04:31:56.600Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "海南电力零售市场零售合同（征求意见稿）发布",
@@ -2319,7 +2319,7 @@
       "id": "afd6f9c1ea1864f2",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-05T04:31:56.600Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "现货新规落地｜虚拟电厂拿到“独立席位” 价差收益如何兑现？",
@@ -2859,7 +2859,7 @@
       "id": "23cb7f1bebc0e38d",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-04T04:09:57.372Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "国网江西电力首单分布式小时级绿电交易落地",
@@ -2889,7 +2889,7 @@
       "id": "f48679726055ec8c",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-04T04:09:57.372Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "一度绿电 怎样从黑龙江走到福建？",
@@ -2904,7 +2904,7 @@
       "id": "9fbfe39d6f9a7d2a",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-04T04:09:57.372Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "广东肇庆：支持市场主体依法参与绿色电力交易、绿色电力证书交易、分布式发电就近交易",
@@ -2934,7 +2934,7 @@
       "id": "5426aaa29285fa9d",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-04T04:09:57.372Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "浙江电网侧新型储能参与现货市场 总充电量1.6亿千瓦时、放电量1.4亿千瓦时",
@@ -3639,7 +3639,7 @@
       "id": "f73af347f28107df",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-03T12:38:37.217Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "云南电力市场保底售电实施方案：遴选确定1家售电公司作为云南电力市场保底售电公司",
@@ -3699,7 +3699,7 @@
       "id": "fffb6d51bcd5cf46",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-02T03:46:10.268Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "山西：依托绿电园区大力发展新能源产业、优质高载能产业 加力打造综合能源和绿色能源供应商",
@@ -3984,7 +3984,7 @@
       "id": "2c242f17a51e17fe",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-02T13:05:57.542Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "四川落地首笔小时级绿电交易",
@@ -4119,7 +4119,7 @@
       "id": "a1678db7b200406f",
       "sourceId": "bjx",
       "firstSeenAt": "2026-11-02T13:05:57.542Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "附政策解读！安徽印发（2027年版）机制电价竞价细则",
@@ -4359,7 +4359,7 @@
       "id": "4f87727e13880218",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-30T03:48:05.666Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "25地电价上涨！2026年11月电网企业代理购电价格公布！",
@@ -4374,7 +4374,7 @@
       "id": "f43cf778bf5baec8",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-30T03:48:05.666Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "内蒙古电力集团2026年11月工商业电力客户代理购电价格公告",
@@ -4389,7 +4389,7 @@
       "id": "5901a98801450e28",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-30T03:48:05.666Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "宁夏新型经营主体参与市场交易方案：分布式储能项目聚合参与辅助服务市场 收益由虚拟电厂运营商通过服务费方式传导",
@@ -4509,7 +4509,7 @@
       "id": "7c88d775afe3cbbe",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-30T11:13:45.615Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "云南能源监管办制定印发云南电力市场负面行为清单",
@@ -4899,7 +4899,7 @@
       "id": "ee5a786a132329d6",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-29T11:18:26.580Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "南方区域电力市场信息披露实施细则（2026年V1.0版）发布",
@@ -5439,7 +5439,7 @@
       "id": "01b6a04c3a10e9d9",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-28T11:01:17.373Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "南方区域现货“转正”该看什么：两份新规如何影响交易与结算",
@@ -6339,7 +6339,7 @@
       "id": "dda6f6f23cbfd981",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-23T09:47:17.605Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "陕西电力零售市场交易实施细则（V1.0）修订条款",
@@ -7164,7 +7164,7 @@
       "id": "4debdced13056707",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "南网区域电价高位运行：从脉冲到常态，紧平衡格局延续",
@@ -7224,7 +7224,7 @@
       "id": "3c71d75e4601d1ef",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "售电公司：电力市场中不可替代的桥梁与润滑剂",
@@ -7239,7 +7239,7 @@
       "id": "d6e45d88809d7266",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "2026年10月广西电力市场6家虚拟电厂运营商注册公示",
@@ -7404,7 +7404,7 @@
       "id": "6c7834007046f8bd",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "湖南发布虚拟电厂参与电力市场交易实施方案",
@@ -7509,7 +7509,7 @@
       "id": "7f0018c943a2adde",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "广东2026年新能源项目机制电价竞价工作有关事项：电量竞价规模79.34亿千瓦时 分布式光伏参与",
@@ -7539,7 +7539,7 @@
       "id": "8b34c44f297bbed6",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "内蒙古电价政策实施情况评估课题研究项目成交结果公布",
@@ -7554,7 +7554,7 @@
       "id": "44f988ad538b9448",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "2026年8月南方区域电力市场结算月报：零售用户平均结算价格314元/兆瓦时 环比上涨1.4%",
@@ -7629,7 +7629,7 @@
       "id": "5e1f6f74a1f315ba",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "2027四川电力现货分区电价：4种可能的落地场景",
@@ -7644,7 +7644,7 @@
       "id": "8c9001e193d4e5d7",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "2026年10月电网代理购电价格解析",
@@ -7659,7 +7659,7 @@
       "id": "6631417df3e83c63",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "国家能源局：近期正研究起草绿色电力消费认证制度实施意见",
@@ -7674,7 +7674,7 @@
       "id": "4a63d0cff5ccf8df",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "国家能源局：2026年8月核发绿证3.54亿个 环比增长15.75%",
@@ -7689,7 +7689,7 @@
       "id": "ee82978ac2f5fcf0",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "海南省开展2027年度增量新能源项目机制电量竞价注册登记",
@@ -7719,7 +7719,7 @@
       "id": "41a9a03c7b1c399b",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "河南2026年10月代理工商业用户购电价格公布！",
@@ -7764,7 +7764,7 @@
       "id": "1952f42a6651d8cc",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "“政策破冰”之后 源网荷储与绿电直连面临的三个现实考题",
@@ -7929,7 +7929,7 @@
       "id": "a12afc4a31b8af00",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "放宽峰谷时长限制！山东进一步优化分时电价机制",
@@ -7944,7 +7944,7 @@
       "id": "005bdc56f2d32095",
       "sourceId": "bjx",
       "firstSeenAt": "2026-10-21T03:41:09.250Z",
-      "lastCheckedAt": "2026-11-14T04:19:50.898Z"
+      "lastCheckedAt": "2026-11-14T11:59:45.740Z"
     },
     {
       "title": "云南电力零售市场累计参与用户突破40万户",
