@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-15T04:01:15.707Z",
+  "checkedAt": "2026-11-15T12:27:43.326Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -2294,11 +2294,11 @@
         },
         {
           "url": "https://www.gov.cn/zhengce/zuixin/ZUIXINZHENGCE.json",
-          "bytes": 268406
+          "bytes": 268618
         }
       ],
       "stopReason": "json-feed-end",
-      "listed": 1116,
+      "listed": 1117,
       "selected": 2,
       "listErrors": [],
       "failures": [],
@@ -2572,7 +2572,7 @@
       "pages": [
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=1&isAllList=1",
-          "bytes": 16169
+          "bytes": 8443
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=2&isAllList=1",
@@ -2729,7 +2729,7 @@
       "pages": [
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=1&isAllList=1",
-          "bytes": 16065
+          "bytes": 8339
         },
         {
           "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=2&isAllList=1",
