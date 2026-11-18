@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-18T05:19:26.287Z",
+  "checkedAt": "2026-11-18T22:29:49.594Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87631
+          "bytes": 87578
         }
       ],
       "stopReason": "single-page",
@@ -445,7 +445,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/",
-          "bytes": 14779
+          "bytes": 14771
         },
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/index_1.html",
@@ -568,7 +568,7 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 109260
+          "bytes": 109286
         }
       ],
       "stopReason": "single-page",
@@ -593,11 +593,6 @@
           "url": "https://www.nea.gov.cn/20261019/2b3b4fb293ff4c2dad59a8608d5275d6/c.html"
         },
         {
-          "title": "关于2026年8月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
-          "date": "2026-09-23",
-          "url": "https://www.nea.gov.cn/20260923/aaadb598d4cc4c0a92585bfd26c8728e/c.html"
-        },
-        {
           "title": "国家能源局关于推动煤电与新能源融合发展的实施意见",
           "date": "2026-10-21",
           "url": "https://www.nea.gov.cn/20261021/fbd5cb3be4584be88f63046ffb0155fc/c.html"
@@ -611,6 +606,11 @@
           "title": "国家能源局公告 2026年第4号",
           "date": "2026-10-21",
           "url": "https://www.nea.gov.cn/20261021/35115ff2391547fc9d2cf3e4af2c669c/c.html"
+        },
+        {
+          "title": "关于2026年8月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-09-23",
+          "url": "https://www.nea.gov.cn/20260923/aaadb598d4cc4c0a92585bfd26c8728e/c.html"
         },
         {
           "title": "国家能源局公告 2026年第3号",
@@ -678,11 +678,11 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_b4ae3efbfd3f4ffcb1bb211fa7bdb92d.json",
-          "bytes": 13277
+          "bytes": 12969
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_40d365c13659452aa06cdb7268d6192e.json",
-          "bytes": 1087623
+          "bytes": 1087425
         }
       ],
       "stopReason": "json-feed-end",
@@ -1278,15 +1278,15 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_fa9dea7db62643b385c9dfc13f1a9285.json",
-          "bytes": 13510
+          "bytes": 13229
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_7290c82b05cc4d49be4971ade193edfc.json",
-          "bytes": 1118185
+          "bytes": 1118183
         }
       ],
       "stopReason": "json-feed-end",
-      "listed": 997,
+      "listed": 998,
       "selected": 61,
       "listErrors": [],
       "failures": [],
@@ -1941,15 +1941,15 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_323f40996d5b4b0bbfea850ea9018f09.json",
-          "bytes": 12025
+          "bytes": 12082
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_694d98bc00ff4b8aa78ee2782c27acba.json",
-          "bytes": 318414
+          "bytes": 319497
         }
       ],
       "stopReason": "json-feed-end",
-      "listed": 291,
+      "listed": 292,
       "selected": 55,
       "listErrors": [],
       "failures": [],
@@ -2325,20 +2325,20 @@
       "pages": [
         {
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/",
-          "bytes": 18524
+          "bytes": 18561
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/index_1.html",
-          "bytes": 18553
+          "bytes": 18560
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/index_2.html",
-          "bytes": 18266
+          "bytes": 18203
         }
       ],
       "stopReason": "page-limit",
       "listed": 44,
-      "selected": 19,
+      "selected": 18,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -2431,11 +2431,6 @@
           "title": "关于印发《山东电力爬坡辅助服务市场交易规则(试行)》的通知",
           "date": "2024-02-08",
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202402/t20240208_245961.html"
-        },
-        {
-          "title": "关于征求《山东电力爬坡辅助服务市场交易规则(征求意见稿)》意见的通知",
-          "date": "2023-08-08",
-          "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202309/t20230919_110475.html"
         }
       ]
     },
@@ -2444,15 +2439,15 @@
       "pages": [
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/",
-          "bytes": 18384
+          "bytes": 18407
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_1.html",
-          "bytes": 18336
+          "bytes": 18271
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/jgdt/index_2.html",
-          "bytes": 18252
+          "bytes": 18318
         }
       ],
       "stopReason": "page-limit",
@@ -2529,23 +2524,389 @@
     },
     {
       "sourceId": "sd-nyj-notices",
-      "error": "fetch failed",
-      "pages": []
+      "pages": [
+        {
+          "url": "http://nyj.shandong.gov.cn/col/col59960/index.html",
+          "bytes": 23053
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/web/jpage/dataproxy.jsp?page=1&webid=355&path=http://nyj.shandong.gov.cn/&columnid=59960&unitid=745545&webname=%25E5%25B1%25B1%25E4%25B8%259C%25E7%259C%2581%25E8%2583%25BD%25E6%25BA%2590%25E5%25B1%2580&permissiontype=0",
+          "bytes": 49
+        }
+      ],
+      "stopReason": "unparsed-page",
+      "listed": 45,
+      "selected": 5,
+      "listErrors": [],
+      "failures": [],
+      "entries": [
+        {
+          "title": "关于公开征求《山东省能源行政处罚裁量基准（征求意见稿）》意见的通知",
+          "date": "2026-07-27",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/27/art_59960_10312755.html"
+        },
+        {
+          "title": "关于做好2026年下半年全省电力市场建设有关工作的通知",
+          "date": "2026-06-11",
+          "url": "http://nyj.shandong.gov.cn/art/2026/6/11/art_59960_10312276.html"
+        },
+        {
+          "title": "关于印发《山东省促进虚拟电厂高质量发展方案》的通知",
+          "date": "2026-03-27",
+          "url": "http://nyj.shandong.gov.cn/art/2026/3/27/art_59960_10311577.html"
+        },
+        {
+          "title": "《山东省虚拟电厂建设运行管理办法（征求意见稿）》征求意见公告",
+          "date": "2026-03-16",
+          "url": "http://nyj.shandong.gov.cn/art/2026/3/16/art_59960_10311433.html"
+        },
+        {
+          "title": "关于公开征求《山东省抽水蓄能项目管理实施细则（征求意见稿）》意见的通知",
+          "date": "2026-03-05",
+          "url": "http://nyj.shandong.gov.cn/art/2026/3/5/art_59960_10311333.html"
+        }
+      ]
     },
     {
       "sourceId": "sd-nyj-interpretation",
-      "error": "fetch failed",
-      "pages": []
+      "pages": [
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=1&isAllList=1",
+          "bytes": 8443
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=2&isAllList=1",
+          "bytes": 8085
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=3&isAllList=1",
+          "bytes": 8345
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=4&isAllList=1",
+          "bytes": 8327
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD020207&jdid=355&divid=div162733&area=&currpage=5&isAllList=1",
+          "bytes": 8244
+        }
+      ],
+      "stopReason": "passed-history-start",
+      "listed": 80,
+      "selected": 20,
+      "listErrors": [],
+      "failures": [],
+      "entries": [
+        {
+          "title": "政策解读：《山东省能源行政处罚裁量权基准（2026年版）》",
+          "date": "2026-11-04",
+          "url": "http://nyj.shandong.gov.cn/art/2026/11/4/art_100396_10314335.html"
+        },
+        {
+          "title": "政策解读：《关于加快推动新能源场站配建储能高质量发展的通知》",
+          "date": "2026-08-31",
+          "url": "http://nyj.shandong.gov.cn/art/2026/8/31/art_100396_10313215.html"
+        },
+        {
+          "title": "政策解读：《山东省新能源领域场景建设实施方案》",
+          "date": "2026-07-20",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/20/art_100396_10312678.html"
+        },
+        {
+          "title": "一图读懂：《关于加强和规范绿电直连发展的通知》",
+          "date": "2026-07-10",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/10/art_100396_10312616.html"
+        },
+        {
+          "title": "政策解读：《关于加强和规范绿电直连发展的通知》",
+          "date": "2026-07-08",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/8/art_100396_10312597.html"
+        },
+        {
+          "title": "政策解读：《山东省抽水蓄能项目管理实施细则》",
+          "date": "2026-07-06",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/6/art_100396_10312557.html"
+        },
+        {
+          "title": "政策解读：《山东省有序推动绿电直连发展实施方案》",
+          "date": "2025-12-01",
+          "url": "http://nyj.shandong.gov.cn/art/2025/12/1/art_100396_10310473.html"
+        },
+        {
+          "title": "【一图读懂】加快新型储能产业高质量发展的指导意见",
+          "date": "2024-08-13",
+          "url": "http://nyj.shandong.gov.cn/art/2024/7/30/art_100396_10305314.html"
+        },
+        {
+          "title": "充分发挥价格引导作用 支持新型储能健康发展",
+          "date": "2023-11-09",
+          "url": "http://nyj.shandong.gov.cn/art/2023/11/13/art_100396_10301655.html"
+        },
+        {
+          "title": "《山东省能源行政处罚裁量权基准》政策解读",
+          "date": "2023-10-31",
+          "url": "http://nyj.shandong.gov.cn/art/2023/10/10/art_100396_10301436.html"
+        },
+        {
+          "title": "【一图读懂】山东积极开展配建储能转为独立储能试点",
+          "date": "2023-08-23",
+          "url": "http://nyj.shandong.gov.cn/art/2023/8/23/art_100396_10300753.html"
+        },
+        {
+          "title": "《关于开展我省配建储能转为独立储能试点工作的通知》政策解读",
+          "date": "2023-08-23",
+          "url": "http://nyj.shandong.gov.cn/art/2023/8/23/art_100396_10300574.html"
+        },
+        {
+          "title": "政策产业资本三方合力 长时储能商业化可期",
+          "date": "2023-08-12",
+          "url": "http://nyj.shandong.gov.cn/art/2023/8/14/art_100396_10301575.html"
+        },
+        {
+          "title": "【一图读懂】进一步规范新型储能项目管理",
+          "date": "2023-08-09",
+          "url": "http://nyj.shandong.gov.cn/art/2023/8/9/art_100396_10301998.html"
+        },
+        {
+          "title": "进一步规范项目管理 保障新型储能健康发展",
+          "date": "2023-08-08",
+          "url": "http://nyj.shandong.gov.cn/art/2023/8/9/art_100396_10301997.html"
+        },
+        {
+          "title": "【一图读懂】推动长时储能试点应用促进先进储能技术规模化发展",
+          "date": "2023-07-23",
+          "url": "http://nyj.shandong.gov.cn/art/2023/7/25/art_100396_10301708.html"
+        },
+        {
+          "title": "推动长时储能试点应用 促进先进储能技术规模化发展",
+          "date": "2023-07-23",
+          "url": "http://nyj.shandong.gov.cn/art/2023/7/25/art_100396_10301656.html"
+        },
+        {
+          "title": "《山东省新型储能工程发展行动方案》解读",
+          "date": "2022-12-30",
+          "url": "http://nyj.shandong.gov.cn/art/2022/12/30/art_100396_10295574.html"
+        },
+        {
+          "title": "《关于促进我省新型储能示范项目健康发展的若干措施》政策解读",
+          "date": "2022-09-01",
+          "url": "http://nyj.shandong.gov.cn/art/2022/9/1/art_100396_10293614.html"
+        },
+        {
+          "title": "权威发布丨山东绘就“十四五”电力发展蓝图，构建新型电力系统 助力“双碳”目标实现",
+          "date": "2022-06-10",
+          "url": "http://nyj.shandong.gov.cn/art/2022/6/10/art_100396_10295413.html"
+        }
+      ]
     },
     {
       "sourceId": "sd-nyj-consultation",
-      "error": "fetch failed",
-      "pages": []
+      "pages": [
+        {
+          "url": "http://nyj.shandong.gov.cn/col/col59978/index.html",
+          "bytes": 18427
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/web/jpage/dataproxy.jsp?page=1&webid=355&path=http://nyj.shandong.gov.cn/&columnid=59978&unitid=745919&webname=%25E5%25B1%25B1%25E4%25B8%259C%25E7%259C%2581%25E8%2583%25BD%25E6%25BA%2590%25E5%25B1%2580&permissiontype=0",
+          "bytes": 49
+        }
+      ],
+      "stopReason": "unparsed-page",
+      "listed": 31,
+      "selected": 1,
+      "listErrors": [],
+      "failures": [],
+      "entries": [
+        {
+          "title": "关于公开征求《山东省能源行政处罚裁量基准（征求意见稿）》意见的通知",
+          "date": "2026-07-27",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/27/art_59978_10313655.html"
+        }
+      ]
     },
     {
       "sourceId": "sd-nyj-disclosure",
-      "error": "fetch failed",
-      "pages": []
+      "pages": [
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=1&isAllList=1",
+          "bytes": 8339
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=2&isAllList=1",
+          "bytes": 8371
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=3&isAllList=1",
+          "bytes": 8087
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=4&isAllList=1",
+          "bytes": 8351
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=5&isAllList=1",
+          "bytes": 8219
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=6&isAllList=1",
+          "bytes": 8406
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=7&isAllList=1",
+          "bytes": 8306
+        },
+        {
+          "url": "http://nyj.shandong.gov.cn/module/xxgk/search.jsp?standardXxgk=1&infotypeId=SD0202&jdid=355&divid=div162733&area=&currpage=8&isAllList=1",
+          "bytes": 8300
+        }
+      ],
+      "stopReason": "passed-history-start",
+      "listed": 128,
+      "selected": 28,
+      "listErrors": [],
+      "failures": [],
+      "entries": [
+        {
+          "title": "政策解读：《山东省能源行政处罚裁量权基准（2026年版）》",
+          "date": "2026-11-04",
+          "url": "http://nyj.shandong.gov.cn/art/2026/11/4/art_100396_10314335.html"
+        },
+        {
+          "title": "政策解读：《关于加快推动新能源场站配建储能高质量发展的通知》",
+          "date": "2026-08-31",
+          "url": "http://nyj.shandong.gov.cn/art/2026/8/31/art_100396_10313215.html"
+        },
+        {
+          "title": "山东省能源局关于印发《山东省新能源领域场景建设实施方案》的通知",
+          "date": "2026-07-20",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/20/art_100393_10312676.html"
+        },
+        {
+          "title": "政策解读：《山东省新能源领域场景建设实施方案》",
+          "date": "2026-07-20",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/20/art_100396_10312678.html"
+        },
+        {
+          "title": "一图读懂：《关于加强和规范绿电直连发展的通知》",
+          "date": "2026-07-10",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/10/art_100396_10312616.html"
+        },
+        {
+          "title": "政策解读：《关于加强和规范绿电直连发展的通知》",
+          "date": "2026-07-08",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/8/art_100396_10312597.html"
+        },
+        {
+          "title": "关于加强和规范绿电直连发展的通知",
+          "date": "2026-07-08",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/8/art_100393_10312595.html"
+        },
+        {
+          "title": "关于印发《山东省虚拟电厂建设运行管理办法》的通知",
+          "date": "2026-07-07",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/7/art_100393_10312575.html"
+        },
+        {
+          "title": "关于印发《山东省抽水蓄能项目管理实施细则》的通知",
+          "date": "2026-07-06",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/6/art_100393_10312555.html"
+        },
+        {
+          "title": "政策解读：《山东省抽水蓄能项目管理实施细则》",
+          "date": "2026-07-06",
+          "url": "http://nyj.shandong.gov.cn/art/2026/7/6/art_100396_10312557.html"
+        },
+        {
+          "title": "政策解读：《山东省有序推动绿电直连发展实施方案》",
+          "date": "2025-12-01",
+          "url": "http://nyj.shandong.gov.cn/art/2025/12/1/art_100396_10310473.html"
+        },
+        {
+          "title": "关于将国家能源博兴发电有限公司#1、#2机组补充纳入适用煤电容量电价机制机组清单的通知",
+          "date": "2025-04-02",
+          "url": "http://nyj.shandong.gov.cn/art/2025/4/3/art_100393_10309215.html"
+        },
+        {
+          "title": "山东省人民政府办公厅印发《关于健全完善新能源消纳体系机制促进能源高质量发展的若干措施》的通知",
+          "date": "2024-12-17",
+          "url": "http://nyj.shandong.gov.cn/art/2024/12/18/art_100393_10306933.html"
+        },
+        {
+          "title": "【一图读懂】加快新型储能产业高质量发展的指导意见",
+          "date": "2024-08-13",
+          "url": "http://nyj.shandong.gov.cn/art/2024/7/30/art_100396_10305314.html"
+        },
+        {
+          "title": "关于印发《加快新型储能产业高质量发展的指导意见》的通知",
+          "date": "2024-08-09",
+          "url": "http://nyj.shandong.gov.cn/art/2024/8/9/art_100393_10305295.html"
+        },
+        {
+          "title": "关于印发《支持新型储能健康有序发展若干政策措施》的通知",
+          "date": "2023-11-09",
+          "url": "http://nyj.shandong.gov.cn/art/2023/11/13/art_100393_10301654.html"
+        },
+        {
+          "title": "《山东省能源行政处罚裁量权基准》政策解读",
+          "date": "2023-10-31",
+          "url": "http://nyj.shandong.gov.cn/art/2023/10/10/art_100396_10301436.html"
+        },
+        {
+          "title": "【一图读懂】山东积极开展配建储能转为独立储能试点",
+          "date": "2023-08-23",
+          "url": "http://nyj.shandong.gov.cn/art/2023/8/23/art_100396_10300753.html"
+        },
+        {
+          "title": "《关于开展我省配建储能转为独立储能试点工作的通知》政策解读",
+          "date": "2023-08-23",
+          "url": "http://nyj.shandong.gov.cn/art/2023/8/23/art_100396_10300574.html"
+        },
+        {
+          "title": "政策产业资本三方合力 长时储能商业化可期",
+          "date": "2023-08-12",
+          "url": "http://nyj.shandong.gov.cn/art/2023/8/14/art_100396_10301575.html"
+        },
+        {
+          "title": "【一图读懂】进一步规范新型储能项目管理",
+          "date": "2023-08-09",
+          "url": "http://nyj.shandong.gov.cn/art/2023/8/9/art_100396_10301998.html"
+        },
+        {
+          "title": "关于加强新型储能入库项目管理工作的通知",
+          "date": "2023-08-08",
+          "url": "http://nyj.shandong.gov.cn/art/2023/8/9/art_100393_10301996.html"
+        },
+        {
+          "title": "关于印发《关于支持长时储能试点应用的若干措施》的通知",
+          "date": "2023-07-23",
+          "url": "http://nyj.shandong.gov.cn/art/2023/7/25/art_100393_10301573.html"
+        },
+        {
+          "title": "【一图读懂】推动长时储能试点应用促进先进储能技术规模化发展",
+          "date": "2023-07-23",
+          "url": "http://nyj.shandong.gov.cn/art/2023/7/25/art_100396_10301708.html"
+        },
+        {
+          "title": "《山东省新型储能工程发展行动方案》解读",
+          "date": "2022-12-30",
+          "url": "http://nyj.shandong.gov.cn/art/2022/12/30/art_100396_10295574.html"
+        },
+        {
+          "title": "山东省能源局关于印发《山东省新型储能工程发展行动方案》的通知",
+          "date": "2022-12-29",
+          "url": "http://nyj.shandong.gov.cn/art/2022/12/30/art_100393_10295573.html"
+        },
+        {
+          "title": "《关于促进我省新型储能示范项目健康发展的若干措施》政策解读",
+          "date": "2022-09-01",
+          "url": "http://nyj.shandong.gov.cn/art/2022/9/1/art_100396_10293614.html"
+        },
+        {
+          "title": "关于印发《关于促进我省新型储能示范项目健康发展的若干措施》的通知",
+          "date": "2022-09-01",
+          "url": "http://nyj.shandong.gov.cn/art/2022/9/1/art_100393_10293613.html"
+        }
+      ]
     },
     {
       "sourceId": "sd-fgw",
