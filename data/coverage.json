@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-18T22:29:49.594Z",
+  "checkedAt": "2026-11-19T05:16:10.192Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87578
+          "bytes": 87502
         }
       ],
       "stopReason": "single-page",
@@ -568,12 +568,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 109286
+          "bytes": 109376
         }
       ],
       "stopReason": "single-page",
       "listed": 79,
-      "selected": 18,
+      "selected": 21,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -621,6 +621,21 @@
           "title": "关于2026年7月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
           "date": "2026-09-04",
           "url": "https://www.nea.gov.cn/20260904/324fdc3e4908431392b82d19ab10de6b/c.html"
+        },
+        {
+          "title": "聚合分散资源 释放协同价值——《中国虚拟电厂发展报告（2026）》解读",
+          "date": "2026-11-19",
+          "url": "https://www.nea.gov.cn/20261119/a7a1daae1c6e4657ad807f2509dd2e5b/c.html"
+        },
+        {
+          "title": "虚拟电厂迈入规模化发展新阶段——《中国虚拟电厂发展报告（2026）》解读",
+          "date": "2026-11-19",
+          "url": "https://www.nea.gov.cn/20261119/7504b3489a694054920e81f18fc3072f/c.html"
+        },
+        {
+          "title": "从“聚起来”到“用得好” 虚拟电厂迈入价值释放新阶段——《中国虚拟电厂发展报告（2026）》解读",
+          "date": "2026-11-19",
+          "url": "https://www.nea.gov.cn/20261119/34a783e4c6aa437b86fdd61e5a84a2cc/c.html"
         },
         {
           "title": "国家能源局有关负责同志就《“十五五”新型储能实施方案》答记者问",
@@ -678,11 +693,11 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_b4ae3efbfd3f4ffcb1bb211fa7bdb92d.json",
-          "bytes": 12969
+          "bytes": 12604
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_40d365c13659452aa06cdb7268d6192e.json",
-          "bytes": 1087425
+          "bytes": 1087014
         }
       ],
       "stopReason": "json-feed-end",
@@ -1607,15 +1622,15 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_e5cd0ac514b8416db9d472a1d5f8989c.json",
-          "bytes": 11686
+          "bytes": 11317
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_6db2ed2a0ae946d882bcc769494c99be.json",
-          "bytes": 723661
+          "bytes": 724579
         }
       ],
       "stopReason": "json-feed-end",
-      "listed": 692,
+      "listed": 693,
       "selected": 62,
       "listErrors": [],
       "failures": [],
@@ -1941,19 +1956,34 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_323f40996d5b4b0bbfea850ea9018f09.json",
-          "bytes": 12082
+          "bytes": 11678
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_694d98bc00ff4b8aa78ee2782c27acba.json",
-          "bytes": 319497
+          "bytes": 322855
         }
       ],
       "stopReason": "json-feed-end",
-      "listed": 292,
-      "selected": 55,
+      "listed": 295,
+      "selected": 58,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "聚合分散资源 释放协同价值——《中国虚拟电厂发展报告（2026）》解读",
+          "date": "2026-11-19",
+          "url": "https://www.nea.gov.cn/20261119/a7a1daae1c6e4657ad807f2509dd2e5b/c.html"
+        },
+        {
+          "title": "虚拟电厂迈入规模化发展新阶段——《中国虚拟电厂发展报告（2026）》解读",
+          "date": "2026-11-19",
+          "url": "https://www.nea.gov.cn/20261119/7504b3489a694054920e81f18fc3072f/c.html"
+        },
+        {
+          "title": "从“聚起来”到“用得好” 虚拟电厂迈入价值释放新阶段——《中国虚拟电厂发展报告（2026）》解读",
+          "date": "2026-11-19",
+          "url": "https://www.nea.gov.cn/20261119/34a783e4c6aa437b86fdd61e5a84a2cc/c.html"
+        },
         {
           "title": "国家能源局有关负责同志就《“十五五”新型储能实施方案》答记者问",
           "date": "2026-11-13",
