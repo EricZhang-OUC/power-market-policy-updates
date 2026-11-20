@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-20T05:02:54.737Z",
+  "checkedAt": "2026-11-20T13:56:32.832Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87583
+          "bytes": 87378
         }
       ],
       "stopReason": "single-page",
@@ -568,12 +568,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 109266
+          "bytes": 108805
         }
       ],
       "stopReason": "single-page",
-      "listed": 81,
-      "selected": 21,
+      "listed": 85,
+      "selected": 22,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -663,24 +663,29 @@
           "url": "https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html"
         },
         {
+          "title": "东北能源监管局召开专门会议部署迎峰度冬电力市场风险防控工作",
+          "date": "2026-11-20",
+          "url": "https://www.nea.gov.cn/20261120/cfc4ac8043f5445d926749d84a2a25b8/c.html"
+        },
+        {
+          "title": "山西能源监管办开展2026年电力市场秩序和电网公平开放专项监管",
+          "date": "2026-11-20",
+          "url": "https://www.nea.gov.cn/20261120/8c0ec2688e164a27a3d4d1359088cad4/c.html"
+        },
+        {
+          "title": "江苏能源监管办赴江阴苏龙电厂开展迎峰度冬电力保供和电力建设工程安全生产现场督查",
+          "date": "2026-11-20",
+          "url": "https://www.nea.gov.cn/20261120/ce91eaf6b4e24bfa9d84bd7e3107f6e5/c.html"
+        },
+        {
+          "title": "贵州能源监管办开展今冬明春电力保供和电力安全生产专项督导",
+          "date": "2026-11-20",
+          "url": "https://www.nea.gov.cn/20261120/d8f1034cfffa49edb1e65aa9812a91da/c.html"
+        },
+        {
           "title": "如何理解《可再生能源绿色电力证书管理实施细则（试行）》（国能发资质规〔2025〕107 号）中规定绿证交易价格大于0元？采购绿证后，代理环节无偿分配给用户的模式，是否属于绿证交易行为？",
           "date": "2026-11-19",
           "url": "https://www.nea.gov.cn/20261119/25ab9597e15a49ecab59d16b8c62c569/c.html"
-        },
-        {
-          "title": "东北能源监管局指导辽宁电力交易中心开展平台主备系统切换演练",
-          "date": "2026-11-17",
-          "url": "https://www.nea.gov.cn/20261117/17cc27eaf26f4d53b103eb6c7b504607/c.html"
-        },
-        {
-          "title": "西北能源监管局督导青海迎峰度冬能源保供工作",
-          "date": "2026-11-17",
-          "url": "https://www.nea.gov.cn/20261117/377e89f6bcf7444cbde5c782dbe7e895/c.html"
-        },
-        {
-          "title": "云南能源监管办组织召开迎峰度冬电力保供监管工作会议",
-          "date": "2026-11-17",
-          "url": "https://www.nea.gov.cn/20261117/23351357603448929945f54e31b2c4a9/c.html"
         }
       ]
     },
@@ -2544,48 +2549,8 @@
     },
     {
       "sourceId": "sd-nyj-notices",
-      "pages": [
-        {
-          "url": "http://nyj.shandong.gov.cn/col/col59960/index.html",
-          "bytes": 23236
-        },
-        {
-          "url": "http://nyj.shandong.gov.cn/module/web/jpage/dataproxy.jsp?page=1&webid=355&path=http://nyj.shandong.gov.cn/&columnid=59960&unitid=745545&webname=%25E5%25B1%25B1%25E4%25B8%259C%25E7%259C%2581%25E8%2583%25BD%25E6%25BA%2590%25E5%25B1%2580&permissiontype=0",
-          "bytes": 49
-        }
-      ],
-      "stopReason": "unparsed-page",
-      "listed": 45,
-      "selected": 5,
-      "listErrors": [],
-      "failures": [],
-      "entries": [
-        {
-          "title": "关于公开征求《山东省能源行政处罚裁量基准（征求意见稿）》意见的通知",
-          "date": "2026-07-27",
-          "url": "http://nyj.shandong.gov.cn/art/2026/7/27/art_59960_10312755.html"
-        },
-        {
-          "title": "关于做好2026年下半年全省电力市场建设有关工作的通知",
-          "date": "2026-06-11",
-          "url": "http://nyj.shandong.gov.cn/art/2026/6/11/art_59960_10312276.html"
-        },
-        {
-          "title": "关于印发《山东省促进虚拟电厂高质量发展方案》的通知",
-          "date": "2026-03-27",
-          "url": "http://nyj.shandong.gov.cn/art/2026/3/27/art_59960_10311577.html"
-        },
-        {
-          "title": "《山东省虚拟电厂建设运行管理办法（征求意见稿）》征求意见公告",
-          "date": "2026-03-16",
-          "url": "http://nyj.shandong.gov.cn/art/2026/3/16/art_59960_10311433.html"
-        },
-        {
-          "title": "关于公开征求《山东省抽水蓄能项目管理实施细则（征求意见稿）》意见的通知",
-          "date": "2026-03-05",
-          "url": "http://nyj.shandong.gov.cn/art/2026/3/5/art_59960_10311333.html"
-        }
-      ]
+      "error": "fetch failed",
+      "pages": []
     },
     {
       "sourceId": "sd-nyj-interpretation",
