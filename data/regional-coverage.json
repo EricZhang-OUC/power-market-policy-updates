@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-20T13:59:51.304Z",
+  "checkedAt": "2026-11-20T22:10:39.643Z",
   "since": "2026-01-01",
   "note": "已配置官方栏目采集记录，不代表覆盖所有省区及每个部门",
   "sources": [
@@ -1301,16 +1301,16 @@
     },
     {
       "sourceId": "nmg-nyj-notices",
-      "pages": [],
-      "listed": 1,
-      "selected": 2,
-      "failures": [],
-      "listErrors": [
+      "pages": [
         {
           "url": "https://nyj.nmg.gov.cn/tzgg/",
-          "error": "fetch failed"
+          "bytes": 63562
         }
-      ]
+      ],
+      "listed": 18,
+      "selected": 5,
+      "failures": [],
+      "listErrors": []
     },
     {
       "sourceId": "nmg-nyj-home",
