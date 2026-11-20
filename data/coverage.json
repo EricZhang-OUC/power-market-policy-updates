@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-19T22:34:21.154Z",
+  "checkedAt": "2026-11-20T05:02:54.737Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87521
+          "bytes": 87583
         }
       ],
       "stopReason": "single-page",
@@ -568,12 +568,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 109487
+          "bytes": 109266
         }
       ],
       "stopReason": "single-page",
-      "listed": 79,
-      "selected": 22,
+      "listed": 81,
+      "selected": 21,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -586,11 +586,6 @@
           "title": "国家能源局公告 2026年第5号",
           "date": "2026-11-02",
           "url": "https://www.nea.gov.cn/20261102/af04409304d44bfb89c9880f55b70dff/c.html"
-        },
-        {
-          "title": "国家能源局综合司关于公开征求《全国统一电力市场信用评价指引（征求意见稿）》意见的通知",
-          "date": "2026-10-19",
-          "url": "https://www.nea.gov.cn/20261019/2b3b4fb293ff4c2dad59a8608d5275d6/c.html"
         },
         {
           "title": "国家能源局关于推动煤电与新能源融合发展的实施意见",
@@ -698,16 +693,16 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_b4ae3efbfd3f4ffcb1bb211fa7bdb92d.json",
-          "bytes": 12604
+          "bytes": 12529
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_40d365c13659452aa06cdb7268d6192e.json",
-          "bytes": 1087014
+          "bytes": 1086985
         }
       ],
       "stopReason": "json-feed-end",
       "listed": 999,
-      "selected": 114,
+      "selected": 113,
       "listErrors": [],
       "failures": [
         {
@@ -726,11 +721,6 @@
           "title": "国家能源局公告 2026年第5号",
           "date": "2026-11-02",
           "url": "https://www.nea.gov.cn/20261102/af04409304d44bfb89c9880f55b70dff/c.html"
-        },
-        {
-          "title": "国家能源局综合司关于公开征求《全国统一电力市场信用评价指引（征求意见稿）》意见的通知",
-          "date": "2026-10-19",
-          "url": "https://www.nea.gov.cn/20261019/2b3b4fb293ff4c2dad59a8608d5275d6/c.html"
         },
         {
           "title": "关于2026年8月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
@@ -1298,16 +1288,16 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_fa9dea7db62643b385c9dfc13f1a9285.json",
-          "bytes": 13229
+          "bytes": 13148
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_7290c82b05cc4d49be4971ade193edfc.json",
-          "bytes": 1118183
+          "bytes": 1117823
         }
       ],
       "stopReason": "json-feed-end",
-      "listed": 998,
-      "selected": 61,
+      "listed": 997,
+      "selected": 60,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -1320,11 +1310,6 @@
           "title": "国家能源局关于推动煤电与新能源融合发展的实施意见",
           "date": "2026-10-21",
           "url": "https://www.nea.gov.cn/20261021/fbd5cb3be4584be88f63046ffb0155fc/c.html"
-        },
-        {
-          "title": "国家能源局综合司关于公开征求《全国统一电力市场信用评价指引（征求意见稿）》意见的通知",
-          "date": "2026-10-19",
-          "url": "https://www.nea.gov.cn/20261019/2b3b4fb293ff4c2dad59a8608d5275d6/c.html"
         },
         {
           "title": "国家发展改革委 国家能源局关于印发《新型电力系统建设“十五五”规划》的通知",
