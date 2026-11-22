@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-21T20:46:51.936Z",
+  "checkedAt": "2026-11-22T04:17:58.285Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -568,12 +568,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108805
+          "bytes": 108765
         }
       ],
       "stopReason": "single-page",
-      "listed": 85,
-      "selected": 22,
+      "listed": 80,
+      "selected": 21,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -676,11 +676,6 @@
           "title": "江苏能源监管办赴江阴苏龙电厂开展迎峰度冬电力保供和电力建设工程安全生产现场督查",
           "date": "2026-11-20",
           "url": "https://www.nea.gov.cn/20261120/ce91eaf6b4e24bfa9d84bd7e3107f6e5/c.html"
-        },
-        {
-          "title": "贵州能源监管办开展今冬明春电力保供和电力安全生产专项督导",
-          "date": "2026-11-20",
-          "url": "https://www.nea.gov.cn/20261120/d8f1034cfffa49edb1e65aa9812a91da/c.html"
         },
         {
           "title": "如何理解《可再生能源绿色电力证书管理实施细则（试行）》（国能发资质规〔2025〕107 号）中规定绿证交易价格大于0元？采购绿证后，代理环节无偿分配给用户的模式，是否属于绿证交易行为？",
