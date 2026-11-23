@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-23T04:57:45.337Z",
+  "checkedAt": "2026-11-23T15:37:34.503Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87501
+          "bytes": 87203
         }
       ],
       "stopReason": "single-page",
@@ -50,7 +50,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/",
-          "bytes": 44833
+          "bytes": 45747
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_1.html",
@@ -62,7 +62,7 @@
         }
       ],
       "stopReason": "page-limit",
-      "listed": 166,
+      "listed": 168,
       "selected": 20,
       "listErrors": [],
       "failures": [],
@@ -356,19 +356,19 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/",
-          "bytes": 91317
+          "bytes": 93163
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_1.html",
-          "bytes": 74137
+          "bytes": 72815
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/index_2.html",
-          "bytes": 82099
+          "bytes": 83027
         }
       ],
       "stopReason": "page-limit",
-      "listed": 118,
+      "listed": 120,
       "selected": 10,
       "listErrors": [],
       "failures": [],
@@ -499,23 +499,28 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/yjfk/index.html",
-          "bytes": 13527
+          "bytes": 13521
         },
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/yjfk/index_1.html",
-          "bytes": 13749
+          "bytes": 13770
         },
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/yjfk/index_2.html",
-          "bytes": 13042
+          "bytes": 13041
         }
       ],
       "stopReason": "page-limit",
       "listed": 75,
-      "selected": 6,
+      "selected": 7,
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "关于《电力现货市场基本规则（公开征求意见稿）》公开征求意见情况的通告",
+          "date": "2026-11-23",
+          "url": "https://www.ndrc.gov.cn/hdjl/yjzq/yjfk/dlxhscjbgz/202611/t20261123_1409047.html"
+        },
         {
           "title": "关于《售电公司管理办法（公开征求意见稿）》公开征求意见情况的通告",
           "date": "2026-10-12",
@@ -553,11 +558,11 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108719
+          "bytes": 108721
         }
       ],
       "stopReason": "single-page",
-      "listed": 79,
+      "listed": 80,
       "selected": 20,
       "listErrors": [],
       "failures": [],
