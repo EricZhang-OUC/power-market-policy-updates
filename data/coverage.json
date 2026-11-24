@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-23T15:37:34.503Z",
+  "checkedAt": "2026-11-24T07:46:50.591Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87203
+          "bytes": 87264
         }
       ],
       "stopReason": "single-page",
@@ -558,12 +558,12 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108721
+          "bytes": 108649
         }
       ],
       "stopReason": "single-page",
-      "listed": 80,
-      "selected": 20,
+      "listed": 84,
+      "selected": 21,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -661,6 +661,11 @@
           "title": "山西能源监管办开展2026年电力市场秩序和电网公平开放专项监管",
           "date": "2026-11-20",
           "url": "https://www.nea.gov.cn/20261120/8c0ec2688e164a27a3d4d1359088cad4/c.html"
+        },
+        {
+          "title": "关于2026年10月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-11-24",
+          "url": "https://www.nea.gov.cn/20261124/a4cfe5ac7f8440b2a2376b428dffd2da/c.html"
         },
         {
           "title": "如何理解《可再生能源绿色电力证书管理实施细则（试行）》（国能发资质规〔2025〕107 号）中规定绿证交易价格大于0元？采购绿证后，代理环节无偿分配给用户的模式，是否属于绿证交易行为？",
