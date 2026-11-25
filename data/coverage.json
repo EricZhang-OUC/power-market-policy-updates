@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-24T23:45:24.459Z",
+  "checkedAt": "2026-11-25T06:17:10.726Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,12 +9,12 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87133
+          "bytes": 87227
         }
       ],
       "stopReason": "single-page",
       "listed": 87,
-      "selected": 5,
+      "selected": 6,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -27,6 +27,11 @@
           "title": "关于印发《“十五五”新型储能实施方案》的通知(发改能源〔2026〕1565号)",
           "date": "2026-11-13",
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202611/t20261113_1408810.html"
+        },
+        {
+          "title": "国家发展改革委关于向社会公开征求《电力零售市场基本规则（试行）》（公开征求意见稿）意见的公告",
+          "date": "",
+          "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/dlscjbgz"
         },
         {
           "title": "国家发展改革委关于向社会公开征求《电力现货市场基本规则（公开征求意见稿）》意见的公告",
@@ -430,15 +435,15 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/",
-          "bytes": 14771
+          "bytes": 14731
         },
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/index_1.html",
-          "bytes": 14723
+          "bytes": 14859
         },
         {
           "url": "https://www.ndrc.gov.cn/hdjl/yjzq/index_2.html",
-          "bytes": 14558
+          "bytes": 14508
         }
       ],
       "stopReason": "page-limit",
@@ -447,6 +452,11 @@
       "listErrors": [],
       "failures": [],
       "entries": [
+        {
+          "title": "国家发展改革委关于向社会公开征求《电力零售市场基本规则（试行）》（公开征求意见稿）意见的公告",
+          "date": "2026-11-25",
+          "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/dlscjbgz"
+        },
         {
           "title": "国家发展改革委关于向社会公开征求《电力现货市场基本规则（公开征求意见稿）》意见的公告",
           "date": "2026-10-19",
@@ -486,11 +496,6 @@
           "title": "关于《电力市场计量结算基本规则（征求意见稿）》公开征求意见的通知",
           "date": "2025-04-08",
           "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/dlscjljsjbgz"
-        },
-        {
-          "title": "关于向社会公开征求《抽水蓄能电站开发建设管理暂行办法（征求意见稿）》意见的公告",
-          "date": "2023-12-01",
-          "url": "https://yyglxxbsgw.ndrc.gov.cn/sa.html#/csxnkfjszqyj"
         }
       ]
     },
@@ -558,11 +563,11 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108718
+          "bytes": 108786
         }
       ],
       "stopReason": "single-page",
-      "listed": 84,
+      "listed": 83,
       "selected": 21,
       "listErrors": [],
       "failures": [],
