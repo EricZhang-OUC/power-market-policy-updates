@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-25T23:29:56.570Z",
+  "checkedAt": "2026-11-26T06:10:13.423Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87307
+          "bytes": 87232
         }
       ],
       "stopReason": "single-page",
@@ -563,11 +563,11 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108792
+          "bytes": 108834
         }
       ],
       "stopReason": "single-page",
-      "listed": 83,
+      "listed": 82,
       "selected": 22,
       "listErrors": [],
       "failures": [],
@@ -583,6 +583,11 @@
           "url": "https://www.nea.gov.cn/20261102/af04409304d44bfb89c9880f55b70dff/c.html"
         },
         {
+          "title": "关于2026年8月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
+          "date": "2026-09-23",
+          "url": "https://www.nea.gov.cn/20260923/aaadb598d4cc4c0a92585bfd26c8728e/c.html"
+        },
+        {
           "title": "国家能源局关于推动煤电与新能源融合发展的实施意见",
           "date": "2026-10-21",
           "url": "https://www.nea.gov.cn/20261021/fbd5cb3be4584be88f63046ffb0155fc/c.html"
@@ -596,11 +601,6 @@
           "title": "国家能源局公告 2026年第4号",
           "date": "2026-10-21",
           "url": "https://www.nea.gov.cn/20261021/35115ff2391547fc9d2cf3e4af2c669c/c.html"
-        },
-        {
-          "title": "关于2026年8月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告",
-          "date": "2026-09-23",
-          "url": "https://www.nea.gov.cn/20260923/aaadb598d4cc4c0a92585bfd26c8728e/c.html"
         },
         {
           "title": "国家能源局公告 2026年第3号",
@@ -693,11 +693,11 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_b4ae3efbfd3f4ffcb1bb211fa7bdb92d.json",
-          "bytes": 12529
+          "bytes": 12592
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_40d365c13659452aa06cdb7268d6192e.json",
-          "bytes": 1086985
+          "bytes": 1086938
         }
       ],
       "stopReason": "json-feed-end",
@@ -1288,11 +1288,11 @@
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_fa9dea7db62643b385c9dfc13f1a9285.json",
-          "bytes": 13148
+          "bytes": 12963
         },
         {
           "url": "https://www.nea.gov.cn/policy/ds_7290c82b05cc4d49be4971ade193edfc.json",
-          "bytes": 1117823
+          "bytes": 1117574
         }
       ],
       "stopReason": "json-feed-end",
