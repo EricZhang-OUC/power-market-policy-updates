@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-26T06:10:13.423Z",
+  "checkedAt": "2026-11-26T23:28:19.141Z",
   "historyStart": "2022-01-01",
   "mode": "incremental",
   "note": "只反映已配置栏目中按标题筛选的结果，不能证明全站无遗漏。",
@@ -9,7 +9,7 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/",
-          "bytes": 87232
+          "bytes": 86973
         }
       ],
       "stopReason": "single-page",
@@ -55,20 +55,20 @@
       "pages": [
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/",
-          "bytes": 45747
+          "bytes": 45683
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_1.html",
-          "bytes": 47631
+          "bytes": 47243
         },
         {
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/index_2.html",
-          "bytes": 44717
+          "bytes": 44639
         }
       ],
       "stopReason": "page-limit",
-      "listed": 168,
-      "selected": 20,
+      "listed": 167,
+      "selected": 18,
       "listErrors": [],
       "failures": [],
       "entries": [
@@ -161,16 +161,6 @@
           "title": "关于印发《电力现货连续运行地区市场建设指引》的通知(发改能源〔2025〕1171号)",
           "date": "2025-09-12",
           "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202509/t20250912_1400454.html"
-        },
-        {
-          "title": "关于完善价格机制促进新能源发电就近消纳的通知(发改价格〔2025〕1192号)",
-          "date": "2025-09-12",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202509/t20250912_1400444.html"
-        },
-        {
-          "title": "国家发展改革委、国家能源局有关负责同志就完善价格机制促进新能源发电就近消纳答记者问",
-          "date": "2025-09-12",
-          "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202509/t20250912_1400452.html"
         }
       ]
     },
@@ -563,11 +553,11 @@
       "pages": [
         {
           "url": "https://www.nea.gov.cn/",
-          "bytes": 108834
+          "bytes": 108810
         }
       ],
       "stopReason": "single-page",
-      "listed": 82,
+      "listed": 83,
       "selected": 22,
       "listErrors": [],
       "failures": [],
@@ -2345,19 +2335,19 @@
       "pages": [
         {
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/",
-          "bytes": 18561
+          "bytes": 18522
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/index_1.html",
-          "bytes": 18560
+          "bytes": 18603
         },
         {
           "url": "https://sdb.nea.gov.cn/dtyw/tzgg/index_2.html",
-          "bytes": 18203
+          "bytes": 18172
         }
       ],
       "stopReason": "page-limit",
-      "listed": 44,
+      "listed": 43,
       "selected": 18,
       "listErrors": [],
       "failures": [],
@@ -2544,48 +2534,8 @@
     },
     {
       "sourceId": "sd-nyj-notices",
-      "pages": [
-        {
-          "url": "http://nyj.shandong.gov.cn/col/col59960/index.html",
-          "bytes": 23236
-        },
-        {
-          "url": "http://nyj.shandong.gov.cn/module/web/jpage/dataproxy.jsp?page=1&webid=355&path=http://nyj.shandong.gov.cn/&columnid=59960&unitid=745545&webname=%25E5%25B1%25B1%25E4%25B8%259C%25E7%259C%2581%25E8%2583%25BD%25E6%25BA%2590%25E5%25B1%2580&permissiontype=0",
-          "bytes": 49
-        }
-      ],
-      "stopReason": "unparsed-page",
-      "listed": 45,
-      "selected": 5,
-      "listErrors": [],
-      "failures": [],
-      "entries": [
-        {
-          "title": "关于公开征求《山东省能源行政处罚裁量基准（征求意见稿）》意见的通知",
-          "date": "2026-07-27",
-          "url": "http://nyj.shandong.gov.cn/art/2026/7/27/art_59960_10312755.html"
-        },
-        {
-          "title": "关于做好2026年下半年全省电力市场建设有关工作的通知",
-          "date": "2026-06-11",
-          "url": "http://nyj.shandong.gov.cn/art/2026/6/11/art_59960_10312276.html"
-        },
-        {
-          "title": "关于印发《山东省促进虚拟电厂高质量发展方案》的通知",
-          "date": "2026-03-27",
-          "url": "http://nyj.shandong.gov.cn/art/2026/3/27/art_59960_10311577.html"
-        },
-        {
-          "title": "《山东省虚拟电厂建设运行管理办法（征求意见稿）》征求意见公告",
-          "date": "2026-03-16",
-          "url": "http://nyj.shandong.gov.cn/art/2026/3/16/art_59960_10311433.html"
-        },
-        {
-          "title": "关于公开征求《山东省抽水蓄能项目管理实施细则（征求意见稿）》意见的通知",
-          "date": "2026-03-05",
-          "url": "http://nyj.shandong.gov.cn/art/2026/3/5/art_59960_10311333.html"
-        }
-      ]
+      "error": "fetch failed",
+      "pages": []
     },
     {
       "sourceId": "sd-nyj-interpretation",
