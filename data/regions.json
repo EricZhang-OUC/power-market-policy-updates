@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T23:11:28.446Z",
+  "updatedAt": "2026-11-28T05:45:52.715Z",
   "historyStart": "2026-01-01",
   "records": [
     {
@@ -208,7 +208,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-11-27T23:09:07.269Z",
+      "lastCheckedAt": "2026-11-28T05:42:50.677Z",
       "contentHash": "2ea03b268c208c41336dfcef387d647074bfb9b0198104e7533d96e1803cfa59",
       "attachments": []
     },
@@ -223,7 +223,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-11-27T23:09:07.269Z",
+      "lastCheckedAt": "2026-11-28T05:42:50.677Z",
       "contentHash": "0fd5c7cc335bbf752e0e2913de792ecb4fe398d10a0f9bd4a4ab4e2438a4b47c",
       "attachments": []
     },
@@ -238,7 +238,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-11-27T23:09:07.269Z",
+      "lastCheckedAt": "2026-11-28T05:42:50.677Z",
       "contentHash": "60b86bf5b9dbcdee51b81c0778f0401193f9481d7d9cf5530c70a7bfc02b4978",
       "attachments": []
     },
@@ -253,7 +253,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-11-27T23:09:07.269Z",
+      "lastCheckedAt": "2026-11-28T05:42:50.677Z",
       "contentHash": "3562d150945cbfe6a8414be41d5316afe3927c8f5802049ea837316b6584abfa",
       "attachments": []
     },
@@ -268,7 +268,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-11-27T23:09:07.269Z",
+      "lastCheckedAt": "2026-11-28T05:42:50.677Z",
       "contentHash": "0927aca0548f4a93d7c7ac7c6cefcd672aef071356333b342fd2d6acb6ddb316",
       "attachments": []
     },
@@ -283,7 +283,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-11-27T23:09:09.752Z",
+      "lastCheckedAt": "2026-11-28T05:42:53.633Z",
       "contentHash": "6011ae348aeccd89159360b1c6eb3e572fd0ac4f2d1bb00272f00fead7cee7c3",
       "attachments": []
     },
@@ -298,7 +298,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-11-27T23:09:09.752Z",
+      "lastCheckedAt": "2026-11-28T05:42:53.633Z",
       "contentHash": "66f881bf93fac330995b5683b6868a43e8b77420dc5ec878316431919d0ca6c7",
       "attachments": []
     },
@@ -313,7 +313,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-11-27T23:09:09.752Z",
+      "lastCheckedAt": "2026-11-28T05:42:53.633Z",
       "contentHash": "72138acfafd83d785c59d7809dc8914ce670f0171fddad0b0abc63d6bcde2b94",
       "attachments": []
     },
@@ -328,7 +328,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-11-27T23:09:09.752Z",
+      "lastCheckedAt": "2026-11-28T05:42:53.633Z",
       "contentHash": "297713c4956a6f9c26a907e8437b6619fcdd2b2de4aa6f53ae4fde16d311a890",
       "attachments": []
     },
@@ -343,7 +343,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-11-27T23:09:09.752Z",
+      "lastCheckedAt": "2026-11-28T05:42:53.633Z",
       "contentHash": "66a42f7c5112b92ea58d09991c3fd5ea4e40e8ad35d85cbcc51649eb59d85568",
       "attachments": []
     },
@@ -358,7 +358,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "d01d841d8742a0454e4bba39b7ffc7dfbee6f38974ed9775d41ee296bffede3f",
       "attachments": []
     },
@@ -373,7 +373,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "d34d36ceb61baa5c1068707e45e3acbe5140a0f5f4758a4c5e83949c7095d5b7",
       "attachments": []
     },
@@ -388,7 +388,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "d29523100bc274cb5012ab744ad5b219b12d827c8c9d494ab0840cfdf2f92584",
       "attachments": []
     },
@@ -403,7 +403,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "866b39f2c65fa4690abd8d3166b6c7f188a08b4737237dd81b67fdc3a29a8ed9",
       "attachments": [
         {
@@ -423,7 +423,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "a0136803d1cabc1d68ba5f121ebe4d63a42b0e238c10104409fc30624e0c7b7e",
       "attachments": [
         {
@@ -443,7 +443,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "cbbe4e6182eb235c4d0d004545b2d5fc0c76727eb431451076f413b63dfb4261",
       "attachments": [
         {
@@ -463,7 +463,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "6088012d0a8a5986b45c96c143a9cc7e29b4a6fb97a505716325e1060acb4901",
       "attachments": [
         {
@@ -728,7 +728,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:11.317Z",
-      "lastCheckedAt": "2026-11-27T23:09:20.188Z",
+      "lastCheckedAt": "2026-11-28T05:43:07.184Z",
       "contentHash": "7833d35eaf08c1f74ced02fec02e591280fad00e54da1e3333f495cabd912ad4",
       "attachments": []
     },
@@ -973,7 +973,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:15.314Z",
-      "lastCheckedAt": "2026-11-27T23:09:23.835Z",
+      "lastCheckedAt": "2026-11-28T05:43:11.671Z",
       "contentHash": "4dcde2994aa5575a9221f18056253aff8d37eba8af2f88e38e42a988ce922c44",
       "attachments": []
     },
@@ -988,7 +988,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:15.314Z",
-      "lastCheckedAt": "2026-11-27T23:09:23.835Z",
+      "lastCheckedAt": "2026-11-28T05:43:11.671Z",
       "contentHash": "071f37ea503fb1e021537e54ea7825a80b24c361c1d590ea57cafdfa9d122656",
       "attachments": []
     },
@@ -1153,7 +1153,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:20.871Z",
-      "lastCheckedAt": "2026-11-27T23:09:38.018Z",
+      "lastCheckedAt": "2026-11-28T05:43:28.436Z",
       "contentHash": "994169522d2ffa36df4cb0dda6cd5d78a0d344ea05201055066186a405683ff3",
       "attachments": [
         {
@@ -1173,7 +1173,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:20.871Z",
-      "lastCheckedAt": "2026-11-27T23:09:38.018Z",
+      "lastCheckedAt": "2026-11-28T05:43:28.436Z",
       "contentHash": "52f343847b3a5d19b0243054d6106f1b7ddbf853ad112e800595962081fcd1d2",
       "attachments": [
         {
@@ -1197,7 +1197,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:20.871Z",
-      "lastCheckedAt": "2026-11-27T23:09:38.018Z",
+      "lastCheckedAt": "2026-11-28T05:43:28.436Z",
       "contentHash": "150e863408a2acf2d5cb1c67eafedb9105830c7c623784c4192801a72c9fcf30",
       "attachments": [
         {
@@ -1233,7 +1233,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:20.871Z",
-      "lastCheckedAt": "2026-11-27T23:09:38.018Z",
+      "lastCheckedAt": "2026-11-28T05:43:28.436Z",
       "contentHash": "4b8cc12e4e0b9816982279126e1a39f2e53924de35062699a285e130de2cc25b",
       "attachments": [
         {
@@ -1348,7 +1348,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:24.508Z",
-      "lastCheckedAt": "2026-11-27T23:09:39.835Z",
+      "lastCheckedAt": "2026-11-28T05:43:30.389Z",
       "contentHash": "d3c0de02ef210eb017490e2273acec136a344d7574a3b4e9fbcf25ad07810a02",
       "attachments": [
         {
@@ -1958,7 +1958,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:06.641Z",
-      "lastCheckedAt": "2026-11-27T23:09:44.672Z",
+      "lastCheckedAt": "2026-11-28T05:43:36.665Z",
       "contentHash": "e65fe71ac679da60cc955b3fd6e4cdc42c53f4ed81c1c19dd498146d61232f58",
       "attachments": []
     },
@@ -1988,7 +1988,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:06.641Z",
-      "lastCheckedAt": "2026-11-27T23:09:44.672Z",
+      "lastCheckedAt": "2026-11-28T05:43:36.665Z",
       "contentHash": "d662c2fde9d9960fb0a1811ca684f58f3e7920f7c86a9928e04fe16b4cae2244",
       "attachments": []
     },
@@ -2018,7 +2018,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:07.999Z",
-      "lastCheckedAt": "2026-11-27T23:09:48.256Z",
+      "lastCheckedAt": "2026-11-28T05:43:42.076Z",
       "contentHash": "9997a7a18f1ce6719890774e344fd1b8596e1c663144f0e2bc922ddc7f14dabc",
       "attachments": []
     },
@@ -2033,7 +2033,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:07.999Z",
-      "lastCheckedAt": "2026-11-27T23:09:48.256Z",
+      "lastCheckedAt": "2026-11-28T05:43:42.076Z",
       "contentHash": "615aa43c8aee9de0e660f44faac1a0cd40a20d94126227f1c782a30c94e7da23",
       "attachments": []
     },
@@ -2123,7 +2123,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:08.658Z",
-      "lastCheckedAt": "2026-11-27T23:09:50.138Z",
+      "lastCheckedAt": "2026-11-28T05:43:44.413Z",
       "contentHash": "635030198641a6e3d37ffd974e87779b162ce4c13aceefe6bbb1eaaec5b78b6e",
       "attachments": []
     },
@@ -2303,7 +2303,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-11-27T23:09:52.461Z",
+      "lastCheckedAt": "2026-11-28T05:43:47.503Z",
       "contentHash": "ef6ecfc868640c0dcce3596ae397e810babb93f3355a4fbe77760d0d9987fe50",
       "attachments": [
         {
@@ -2327,7 +2327,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-11-27T23:09:52.461Z",
+      "lastCheckedAt": "2026-11-28T05:43:47.503Z",
       "contentHash": "a083c07d697763031f5b98ba1228ef2879bf25850767ef018c5c900638e01a7a",
       "attachments": [
         {
@@ -2347,7 +2347,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-11-27T23:09:52.461Z",
+      "lastCheckedAt": "2026-11-28T05:43:47.503Z",
       "contentHash": "de7a772c47fded06afe6ff933b27b35af1dba24fcae3f661948b292def0ade22",
       "attachments": [
         {
@@ -2367,7 +2367,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-11-27T23:09:52.461Z",
+      "lastCheckedAt": "2026-11-28T05:43:47.503Z",
       "contentHash": "647ce26ceacdd67efead8b865ac683f83fbbbedc14de3e94e56fa54cb7370ef2",
       "attachments": [
         {
@@ -2395,7 +2395,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:13.965Z",
-      "lastCheckedAt": "2026-11-27T23:09:56.781Z",
+      "lastCheckedAt": "2026-11-28T05:43:52.294Z",
       "contentHash": "7307431d22ef60fd9f0526fbdee178508fd7af360c6362408a62570616cddb82",
       "attachments": [
         {
@@ -2415,7 +2415,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:14.235Z",
-      "lastCheckedAt": "2026-11-27T23:09:57.533Z",
+      "lastCheckedAt": "2026-11-28T05:43:53.033Z",
       "contentHash": "e350b2166b2628f7e2b04377c31a84cf938d8d64279c84b76258ab7eb8428d20",
       "attachments": []
     },
@@ -2445,7 +2445,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:14.235Z",
-      "lastCheckedAt": "2026-11-27T23:09:57.533Z",
+      "lastCheckedAt": "2026-11-28T05:43:53.033Z",
       "contentHash": "2823574d40845f04289295459d646e5383f2da0406b84406a3a88b11fd89c733",
       "attachments": []
     },
@@ -2460,7 +2460,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:14.653Z",
-      "lastCheckedAt": "2026-11-27T23:09:59.178Z",
+      "lastCheckedAt": "2026-11-28T05:43:55.324Z",
       "contentHash": "8bff0d9c742f98ca6ea17501a0e933d9fe52ec06ecaf97fd96ab518cec396d41",
       "attachments": [
         {
@@ -2735,7 +2735,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "df9f863de9927ed3a1ed2db58d1d4265e046140131b3124bb06fa7bfa0a0fdaa",
       "attachments": [
         {
@@ -2755,7 +2755,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "a765436720e33007a2ca1749f0c58fd440922a861a875d2bbd39408ea9396ba0",
       "attachments": [
         {
@@ -2779,7 +2779,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "fef940558798f2c71cedf2febb9dfb61f1b2987e2a11666f90c1a1a02844358a",
       "attachments": [
         {
@@ -2799,7 +2799,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "533d6a816d6dcede17b4dc618887ed78e090b82b576cd6e67289584ac2d6dee0",
       "attachments": [
         {
@@ -2819,7 +2819,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "6df2760713e7434511fdfa62546c167d215d79b21c8fb0309c6e855cee1a36f2",
       "attachments": [
         {
@@ -2839,7 +2839,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "9b9c9298c1fee145d0ca09dcd740d04f500e9e02bf73b6afad87964142853669",
       "attachments": [
         {
@@ -2859,7 +2859,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "71fcce2c95b3d2128903b1a3499bdf4dcc30464abbd61b2a298717a54e4b258f",
       "attachments": [
         {
@@ -2879,7 +2879,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "8c64338b7f23e27b2bf3f5202800b2b8e9aead147719d724012b26a122d05009",
       "attachments": [
         {
@@ -2899,7 +2899,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "0aab1c533e1c45b266ce02cda3368670e46c3f84da1ac0cc0e6b139a1facf2d9",
       "attachments": [
         {
@@ -2919,7 +2919,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "6f46901633c8a2916c80b6a626ca54514a5d7b2e48391c3e45c66c14c8594bfa",
       "attachments": [
         {
@@ -2939,7 +2939,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "6f2ceebc60af4bc42de9477136d579e8de8d50f3692e2c04d3042380a6c5f6d4",
       "attachments": [
         {
@@ -2959,7 +2959,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "2f202a51fe096b3c77565f54a58c9c08d487d26c52c580200bd3338bb6d8645d",
       "attachments": [
         {
@@ -2979,7 +2979,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-11-27T23:10:08.461Z",
+      "lastCheckedAt": "2026-11-28T05:44:06.271Z",
       "contentHash": "162cfbccee88d5bdba6e1e6f3fb38c0aa8104c5e8f28242ed0e9b9b0213eff92",
       "attachments": []
     },
@@ -2994,7 +2994,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-11-27T23:10:08.461Z",
+      "lastCheckedAt": "2026-11-28T05:44:06.271Z",
       "contentHash": "9efddbc5f42a50ff09ad398c1a19696d25d4ff6d4b10d10ff15980bf399849ac",
       "attachments": []
     },
@@ -3009,7 +3009,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-11-27T23:10:08.461Z",
+      "lastCheckedAt": "2026-11-28T05:44:06.271Z",
       "contentHash": "38b7f369c914dbb672267045a0b6122e3e2f7c4eb43973e7f40e2bff4dd98851",
       "attachments": []
     },
@@ -3024,7 +3024,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-11-27T23:10:08.461Z",
+      "lastCheckedAt": "2026-11-28T05:44:06.271Z",
       "contentHash": "a8ee82f59174b180aabeda22f057fd0759214e92015749897b971d5d5520aecf",
       "attachments": []
     },
@@ -3039,7 +3039,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-11-27T23:10:08.461Z",
+      "lastCheckedAt": "2026-11-28T05:44:06.271Z",
       "contentHash": "5f390a5150ac3e2fb3660ee52be0a6ad7bf9bd87b52c699fe34b87d8a1e0a832",
       "attachments": []
     },
@@ -3369,7 +3369,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:28.930Z",
-      "lastCheckedAt": "2026-11-27T23:10:12.398Z",
+      "lastCheckedAt": "2026-11-28T05:44:11.554Z",
       "contentHash": "e1781161b623656be4ce2def9e99277f3438bd17c944cf39a06c0fb4629a7dbb",
       "attachments": []
     },
@@ -3384,7 +3384,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:28.930Z",
-      "lastCheckedAt": "2026-11-27T23:10:12.398Z",
+      "lastCheckedAt": "2026-11-28T05:44:11.554Z",
       "contentHash": "6232a0b9c2f71d3ce7f12156786da3366221ecf001c4c2511ce1ef927e4a67c5",
       "attachments": [
         {
@@ -3404,7 +3404,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:29.243Z",
-      "lastCheckedAt": "2026-11-27T23:10:13.512Z",
+      "lastCheckedAt": "2026-11-28T05:44:13.176Z",
       "contentHash": "6cfd58e1e7fd0d06652c0f34510315d0742545d35ff7e57252bf75c0617d6044",
       "attachments": [
         {
@@ -3714,7 +3714,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:35.904Z",
-      "lastCheckedAt": "2026-11-27T23:10:17.610Z",
+      "lastCheckedAt": "2026-11-28T05:44:18.714Z",
       "contentHash": "a4dcbf8360ad64db0e6649295ea8ed940d18c684b0ef1a12e5f8b8e5d6d5d447",
       "attachments": [
         {
@@ -3982,7 +3982,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:57.355Z",
-      "lastCheckedAt": "2026-11-27T23:10:23.065Z",
+      "lastCheckedAt": "2026-11-28T05:44:26.622Z",
       "contentHash": "e80597af517b5e42a0d3ae025f7807e13db406ff38ed2717196d862af3114798",
       "attachments": []
     },
@@ -3997,7 +3997,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:12.785Z",
-      "lastCheckedAt": "2026-11-27T23:10:24.708Z",
+      "lastCheckedAt": "2026-11-28T05:44:30.272Z",
       "contentHash": "100fd625af4b9f5a92afdb2150a237db95095f1a937200ff0196eb89e31c1ab6",
       "attachments": []
     },
@@ -4297,7 +4297,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:19.072Z",
-      "lastCheckedAt": "2026-11-27T23:10:28.159Z",
+      "lastCheckedAt": "2026-11-28T05:44:34.469Z",
       "contentHash": "c77c28699644610a37dcae2fee12a3e9698451e8ed213546cca92f2e35debfd0",
       "attachments": [
         {
@@ -4332,7 +4332,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:19.395Z",
-      "lastCheckedAt": "2026-11-27T23:10:29.174Z",
+      "lastCheckedAt": "2026-11-28T05:44:35.595Z",
       "contentHash": "ad035ca30d51455ed3080af117b8bd58727ffdb3d45cabc3f25d4b7d90dc471c",
       "attachments": []
     },
@@ -4347,7 +4347,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:19.711Z",
-      "lastCheckedAt": "2026-11-27T23:10:30.408Z",
+      "lastCheckedAt": "2026-11-28T05:44:37.133Z",
       "contentHash": "0ef042ba45d60bc889014420b6dd865bc179d923f74e0f225e36d6f8b37d13c9",
       "attachments": [
         {
@@ -4577,7 +4577,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-11-27T23:10:33.048Z",
+      "lastCheckedAt": "2026-11-28T05:44:39.593Z",
       "contentHash": "773e654d5452a96e269a5520c2fd0f2d482c379d1213ad85d5f934f88c3a0cfa",
       "attachments": [
         {
@@ -4597,7 +4597,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-11-27T23:10:33.048Z",
+      "lastCheckedAt": "2026-11-28T05:44:39.593Z",
       "contentHash": "245181e69bafff65c9c9e9d80004bfa720810ff720f9f5275c99ddbfe71a6505",
       "attachments": [
         {
@@ -4617,7 +4617,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-11-27T23:10:33.048Z",
+      "lastCheckedAt": "2026-11-28T05:44:39.593Z",
       "contentHash": "8d58b565c90e4fefbc0ef82db722b5c26245e2963a5af0c3e6688c1e8446e1fd",
       "attachments": [
         {
@@ -4717,7 +4717,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-11-27T23:10:38.543Z",
+      "lastCheckedAt": "2026-11-28T05:44:46.516Z",
       "contentHash": "a36186eedc168832924e2711e1cfe22780f2b403307af0e245cc02594175b58a",
       "attachments": [
         {
@@ -4745,7 +4745,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-11-27T23:10:35.481Z",
+      "lastCheckedAt": "2026-11-28T05:44:42.497Z",
       "contentHash": "a4256571963d37b5c836130c242aaf30c8bf8f2834148dcf89fc4b6e6b3dbd86",
       "attachments": []
     },
@@ -4760,7 +4760,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-11-27T23:10:35.481Z",
+      "lastCheckedAt": "2026-11-28T05:44:42.497Z",
       "contentHash": "4ae2880e7ca2abe921ff9d947118df25c61b6097cc1a2a551644de69f02c74bc",
       "attachments": []
     },
@@ -4775,7 +4775,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-11-27T23:10:35.481Z",
+      "lastCheckedAt": "2026-11-28T05:44:42.497Z",
       "contentHash": "67be2865c0aa586b4547492ff03e8f2402ab67c480037a88d24a90806ce593d6",
       "attachments": []
     },
@@ -4790,7 +4790,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-11-27T23:10:35.481Z",
+      "lastCheckedAt": "2026-11-28T05:44:42.497Z",
       "contentHash": "06cbd23213516339b2dda66f9604a513af083b424076928dd3a32e35edbe37dd",
       "attachments": []
     },
@@ -5075,7 +5075,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:30.278Z",
-      "lastCheckedAt": "2026-11-27T23:10:40.488Z",
+      "lastCheckedAt": "2026-11-28T05:44:49.199Z",
       "contentHash": "f030803156359af9b676f8872a822687d0931c5d64358a00a58bdfeb7f823765",
       "attachments": [
         {
@@ -5095,7 +5095,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:30.278Z",
-      "lastCheckedAt": "2026-11-27T23:10:40.488Z",
+      "lastCheckedAt": "2026-11-28T05:44:49.199Z",
       "contentHash": "701551eaf4ea99465c253c8c60ee1b238313d0e6df3e87f83803ea39605c0163",
       "attachments": [
         {
@@ -5159,7 +5159,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:33.849Z",
-      "lastCheckedAt": "2026-11-27T23:10:46.825Z",
+      "lastCheckedAt": "2026-11-28T05:44:57.560Z",
       "contentHash": "d3dbb96efdfcf69f003e2b850669ddf2cf5cc1fd6a41967461788a4b563d0e96",
       "attachments": []
     },
@@ -5174,7 +5174,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:34.077Z",
-      "lastCheckedAt": "2026-11-27T23:10:47.766Z",
+      "lastCheckedAt": "2026-11-28T05:44:59.755Z",
       "contentHash": "a4886cde5aa3909bcb9f6a9503c57cd2c6b98202d548efc205d6c8bb7012ef96",
       "attachments": []
     },
@@ -5399,7 +5399,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "26caa22116cee4a450bc878cd306f849bd30453d14883fadab89bb36fe5b2f21",
       "attachments": [
         {
@@ -5431,7 +5431,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "4185e84decb8dd5fb40ef9efc3e397c5fbdf80e89400c00dd49b69536edba03e",
       "attachments": []
     },
@@ -5446,7 +5446,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "dcaf31bb36377268b258c1b25afb8fe12df15732bec4503d1fbf78b9a3a2f7fa",
       "attachments": []
     },
@@ -5461,7 +5461,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "994dade1e78703d7964292fdee1dacb78f8dcc946c3d9a916bf8fcc9a250e59d",
       "attachments": [
         {
@@ -5489,7 +5489,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "182ffd90e885f317964405063bf25efa32df68671187bb7fd4a4548b0acb7a78",
       "attachments": [
         {
@@ -5517,7 +5517,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "12a5b89e3bf233a9745a4e3e0cb0e65e035b0ad15a3068720e8966bbfcf5993b",
       "attachments": [
         {
@@ -5571,7 +5571,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:46.643Z",
-      "lastCheckedAt": "2026-11-27T06:03:58.467Z",
+      "lastCheckedAt": "2026-11-28T05:45:09.331Z",
       "contentHash": "123e909db45209cb039aadda1e32ec59c41f12f5a66e802b9aabf502822bdb0b",
       "attachments": []
     },
@@ -5586,7 +5586,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:46.643Z",
-      "lastCheckedAt": "2026-11-27T06:03:58.467Z",
+      "lastCheckedAt": "2026-11-28T05:45:09.331Z",
       "contentHash": "529931dd43f9b947b2fd755b67aad7cdd3b6e56142eefbd5ad4b360ccc3626fd",
       "attachments": [
         {
@@ -5633,7 +5633,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.208Z",
-      "lastCheckedAt": "2026-11-27T06:04:00.476Z",
+      "lastCheckedAt": "2026-11-28T05:45:14.099Z",
       "contentHash": "3dff5f0860f6bf5b2fa56b51ebae4060ea32dfeca9a3659e7fa3df21d331895c",
       "attachments": [
         {
@@ -5665,7 +5665,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.208Z",
-      "lastCheckedAt": "2026-11-27T06:04:00.476Z",
+      "lastCheckedAt": "2026-11-28T05:45:14.099Z",
       "contentHash": "701f8ab8a97a91e3731bd5bcee2235c5cbf167cd6088c8ba338b336df3925252",
       "attachments": [
         {
@@ -5697,7 +5697,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.208Z",
-      "lastCheckedAt": "2026-11-27T06:04:00.476Z",
+      "lastCheckedAt": "2026-11-28T05:45:14.099Z",
       "contentHash": "ec2d286d2d667571f3dc01e4a4ea7cbf0125d2ce20e266ed545562895be811eb",
       "attachments": []
     },
@@ -5712,7 +5712,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.736Z",
-      "lastCheckedAt": "2026-11-27T06:04:01.412Z",
+      "lastCheckedAt": "2026-11-28T05:45:16.775Z",
       "contentHash": "5ae2321b844b4146728cd75993ed2f7794b498f0d74dfe400336f7f414e6c33e",
       "attachments": []
     },
@@ -5770,7 +5770,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.736Z",
-      "lastCheckedAt": "2026-11-27T06:04:01.412Z",
+      "lastCheckedAt": "2026-11-28T05:45:16.775Z",
       "contentHash": "12aa03a00d3bb9625b3a6afe831354c3cf28b2bb10b957e836bbf616c93dbc18",
       "attachments": [
         {
@@ -5841,9 +5841,9 @@
       "url": "https://nyj.nmg.gov.cn/tzgg/202602/t20260214_2863478.html",
       "sourceId": "nmg-nyj-notices",
       "note": "",
-      "detailStatus": "index-only",
+      "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:21:30.550Z",
-      "lastCheckedAt": "2026-11-27T23:10:53.214Z",
+      "lastCheckedAt": "2026-11-28T05:45:09.331Z",
       "contentHash": "85167db491bbb920d533dd03c0dd6780b13167687f9aa416a5c5143a9314417a",
       "attachments": [
         {
@@ -5862,8 +5862,7 @@
           "title": "2.蒙东电力市场规则体系2026年修订版（征求意见稿）.pdf",
           "url": "https://nyj.nmg.gov.cn/tzgg/202602/P020260214483569217454.pdf"
         }
-      ],
-      "detailError": "fetch failed"
+      ]
     },
     {
       "id": "2c9934d7f00800a5",
@@ -5891,7 +5890,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:31:17.355Z",
-      "lastCheckedAt": "2026-11-27T23:09:07.269Z",
+      "lastCheckedAt": "2026-11-28T05:42:50.677Z",
       "contentHash": "82e25d046aef95a1cc1fa5232643a306df693082fb57c9409d9ed45c35436b2a",
       "attachments": []
     },
@@ -5906,7 +5905,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:31:20.219Z",
-      "lastCheckedAt": "2026-11-27T23:09:09.752Z",
+      "lastCheckedAt": "2026-11-28T05:42:53.633Z",
       "contentHash": "2c6978fba4b1a36832ee7e1a369d22f051038e0fb1c13195e42ad7873a7f1375",
       "attachments": []
     },
@@ -5921,7 +5920,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:31:22.905Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "1ac4b3276f8fc7e4125ad0b290754923aa60dd5fd9c5bd08fb4a730352e8a07b",
       "attachments": [
         {
@@ -5941,7 +5940,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:31:33.926Z",
-      "lastCheckedAt": "2026-11-27T23:09:23.835Z",
+      "lastCheckedAt": "2026-11-28T05:43:11.671Z",
       "contentHash": "9cc07da084bdd71827c26f0dcea305b1355b243c83aeac85eb09a2df540aa6e4",
       "attachments": [
         {
@@ -5961,7 +5960,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:31:51.280Z",
-      "lastCheckedAt": "2026-11-27T23:09:41.888Z",
+      "lastCheckedAt": "2026-11-28T05:43:32.852Z",
       "contentHash": "dcc021c43c2dae279f1be198bf48f5917921329101d567b6db22969bc8c07c42",
       "attachments": []
     },
@@ -5976,7 +5975,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:31:54.884Z",
-      "lastCheckedAt": "2026-11-27T23:09:44.672Z",
+      "lastCheckedAt": "2026-11-28T05:43:36.665Z",
       "contentHash": "7307581d4d148fb415a611adc54988abfdc9776120d9bbc3e47d643ac09372be",
       "attachments": [
         {
@@ -5996,7 +5995,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:03.061Z",
-      "lastCheckedAt": "2026-11-27T23:09:52.461Z",
+      "lastCheckedAt": "2026-11-28T05:43:47.503Z",
       "contentHash": "ee2db353436f1d5074d2a15cfc317ed000d7c36865e8df1ada8714ce9c582056",
       "attachments": [
         {
@@ -6016,7 +6015,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:08.223Z",
-      "lastCheckedAt": "2026-11-27T23:09:57.533Z",
+      "lastCheckedAt": "2026-11-28T05:43:53.033Z",
       "contentHash": "74cf1edd31badd4ade97f208c52fa15d983795267be20151465d43720175243b",
       "attachments": []
     },
@@ -6031,7 +6030,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:09.778Z",
-      "lastCheckedAt": "2026-11-27T23:09:59.178Z",
+      "lastCheckedAt": "2026-11-28T05:43:55.324Z",
       "contentHash": "d613a7f01c10789dea9ca90fa77b0d455a8acba71b72024fc87788a5e4afdd9b",
       "attachments": [
         {
@@ -6051,7 +6050,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:13.700Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "31196f287e4849fde5e2f9da95e6ed29affb83f972a2eb7556b2de238b098758",
       "attachments": [
         {
@@ -6071,7 +6070,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:23.341Z",
-      "lastCheckedAt": "2026-11-27T23:10:12.398Z",
+      "lastCheckedAt": "2026-11-28T05:44:11.554Z",
       "contentHash": "2e8a8d3ef48420a3b0a228f72fc662e985177f2e74d3e7ef676e006c32bad3fb",
       "attachments": [
         {
@@ -6106,7 +6105,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:41.845Z",
-      "lastCheckedAt": "2026-11-27T23:10:29.174Z",
+      "lastCheckedAt": "2026-11-28T05:44:35.595Z",
       "contentHash": "3c90961cff0efbb3eeafae38b3d71892741d33596d3871117387c1215455492f",
       "attachments": []
     },
@@ -6121,7 +6120,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:48.959Z",
-      "lastCheckedAt": "2026-11-27T23:10:35.481Z",
+      "lastCheckedAt": "2026-11-28T05:44:42.497Z",
       "contentHash": "48f6f0d79c06c1401a34a9de47370bfb3db76b922bf03950a332d45dc6db8aaf",
       "attachments": []
     },
@@ -6136,7 +6135,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:54.546Z",
-      "lastCheckedAt": "2026-11-27T23:10:40.488Z",
+      "lastCheckedAt": "2026-11-28T05:44:49.199Z",
       "contentHash": "bf6be3be0b3d4623282f710190d943612cade8bd553d29549e05b53fa8bdf6f9",
       "attachments": [
         {
@@ -6175,7 +6174,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:33:17.627Z",
-      "lastCheckedAt": "2026-11-27T06:04:01.412Z",
+      "lastCheckedAt": "2026-11-28T05:45:16.775Z",
       "contentHash": "527dc740b295bb0657730e3ce63444762f1819c6f93b606480e13d21a952e6e0",
       "attachments": [
         {
@@ -6203,7 +6202,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-23T18:52:42.041Z",
-      "lastCheckedAt": "2026-11-27T23:09:25.863Z",
+      "lastCheckedAt": "2026-11-28T05:43:14.405Z",
       "contentHash": "05c860abca9c34c729aed9cd84accd3e8d62d56be980be7f045d92342c18bb42",
       "attachments": []
     },
@@ -6218,7 +6217,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-26T10:45:09.043Z",
-      "lastCheckedAt": "2026-11-27T23:10:23.065Z",
+      "lastCheckedAt": "2026-11-28T05:44:26.622Z",
       "contentHash": "28ed26496600a27d3318ebc7d1a16bedb2afd5bb9299e772a904faf0191de0c7",
       "attachments": []
     },
@@ -6233,7 +6232,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-26T10:45:13.634Z",
-      "lastCheckedAt": "2026-11-27T23:10:24.708Z",
+      "lastCheckedAt": "2026-11-28T05:44:30.272Z",
       "contentHash": "ad4b37b2476872d2ecbf74c5f5d5f972d14306a754ec9fd95f3e33767fe07628",
       "attachments": []
     },
@@ -6248,7 +6247,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-27T10:13:15.913Z",
-      "lastCheckedAt": "2026-11-27T23:10:35.481Z",
+      "lastCheckedAt": "2026-11-28T05:44:42.497Z",
       "contentHash": "4405a811042c5ea45d81e45024786f2a4ccc0ab27c60eb326d027cd77b93299a",
       "attachments": []
     },
@@ -6263,7 +6262,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-27T10:13:36.229Z",
-      "lastCheckedAt": "2026-11-27T06:03:58.467Z",
+      "lastCheckedAt": "2026-11-28T05:45:09.331Z",
       "contentHash": "25963242187d9d6352cd6059b7406da023e56eaecf314b36401c8aba97109250",
       "attachments": [
         {
@@ -6287,7 +6286,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-28T10:58:44.694Z",
-      "lastCheckedAt": "2026-11-27T23:09:21.949Z",
+      "lastCheckedAt": "2026-11-28T05:43:09.170Z",
       "contentHash": "def395d9c9661003f87394dcbef4631848ebdef20012f1766264ac178ecffc2b",
       "attachments": []
     },
@@ -6317,7 +6316,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-31T13:08:26.605Z",
-      "lastCheckedAt": "2026-11-27T23:09:35.476Z",
+      "lastCheckedAt": "2026-11-28T05:43:25.388Z",
       "contentHash": "d38153e10f5ffffde223afeabb096d2180ca944dc902695602a5003c76c34296",
       "attachments": [
         {
@@ -6337,7 +6336,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-31T13:08:26.605Z",
-      "lastCheckedAt": "2026-11-27T23:09:35.476Z",
+      "lastCheckedAt": "2026-11-28T05:43:25.388Z",
       "contentHash": "67fb2191560cf348cdb0a8e85a57eea77cefcfde73ceb7a64826a77fbfd92005",
       "attachments": [
         {
@@ -6377,7 +6376,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-31T13:09:56.782Z",
-      "lastCheckedAt": "2026-11-27T23:10:44.986Z",
+      "lastCheckedAt": "2026-11-28T05:44:54.797Z",
       "contentHash": "90464183fdb9dc5dda97f8ff2f7b741c3d8f072a09a368e8563d26e89db87076",
       "attachments": [
         {
@@ -6397,7 +6396,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-31T13:09:56.782Z",
-      "lastCheckedAt": "2026-11-27T23:10:44.986Z",
+      "lastCheckedAt": "2026-11-28T05:44:54.797Z",
       "contentHash": "a19ca4b0f823d696cf14e905b16e70d47899f022036b324bb22a47bfe1e26873",
       "attachments": [
         {
@@ -6417,7 +6416,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-31T13:09:56.782Z",
-      "lastCheckedAt": "2026-11-27T23:10:44.986Z",
+      "lastCheckedAt": "2026-11-28T05:44:54.797Z",
       "contentHash": "88cc72ea6d8523d65fb535ae958dc52897e527e6b1f699af0682cc39e8b5e008",
       "attachments": [
         {
@@ -6457,7 +6456,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-31T13:10:14.996Z",
-      "lastCheckedAt": "2026-11-27T06:04:00.476Z",
+      "lastCheckedAt": "2026-11-28T05:45:14.099Z",
       "contentHash": "1226cb7c3b2cfb4ad176a83552011d78b049060cc876dd2ed3f836668ffb0f6e",
       "attachments": []
     },
@@ -6472,7 +6471,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-05T04:31:15.524Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "060bdf1a0cd2ced878dbe846f57a4f412a7bcb2b96ed2a313d439121853a5ac9",
       "attachments": [
         {
@@ -6500,7 +6499,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-09T13:35:27.434Z",
-      "lastCheckedAt": "2026-11-27T23:10:19.587Z",
+      "lastCheckedAt": "2026-11-28T05:44:21.272Z",
       "contentHash": "432c03ca1e8d09dd622138ee0e2e39d04c90764df68057eb2eeb83af3ab4dbef",
       "attachments": []
     },
@@ -6515,7 +6514,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-16T04:03:23.346Z",
-      "lastCheckedAt": "2026-11-27T23:09:20.188Z",
+      "lastCheckedAt": "2026-11-28T05:43:07.184Z",
       "contentHash": "f20d76d0d0916261108f69a564d388b4bf69d459ff2aee899296864ed5909972",
       "attachments": []
     },
@@ -6545,7 +6544,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-16T13:19:57.895Z",
-      "lastCheckedAt": "2026-11-27T23:09:18.270Z",
+      "lastCheckedAt": "2026-11-28T05:43:05.327Z",
       "contentHash": "e38a4faafaaefe1714559f7d2fd57316c55ecc8ba1b40b82c2f69cf39131478a",
       "attachments": [
         {
@@ -6565,7 +6564,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-19T05:16:59.691Z",
-      "lastCheckedAt": "2026-11-27T23:09:33.759Z",
+      "lastCheckedAt": "2026-11-28T05:43:23.381Z",
       "contentHash": "c3111ca2167e2b605f86f7d7060b340a100584d002d8bbc059e3e11591dead38",
       "attachments": [
         {
@@ -6605,7 +6604,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-19T05:16:59.691Z",
-      "lastCheckedAt": "2026-11-27T23:09:33.759Z",
+      "lastCheckedAt": "2026-11-28T05:43:23.381Z",
       "contentHash": "5290f7e2a15ea69d4b8394d8f9eca9c9e57a2fe0f7587755fbc2b59dcdc5a312",
       "attachments": [
         {
@@ -6633,7 +6632,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-25T23:31:10.330Z",
-      "lastCheckedAt": "2026-11-27T23:09:52.461Z",
+      "lastCheckedAt": "2026-11-28T05:43:47.503Z",
       "contentHash": "a07096a933f63453a1e353dcf5fcf46a841637f9a1f5c7c9952a7d2ff999d434",
       "attachments": [
         {
@@ -6653,7 +6652,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-25T23:31:15.580Z",
-      "lastCheckedAt": "2026-11-27T23:09:57.533Z",
+      "lastCheckedAt": "2026-11-28T05:43:53.033Z",
       "contentHash": "ea89938d76f29820cd1379367321e36845437e98e0b3705420b95a105f0a02bf",
       "attachments": []
     },
@@ -6668,7 +6667,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-26T23:30:38.899Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "0417c4921f4e92192a173c7b88deae5fb2f93209d446bb59b71323c810eb1875",
       "attachments": [
         {
@@ -6696,7 +6695,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-27T23:09:30.539Z",
-      "lastCheckedAt": "2026-11-27T23:09:30.539Z",
+      "lastCheckedAt": "2026-11-28T05:43:20.166Z",
       "contentHash": "c33ba44e6c199f8c746c08879068e61a087af17e2c44cf024a53ffa927958a10",
       "attachments": [
         {
@@ -6716,7 +6715,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-27T23:10:02.902Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "eb4b0d7cbfc1474e50423dce6031cfb0980f9081def3523740a4f4f27103f42c",
       "attachments": [
         {
@@ -6738,7 +6737,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-27T23:10:02.902Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "eb4b0d7cbfc1474e50423dce6031cfb0980f9081def3523740a4f4f27103f42c",
       "attachments": [
         {
@@ -6761,7 +6760,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-26T23:30:38.899Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "0417c4921f4e92192a173c7b88deae5fb2f93209d446bb59b71323c810eb1875",
       "attachments": [
         {
@@ -6792,7 +6791,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-25T23:31:10.330Z",
-      "lastCheckedAt": "2026-11-27T23:09:52.461Z",
+      "lastCheckedAt": "2026-11-28T05:43:47.503Z",
       "contentHash": "a07096a933f63453a1e353dcf5fcf46a841637f9a1f5c7c9952a7d2ff999d434",
       "attachments": [
         {
@@ -6815,7 +6814,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-25T23:31:15.580Z",
-      "lastCheckedAt": "2026-11-27T23:09:57.533Z",
+      "lastCheckedAt": "2026-11-28T05:43:53.033Z",
       "contentHash": "ea89938d76f29820cd1379367321e36845437e98e0b3705420b95a105f0a02bf",
       "attachments": [],
       "contentKind": "解读",
@@ -6833,7 +6832,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-27T23:09:30.539Z",
-      "lastCheckedAt": "2026-11-27T23:09:30.539Z",
+      "lastCheckedAt": "2026-11-28T05:43:20.166Z",
       "contentHash": "c33ba44e6c199f8c746c08879068e61a087af17e2c44cf024a53ffa927958a10",
       "attachments": [
         {
@@ -6856,7 +6855,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-19T05:16:59.691Z",
-      "lastCheckedAt": "2026-11-27T23:09:33.759Z",
+      "lastCheckedAt": "2026-11-28T05:43:23.381Z",
       "contentHash": "c3111ca2167e2b605f86f7d7060b340a100584d002d8bbc059e3e11591dead38",
       "attachments": [
         {
@@ -6899,7 +6898,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-19T05:16:59.691Z",
-      "lastCheckedAt": "2026-11-27T23:09:33.759Z",
+      "lastCheckedAt": "2026-11-28T05:43:23.381Z",
       "contentHash": "5290f7e2a15ea69d4b8394d8f9eca9c9e57a2fe0f7587755fbc2b59dcdc5a312",
       "attachments": [
         {
@@ -6948,7 +6947,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-16T04:03:23.346Z",
-      "lastCheckedAt": "2026-11-27T23:09:20.188Z",
+      "lastCheckedAt": "2026-11-28T05:43:07.184Z",
       "contentHash": "f20d76d0d0916261108f69a564d388b4bf69d459ff2aee899296864ed5909972",
       "attachments": [],
       "contentKind": "解读",
@@ -6966,7 +6965,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-05T04:31:15.524Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "060bdf1a0cd2ced878dbe846f57a4f412a7bcb2b96ed2a313d439121853a5ac9",
       "attachments": [
         {
@@ -7015,7 +7014,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-16T13:19:57.895Z",
-      "lastCheckedAt": "2026-11-27T23:09:18.270Z",
+      "lastCheckedAt": "2026-11-28T05:43:05.327Z",
       "contentHash": "e38a4faafaaefe1714559f7d2fd57316c55ecc8ba1b40b82c2f69cf39131478a",
       "attachments": [
         {
@@ -7038,7 +7037,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-28T10:58:44.694Z",
-      "lastCheckedAt": "2026-11-27T23:09:21.949Z",
+      "lastCheckedAt": "2026-11-28T05:43:09.170Z",
       "contentHash": "def395d9c9661003f87394dcbef4631848ebdef20012f1766264ac178ecffc2b",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7056,7 +7055,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-27T10:13:15.913Z",
-      "lastCheckedAt": "2026-11-27T23:10:35.481Z",
+      "lastCheckedAt": "2026-11-28T05:44:42.497Z",
       "contentHash": "4405a811042c5ea45d81e45024786f2a4ccc0ab27c60eb326d027cd77b93299a",
       "attachments": [],
       "contentKind": "解读",
@@ -7074,7 +7073,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-26T10:45:09.043Z",
-      "lastCheckedAt": "2026-11-27T23:10:23.065Z",
+      "lastCheckedAt": "2026-11-28T05:44:26.622Z",
       "contentHash": "28ed26496600a27d3318ebc7d1a16bedb2afd5bb9299e772a904faf0191de0c7",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7092,7 +7091,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-26T10:45:13.634Z",
-      "lastCheckedAt": "2026-11-27T23:10:24.708Z",
+      "lastCheckedAt": "2026-11-28T05:44:30.272Z",
       "contentHash": "ad4b37b2476872d2ecbf74c5f5d5f972d14306a754ec9fd95f3e33767fe07628",
       "attachments": [],
       "contentKind": "解读",
@@ -7110,7 +7109,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-23T18:52:42.041Z",
-      "lastCheckedAt": "2026-11-27T23:09:25.863Z",
+      "lastCheckedAt": "2026-11-28T05:43:14.405Z",
       "contentHash": "05c860abca9c34c729aed9cd84accd3e8d62d56be980be7f045d92342c18bb42",
       "attachments": [],
       "contentKind": "解读",
@@ -7128,7 +7127,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:31:51.280Z",
-      "lastCheckedAt": "2026-11-27T23:09:41.888Z",
+      "lastCheckedAt": "2026-11-28T05:43:32.852Z",
       "contentHash": "dcc021c43c2dae279f1be198bf48f5917921329101d567b6db22969bc8c07c42",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7164,7 +7163,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-11-09T13:35:27.434Z",
-      "lastCheckedAt": "2026-11-27T23:10:19.587Z",
+      "lastCheckedAt": "2026-11-28T05:44:21.272Z",
       "contentHash": "432c03ca1e8d09dd622138ee0e2e39d04c90764df68057eb2eeb83af3ab4dbef",
       "attachments": [],
       "contentKind": "解读",
@@ -7182,7 +7181,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:15.314Z",
-      "lastCheckedAt": "2026-11-27T23:09:23.835Z",
+      "lastCheckedAt": "2026-11-28T05:43:11.671Z",
       "contentHash": "4dcde2994aa5575a9221f18056253aff8d37eba8af2f88e38e42a988ce922c44",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7200,7 +7199,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.736Z",
-      "lastCheckedAt": "2026-11-27T06:04:01.412Z",
+      "lastCheckedAt": "2026-11-28T05:45:16.775Z",
       "contentHash": "5ae2321b844b4146728cd75993ed2f7794b498f0d74dfe400336f7f414e6c33e",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7225,7 +7224,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-11-27T23:10:33.048Z",
+      "lastCheckedAt": "2026-11-28T05:44:39.593Z",
       "contentHash": "773e654d5452a96e269a5520c2fd0f2d482c379d1213ad85d5f934f88c3a0cfa",
       "attachments": [
         {
@@ -7271,7 +7270,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "26caa22116cee4a450bc878cd306f849bd30453d14883fadab89bb36fe5b2f21",
       "attachments": [
         {
@@ -7306,7 +7305,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:23.341Z",
-      "lastCheckedAt": "2026-11-27T23:10:12.398Z",
+      "lastCheckedAt": "2026-11-28T05:44:11.554Z",
       "contentHash": "2e8a8d3ef48420a3b0a228f72fc662e985177f2e74d3e7ef676e006c32bad3fb",
       "attachments": [
         {
@@ -7329,7 +7328,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:48.959Z",
-      "lastCheckedAt": "2026-11-27T23:10:35.481Z",
+      "lastCheckedAt": "2026-11-28T05:44:42.497Z",
       "contentHash": "48f6f0d79c06c1401a34a9de47370bfb3db76b922bf03950a332d45dc6db8aaf",
       "attachments": [],
       "contentKind": "解读",
@@ -7347,7 +7346,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:46.643Z",
-      "lastCheckedAt": "2026-11-27T06:03:58.467Z",
+      "lastCheckedAt": "2026-11-28T05:45:09.331Z",
       "contentHash": "123e909db45209cb039aadda1e32ec59c41f12f5a66e802b9aabf502822bdb0b",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7365,7 +7364,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-31T13:09:56.782Z",
-      "lastCheckedAt": "2026-11-27T23:10:44.986Z",
+      "lastCheckedAt": "2026-11-28T05:44:54.797Z",
       "contentHash": "90464183fdb9dc5dda97f8ff2f7b741c3d8f072a09a368e8563d26e89db87076",
       "attachments": [
         {
@@ -7388,7 +7387,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "d01d841d8742a0454e4bba39b7ffc7dfbee6f38974ed9775d41ee296bffede3f",
       "attachments": [],
       "contentKind": "征求意见",
@@ -7406,7 +7405,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "d34d36ceb61baa5c1068707e45e3acbe5140a0f5f4758a4c5e83949c7095d5b7",
       "attachments": [],
       "contentKind": "征求意见",
@@ -7424,7 +7423,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "d29523100bc274cb5012ab744ad5b219b12d827c8c9d494ab0840cfdf2f92584",
       "attachments": [],
       "contentKind": "征求意见",
@@ -7442,7 +7441,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "4185e84decb8dd5fb40ef9efc3e397c5fbdf80e89400c00dd49b69536edba03e",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7460,7 +7459,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:24.508Z",
-      "lastCheckedAt": "2026-11-27T23:09:39.835Z",
+      "lastCheckedAt": "2026-11-28T05:43:30.389Z",
       "contentHash": "d3c0de02ef210eb017490e2273acec136a344d7574a3b4e9fbcf25ad07810a02",
       "attachments": [
         {
@@ -7483,7 +7482,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:20.871Z",
-      "lastCheckedAt": "2026-11-27T23:09:38.018Z",
+      "lastCheckedAt": "2026-11-28T05:43:28.436Z",
       "contentHash": "994169522d2ffa36df4cb0dda6cd5d78a0d344ea05201055066186a405683ff3",
       "attachments": [
         {
@@ -7506,7 +7505,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:29.243Z",
-      "lastCheckedAt": "2026-11-27T23:10:13.512Z",
+      "lastCheckedAt": "2026-11-28T05:44:13.176Z",
       "contentHash": "6cfd58e1e7fd0d06652c0f34510315d0742545d35ff7e57252bf75c0617d6044",
       "attachments": [
         {
@@ -7529,7 +7528,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.208Z",
-      "lastCheckedAt": "2026-11-27T06:04:00.476Z",
+      "lastCheckedAt": "2026-11-28T05:45:14.099Z",
       "contentHash": "ec2d286d2d667571f3dc01e4a4ea7cbf0125d2ce20e266ed545562895be811eb",
       "attachments": [],
       "contentKind": "解读",
@@ -7547,7 +7546,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:46.643Z",
-      "lastCheckedAt": "2026-11-27T06:03:58.467Z",
+      "lastCheckedAt": "2026-11-28T05:45:09.331Z",
       "contentHash": "529931dd43f9b947b2fd755b67aad7cdd3b6e56142eefbd5ad4b360ccc3626fd",
       "attachments": [
         {
@@ -7612,7 +7611,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-31T13:09:56.782Z",
-      "lastCheckedAt": "2026-11-27T23:10:44.986Z",
+      "lastCheckedAt": "2026-11-28T05:44:54.797Z",
       "contentHash": "a19ca4b0f823d696cf14e905b16e70d47899f022036b324bb22a47bfe1e26873",
       "attachments": [
         {
@@ -7635,7 +7634,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-11-27T23:10:33.048Z",
+      "lastCheckedAt": "2026-11-28T05:44:39.593Z",
       "contentHash": "245181e69bafff65c9c9e9d80004bfa720810ff720f9f5275c99ddbfe71a6505",
       "attachments": [
         {
@@ -7658,7 +7657,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:35.904Z",
-      "lastCheckedAt": "2026-11-27T23:10:17.610Z",
+      "lastCheckedAt": "2026-11-28T05:44:18.714Z",
       "contentHash": "a4dcbf8360ad64db0e6649295ea8ed940d18c684b0ef1a12e5f8b8e5d6d5d447",
       "attachments": [
         {
@@ -7685,7 +7684,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "dcaf31bb36377268b258c1b25afb8fe12df15732bec4503d1fbf78b9a3a2f7fa",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7703,7 +7702,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:31:17.355Z",
-      "lastCheckedAt": "2026-11-27T23:09:07.269Z",
+      "lastCheckedAt": "2026-11-28T05:42:50.677Z",
       "contentHash": "82e25d046aef95a1cc1fa5232643a306df693082fb57c9409d9ed45c35436b2a",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7721,7 +7720,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:31:20.219Z",
-      "lastCheckedAt": "2026-11-27T23:09:09.752Z",
+      "lastCheckedAt": "2026-11-28T05:42:53.633Z",
       "contentHash": "2c6978fba4b1a36832ee7e1a369d22f051038e0fb1c13195e42ad7873a7f1375",
       "attachments": [],
       "contentKind": "解读",
@@ -7739,7 +7738,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "994dade1e78703d7964292fdee1dacb78f8dcc946c3d9a916bf8fcc9a250e59d",
       "attachments": [
         {
@@ -7788,7 +7787,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:06.641Z",
-      "lastCheckedAt": "2026-11-27T23:09:44.672Z",
+      "lastCheckedAt": "2026-11-28T05:43:36.665Z",
       "contentHash": "e65fe71ac679da60cc955b3fd6e4cdc42c53f4ed81c1c19dd498146d61232f58",
       "attachments": [],
       "contentKind": "解读",
@@ -7813,7 +7812,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "182ffd90e885f317964405063bf25efa32df68671187bb7fd4a4548b0acb7a78",
       "attachments": [
         {
@@ -7862,7 +7861,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.736Z",
-      "lastCheckedAt": "2026-11-27T06:04:01.412Z",
+      "lastCheckedAt": "2026-11-28T05:45:16.775Z",
       "contentHash": "12aa03a00d3bb9625b3a6afe831354c3cf28b2bb10b957e836bbf616c93dbc18",
       "attachments": [
         {
@@ -7893,7 +7892,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:33:17.627Z",
-      "lastCheckedAt": "2026-11-27T06:04:01.412Z",
+      "lastCheckedAt": "2026-11-28T05:45:16.775Z",
       "contentHash": "527dc740b295bb0657730e3ce63444762f1819c6f93b606480e13d21a952e6e0",
       "attachments": [
         {
@@ -7924,7 +7923,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:08.658Z",
-      "lastCheckedAt": "2026-11-27T23:09:50.138Z",
+      "lastCheckedAt": "2026-11-28T05:43:44.413Z",
       "contentHash": "635030198641a6e3d37ffd974e87779b162ce4c13aceefe6bbb1eaaec5b78b6e",
       "attachments": [],
       "contentKind": "政策动态",
@@ -7942,7 +7941,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:14.235Z",
-      "lastCheckedAt": "2026-11-27T23:09:57.533Z",
+      "lastCheckedAt": "2026-11-28T05:43:53.033Z",
       "contentHash": "e350b2166b2628f7e2b04377c31a84cf938d8d64279c84b76258ab7eb8428d20",
       "attachments": [],
       "contentKind": "解读",
@@ -7960,7 +7959,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:41.845Z",
-      "lastCheckedAt": "2026-11-27T23:10:29.174Z",
+      "lastCheckedAt": "2026-11-28T05:44:35.595Z",
       "contentHash": "3c90961cff0efbb3eeafae38b3d71892741d33596d3871117387c1215455492f",
       "attachments": [],
       "contentKind": "解读",
@@ -7978,7 +7977,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "df9f863de9927ed3a1ed2db58d1d4265e046140131b3124bb06fa7bfa0a0fdaa",
       "attachments": [
         {
@@ -8019,7 +8018,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:19.072Z",
-      "lastCheckedAt": "2026-11-27T23:10:28.159Z",
+      "lastCheckedAt": "2026-11-28T05:44:34.469Z",
       "contentHash": "c77c28699644610a37dcae2fee12a3e9698451e8ed213546cca92f2e35debfd0",
       "attachments": [
         {
@@ -8042,7 +8041,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-11-27T23:09:52.461Z",
+      "lastCheckedAt": "2026-11-28T05:43:47.503Z",
       "contentHash": "ef6ecfc868640c0dcce3596ae397e810babb93f3355a4fbe77760d0d9987fe50",
       "attachments": [
         {
@@ -8069,7 +8068,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-31T13:08:26.605Z",
-      "lastCheckedAt": "2026-11-27T23:09:35.476Z",
+      "lastCheckedAt": "2026-11-28T05:43:25.388Z",
       "contentHash": "d38153e10f5ffffde223afeabb096d2180ca944dc902695602a5003c76c34296",
       "attachments": [
         {
@@ -8092,7 +8091,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:37.156Z",
-      "lastCheckedAt": "2026-11-27T23:10:49.610Z",
+      "lastCheckedAt": "2026-11-28T05:45:03.109Z",
       "contentHash": "12a5b89e3bf233a9745a4e3e0cb0e65e035b0ad15a3068720e8966bbfcf5993b",
       "attachments": [
         {
@@ -8119,7 +8118,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:31:33.926Z",
-      "lastCheckedAt": "2026-11-27T23:09:23.835Z",
+      "lastCheckedAt": "2026-11-28T05:43:11.671Z",
       "contentHash": "9cc07da084bdd71827c26f0dcea305b1355b243c83aeac85eb09a2df540aa6e4",
       "attachments": [
         {
@@ -8178,7 +8177,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:31:54.884Z",
-      "lastCheckedAt": "2026-11-27T23:09:44.672Z",
+      "lastCheckedAt": "2026-11-28T05:43:36.665Z",
       "contentHash": "7307581d4d148fb415a611adc54988abfdc9776120d9bbc3e47d643ac09372be",
       "attachments": [
         {
@@ -8201,7 +8200,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:20.871Z",
-      "lastCheckedAt": "2026-11-27T23:09:38.018Z",
+      "lastCheckedAt": "2026-11-28T05:43:28.436Z",
       "contentHash": "52f343847b3a5d19b0243054d6106f1b7ddbf853ad112e800595962081fcd1d2",
       "attachments": [
         {
@@ -8228,7 +8227,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:15.314Z",
-      "lastCheckedAt": "2026-11-27T23:09:23.835Z",
+      "lastCheckedAt": "2026-11-28T05:43:11.671Z",
       "contentHash": "071f37ea503fb1e021537e54ea7825a80b24c361c1d590ea57cafdfa9d122656",
       "attachments": [],
       "contentKind": "政策动态",
@@ -8264,7 +8263,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "a765436720e33007a2ca1749f0c58fd440922a861a875d2bbd39408ea9396ba0",
       "attachments": [
         {
@@ -8309,7 +8308,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-31T13:09:56.782Z",
-      "lastCheckedAt": "2026-11-27T23:10:44.986Z",
+      "lastCheckedAt": "2026-11-28T05:44:54.797Z",
       "contentHash": "88cc72ea6d8523d65fb535ae958dc52897e527e6b1f699af0682cc39e8b5e008",
       "attachments": [
         {
@@ -8350,7 +8349,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-11-27T23:10:33.048Z",
+      "lastCheckedAt": "2026-11-28T05:44:39.593Z",
       "contentHash": "8d58b565c90e4fefbc0ef82db722b5c26245e2963a5af0c3e6688c1e8446e1fd",
       "attachments": [
         {
@@ -8373,7 +8372,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:28.930Z",
-      "lastCheckedAt": "2026-11-27T23:10:12.398Z",
+      "lastCheckedAt": "2026-11-28T05:44:11.554Z",
       "contentHash": "e1781161b623656be4ce2def9e99277f3438bd17c944cf39a06c0fb4629a7dbb",
       "attachments": [],
       "contentKind": "政策动态",
@@ -8450,7 +8449,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-11-27T23:10:35.481Z",
+      "lastCheckedAt": "2026-11-28T05:44:42.497Z",
       "contentHash": "a4256571963d37b5c836130c242aaf30c8bf8f2834148dcf89fc4b6e6b3dbd86",
       "attachments": [],
       "contentKind": "解读",
@@ -8468,7 +8467,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:19.395Z",
-      "lastCheckedAt": "2026-11-27T23:10:29.174Z",
+      "lastCheckedAt": "2026-11-28T05:44:35.595Z",
       "contentHash": "ad035ca30d51455ed3080af117b8bd58727ffdb3d45cabc3f25d4b7d90dc471c",
       "attachments": [],
       "contentKind": "解读",
@@ -8543,7 +8542,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:03.061Z",
-      "lastCheckedAt": "2026-11-27T23:09:52.461Z",
+      "lastCheckedAt": "2026-11-28T05:43:47.503Z",
       "contentHash": "ee2db353436f1d5074d2a15cfc317ed000d7c36865e8df1ada8714ce9c582056",
       "attachments": [
         {
@@ -8577,7 +8576,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:12.785Z",
-      "lastCheckedAt": "2026-11-27T23:10:24.708Z",
+      "lastCheckedAt": "2026-11-28T05:44:30.272Z",
       "contentHash": "100fd625af4b9f5a92afdb2150a237db95095f1a937200ff0196eb89e31c1ab6",
       "attachments": [],
       "contentKind": "政策动态",
@@ -8595,7 +8594,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:31:22.905Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "1ac4b3276f8fc7e4125ad0b290754923aa60dd5fd9c5bd08fb4a730352e8a07b",
       "attachments": [
         {
@@ -8618,7 +8617,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-11-27T23:10:08.461Z",
+      "lastCheckedAt": "2026-11-28T05:44:06.271Z",
       "contentHash": "162cfbccee88d5bdba6e1e6f3fb38c0aa8104c5e8f28242ed0e9b9b0213eff92",
       "attachments": [],
       "contentKind": "解读",
@@ -8636,7 +8635,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-11-27T23:10:08.461Z",
+      "lastCheckedAt": "2026-11-28T05:44:06.271Z",
       "contentHash": "9efddbc5f42a50ff09ad398c1a19696d25d4ff6d4b10d10ff15980bf399849ac",
       "attachments": [],
       "contentKind": "解读",
@@ -8654,7 +8653,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-11-27T23:10:08.461Z",
+      "lastCheckedAt": "2026-11-28T05:44:06.271Z",
       "contentHash": "38b7f369c914dbb672267045a0b6122e3e2f7c4eb43973e7f40e2bff4dd98851",
       "attachments": [],
       "contentKind": "解读",
@@ -8672,7 +8671,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-11-27T23:10:08.461Z",
+      "lastCheckedAt": "2026-11-28T05:44:06.271Z",
       "contentHash": "a8ee82f59174b180aabeda22f057fd0759214e92015749897b971d5d5520aecf",
       "attachments": [],
       "contentKind": "解读",
@@ -8690,7 +8689,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:20.871Z",
-      "lastCheckedAt": "2026-11-27T23:09:38.018Z",
+      "lastCheckedAt": "2026-11-28T05:43:28.436Z",
       "contentHash": "150e863408a2acf2d5cb1c67eafedb9105830c7c623784c4192801a72c9fcf30",
       "attachments": [
         {
@@ -8770,7 +8769,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-11-27T23:09:52.461Z",
+      "lastCheckedAt": "2026-11-28T05:43:47.503Z",
       "contentHash": "a083c07d697763031f5b98ba1228ef2879bf25850767ef018c5c900638e01a7a",
       "attachments": [
         {
@@ -8804,7 +8803,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:23.442Z",
-      "lastCheckedAt": "2026-11-27T23:10:08.461Z",
+      "lastCheckedAt": "2026-11-28T05:44:06.271Z",
       "contentHash": "5f390a5150ac3e2fb3660ee52be0a6ad7bf9bd87b52c699fe34b87d8a1e0a832",
       "attachments": [],
       "contentKind": "解读",
@@ -8822,7 +8821,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:13.700Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "31196f287e4849fde5e2f9da95e6ed29affb83f972a2eb7556b2de238b098758",
       "attachments": [
         {
@@ -8863,7 +8862,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-31T13:08:26.605Z",
-      "lastCheckedAt": "2026-11-27T23:09:35.476Z",
+      "lastCheckedAt": "2026-11-28T05:43:25.388Z",
       "contentHash": "67fb2191560cf348cdb0a8e85a57eea77cefcfde73ceb7a64826a77fbfd92005",
       "attachments": [
         {
@@ -8904,7 +8903,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "fef940558798f2c71cedf2febb9dfb61f1b2987e2a11666f90c1a1a02844358a",
       "attachments": [
         {
@@ -8927,7 +8926,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "533d6a816d6dcede17b4dc618887ed78e090b82b576cd6e67289584ac2d6dee0",
       "attachments": [
         {
@@ -8950,7 +8949,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "6df2760713e7434511fdfa62546c167d215d79b21c8fb0309c6e855cee1a36f2",
       "attachments": [
         {
@@ -8973,7 +8972,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "9b9c9298c1fee145d0ca09dcd740d04f500e9e02bf73b6afad87964142853669",
       "attachments": [
         {
@@ -9014,7 +9013,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:57.355Z",
-      "lastCheckedAt": "2026-11-27T23:10:23.065Z",
+      "lastCheckedAt": "2026-11-28T05:44:26.622Z",
       "contentHash": "e80597af517b5e42a0d3ae025f7807e13db406ff38ed2717196d862af3114798",
       "attachments": [],
       "contentKind": "政策动态",
@@ -9032,7 +9031,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "71fcce2c95b3d2128903b1a3499bdf4dcc30464abbd61b2a298717a54e4b258f",
       "attachments": [
         {
@@ -9055,7 +9054,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-11-27T23:09:52.461Z",
+      "lastCheckedAt": "2026-11-28T05:43:47.503Z",
       "contentHash": "de7a772c47fded06afe6ff933b27b35af1dba24fcae3f661948b292def0ade22",
       "attachments": [
         {
@@ -9089,7 +9088,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:14.235Z",
-      "lastCheckedAt": "2026-11-27T23:09:57.533Z",
+      "lastCheckedAt": "2026-11-28T05:43:53.033Z",
       "contentHash": "2823574d40845f04289295459d646e5383f2da0406b84406a3a88b11fd89c733",
       "attachments": [],
       "contentKind": "解读",
@@ -9107,7 +9106,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:08.223Z",
-      "lastCheckedAt": "2026-11-27T23:09:57.533Z",
+      "lastCheckedAt": "2026-11-28T05:43:53.033Z",
       "contentHash": "74cf1edd31badd4ade97f208c52fa15d983795267be20151465d43720175243b",
       "attachments": [],
       "contentKind": "解读",
@@ -9197,7 +9196,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:30.278Z",
-      "lastCheckedAt": "2026-11-27T23:10:40.488Z",
+      "lastCheckedAt": "2026-11-28T05:44:49.199Z",
       "contentHash": "f030803156359af9b676f8872a822687d0931c5d64358a00a58bdfeb7f823765",
       "attachments": [
         {
@@ -9220,7 +9219,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-22T07:32:54.546Z",
-      "lastCheckedAt": "2026-11-27T23:10:40.488Z",
+      "lastCheckedAt": "2026-11-28T05:44:49.199Z",
       "contentHash": "bf6be3be0b3d4623282f710190d943612cade8bd553d29549e05b53fa8bdf6f9",
       "attachments": [
         {
@@ -9283,7 +9282,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-11-27T23:09:09.752Z",
+      "lastCheckedAt": "2026-11-28T05:42:53.633Z",
       "contentHash": "6011ae348aeccd89159360b1c6eb3e572fd0ac4f2d1bb00272f00fead7cee7c3",
       "attachments": [],
       "contentKind": "解读",
@@ -9301,7 +9300,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-11-27T23:09:09.752Z",
+      "lastCheckedAt": "2026-11-28T05:42:53.633Z",
       "contentHash": "66f881bf93fac330995b5683b6868a43e8b77420dc5ec878316431919d0ca6c7",
       "attachments": [],
       "contentKind": "解读",
@@ -9319,7 +9318,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-11-27T23:09:09.752Z",
+      "lastCheckedAt": "2026-11-28T05:42:53.633Z",
       "contentHash": "72138acfafd83d785c59d7809dc8914ce670f0171fddad0b0abc63d6bcde2b94",
       "attachments": [],
       "contentKind": "解读",
@@ -9337,7 +9336,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-11-27T23:09:09.752Z",
+      "lastCheckedAt": "2026-11-28T05:42:53.633Z",
       "contentHash": "297713c4956a6f9c26a907e8437b6619fcdd2b2de4aa6f53ae4fde16d311a890",
       "attachments": [],
       "contentKind": "解读",
@@ -9373,7 +9372,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-11-27T23:09:07.269Z",
+      "lastCheckedAt": "2026-11-28T05:42:50.677Z",
       "contentHash": "2ea03b268c208c41336dfcef387d647074bfb9b0198104e7533d96e1803cfa59",
       "attachments": [],
       "contentKind": "政策动态",
@@ -9391,7 +9390,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-11-27T23:09:07.269Z",
+      "lastCheckedAt": "2026-11-28T05:42:50.677Z",
       "contentHash": "0fd5c7cc335bbf752e0e2913de792ecb4fe398d10a0f9bd4a4ab4e2438a4b47c",
       "attachments": [],
       "contentKind": "政策动态",
@@ -9409,7 +9408,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-11-27T23:09:07.269Z",
+      "lastCheckedAt": "2026-11-28T05:42:50.677Z",
       "contentHash": "60b86bf5b9dbcdee51b81c0778f0401193f9481d7d9cf5530c70a7bfc02b4978",
       "attachments": [],
       "contentKind": "政策动态",
@@ -9427,7 +9426,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-11-27T23:09:07.269Z",
+      "lastCheckedAt": "2026-11-28T05:42:50.677Z",
       "contentHash": "3562d150945cbfe6a8414be41d5316afe3927c8f5802049ea837316b6584abfa",
       "attachments": [],
       "contentKind": "政策动态",
@@ -9445,7 +9444,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:33.849Z",
-      "lastCheckedAt": "2026-11-27T23:10:46.825Z",
+      "lastCheckedAt": "2026-11-28T05:44:57.560Z",
       "contentHash": "d3dbb96efdfcf69f003e2b850669ddf2cf5cc1fd6a41967461788a4b563d0e96",
       "attachments": [],
       "contentKind": "解读",
@@ -9481,7 +9480,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:20.871Z",
-      "lastCheckedAt": "2026-11-27T23:09:38.018Z",
+      "lastCheckedAt": "2026-11-28T05:43:28.436Z",
       "contentHash": "4b8cc12e4e0b9816982279126e1a39f2e53924de35062699a285e130de2cc25b",
       "attachments": [
         {
@@ -9504,7 +9503,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:28.930Z",
-      "lastCheckedAt": "2026-11-27T23:10:12.398Z",
+      "lastCheckedAt": "2026-11-28T05:44:11.554Z",
       "contentHash": "6232a0b9c2f71d3ce7f12156786da3366221ecf001c4c2511ce1ef927e4a67c5",
       "attachments": [
         {
@@ -9586,7 +9585,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-11-27T23:10:35.481Z",
+      "lastCheckedAt": "2026-11-28T05:44:42.497Z",
       "contentHash": "4ae2880e7ca2abe921ff9d947118df25c61b6097cc1a2a551644de69f02c74bc",
       "attachments": [],
       "contentKind": "解读",
@@ -9604,7 +9603,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-11-27T23:10:35.481Z",
+      "lastCheckedAt": "2026-11-28T05:44:42.497Z",
       "contentHash": "67be2865c0aa586b4547492ff03e8f2402ab67c480037a88d24a90806ce593d6",
       "attachments": [],
       "contentKind": "解读",
@@ -9622,7 +9621,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:24.354Z",
-      "lastCheckedAt": "2026-11-27T23:10:35.481Z",
+      "lastCheckedAt": "2026-11-28T05:44:42.497Z",
       "contentHash": "06cbd23213516339b2dda66f9604a513af083b424076928dd3a32e35edbe37dd",
       "attachments": [],
       "contentKind": "解读",
@@ -9663,7 +9662,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:34.077Z",
-      "lastCheckedAt": "2026-11-27T23:10:47.766Z",
+      "lastCheckedAt": "2026-11-28T05:44:59.755Z",
       "contentHash": "a4886cde5aa3909bcb9f6a9503c57cd2c6b98202d548efc205d6c8bb7012ef96",
       "attachments": [],
       "contentKind": "意见反馈",
@@ -9681,7 +9680,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:04.894Z",
-      "lastCheckedAt": "2026-11-27T23:09:07.269Z",
+      "lastCheckedAt": "2026-11-28T05:42:50.677Z",
       "contentHash": "0927aca0548f4a93d7c7ac7c6cefcd672aef071356333b342fd2d6acb6ddb316",
       "attachments": [],
       "contentKind": "政策动态",
@@ -9699,7 +9698,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:05.467Z",
-      "lastCheckedAt": "2026-11-27T23:09:09.752Z",
+      "lastCheckedAt": "2026-11-28T05:42:53.633Z",
       "contentHash": "66a42f7c5112b92ea58d09991c3fd5ea4e40e8ad35d85cbcc51649eb59d85568",
       "attachments": [],
       "contentKind": "解读",
@@ -9765,9 +9764,9 @@
       "url": "https://nyj.nmg.gov.cn/tzgg/202602/t20260214_2863478.html",
       "sourceId": "nmg-nyj-notices",
       "note": "",
-      "detailStatus": "index-only",
+      "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:21:30.550Z",
-      "lastCheckedAt": "2026-11-27T23:10:53.214Z",
+      "lastCheckedAt": "2026-11-28T05:45:09.331Z",
       "contentHash": "85167db491bbb920d533dd03c0dd6780b13167687f9aa416a5c5143a9314417a",
       "attachments": [
         {
@@ -9779,7 +9778,6 @@
           "url": "https://nyj.nmg.gov.cn/tzgg/202602/P020260214483569217454.pdf"
         }
       ],
-      "detailError": "fetch failed",
       "contentKind": "征求意见",
       "otherSources": [],
       "sourceCount": 1
@@ -9795,7 +9793,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:06.641Z",
-      "lastCheckedAt": "2026-11-27T23:09:44.672Z",
+      "lastCheckedAt": "2026-11-28T05:43:36.665Z",
       "contentHash": "d662c2fde9d9960fb0a1811ca684f58f3e7920f7c86a9928e04fe16b4cae2244",
       "attachments": [],
       "contentKind": "征求意见",
@@ -9859,7 +9857,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:07.999Z",
-      "lastCheckedAt": "2026-11-27T23:09:48.256Z",
+      "lastCheckedAt": "2026-11-28T05:43:42.076Z",
       "contentHash": "615aa43c8aee9de0e660f44faac1a0cd40a20d94126227f1c782a30c94e7da23",
       "attachments": [],
       "contentKind": "解读",
@@ -9877,7 +9875,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:12.701Z",
-      "lastCheckedAt": "2026-11-27T23:09:52.461Z",
+      "lastCheckedAt": "2026-11-28T05:43:47.503Z",
       "contentHash": "647ce26ceacdd67efead8b865ac683f83fbbbedc14de3e94e56fa54cb7370ef2",
       "attachments": [
         {
@@ -9908,7 +9906,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-31T13:10:14.996Z",
-      "lastCheckedAt": "2026-11-27T06:04:00.476Z",
+      "lastCheckedAt": "2026-11-28T05:45:14.099Z",
       "contentHash": "1226cb7c3b2cfb4ad176a83552011d78b049060cc876dd2ed3f836668ffb0f6e",
       "attachments": [],
       "contentKind": "政策动态",
@@ -9926,7 +9924,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "866b39f2c65fa4690abd8d3166b6c7f188a08b4737237dd81b67fdc3a29a8ed9",
       "attachments": [
         {
@@ -9949,7 +9947,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "a0136803d1cabc1d68ba5f121ebe4d63a42b0e238c10104409fc30624e0c7b7e",
       "attachments": [
         {
@@ -9972,7 +9970,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "cbbe4e6182eb235c4d0d004545b2d5fc0c76727eb431451076f413b63dfb4261",
       "attachments": [
         {
@@ -9995,7 +9993,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:06.118Z",
-      "lastCheckedAt": "2026-11-27T23:09:11.939Z",
+      "lastCheckedAt": "2026-11-28T05:42:56.443Z",
       "contentHash": "6088012d0a8a5986b45c96c143a9cc7e29b4a6fb97a505716325e1060acb4901",
       "attachments": [
         {
@@ -10018,7 +10016,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "8c64338b7f23e27b2bf3f5202800b2b8e9aead147719d724012b26a122d05009",
       "attachments": [
         {
@@ -10041,7 +10039,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "0aab1c533e1c45b266ce02cda3368670e46c3f84da1ac0cc0e6b139a1facf2d9",
       "attachments": [
         {
@@ -10064,7 +10062,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "6f46901633c8a2916c80b6a626ca54514a5d7b2e48391c3e45c66c14c8594bfa",
       "attachments": [
         {
@@ -10087,7 +10085,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "6f2ceebc60af4bc42de9477136d579e8de8d50f3692e2c04d3042380a6c5f6d4",
       "attachments": [
         {
@@ -10110,7 +10108,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:18:20.799Z",
-      "lastCheckedAt": "2026-11-27T23:10:02.902Z",
+      "lastCheckedAt": "2026-11-28T05:43:59.637Z",
       "contentHash": "2f202a51fe096b3c77565f54a58c9c08d487d26c52c580200bd3338bb6d8645d",
       "attachments": [
         {
@@ -10133,7 +10131,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:22.709Z",
-      "lastCheckedAt": "2026-11-27T23:10:38.543Z",
+      "lastCheckedAt": "2026-11-28T05:44:46.516Z",
       "contentHash": "a36186eedc168832924e2711e1cfe22780f2b403307af0e245cc02594175b58a",
       "attachments": [
         {
@@ -10187,7 +10185,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:30.278Z",
-      "lastCheckedAt": "2026-11-27T23:10:40.488Z",
+      "lastCheckedAt": "2026-11-28T05:44:49.199Z",
       "contentHash": "701551eaf4ea99465c253c8c60ee1b238313d0e6df3e87f83803ea39605c0163",
       "attachments": [
         {
@@ -10237,7 +10235,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:19.711Z",
-      "lastCheckedAt": "2026-11-27T23:10:30.408Z",
+      "lastCheckedAt": "2026-11-28T05:44:37.133Z",
       "contentHash": "0ef042ba45d60bc889014420b6dd865bc179d923f74e0f225e36d6f8b37d13c9",
       "attachments": [
         {
@@ -10296,7 +10294,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:19:47.208Z",
-      "lastCheckedAt": "2026-11-27T06:04:00.476Z",
+      "lastCheckedAt": "2026-11-28T05:45:14.099Z",
       "contentHash": "701f8ab8a97a91e3731bd5bcee2235c5cbf167cd6088c8ba338b336df3925252",
       "attachments": [
         {
@@ -10359,7 +10357,7 @@
       "note": "",
       "detailStatus": "read",
       "firstSeenAt": "2026-10-21T03:17:11.317Z",
-      "lastCheckedAt": "2026-11-27T23:09:20.188Z",
+      "lastCheckedAt": "2026-11-28T05:43:07.184Z",
       "contentHash": "7833d35eaf08c1f74ced02fec02e591280fad00e54da1e3333f495cabd912ad4",
       "attachments": [],
       "contentKind": "解读",
@@ -11830,8 +11828,8 @@
       "url": "https://dbj.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:04.822Z",
-      "lastSuccessAt": "2026-11-27T23:09:04.822Z",
+      "checkedAt": "2026-11-28T05:42:47.332Z",
+      "lastSuccessAt": "2026-11-28T05:42:47.332Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11846,8 +11844,8 @@
       "url": "https://dbj.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:06.260Z",
-      "lastSuccessAt": "2026-11-27T23:09:06.260Z",
+      "checkedAt": "2026-11-28T05:42:49.484Z",
+      "lastSuccessAt": "2026-11-28T05:42:49.484Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11862,8 +11860,8 @@
       "url": "https://dbj.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:07.269Z",
-      "lastSuccessAt": "2026-11-27T23:09:07.269Z",
+      "checkedAt": "2026-11-28T05:42:50.677Z",
+      "lastSuccessAt": "2026-11-28T05:42:50.677Z",
       "recordCount": 6,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11878,8 +11876,8 @@
       "url": "https://dbj.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:09.752Z",
-      "lastSuccessAt": "2026-11-27T23:09:09.752Z",
+      "checkedAt": "2026-11-28T05:42:53.633Z",
+      "lastSuccessAt": "2026-11-28T05:42:53.633Z",
       "recordCount": 6,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11894,8 +11892,8 @@
       "url": "https://dbj.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:11.939Z",
-      "lastSuccessAt": "2026-11-27T23:09:11.939Z",
+      "checkedAt": "2026-11-28T05:42:56.443Z",
+      "lastSuccessAt": "2026-11-28T05:42:56.443Z",
       "recordCount": 8,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11910,8 +11908,8 @@
       "url": "https://fjb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:14.740Z",
-      "lastSuccessAt": "2026-11-27T23:09:14.740Z",
+      "checkedAt": "2026-11-28T05:43:00.225Z",
+      "lastSuccessAt": "2026-11-28T05:43:00.225Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11926,8 +11924,8 @@
       "url": "https://fjb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:17.292Z",
-      "lastSuccessAt": "2026-11-27T23:09:17.292Z",
+      "checkedAt": "2026-11-28T05:43:02.936Z",
+      "lastSuccessAt": "2026-11-28T05:43:02.936Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11942,8 +11940,8 @@
       "url": "https://fjb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:18.270Z",
-      "lastSuccessAt": "2026-11-27T23:09:18.270Z",
+      "checkedAt": "2026-11-28T05:43:05.327Z",
+      "lastSuccessAt": "2026-11-28T05:43:05.327Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11958,8 +11956,8 @@
       "url": "https://fjb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:20.188Z",
-      "lastSuccessAt": "2026-11-27T23:09:20.188Z",
+      "checkedAt": "2026-11-28T05:43:07.184Z",
+      "lastSuccessAt": "2026-11-28T05:43:07.184Z",
       "recordCount": 2,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11974,8 +11972,8 @@
       "url": "https://fjb.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:21.569Z",
-      "lastSuccessAt": "2026-11-27T23:09:21.569Z",
+      "checkedAt": "2026-11-28T05:43:08.777Z",
+      "lastSuccessAt": "2026-11-28T05:43:08.777Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -11990,8 +11988,8 @@
       "url": "https://gsb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:21.949Z",
-      "lastSuccessAt": "2026-11-27T23:09:21.949Z",
+      "checkedAt": "2026-11-28T05:43:09.170Z",
+      "lastSuccessAt": "2026-11-28T05:43:09.170Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12006,8 +12004,8 @@
       "url": "https://gsb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:23.835Z",
-      "lastSuccessAt": "2026-11-27T23:09:23.835Z",
+      "checkedAt": "2026-11-28T05:43:11.671Z",
+      "lastSuccessAt": "2026-11-28T05:43:11.671Z",
       "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12022,8 +12020,8 @@
       "url": "https://gsb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:25.863Z",
-      "lastSuccessAt": "2026-11-27T23:09:25.863Z",
+      "checkedAt": "2026-11-28T05:43:14.405Z",
+      "lastSuccessAt": "2026-11-28T05:43:14.405Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12038,8 +12036,8 @@
       "url": "https://gzb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:27.857Z",
-      "lastSuccessAt": "2026-11-27T23:09:27.857Z",
+      "checkedAt": "2026-11-28T05:43:16.308Z",
+      "lastSuccessAt": "2026-11-28T05:43:16.308Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12054,8 +12052,8 @@
       "url": "https://gzb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:29.436Z",
-      "lastSuccessAt": "2026-11-27T23:09:29.436Z",
+      "checkedAt": "2026-11-28T05:43:18.774Z",
+      "lastSuccessAt": "2026-11-28T05:43:18.774Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12070,8 +12068,8 @@
       "url": "https://gzb.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:30.539Z",
-      "lastSuccessAt": "2026-11-27T23:09:30.539Z",
+      "checkedAt": "2026-11-28T05:43:20.166Z",
+      "lastSuccessAt": "2026-11-28T05:43:20.166Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12086,8 +12084,8 @@
       "url": "https://hbj.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:31.348Z",
-      "lastSuccessAt": "2026-11-27T23:09:31.348Z",
+      "checkedAt": "2026-11-28T05:43:21.174Z",
+      "lastSuccessAt": "2026-11-28T05:43:21.174Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12102,8 +12100,8 @@
       "url": "https://hbj.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:33.759Z",
-      "lastSuccessAt": "2026-11-27T23:09:33.759Z",
+      "checkedAt": "2026-11-28T05:43:23.381Z",
+      "lastSuccessAt": "2026-11-28T05:43:23.381Z",
       "recordCount": 2,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12118,8 +12116,8 @@
       "url": "https://hbj.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:35.476Z",
-      "lastSuccessAt": "2026-11-27T23:09:35.476Z",
+      "checkedAt": "2026-11-28T05:43:25.388Z",
+      "lastSuccessAt": "2026-11-28T05:43:25.388Z",
       "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12134,8 +12132,8 @@
       "url": "https://hbj.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:37.001Z",
-      "lastSuccessAt": "2026-11-27T23:09:37.001Z",
+      "checkedAt": "2026-11-28T05:43:27.588Z",
+      "lastSuccessAt": "2026-11-28T05:43:27.588Z",
       "recordCount": 2,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12150,8 +12148,8 @@
       "url": "https://hbj.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:38.018Z",
-      "lastSuccessAt": "2026-11-27T23:09:38.018Z",
+      "checkedAt": "2026-11-28T05:43:28.436Z",
+      "lastSuccessAt": "2026-11-28T05:43:28.436Z",
       "recordCount": 4,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12166,8 +12164,8 @@
       "url": "https://hdj.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:39.835Z",
-      "lastSuccessAt": "2026-11-27T23:09:39.835Z",
+      "checkedAt": "2026-11-28T05:43:30.389Z",
+      "lastSuccessAt": "2026-11-28T05:43:30.389Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12182,8 +12180,8 @@
       "url": "https://hdj.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:41.888Z",
-      "lastSuccessAt": "2026-11-27T23:09:41.888Z",
+      "checkedAt": "2026-11-28T05:43:32.852Z",
+      "lastSuccessAt": "2026-11-28T05:43:32.852Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12198,8 +12196,8 @@
       "url": "https://hdj.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:42.922Z",
-      "lastSuccessAt": "2026-11-27T23:09:42.922Z",
+      "checkedAt": "2026-11-28T05:43:34.281Z",
+      "lastSuccessAt": "2026-11-28T05:43:34.281Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12214,8 +12212,8 @@
       "url": "https://henb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:43.288Z",
-      "lastSuccessAt": "2026-11-27T23:09:43.288Z",
+      "checkedAt": "2026-11-28T05:43:34.664Z",
+      "lastSuccessAt": "2026-11-28T05:43:34.664Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12230,8 +12228,8 @@
       "url": "https://henb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:44.672Z",
-      "lastSuccessAt": "2026-11-27T23:09:44.672Z",
+      "checkedAt": "2026-11-28T05:43:36.665Z",
+      "lastSuccessAt": "2026-11-28T05:43:36.665Z",
       "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12246,8 +12244,8 @@
       "url": "https://henb.nea.gov.cn/dtyw/jggg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:46.821Z",
-      "lastSuccessAt": "2026-11-27T23:09:46.821Z",
+      "checkedAt": "2026-11-28T05:43:39.432Z",
+      "lastSuccessAt": "2026-11-28T05:43:39.432Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12262,8 +12260,8 @@
       "url": "https://henb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:47.569Z",
-      "lastSuccessAt": "2026-11-27T23:09:47.569Z",
+      "checkedAt": "2026-11-28T05:43:40.827Z",
+      "lastSuccessAt": "2026-11-28T05:43:40.827Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12278,8 +12276,8 @@
       "url": "https://henb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:48.256Z",
-      "lastSuccessAt": "2026-11-27T23:09:48.256Z",
+      "checkedAt": "2026-11-28T05:43:42.076Z",
+      "lastSuccessAt": "2026-11-28T05:43:42.076Z",
       "recordCount": 2,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12294,8 +12292,8 @@
       "url": "https://henb.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:49.735Z",
-      "lastSuccessAt": "2026-11-27T23:09:49.735Z",
+      "checkedAt": "2026-11-28T05:43:43.858Z",
+      "lastSuccessAt": "2026-11-28T05:43:43.858Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12310,8 +12308,8 @@
       "url": "https://hunb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:50.138Z",
-      "lastSuccessAt": "2026-11-27T23:09:50.138Z",
+      "checkedAt": "2026-11-28T05:43:44.413Z",
+      "lastSuccessAt": "2026-11-28T05:43:44.413Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12326,7 +12324,7 @@
       "url": "https://hunb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "error",
-      "checkedAt": "2026-11-27T23:09:52.077Z",
+      "checkedAt": "2026-11-28T05:43:46.928Z",
       "lastSuccessAt": null,
       "error": "页面可读，但未解析到任何文件链接"
     },
@@ -12338,8 +12336,8 @@
       "url": "https://hunb.nea.gov.cn/dtyw/tzgg/tz/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:52.461Z",
-      "lastSuccessAt": "2026-11-27T23:09:52.461Z",
+      "checkedAt": "2026-11-28T05:43:47.503Z",
+      "lastSuccessAt": "2026-11-28T05:43:47.503Z",
       "recordCount": 6,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12354,8 +12352,8 @@
       "url": "https://hunb.nea.gov.cn/dtyw/tzgg/gsgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:09:55.411Z",
-      "lastSuccessAt": "2026-11-27T23:09:55.411Z",
+      "checkedAt": "2026-11-28T05:43:50.941Z",
+      "lastSuccessAt": "2026-11-28T05:43:50.941Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12370,8 +12368,8 @@
       "url": "https://hunb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:56.781Z",
-      "lastSuccessAt": "2026-11-27T23:09:56.781Z",
+      "checkedAt": "2026-11-28T05:43:52.294Z",
+      "lastSuccessAt": "2026-11-28T05:43:52.294Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12386,8 +12384,8 @@
       "url": "https://hunb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:57.533Z",
-      "lastSuccessAt": "2026-11-27T23:09:57.533Z",
+      "checkedAt": "2026-11-28T05:43:53.033Z",
+      "lastSuccessAt": "2026-11-28T05:43:53.033Z",
       "recordCount": 4,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12402,8 +12400,8 @@
       "url": "https://hunb.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:09:59.178Z",
-      "lastSuccessAt": "2026-11-27T23:09:59.178Z",
+      "checkedAt": "2026-11-28T05:43:55.324Z",
+      "lastSuccessAt": "2026-11-28T05:43:55.324Z",
       "recordCount": 2,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12418,8 +12416,8 @@
       "url": "https://hzj.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:00.351Z",
-      "lastSuccessAt": "2026-11-27T23:10:00.351Z",
+      "checkedAt": "2026-11-28T05:43:56.508Z",
+      "lastSuccessAt": "2026-11-28T05:43:56.508Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12434,8 +12432,8 @@
       "url": "https://hzj.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:02.902Z",
-      "lastSuccessAt": "2026-11-27T23:10:02.902Z",
+      "checkedAt": "2026-11-28T05:43:59.637Z",
+      "lastSuccessAt": "2026-11-28T05:43:59.637Z",
       "recordCount": 14,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12450,8 +12448,8 @@
       "url": "https://hzj.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:08.461Z",
-      "lastSuccessAt": "2026-11-27T23:10:08.461Z",
+      "checkedAt": "2026-11-28T05:44:06.271Z",
+      "lastSuccessAt": "2026-11-28T05:44:06.271Z",
       "recordCount": 5,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12466,8 +12464,8 @@
       "url": "https://jsb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:10.500Z",
-      "lastSuccessAt": "2026-11-27T23:10:10.500Z",
+      "checkedAt": "2026-11-28T05:44:09.606Z",
+      "lastSuccessAt": "2026-11-28T05:44:09.606Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12482,8 +12480,8 @@
       "url": "https://jsb.nea.gov.cn/dtyw/tz/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:12.398Z",
-      "lastSuccessAt": "2026-11-27T23:10:12.398Z",
+      "checkedAt": "2026-11-28T05:44:11.554Z",
+      "lastSuccessAt": "2026-11-28T05:44:11.554Z",
       "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12498,8 +12496,8 @@
       "url": "https://jsb.nea.gov.cn/dtyw/gg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:13.512Z",
-      "lastSuccessAt": "2026-11-27T23:10:13.512Z",
+      "checkedAt": "2026-11-28T05:44:13.176Z",
+      "lastSuccessAt": "2026-11-28T05:44:13.176Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12514,8 +12512,8 @@
       "url": "https://jsb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:14.808Z",
-      "lastSuccessAt": "2026-11-27T23:10:14.808Z",
+      "checkedAt": "2026-11-28T05:44:14.821Z",
+      "lastSuccessAt": "2026-11-28T05:44:14.821Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12530,8 +12528,8 @@
       "url": "https://jsb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:15.427Z",
-      "lastSuccessAt": "2026-11-27T23:10:15.427Z",
+      "checkedAt": "2026-11-28T05:44:15.573Z",
+      "lastSuccessAt": "2026-11-28T05:44:15.573Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12546,8 +12544,8 @@
       "url": "https://nfj.nea.gov.cn/xwzx/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:16.053Z",
-      "lastSuccessAt": "2026-11-27T23:10:16.053Z",
+      "checkedAt": "2026-11-28T05:44:16.445Z",
+      "lastSuccessAt": "2026-11-28T05:44:16.445Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12562,8 +12560,8 @@
       "url": "https://nfj.nea.gov.cn/xwzx/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:17.610Z",
-      "lastSuccessAt": "2026-11-27T23:10:17.610Z",
+      "checkedAt": "2026-11-28T05:44:18.714Z",
+      "lastSuccessAt": "2026-11-28T05:44:18.714Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12578,8 +12576,8 @@
       "url": "https://nfj.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:18.861Z",
-      "lastSuccessAt": "2026-11-27T23:10:18.861Z",
+      "checkedAt": "2026-11-28T05:44:20.329Z",
+      "lastSuccessAt": "2026-11-28T05:44:20.329Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12594,8 +12592,8 @@
       "url": "https://nfj.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:19.587Z",
-      "lastSuccessAt": "2026-11-27T23:10:19.587Z",
+      "checkedAt": "2026-11-28T05:44:21.272Z",
+      "lastSuccessAt": "2026-11-28T05:44:21.272Z",
       "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12610,8 +12608,8 @@
       "url": "https://scb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:20.773Z",
-      "lastSuccessAt": "2026-11-27T23:10:20.773Z",
+      "checkedAt": "2026-11-28T05:44:22.926Z",
+      "lastSuccessAt": "2026-11-28T05:44:22.926Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12626,8 +12624,8 @@
       "url": "https://scb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:22.111Z",
-      "lastSuccessAt": "2026-11-27T23:10:22.111Z",
+      "checkedAt": "2026-11-28T05:44:25.290Z",
+      "lastSuccessAt": "2026-11-28T05:44:25.290Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12642,8 +12640,8 @@
       "url": "https://scb.nea.gov.cn/xxgk/flfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:23.065Z",
-      "lastSuccessAt": "2026-11-27T23:10:23.065Z",
+      "checkedAt": "2026-11-28T05:44:26.622Z",
+      "lastSuccessAt": "2026-11-28T05:44:26.622Z",
       "recordCount": 2,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12658,8 +12656,8 @@
       "url": "https://scb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:24.708Z",
-      "lastSuccessAt": "2026-11-27T23:10:24.708Z",
+      "checkedAt": "2026-11-28T05:44:30.272Z",
+      "lastSuccessAt": "2026-11-28T05:44:30.272Z",
       "recordCount": 2,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12674,8 +12672,8 @@
       "url": "https://sxb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:25.324Z",
-      "lastSuccessAt": "2026-11-27T23:10:25.324Z",
+      "checkedAt": "2026-11-28T05:44:31.234Z",
+      "lastSuccessAt": "2026-11-28T05:44:31.234Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12690,8 +12688,8 @@
       "url": "https://sxb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:27.171Z",
-      "lastSuccessAt": "2026-11-27T23:10:27.171Z",
+      "checkedAt": "2026-11-28T05:44:33.368Z",
+      "lastSuccessAt": "2026-11-28T05:44:33.368Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12706,8 +12704,8 @@
       "url": "https://sxb.nea.gov.cn/xxgk/zcfb/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:28.159Z",
-      "lastSuccessAt": "2026-11-27T23:10:28.159Z",
+      "checkedAt": "2026-11-28T05:44:34.469Z",
+      "lastSuccessAt": "2026-11-28T05:44:34.469Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12722,8 +12720,8 @@
       "url": "https://sxb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:29.174Z",
-      "lastSuccessAt": "2026-11-27T23:10:29.174Z",
+      "checkedAt": "2026-11-28T05:44:35.595Z",
+      "lastSuccessAt": "2026-11-28T05:44:35.595Z",
       "recordCount": 4,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12738,8 +12736,8 @@
       "url": "https://sxb.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:30.408Z",
-      "lastSuccessAt": "2026-11-27T23:10:30.408Z",
+      "checkedAt": "2026-11-28T05:44:37.133Z",
+      "lastSuccessAt": "2026-11-28T05:44:37.133Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12754,8 +12752,8 @@
       "url": "https://xbj.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:31.098Z",
-      "lastSuccessAt": "2026-11-27T23:10:31.098Z",
+      "checkedAt": "2026-11-28T05:44:37.904Z",
+      "lastSuccessAt": "2026-11-28T05:44:37.904Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12770,8 +12768,8 @@
       "url": "https://xbj.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:33.048Z",
-      "lastSuccessAt": "2026-11-27T23:10:33.048Z",
+      "checkedAt": "2026-11-28T05:44:39.593Z",
+      "lastSuccessAt": "2026-11-28T05:44:39.593Z",
       "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12786,7 +12784,7 @@
       "url": "https://xbj.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "error",
-      "checkedAt": "2026-11-27T23:10:35.210Z",
+      "checkedAt": "2026-11-28T05:44:42.151Z",
       "lastSuccessAt": null,
       "error": "页面可读，但未解析到任何文件链接"
     },
@@ -12798,8 +12796,8 @@
       "url": "https://xbj.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:35.481Z",
-      "lastSuccessAt": "2026-11-27T23:10:35.481Z",
+      "checkedAt": "2026-11-28T05:44:42.497Z",
+      "lastSuccessAt": "2026-11-28T05:44:42.497Z",
       "recordCount": 8,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12814,8 +12812,8 @@
       "url": "https://xbj.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:38.543Z",
-      "lastSuccessAt": "2026-11-27T23:10:38.543Z",
+      "checkedAt": "2026-11-28T05:44:46.516Z",
+      "lastSuccessAt": "2026-11-28T05:44:46.516Z",
       "recordCount": 4,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12830,8 +12828,8 @@
       "url": "https://xjb.nea.gov.cn/dtyw/jgdt/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:39.105Z",
-      "lastSuccessAt": "2026-11-27T23:10:39.105Z",
+      "checkedAt": "2026-11-28T05:44:47.352Z",
+      "lastSuccessAt": "2026-11-28T05:44:47.352Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12846,8 +12844,8 @@
       "url": "https://xjb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:40.488Z",
-      "lastSuccessAt": "2026-11-27T23:10:40.488Z",
+      "checkedAt": "2026-11-28T05:44:49.199Z",
+      "lastSuccessAt": "2026-11-28T05:44:49.199Z",
       "recordCount": 3,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12862,8 +12860,8 @@
       "url": "https://xjb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:42.573Z",
-      "lastSuccessAt": "2026-11-27T23:10:42.573Z",
+      "checkedAt": "2026-11-28T05:44:51.569Z",
+      "lastSuccessAt": "2026-11-28T05:44:51.569Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12878,8 +12876,8 @@
       "url": "https://xjb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:42.885Z",
-      "lastSuccessAt": "2026-11-27T23:10:42.885Z",
+      "checkedAt": "2026-11-28T05:44:51.936Z",
+      "lastSuccessAt": "2026-11-28T05:44:51.936Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12894,8 +12892,8 @@
       "url": "https://ynb.nea.gov.cn/dtyw/gsgg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:43.625Z",
-      "lastSuccessAt": "2026-11-27T23:10:43.625Z",
+      "checkedAt": "2026-11-28T05:44:52.793Z",
+      "lastSuccessAt": "2026-11-28T05:44:52.793Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12910,8 +12908,8 @@
       "url": "https://ynb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:44.986Z",
-      "lastSuccessAt": "2026-11-27T23:10:44.986Z",
+      "checkedAt": "2026-11-28T05:44:54.797Z",
+      "lastSuccessAt": "2026-11-28T05:44:54.797Z",
       "recordCount": 4,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12926,8 +12924,8 @@
       "url": "https://ynb.nea.gov.cn/xxgk/zcjd/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:46.825Z",
-      "lastSuccessAt": "2026-11-27T23:10:46.825Z",
+      "checkedAt": "2026-11-28T05:44:57.560Z",
+      "lastSuccessAt": "2026-11-28T05:44:57.560Z",
       "recordCount": 2,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12942,8 +12940,8 @@
       "url": "https://ynb.nea.gov.cn/hdhy/dczj/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:47.766Z",
-      "lastSuccessAt": "2026-11-27T23:10:47.766Z",
+      "checkedAt": "2026-11-28T05:44:59.755Z",
+      "lastSuccessAt": "2026-11-28T05:44:59.755Z",
       "recordCount": 1,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12958,8 +12956,8 @@
       "url": "https://zjb.nea.gov.cn/dtyw/jgdt/index.html",
       "adapter": "trs",
       "status": "partial",
-      "checkedAt": "2026-11-27T23:10:48.371Z",
-      "lastSuccessAt": "2026-11-27T23:10:48.371Z",
+      "checkedAt": "2026-11-28T05:45:00.650Z",
+      "lastSuccessAt": "2026-11-28T05:45:00.650Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12974,8 +12972,8 @@
       "url": "https://zjb.nea.gov.cn/dtyw/tzgg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:49.610Z",
-      "lastSuccessAt": "2026-11-27T23:10:49.610Z",
+      "checkedAt": "2026-11-28T05:45:03.109Z",
+      "lastSuccessAt": "2026-11-28T05:45:03.109Z",
       "recordCount": 8,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -12990,8 +12988,8 @@
       "url": "https://zjb.nea.gov.cn/xxgk/zcfg/",
       "adapter": "trs",
       "status": "ok",
-      "checkedAt": "2026-11-27T23:10:52.960Z",
-      "lastSuccessAt": "2026-11-27T23:10:52.960Z",
+      "checkedAt": "2026-11-28T05:45:09.243Z",
+      "lastSuccessAt": "2026-11-28T05:45:09.243Z",
       "recordCount": 0,
       "detailErrors": 0,
       "indexOnly": 0,
@@ -13015,14 +13013,14 @@
           "date": "2026-02-14"
         }
       ],
-      "status": "partial",
-      "checkedAt": "2026-11-27T23:10:53.214Z",
-      "lastSuccessAt": "2026-11-27T23:10:53.214Z",
-      "recordCount": 2,
+      "status": "ok",
+      "checkedAt": "2026-11-28T05:45:09.331Z",
+      "lastSuccessAt": "2026-11-28T05:45:09.331Z",
+      "recordCount": 5,
       "detailErrors": 0,
-      "indexOnly": 1,
-      "scannedPages": 0,
-      "stopReason": "seed-fallback"
+      "indexOnly": 0,
+      "scannedPages": 1,
+      "stopReason": "declared-page-end"
     },
     {
       "id": "nmg-nyj-home",
@@ -13034,10 +13032,14 @@
       "allowedHosts": [
         "nyj.nmg.gov.cn"
       ],
-      "status": "error",
-      "checkedAt": "2026-11-27T23:10:54.013Z",
-      "lastSuccessAt": "2026-11-27T06:04:00.476Z",
-      "error": "fetch failed"
+      "status": "ok",
+      "checkedAt": "2026-11-28T05:45:14.099Z",
+      "lastSuccessAt": "2026-11-28T05:45:14.099Z",
+      "recordCount": 5,
+      "detailErrors": 0,
+      "indexOnly": 0,
+      "scannedPages": 1,
+      "stopReason": "single-page"
     },
     {
       "id": "gd-drc-notices",
@@ -13049,10 +13051,14 @@
       "allowedHosts": [
         "drc.gd.gov.cn"
       ],
-      "status": "error",
-      "checkedAt": "2026-11-27T23:10:54.275Z",
-      "lastSuccessAt": "2026-11-27T06:04:01.412Z",
-      "error": "fetch failed"
+      "status": "ok",
+      "checkedAt": "2026-11-28T05:45:16.775Z",
+      "lastSuccessAt": "2026-11-28T05:45:16.775Z",
+      "recordCount": 3,
+      "detailErrors": 0,
+      "indexOnly": 0,
+      "scannedPages": 1,
+      "stopReason": "single-page"
     },
     {
       "id": "gd-drc-public",
@@ -13065,9 +13071,9 @@
         "drc.gd.gov.cn"
       ],
       "status": "error",
-      "checkedAt": "2026-11-27T23:10:55.237Z",
+      "checkedAt": "2026-11-28T05:45:20.591Z",
       "lastSuccessAt": null,
-      "error": "fetch failed"
+      "error": "页面可读，但未解析到任何文件链接"
     },
     {
       "id": "gd-drc-interpretation",
@@ -13079,10 +13085,14 @@
       "allowedHosts": [
         "drc.gd.gov.cn"
       ],
-      "status": "error",
-      "checkedAt": "2026-11-27T23:10:55.946Z",
-      "lastSuccessAt": "2026-11-27T06:04:04.653Z",
-      "error": "fetch failed"
+      "status": "ok",
+      "checkedAt": "2026-11-28T05:45:20.795Z",
+      "lastSuccessAt": "2026-11-28T05:45:20.795Z",
+      "recordCount": 0,
+      "detailErrors": 0,
+      "indexOnly": 0,
+      "scannedPages": 1,
+      "stopReason": "single-page"
     },
     {
       "id": "gd-nyj",
@@ -13094,10 +13104,14 @@
       "allowedHosts": [
         "drc.gd.gov.cn"
       ],
-      "status": "error",
-      "checkedAt": "2026-11-27T23:10:56.652Z",
-      "lastSuccessAt": "2026-11-27T06:04:04.867Z",
-      "error": "fetch failed"
+      "status": "ok",
+      "checkedAt": "2026-11-28T05:45:21.017Z",
+      "lastSuccessAt": "2026-11-28T05:45:21.017Z",
+      "recordCount": 0,
+      "detailErrors": 0,
+      "indexOnly": 0,
+      "scannedPages": 1,
+      "stopReason": "single-page"
     },
     {
       "id": "sx-nyj-notices",
@@ -13110,7 +13124,7 @@
         "nyj.shanxi.gov.cn"
       ],
       "status": "error",
-      "checkedAt": "2026-11-27T23:10:57.360Z",
+      "checkedAt": "2026-11-28T05:45:21.226Z",
       "lastSuccessAt": null,
       "error": "Connect Timeout Error (attempted addresses: 183.201.253.167:443, 2409:8c0c:310:2500:1000::b:443, 1.71.182.103:443, timeout: 10000ms)"
     },
@@ -13125,7 +13139,7 @@
         "nyj.shanxi.gov.cn"
       ],
       "status": "error",
-      "checkedAt": "2026-11-27T23:11:07.446Z",
+      "checkedAt": "2026-11-28T05:45:31.719Z",
       "lastSuccessAt": null,
       "error": "Connect Timeout Error (attempted addresses: 183.201.253.167:443, 2409:8c0c:310:2500:1000::b:443, 1.71.182.103:443, timeout: 10000ms)"
     },
@@ -13140,9 +13154,9 @@
         "nyj.shanxi.gov.cn"
       ],
       "status": "error",
-      "checkedAt": "2026-11-27T23:11:17.949Z",
+      "checkedAt": "2026-11-28T05:45:42.219Z",
       "lastSuccessAt": "2026-10-21T03:19:50.959Z",
-      "error": "Connect Timeout Error (attempted addresses: 1.71.182.103:443, 2409:8c0c:310:2500:1000::b:443, 183.201.253.167:443, timeout: 10000ms)"
+      "error": "Connect Timeout Error (attempted addresses: 183.201.253.167:443, 2409:8c0c:310:2500:1000::b:443, 1.71.182.103:443, timeout: 10000ms)"
     }
   ],
   "registryUrl": "https://www.nea.gov.cn/"
